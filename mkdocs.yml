@@ -1,5 +1,5 @@
 site_name: Documentation Site - Saudi Arabian vACC
-site_url: https://mydomain.org/mysite
+site_url: https://documentation.vatsimsa.com
 theme:
   name: material
   logo: assets/logo.png
@@ -7,8 +7,34 @@ theme:
   font: 
     text: Mulish
   palette:
-    scheme: slate
-    primary: green
-    accent: deep purple
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
   features:
     - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+repo_url: https://github.com/VATSIM-Saudi-Arabia/documentation-site
+repo_name: /documentation-site
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
