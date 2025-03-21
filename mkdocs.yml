@@ -2,7 +2,6 @@ site_name: Documentation Site - Saudi Arabian vACC
 site_url: https://documentation.vatsimsa.com
 theme:
   name: material
-  custom_dir: overrides
   logo: assets/logo.png
   favicon: assets/favicon.ico
   font: 
