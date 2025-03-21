@@ -1,3 +1,36 @@
 :root  > * {
-    --md-primary-fg-color:        #2c630c;
+    --md-primary-fg-color:        #193309;
   }
+
+/* Remove margin and padding for body and html */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+/* Target the main content area, which is where your docs are */
+.md-content {
+    margin-left: 0;  /* Remove left margin */
+    margin-right: 0; /* Remove right margin */
+    padding-left: -40px;  /* Optional: reduce left padding */
+    padding-right: -40px; /* Optional: reduce right padding */
+}
+
+/* Adjust the main container to use more space */
+.md-main {
+    max-width: 120%; /* Ensure content is taking up full width */
+    width: 100%;
+}
+
+/* If the theme adds a wrapper with padding, target it */
+.md-layout__content {
+    padding-left: -10;  /* Reduce padding to make the content wider */
+    padding-right: -10; /* Reduce padding */
+}
+
+table {
+    display: table;
+    width: initial;
+    margin: 0 auto;
+}
