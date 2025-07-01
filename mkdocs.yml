@@ -3,7 +3,6 @@ site_url: https://documentation.vatsimsa.com
 theme:
   name: material
   logo: assets/logo.png
-  custom_dir: material/overrides
   favicon: assets/favicon.ico
   font: 
     text: Mulish
