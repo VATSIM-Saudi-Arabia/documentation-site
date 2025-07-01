@@ -1,11 +1,11 @@
 ---
-title: "Jeddah Delivery [DEL]"
-toc_min_heading_level: 2
-toc_max_heading_level: 5
+title: Jeddah Delivery [DEL]
 ---
+
 # Jeddah Clearance [OEJN_DEL]
 
-This section details all the necessary Standard Operating Procedures for Delivery Operations in **King Abdulaziz International Airport (OEJN)**
+!!! success "Covering"
+    This section details all the necessary Standard Operating Procedures for Delivery Operations in **King Abdulaziz International Airport (OEJN)**
 
 # 1. General Provisions
 
@@ -19,8 +19,7 @@ Additionally, the GMP plays a vital role in minimizing potential delays and cong
 
 ## 2.1 General
 
-GMP is responsible for issuing IFR/VFR clearances for departing aircraft. Pilots may be expected to report the
-following information on first contact:
+GMP is responsible for issuing IFR/VFR clearances for departing aircraft. Pilots may be expected to report the following information on first contact:
 
 -   Callsign;
 -   Aircraft type;
@@ -48,16 +47,13 @@ In Jeddah, the standard GACA phrasesology is used. For IFR Clearances, the follo
 
 > **GMP:** _SVA123, Cleared Dammam as filed, EGREP2W Departure, Runway 34C, Initial Climb 6000ft, SQWK XXXX_
 
-<div className="center-align">
-  <p>***--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------***</p>
-</div>
+--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
 
 > **GMP:** _SVA123, Readback Correct, Information A, Report ready for push and start_
 
-::::tip Keep in mind
+!!! tip "Keep in mind"
+    GMP shall obtain a full readback of the clearance. If the pilot reports the current information on initial contact, GMP must not repeat it.
 
-GMP shall obtain a full readback of the clearance. If the pilot reports the current information on initial contact, GMP must not repeat it.
-::::
 
 ---
 
@@ -78,12 +74,12 @@ GMP must always issue RNAV SIDs unless needed otherwise.
 |     **16R**     |    1F     |    1F     |    1F     |    1F     |    1F     |    1F     |    1F     |    1F     |
 |     **16C**     |    1E     |    1E     |    1E     |    1E     |    1E     |    1E     |    1E     |    1E     |
 
-‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ _Table 1.1 - RNAV SIDs of Jeddah_
-::::info Initial Climb
-
-In Jeddah, regardless of the specific SID chosen, all departures should be assigned an initial climb of **6000 feet**.
-
-::::
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  Table 1.1 - RNAV SIDs of Jeddah
+</p>
+ 
+!!! info "Initial Climb"
+    In Jeddah, regardless of the specific SID chosen, all departures should be assigned an initial climb of **6000 feet**.
 
 #### 2.2.2.2 Radar Departures
 
@@ -91,19 +87,16 @@ King Abdulaziz International Airport (OEJN) **NO LONGER HAS ANY RADAR DEPARTURES
 
 #### 2.2.2.3 Omni-Directional Departures
 
-::::danger Do Note.
-
-Omni-Directional Departures must only be used in the case of an aircraft which has an old AIRAC or as instructed by TWR/APP.
-::::
+!!! danger ""Do Note."
+    Omni-Directional Departures must only be used in the case of an aircraft which has an old AIRAC or as instructed by TWR/APP.
 
 GMP may use the following phrasesolgy to issue Omni-Directional departures to traffic.
 
 
 > **GMP:** _SVA123, Cleared Dammam as filed, Omni-Directional Departure, Runway 34R, Initial Climb 6000ft, SQWK XXXX_
 
-::::tip
-When giving Omni-Directional Departures, type **"OMNI"** in the scratch pad so upper controllers don't forget and you too!
-::::
+!!! tip
+    When giving Omni-Directional Departures, type **"OMNI"** in the scratch pad so upper controllers don't forget and you too!
 
 ---
 
@@ -155,19 +148,17 @@ GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
 | 34s |   Right Hand   |     1500ft     |
 | 16s |   Left Hand    |     1500ft     |
 
-::::info Jet Engine Aircrafts
+!!! info "Jet Engine Aircrafts"
+    Jet engine aircraft must receive clearance to conduct circuits on the **western side of Runway 34L/16R** or the **eastern side of Runway 34R/16L**,maintaining ***1500/2000 feet***.
 
-Jet engine aircraft must receive clearance to conduct circuits on the **western side of Runway 34L/16R** or the **eastern side of Runway 34R/16L**, maintaining ***1500/2000 feet***.
-
-::::
 
 #### 2.3.1.2 Phrasesolgy
 
 > **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 34L, Make a right hand circuit, climb to 1500ft, SQWK XXXX._
 
-<div className="center-align">
-  <p>***--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------***</p>
-</div>
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
 
 > **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal/Jet Aircraft)_**
 
@@ -181,18 +172,15 @@ Prior to granting clearance for cross-country VFR traffic, coordination with the
 
 There are no specific restrictions, designated VFR routes, or prescribed exit points for VFR departures leaving the control zone at Jeddah.
 
-::::info Do note
-
-VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
-
-::::
+!!! info "Do note"
+    VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
 
 #### 2.3.2.1 Phrasesolgy
 
 > **GMP:** _HAZAZ, Cleared VFR to Madinah, Runway 34L, SQWK 3423_
 
-<div className="center-align">
-  <p>***--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------***</p>
-</div>
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
 
 > **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal)_**

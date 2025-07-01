@@ -24,9 +24,9 @@ The **Jeddah Terminal Manevouring Area (TMA)** is an airspace classified as Clas
 
 ![Loading](imgs/app-tma-g.png)
 
-
-*Figure 1.1 - Jeddah TMA*
-
+<p style="text-align: center; font-style: italic;">
+Figure 1.1 - Jeddah TMA
+</p>
 
 ###  2.1 Aerodromes Covered
 
@@ -36,8 +36,9 @@ King Faisal Naval Base (OEJF) is a controlled naval airbase that features an Aer
 
 
 ![Loading](imgs/app-atz.png)
-*Figure 1.2 - King Faisal ATZ*
-
+<p style="text-align: center; font-style: italic;">
+Figure 1.2 - King Faisal ATZ
+</p>
 
 ###  2.2 Airspace Sectorization
 
@@ -45,43 +46,43 @@ King Faisal Naval Base (OEJF) is a controlled naval airbase that features an Aer
 
 ![Loading](imgs/app-tma-l.png)
 
-
-*Figure 1.3 - Jeddah TMA Sectorization - Lateral View*
-
+<p style="text-align: center; font-style: italic;">
+Figure 1.3 - Jeddah TMA Sectorization - Lateral View
+</p>
 
 ####  2.2.2 Vertical View
 
 ![Loading](imgs/app-ver-l.png)
 
-
-*Figure 2.3 - Jeddah TMA Sectorization - Vertical View*
-
+<p style="text-align: center; font-style: italic;">
+Figure 2.3 - Jeddah TMA Sectorization - Vertical View
+</p>
 
 ###  2.3 Surrounding Airspace
 #### 2.3.1 Lateral View 
 
 ![Loading](imgs/app-sur-l.png)
 
-
-*Figure 2.3 - Surrounding Airspaces - Lateral view*
-
+<p style="text-align: center; font-style: italic;">
+Figure 2.3 - Surrounding Airspaces - Lateral view
+</p>
 
 #### 2.3.2 Vertical View 
 
 ![Loading](imgs/app-ver-u.png)
 
-
-*Figure 2.3 - Surrounding Airspaces - Vertical view*
-
+<p style="text-align: center; font-style: italic;">
+Figure 2.3 - Surrounding Airspaces - Vertical view
+</p>
 
 ###  2.4 Restricted Airspace
 
 
 ![Loading](imgs/app-res.png)
 
-
-*Figure 1.4 - Restricted Areas*
-
+<p style="text-align: center; font-style: italic;">
+Figure 1.4 - Restricted Areas
+</p>
 
 #### 2.4.1 Prohibited Areas
 
@@ -92,8 +93,9 @@ A prohibited area is a designated area above a country's land or territorial wat
 |:-------------------------:|:-------------------:|:------------------:|
 |      **OEP01 MAKKAH**     |      SFC - UNL      | Permanent. Makkah. |
 
-*Table 1.1 - Prohibited Areas in the Jeddah TMA*
-
+<p style="text-align: center; font-style: italic;">
+Table 1.1 - Prohibited Areas in the Jeddah TMA
+</p>
 
 #### 2.4.2 Restricted Areas
 
@@ -126,9 +128,9 @@ A danger area is a specified area where activities posing a risk to aircraft fli
 
 ![Loading](imgs/app-mrva.png)
 
-
-*Figure 1.8 - Minimum Radar Vectoring Altitudes*
-
+<p style="text-align: center; font-style: italic;">
+Figure 1.8 - Minimum Radar Vectoring Altitudes
+</p>
 
 ###  2.6 Transitional Layer
 
@@ -153,8 +155,9 @@ The following are the ATS Positions relevant to this document. They will be subs
 |        Jeddah Control        |   OEJD_1_CTR   |     ACC 1    |  126.500  |
 |        Jeddah Control        |   OEJD_1_CTR   |     ACC 2    |  133.900  |
 
-*Table 1.3 - ATS Positions*
-
+<p style="text-align: center; font-style: italic;">
+Table 1.3 - ATS Positions
+</p>
 ---
 
 ## 4. Designated Areas of Responsiblity (DAOR)
@@ -164,9 +167,9 @@ In any 34 Configuration, APP 1 covers the two parts of the TMA, while APF E hand
 
 ![Loading](imgs/app-doar-34.png)
 
-
-*Figure 1.6 - DOAR 34 Configuration*
-
+<p style="text-align: center; font-style: italic;">
+Figure 1.6 - DOAR 34 Configuration
+</p>
 
 ### 4.2 16s DDRO/SDRO Configuration
 In any 16 Configuration, APP 1 covers the two sections of the TMA as usual, APF E is responsible for the 16 FIN SEC East and APF W is responsible for the 16 FIN SEC West.
@@ -174,9 +177,9 @@ In any 16 Configuration, APP 1 covers the two sections of the TMA as usual, APF 
 
 ![Loading](imgs/app-doar-16.png)
 
-
-*Figure 1.6 - DOAR 16 Configuration*
-
+<p style="text-align: center; font-style: italic;">
+Figure 1.6 - DOAR 16 Configuration
+</p>
 
 ### 4.3 Standard Connection Hierarchy 
 Controllers must log in the following order to maintain realizm and follow SOPs: 
@@ -207,9 +210,8 @@ The correct Wake Turbulence Separation (WTS) minimum must always be enforced bet
 ## 6. Procedures
 The below procedures are considered as standard and no coordination is required to employ them, except where explicitly required.
 
-::::caution 
-Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
-::::
+!!! caution 
+    Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
 
 ### 6.1 Arrival Procedures
 
@@ -224,8 +226,9 @@ Runways, approaches, and transitions are issued by the approach controller. If t
 | **Preferred Arrival (34R)** | VEMEM2N | MISAM2N | NOMDA2N | MOVUL2N | BOSUT2N | EGMEG2N |
 | **Preferred Arrival (34L)** | VEMEM2L | MISAM2L | NOMDA2L | MOVUL2L | BOSUT2L | EGMEG2L |
 
-*Table 1.6 - Preferred STARs 34s Configuration*
-
+<p style="text-align: center; font-style: italic;">
+Table 1.6 - Preferred STARs 34s Configuration
+</p>
 
 #####    6.1.1.2 Preferred STARs 16s Configuration
 
@@ -234,8 +237,9 @@ Runways, approaches, and transitions are issued by the approach controller. If t
 | **Preferred Arrival (16R)** | VEMEM2R | MISAM2R | NOMDA2R | MOVUL2R | BOSUT2R | EGMEG2R |
 | **Preferred Arrival (16L)** | VEMEM2S | MISAM2S | NOMDA2S | MOVUL2S | BOSUT2S | EGMEG2S |
 
-*Table 1.7 - Preferred STARs 16s Configuration*
-
+<p style="text-align: center; font-style: italic;">
+Table 1.7 - Preferred STARs 16s Configuration
+</p>
 
 ####    6.1.2 Approach and Runway Assignment
 
@@ -243,9 +247,9 @@ Upon initial contact with an aircraft, the aircraft should be assigned the arriv
 
 > **APP 1:** “SVA449, JEDDAH APPROACH, EXPECT ILS APPROACH RUNWAY 34R, INFORMATION F, [FURTHER INSTRUCTIONS]”
 
-::::tip 
-If the pilot has correctly noted the ATIS information during their initial contact, the controller is not required to reiterate it.
-::::
+!!! tip 
+    If the pilot has correctly noted the ATIS information during their initial contact, the controller is not required to reiterate it.
+
 #####   6.1.2.1 Instrument Approach
 In general, the ILS approach is the favored approach type. Nevertheless, aircraft may be instructed to perform a visual approach based on the conditions specified in 6.1.2.2.
 
@@ -263,35 +267,31 @@ APP can initiate a visual approach under the following conditions:
 
 If the minimum wake turbulence separation cannot be upheld, controllers may propose a visual approach to enable pilots to maintain visual or wake turbulence separation from preceding traffic. 
 
-::::caution Be careful!!
-An aircraft conducting a visual approach cannot participate in simultaneous independent parallel approaches. 
-During BUSY **Independent Parallel Approaches (Mode 1) Operations**, visual approaches are discouraged. 
-::::
+!!! caution "Be careful!!"
+    An aircraft conducting a visual approach cannot participate in simultaneous independent parallel approaches. 
+    During BUSY **Independent Parallel Approaches (Mode 1) Operations**, visual approaches are discouraged. 
 
 #####   6.1.2.3 Change of Approach Type/Runway
 Controllers should not initiate a change of approach type or runway within **30 nautical miles** of touchdown. However, pilots are allowed to request a change of approach type or runway at any point.
 
-::::danger Beware!
-In Jeddah, **Standard Terminal Arrival Routes (STARs)** are specific to each runway, meaning a single STAR **CANNOT** be utilized for multiple runways. If a runway change is required, the current STAR must be canceled, and radar vectors provided instead. This practice is strongly discouraged to maintain operational efficiency and safety.
-::::
+!!! danger "Beware!"
+    In Jeddah, **Standard Terminal Arrival Routes (STARs)** are specific to each runway, meaning a single STAR **CANNOT** be utilized for multiple runways. If a runway change is required, the current STAR must be canceled, and radar vectors provided instead. This practice is strongly discouraged to maintain operational efficiency and safety.
 
 ####    6.1.3 Point To Merge System
 
 The **Point to Merge System (PTM)** is engineered to operate effectively under heavy traffic conditions without the need for radar vectoring. It is built around a specific P-RNAV route framework that includes a merge point and pre-defined, equidistant sequencing legs from that merge point. 
 
-::::info Why is it so important?
-Jeddah relies entirely on this system to manage traffic sequencing onto the downwind leg, which is relatively short in the area. As a result, the system is heavily utilized to ensure that aircraft are properly sequenced before reaching the downwind.
-::::
+!!! info "Why is it so important?"
+    Jeddah relies entirely on this system to manage traffic sequencing onto the downwind leg, which is relatively short in the area. As a result, the system is heavily utilized to ensure that aircraft are properly sequenced before reaching the downwind.
 
-::::tip Substitution
-If using a STAR with a PTM is not practical/possible, we resort to holding patterns, transitions, or vectors for sequencing.
-::::
+!!! tip "Substitution"
+    If using a STAR with a PTM is not practical/possible, we resort to holding patterns, transitions, or vectors for sequencing.
 
 ![Loading](imgs/app-ptm.png)
 
-
-*Figure 1.9 - Point To Merge*
-
+<p style="text-align: center; font-style: italic;">
+Figure 1.9 - Point To Merge
+</p>
 
 #####    6.1.3.1 PTM Rules
 
@@ -314,12 +314,10 @@ If you want to descend unrestricted:
 
 > **Controller:** *SVA123, Descend unrestricted, FL170*
 
-::::tip Change of Profile
+!!! tip "Change of Profile"
+    If you would like to chenge the descend from via the STAR you can use the phrasesolgy below:
 
-If you would like to chenge the descend from via the STAR you can use the phrasesolgy below:
-
-> **Controller:** *SVA123, Continue descend, unrestricted, FL150*
-::::
+    > **Controller:** *SVA123, Continue descend, unrestricted, FL150*
 
 #####   6.1.4.1	Initial Segment of the STAR
 ######  6.1.4.1.1   34 Configuration - Right Downwind (34R)
@@ -333,9 +331,9 @@ If you would like to chenge the descend from via the STAR you can use the phrase
 | **EGMEG2N** | **CTR 1:** FL170/FL190 by EGMEG<br />**APP 1:** FL170<br />**APP 1:** Leaving ULULU, 10000ft<br />**APP 1:** Leaving JN917, 8000ft<br />**APP 1:** 7000ft, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                                 |                                                                                    |
 | **BOSUT2N** | **CTR 1:** 13000ft by BOSUT<br />**APP 1:** 10000ft <br />**APP 1:** 6000ft, Handoff to APF E<br />Further with **APF E**. Refer to Section 6.1.4.2.                                                                                                               |                                                                                    |
 | **ULULU2NxIMLER1N** | **CTR 1:** 13000ft by BOSUT<br />**APP:** Clearance for ULULU2N via IMLER1N.<br /> **APP 1:** 13000ft by ULULU<br />**APP 1:** Leaving ULULU, 10000ft<br />**APP 1:** 8000ft <br />**APP 1:** Leaving JN920, 7000ft, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                                                        | _IMLER1N Transition_ <br />Holds over ULULU as necessary for sequencing.                                      |                                                                                                                                                                   
-
-*Table 2.9 - Descent Profile - Right Downwind (34R)*
-
+<p style="text-align: center; font-style: italic;">
+Table 2.9 - Descent Profile - Right Downwind (34R)
+</p>
 
 ######  6.1.4.1.2  34 Configuration - Left Downwind (34L)
 
@@ -350,8 +348,9 @@ If you would like to chenge the descend from via the STAR you can use the phrase
 | **BOSUT2L** | **CTR 1:** 13000ft by BOSUT<br />**APP 1:** 8000ft <br />**APP 1:** 6000ft, Handoff to APF W<br /><br />Further with **APF W**. Refer to Section 6.1.4.2.                                                                                                                                                                             |                                                                                                                                                   |
 | **ULULU2LxTAPSU1L** | **CTR 1:** 13000ft by BOSUT<br />**APP 1:** Clearance for ULULU2L via TAPSU1L transition.<br />**APP 1:** 11000ft<br />**APP 1:** Passing REXED, 6000ft <br />**APP 1:** Overhead ULULU, Handoff to APF W<br /><br />Further with **APF W**. Refer to Section 6.1.4.2.                                                                            | _TAPSU1L Transition_<br />Holds over ULULU as necessary for sequencing<br />_If the traffic will be entering the holding, descend to the MHA (10000)_ |
 
-*Table 3.0 - Descent Profile - Left Downwind (34L)*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.0 - Descent Profile - Left Downwind (34L)
+</p>
 
 ######  6.1.4.1.3  16 Configuration - Left Downwind (16L)
 
@@ -365,8 +364,9 @@ If you would like to chenge the descend from via the STAR you can use the phrase
 | **BOSUT2S**         | **CTR 1:** FL190<br />**APP 1:** FL160<br />**APP 1:** FL150<br />**APP 1:** 11000ft<br />**APP 1:** 8000ft till ITOMA<br />**APP 1:** 6000ft, Handoff to APF W<br /><br />Further with **APF W**. Refer to Section 6.1.4.2.                                                                                        |                                                                                                                                                                                    |
 | **ULULU2SxIMLER1S** | **CTR 1:** FL190 at BOSUT<br />**APP 1:** Clearance for ULULU2S Via IMLER1S Transition<br />**APP 1:** FL160<br />**APP 1:** 12000ft<br />**APP 1:** 9000ft<br />**APP 1:** 7000ft<br />**APP 1:** Past MIdfield/Clear of DEPS, 6000ft, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2. | _IMLER1L Transition_<br />Cleared for the BOSUT2S by CTR<br />Holds over ULULU as necessary for sequencing<br />_If the traffic will be entering the holding, descend to the MHA (9000)_ |
 
-*Table 3.1 - Descent Profile - Left Downwind (16L)*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.1 - Descent Profile - Left Downwind (16L)
+</p>
 
 ######  6.1.4.1.4  16 Configuration - Right Downwind (16R)
 
@@ -380,16 +380,15 @@ If you would like to chenge the descend from via the STAR you can use the phrase
 | **BOSUT2R**         | **CTR 1:** FL190<br />**APP 1:** FL150<br />**APP 1:** 11000ft<br />**APP 1:** 8000ft till GEVUS<br />**APP 1:** 6000ft, Handoff to APF W<br /><br />Further with APF W. Refer to Section 6.1.4.2.                                                                                   |                                                                                                                                                                                                   |
 | **ULULU2RxIMLER1R** | **CTR 1:** FL190 at BOSUT<br />**APP 1:** Clearance for ULULU2R Via IMLER1R Transition<br />**APP 1:** FL160<br />**APP 1:** 12000ft<br />**APP 1:** 8000ft<br />APP 1: Past Midfield/Clear of DEPS, 6000ft, Handoff to APF W<br /><br />Further with APF W. Refer to Section 6.1.4.2. | IMLER1R Transition<br />Cleared for the BOSUT2R by CTR<br />Holds over ULULU as necessary for sequencing<br />If the traffic will be entering the holding, descend to the MHA (9000) or as appropriate  |
 
-
-*Table 3.1.1 - Descent Profile - Right Downwind (16R)*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.1.1 - Descent Profile - Right Downwind (16R)
+</p>
 
 #####   6.1.4.2	Final Segment of the STAR
 The Downwind till final of the star is defined as the final segment. This part of the star is with the appropriate APF Controller.
 
-::::caution Do note
+!!! caution "Do note"
 The final segment of the STAR descend profile is really variable depending on the sequence's leg, the amount of traffic, and much more. Use this as the standard profile but adjust as appriorpraite ensuring separation requirmenets are met
-::::
 
 ######   6.2.4.2.1 34s Configuration - Downwind - Suggested Descents
 
@@ -401,9 +400,8 @@ The final segment of the STAR descend profile is really variable depending on th
 *Table 3.2 - 34s Configuration - Suggested Descents*
 
 
-::::caution do note
-This may be adjusted to accommodate more traffic during high traffic operations.
-::::
+!!! caution "Do note"
+    This may be adjusted to accommodate more traffic during high traffic operations.
 
 ######   6.2.4.2.2 16s Configuration - Downwind - Suggested Descents
 
@@ -412,12 +410,12 @@ This may be adjusted to accommodate more traffic during high traffic operations.
 | **Right Downwind (16R)**| Generally **EVEN** (8000ft, 6000ft, 4000ft) | Nil. |
 | **Left Downwind (16L)** | Generally **ODD** (7000ft, 5000ft) | Nil.|
 
-*Table 3.3 - 16s Configuration - Suggested Descents*
+<p style="text-align: center; font-style: italic;">
+Table 3.3 - 16s Configuration - Suggested Descents
+</p>
 
-
-::::caution do note
-This may be adjusted to accommodate more traffic during high traffic operations.
-::::
+!!! caution "Do note"
+    This may be adjusted to accommodate more traffic during high traffic operations.
 
 ####    6.1.5 Lateral Profile
 #####   6.1.5.1 Standard Shortcuts'
@@ -444,9 +442,9 @@ To ease the workload of controllers, aircraft may be directed to adhere to the s
 |  **10NM from Touchdown**  |                             170-190                             |     160-190     |
 |   **4NM from Touchdown**  |                               160                               |       160       |
 
-
-*Table 3.6 - Speed Control*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.6 - Speed Control
+</p>
 
 #####    6.1.6.1 Deviation from published and recommended speeds
 
@@ -469,8 +467,9 @@ In the TMA, higher speeds may be allowed if the aircraft does not anticipate tur
 |   **16L**  |      250     |      190 (160-190)      |
 |   **16R**  |      070     |      130 (160-130)      |
 
-*Table 3.4 - Standard Vectors*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.4 - Standard Vectors
+</p>
 
 #####   6.1.7.2 Platform Altitudes
 
@@ -481,8 +480,9 @@ In the TMA, higher speeds may be allowed if the aircraft does not anticipate tur
 |   **16L**  |          1700         |
 |   **16R**  |          2700         |
 
-*Table 3.5 - Platform Altitudes*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.5 - Platform Altitudes
+</p>
 
 ####    6.1.8 Independent Parallel Approaches (Mode 1)
 
@@ -497,9 +497,8 @@ A vertical separation of 1000 feet or 5nm horizontally must be maintained betwee
 * The aircraft is aligned with the Localizer/Inbound Course, and
 * Enters the Normal Operating Zone (NOZ).
 
-::::tip 
-Following the High/Low Side procedure and descending aircraft to the corresponding High/Low Side Altitudes as outlined in section 6.1.8.2.1 automatically ensures this separation.
-::::
+!!! tip 
+    Following the High/Low Side procedure and descending aircraft to the corresponding High/Low Side Altitudes as outlined in section 6.1.8.2.1 automatically ensures this separation.
 
 **Once these conditions are met and the aircraft is within 10 nautical miles, diagonal or vertical separation is no longer necessary**
 #####   6.1.8.2 High/Low Side 
@@ -513,9 +512,9 @@ To achieve this, aircraft should be descended to the appropriate high or low sid
 
 ![Loading](imgs/app-hls.png)
 
-
-*Figure 2.0 - High/Low Side*
-
+<p style="text-align: center; font-style: italic;">
+Figure 2.0 - High/Low Side
+</p>
 
 ######   6.1.8.2.1 High/Low Side Altitudes
 
@@ -523,10 +522,8 @@ The altitudes for the **"high side"** and **"low side"** must be assigned to air
 
 > **APF:** SVA123, Descend 3000ft, Turn Right Heading 070, Base Leg
 
-::::danger DO NOTE!! VERY IMPORTANT
-
-Aircraft can always maintain or ascend to the high side altitude as this action only enhances vertical separation. **HOWEVER, for the low side altitude, aircraft must already be descending or positioned at the lower altitude before initiating the base turn to guarantee that separation does not decrease below 1000 feet.**
-::::
+!!! danger "DO NOTE!! VERY IMPORTANT"
+    Aircraft can always maintain or ascend to the high side altitude as this action only enhances vertical separation. **HOWEVER, for the low side altitude, aircraft must already be descending or positioned at the lower altitude before initiating the base turn to guarantee that separation does not decrease below 1000 feet.**
 
 | **Approach** | **Side** | **Altitude** |
 |:------------:|:--------:|:------------:|
@@ -535,8 +532,9 @@ Aircraft can always maintain or ascend to the high side altitude as this action 
 |  **ILS 16R** |   High   |    3000ft    |
 |  **ILS 16L** |    Low   |    2000ft    |
 
-*Table 3.7 - High/Low Side Altitudes*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.7 - High/Low Side Altitudes
+</p>
 
 #####   6.1.8.3 Radar Vectoring
 
@@ -555,8 +553,9 @@ Traffic **MUST** be cleared on the localizer initially, then cleared to descend 
 |  **ILS 16R** | 3000ft (High Side) |                11NM               |
 |  **ILS 16L** |  2000ft (Low Side) |                8NM                |
 
-*Table 3.8 - High/Low Side Altitudes*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.8 - High/Low Side Altitudes
+</p>
 
 #####   6.1.8.4 Non Transgression Zone (NTZ)
 Since radar separation is not provided between traffic on adjacent extended runway centre lines in Mode 1 approaches, there must be an established means of determining when an aircraft deviates too far from the ILS localizer course or the MLS final approach track. This is achieved through the concept of the NTZ.
@@ -564,9 +563,9 @@ Since radar separation is not provided between traffic on adjacent extended runw
 
 ![Loading](imgs/app-ntz.png)
 
-
-*Figure 4.1 - NTZ/NOZ*
-
+<p style="text-align: center; font-style: italic;">
+Figure 4.1 - NTZ/NOZ
+</p>
 
 ######   6.1.8.4.1 Normal Operating Zone (NOZ)
 
@@ -596,17 +595,16 @@ The Normal Operating Zone, illustrated in Figure 4.1, is the designated region n
 |  **RIBAM3V**  |                                                                 **APP:** 6000ft till JN236<br />**APP:** Even levels up till FL200                                                                 | Handoff Passing FL160 and clear of ARRs<br />**Traffic must be given the highest altitude (FL200) immediately after JN236 if traffic permits** |
 |  **EGPOB3V**  |                                                                 **APP:** 6000ft till JN236<br />**APP:** Even levels up till FL200                                                                 | Handoff Passing FL160 and clear of ARRs<br />**Traffic must be given the highest altitude (FL200) immediately after JN236 if traffic permits** |
 
-
-*Table 3.9 - Climb Procedure - 34 Configuration*
-
+<p style="text-align: center; font-style: italic;">
+Table 3.9 - Climb Procedure - 34 Configuration
+</p>
 
 ####    6.2.2 Lateral Profile
 #####   6.2.2.1 Standard Shortcuts
 Direct routings can used as appropriate when traffic levels are low. 
 
-::::danger Do note
-THEY MUST NOT BE USED IN HIGH TRAFFIC SCENARIOS.
-::::
+!!! danger "Do note"
+    THEY MUST NOT BE USED IN HIGH TRAFFIC SCENARIOS.
 
 #####   6.2.2.1.1 Standard Shortcuts - 34s Configuration
 | **Departure** | **Standard Shortcuts**                                        | **Additional Notes** |
@@ -628,9 +626,9 @@ THEY MUST NOT BE USED IN HIGH TRAFFIC SCENARIOS.
 | **RIBAM3V**   | No direct routings permitted                                  |                      |
 | **EGPOB3V**   | No direct routings permitted                                  |                      |
 
-
-*Table 5.9 - Standard Shortcuts - 34 Configuration*
-
+<p style="text-align: center; font-style: italic;">
+Table 5.9 - Standard Shortcuts - 34 Configuration
+</p>
 
 ####    6.2.2.2 Sequencing/Horizontal Separation
 Approach should strive to transfer traffic with a minimum of **8-10** nautical miles in trail, and increasing.
@@ -638,14 +636,13 @@ Approach should strive to transfer traffic with a minimum of **8-10** nautical m
 ####    6.2.3 Speed Control
 For departing aircraft, speed control can be issued as needed, with a maximum speed of **280 to 300** knots.
 
-::::tip Higher Speed
-In Class C airspace below 10,000 feet, aircraft are required to maintain speeds of 250 knots or lower. If you wish to grant unrestricted climb and encourage a higher speed, you can communicate the following message:
+!!! tip "Higher Speed"
+    In Class C airspace below 10,000 feet, aircraft are required to maintain speeds of 250 knots or lower. If you wish to grant unrestricted climb and encourage a higher speed, you can communicate the following message:
 
-> **APP 1:** *"SVA123, High Speed Approved"*
+    > **APP 1:** *"SVA123, High Speed Approved"*
 
-::::caution do note
-When assigning a speed greater than 250 knots to an aircraft below 10,000 feet in Class C airspace, you do not need to provide a specific "high speed" instruction. Simply state the speed that has been assigned.
-::::
+!!! caution "Do Note"
+    When assigning a speed greater than 250 knots to an aircraft below 10,000 feet in Class C airspace, you do not need to provide a specific "high speed" instruction. Simply state the speed that has been assigned.
 
 ---
 
@@ -663,8 +660,9 @@ Handoffs should always be made between **2000 and 5000 feet** before reaching th
 |   **EGMEG**  | **_Jeddah Terminal Control West (CTR 1)_** | Jeddah Approach (APP 1) |                          |
 |   **BOSUT**  | **_Jeddah Terminal Control West (CTR 1)_** | Jeddah Approach (APP 1) |                          |
 
-*Table 4.2 - Handoff Procedure - Arrivals*
-
+<p style="text-align: center; font-style: italic;">
+Table 4.2 - Handoff Procedure - Arrivals
+</p>
 
 ####    6.3.3 Departures
 | Exit Point: |        **From:**        |                   **To:**                  |         **Notes**        |
@@ -677,8 +675,9 @@ Handoffs should always be made between **2000 and 5000 feet** before reaching th
 |  **KAROX**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control West (CTR 1)_** |                          |
 |  **RIBAM**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control West (CTR 1)_** |                          |
 
-
-*Table 4.3 - Handoff Procedure - Departures*
+<p style="text-align: center; font-style: italic;">
+Table 4.3 - Handoff Procedure - Departures
+</p>
 
 ---
 
@@ -697,9 +696,8 @@ FMC verifies that when the 1,000 ft vertical separation is decreased:
 * Visual separation is implemented, ensuring that both radar controllers are informed whenever visual separation is applied; or
 * The aircraft has landed, or in the event of a missed approach, is a minimum of **1.0 NM** beyond the departure end of the runway and maintains sufficient separation from any other traffic.
 
-::::caution do note
-There is no requirement to advise the aircraft that radar monitoring is terminated.
-::::
+!!! caution "Do Note"
+    There is no requirement to advise the aircraft that radar monitoring is terminated.
 
 ### 7.2 Infringement of NTZ
 When an aircraft is seen deviating from the ILS localizer course towards the No Transgression Zone (NTZ) and remains in the Normal Operating Zone (NOZ), ATC will instruct the aircraft to promptly return to the correct ILS localizer course using the following phraseology:
@@ -713,9 +711,8 @@ When FMC observes an aircraft penetrating or about to penetrate the No Transgres
 
 > **FMC:** *“Break-Out Alert, (callsign), turn (Left or Right), Immediately Heading (3 digits), Climb (or descend) to (altitude)”*
 
-::::danger do note
-No heading instruction will be issued when aircraft is below 400 feet.
-::::
+!!! danger "Do Note"
+    No heading instruction will be issued when aircraft is below 400 feet.
 
 ---
 
@@ -723,9 +720,8 @@ No heading instruction will be issued when aircraft is below 400 feet.
 
 There are five primary published holding stacks located within the Jeddah Terminal Maneuvering Area (TMA). These stacks are used for holding arriving aircraft or as part of the missed approach procedures for certain instrument approaches.
 
-::::caution use with caution
-In the Jeddah Terminal Maneuvering Area (TMA), holdings should be considered the final option for sequencing aircraft. Radar vectors, speed adjustments, direct routing, and using PTM are significantly more efficient methods for managing aircraft traffic flow.
-::::
+!!! caution "Use with Caution"
+    In the Jeddah Terminal Maneuvering Area (TMA), holdings should be considered the final option for sequencing aircraft. Radar vectors, speed adjustments, direct routing, and using PTM are significantly more efficient methods for managing aircraft traffic flow.
 
 ### 8.1 Holding Stacks in the Jeddah TMA
 
@@ -737,12 +733,12 @@ In the Jeddah Terminal Maneuvering Area (TMA), holdings should be considered the
 |    **ULULU**    | JDW R-208/20DME |               Missed approach holding for RWY16R              |
 |    **RADKI**    |  JDWR-302/18DME |        Missed approach holding for ILS Z or LOC RWY 34L       |
 
-
-*Table 5.6 - Published Holding Stacks*
-
-
+<p style="text-align: center; font-style: italic;">
+Table 5.6 - Published Holding Stacks
+</p>
 
 ![Loading](imgs/app-hold.png)
 
-
-*Figure 5.6 - Published Holding Stacks*
+<p style="text-align: center; font-style: italic;">
+Figure 5.6 - Published Holding Stacks
+</p>

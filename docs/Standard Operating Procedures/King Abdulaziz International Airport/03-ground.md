@@ -29,16 +29,14 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 - Apron 5, 4, 3, 2, 1 [Old Terminal, International]
 - Apron 13
 
-::::info Bandbox Position
+!!! info "Bandbox Position"
+    **Jeddah Ground West [OEJN_1_GND]** is the Bandbox Position for ground operations at King Abdulaziz International Airport. This means that when other Ground Movement Control (SMC) positions are offline, OEJN_1_GND is responsible for controlling all aprons and taxiways.
 
-**Jeddah Ground West [OEJN_1_GND]** is the Bandbox Position for ground operations at King Abdulaziz International Airport. This means that when other Ground Movement Control (SMC) positions are offline, OEJN_1_GND is responsible for controlling all aprons and taxiways.
-
-::::
 
 ![Loading](imgs/SMC1.png)
-<div className="center-align">
-  <p>*Figure 2.1.1 - Jeddah Ground West AOR*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Figure 2.1.1 - Jeddah Ground West AOR
+</p>
 
 ### 2.2 SMC 2 [Jeddah Ground East]
 
@@ -48,9 +46,9 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 - Apron 12 [Military Apron]
 
 ![Loading](imgs/SMC2.png)
-<div className="center-align">
-  <p>*Figure 2.1.2 - Jeddah Ground East AOR*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Figure 2.1.2 - Jeddah Ground East AOR
+</p>
 
 ### 2.3 SMC 3 [Jeddah Ground Center]
 
@@ -63,9 +61,9 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 - Apron 11 [Hanger]
 
 ![Loading](imgs/SMC3.png)
-<div className="center-align">
-  <p>*Figure 2.1.3 - Jeddah Ground Center AOR*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Figure 2.1.3 - Jeddah Ground Center AOR
+</p>
 
 ### 2.4 Standard Connection Hierarchy 
 Controllers must log in the following order to maintain realizm and follow SOPs: 
@@ -88,9 +86,9 @@ Other then that, refer to the figures above to find the designated areas of resp
 ## 3.  Procedures
 The below procedures are considered as standard and no coordination is required to employ them, except where explicitly required.
 
-::::caution 
-Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
-::::
+!!! caution 
+    Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
+
 ### 3.1 Push-back Procedures
 
 Aircraft transferred from the Ground Movement Planner (GMP) should be fully prepared for pushback and have reached their Target Off-Block Time (TOBT). If there are no obstructions, they will be instructed to push back immediately. 
@@ -115,9 +113,9 @@ By looking at the entry and exit taxiways of the apron, it is very obvious what 
 |        **Apron C**       |        Westbound        |    Westbound    |
 | **Aprons 1, 2, 3, 4, 5** |        Southbound       |    Northbound   |
 |        **Apron 7**       |        Southbound       |    Northbound   |
-<div className="center-align">
-  <p>*Table 3.1.1 - Jeddah Aprons Flow Direction*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Table 3.1.1 - Jeddah Aprons Flow Direction
+</p>
 
 ####  3.1.2 Colored Taxilines
 The King Abdulaziz International Airport (OEJN) utilizes colored taxilines in **Terminal 1 (Apron B and A)** to facilitate efficient and quick ground movement taxi/pushback operations in large aprons.
@@ -126,19 +124,19 @@ The King Abdulaziz International Airport (OEJN) utilizes colored taxilines in **
 |:----------:|:------------:|:------------------------------------------------:|
 |  **Blue**  |    KB, LB    | Code C (Aircrafts with a wingspan less then 36m) |
 | **Orange** |    KC, LC    | Code C (Aircrafts with a wingspan less then 36m) |
-<div className="center-align">
-<p> *Table 3.2.2 - Colored Taxilines (Aprons B and C)* </p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Table 3.2.2 - Colored Taxilines (Aprons B and C)
+</p>
 
-::::tip 
-To remember the colors, remember that taxiways K**B** and L**B** are blue since they end with a B. While LA and KA ending with **A** are the main taxiways that are yellow.
-::::
-<div className="center-align">
-![Loading](imgs/boy.png)
-</div>
-<div className="center-align">
-<p> *Figure 3.2.4 - Colored Taxilines (Aprons B and C)* </p>
-</div>
+!!! tip 
+    To remember the colors, remember that taxiways K**B** and L**B** are blue since they end with a B. While LA and KA ending with **A** are the main taxiways that are yellow.
+
+
+![Loading](imgs/boy.png#center)
+
+<p style="text-align: center; font-style: italic;">
+Figure 3.2.4 - Colored Taxilines (Aprons B and C)
+</p>
 
 ##### 3.1.2.1 Pushback on the Colored Lines
 
@@ -146,16 +144,12 @@ Pushback on the colored lines should be given in the following phrasesolgy:
 
 > SMC: SVA123, Push & Start approved, face south on the blue line.
 
-::::info Do note
+!!! info "Do note"
+    For LA and KA, the taxiway names must be said. Also, if need be the taxiway names of the colored lines can be used aswell for instructions.
 
-For LA and KA, the taxiway names must be said. Also, if need be the taxiway names of the colored lines can be used aswell for instructions.
+!!! danger "Be careful!!"
+    Controllers must be careful and vigilant regarding pushbacks on the colored lines and also pay attention to the aircraft sizes.
 
-::::
-::::danger Be careful!!
-
-Controllers must be careful and vigilant regarding pushbacks on the colored lines and also pay attention to the aircraft sizes.
-
-::::
 #### 3.1.3  Push-Back Types
 ##### 3.1.3.1 Standard Push-back
 This is the default type of push-back which will normally have the aircraft stop abeam the adjacent stand.
@@ -166,11 +160,9 @@ This is the default type of push-back which will normally have the aircraft stop
 
 > **GMP:** SVA123, Push & Start Approved, Face West on WA.
 
-::::tip Be helpful!
+??? tip "Be helpful!"
+    If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
 
-If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
-
-::::
 ##### 3.1.3.2 Short Push-back
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
 
@@ -189,17 +181,14 @@ A long pushback instruction shall require aircraft to complete the pushback oper
 
 > **GMP:** SVA123, Long Pushback Approved, Face West on WA.
 
-::::info Be Specific!
+!!! info "Be Specific!"
+    If you desire to provide precise instructions regarding the end point of the pushback, you can use the following phraseology to instruct the aircraft to halt at a specific position:
 
-If you desire to provide precise instructions regarding the end point of the pushback, you can use the following phraseology to instruct the aircraft to halt at a specific position:
+    > **GMP:** SVA123, Long Pushback Approved, Face North on LA, Finish Abeam stand XX.
 
-> **GMP:** SVA123, Long Pushback Approved, Face North on LA, Finish Abeam stand XX.
+    *or if you wish the aircraft keeps a taxiway clear*
 
-*or if you wish the aircraft keeps a taxiway clear*
-
-> **GMP:** SVA123, Long Pushback Approved, Face North on LA, Stay Clear of Taxiway XX.
-
-::::
+    > **GMP:** SVA123, Long Pushback Approved, Face North on LA, Stay Clear of Taxiway XX.
 
 ##### 3.1.3.4 Conditional Push-back
 
@@ -211,23 +200,20 @@ An example of such an instruction is as follows:
 
 > **GMP:** SVA123, Behind the Qatari B777 passing from your right to left, push & start approved, face east on WA. Behind.
 
-::::info Airline
+!!! info "Airline"
+    When giving the clearance, the "airline" should be mentioned and not "callsign". 
 
-When giving the clearance, the "airline" should be mentioned and not "callsign". 
+    For example:
 
-For example:
+    > **GMP:** SVA123, Behind the **Britsh Airways** (~~Speedbird~~) B777 passing from your right to left, push & start approved, face east on WA. Behind.
 
-> **GMP:** SVA123, Behind the **Britsh Airways** (~~Speedbird~~) B777 passing from your right to left, push & start approved, face east on WA. Behind.
+    ---
 
----
+    In addition, if both aircraft involved in the conditional pushback instruction belong to the same airline, it is common to specify the relationship by saying "Behind the Company B777".
 
-In addition, if both aircraft involved in the conditional pushback instruction belong to the same airline, it is common to specify the relationship by saying "Behind the Company B777".
-::::
 
-::::caution Do note.
-
-The traffic is only mandated to say "Behind" **once**. The controller is mandated to say it **twice** to ensure the instruction is clear.
-::::
+!!! caution "Do note."
+    The traffic is only mandated to say "Behind" **once**. The controller is mandated to say it **twice** to ensure the instruction is clear.
 
 ##### 3.1.3.5 Simultaneous pushback operations
 Simultaneous pushbacks from neighboring stands may be allowed if aircraft are directed using the pushback types described in section 3.1. The aim is to ensure that once both aircraft have completed their pushback procedures, they will be positioned on the taxiway with one stand between them.
@@ -279,9 +265,12 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 | **Aprons 1,2,3,4,5** |       Runway 16C     |         G6           |            N/A            |     T, G     |    _Passing R_    |
 |      **Apron 6**     |       Runway 16C     |         G6           |             E             |    E, S, G   |    _Passing R_    |
 |      **Apron 7**     |       Runway 16C     |         G6           |             B7/D6         |  B, S, G     |    _Passing R_    |
+
 ---
+
 #### 3.2.3 Stand Allocation Procedure
 Stands are assigned by the SAUControllerPack in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
+
 | **Aprons** |                         **Airlines**                        |
 |:----------------------:|:-----------------------------------------------------------:|
 |         Apron A        |                        Saudi Airlines                       |
@@ -294,9 +283,9 @@ Stands are assigned by the SAUControllerPack in the Euroscope, but controllers s
 |        Apron 12        |                          Military                           |
 |         Apron 8        |                            Royal                            |
 |         Apron G        |                       General Aviation                      |
-<div className="center-align">
-  <p>*Table 3.2.4 - Stand Allocation Procedure*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Table 3.2.4 - Stand Allocation Procedure
+</p>
 ---
 
 #### 3.2.4 Arrival Taxi Routes [ATRs]
@@ -304,14 +293,12 @@ Stands are assigned by the SAUControllerPack in the Euroscope, but controllers s
 
 This allows for a smooth and immediate transfer of traffic to the appropriate ground controller.
 
-::::caution Do Note
+!!! caution "Do Note"
+    The Tower controller is responsible for assigning the Arrival Taxi Route (ATR) to aircraft. However, it is essential for the Ground controller to be familiar with these routes in order to anticipate when transfers from the Tower will occur and to follow the correct handoff procedure. 
 
-The Tower controller is responsible for assigning the Arrival Taxi Route (ATR) to aircraft. However, it is essential for the Ground controller to be familiar with these routes in order to anticipate when transfers from the Tower will occur and to follow the correct handoff procedure. 
+    By being familiar with the ATRs, the Ground controller can anticipate the aircraft's movements and facilitate effective communication and coordination during the handoff process between the Tower and Ground controllers.
 
-By being familiar with the ATRs, the Ground controller can anticipate the aircraft's movements and facilitate effective communication and coordination during the handoff process between the Tower and Ground controllers.
-
-It also the ground controller's responsiblity to beware of these ATRs and be cautious when clearing other aircrafts in the path of the ATRs/
-::::
+    It also the ground controller's responsiblity to beware of these ATRs and be cautious when clearing other aircrafts in the path of the ATRs/
 
 #####  3.2.4.1 34 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
@@ -323,15 +310,12 @@ It also the ground controller's responsiblity to beware of these ATRs and be cau
 |           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to SMC 1 |
 |           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to SMC 1 |
 |           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to SMC 1 |
-<div className="center-align">
-  <p>*Table 3.2.5 - 34 Arrival Taxi Routes*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Table 3.2.5 - 34 Arrival Taxi Routes
+</p>
 
-‎ ‎
-
-::::caution
-All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
-::::
+!!! caution
+    All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
 
 #####  3.2.4.2 16 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
@@ -341,19 +325,20 @@ All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
 |           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to SMC 1 |
 |           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to SMC 1 |
 |           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to SMC 1 |
-<div className="center-align">
-  <p>*Table 3.2.6 - 16 Arrival Taxi Routes*</p>
-</div>
-‎ ‎
+<p style="text-align: center; font-style: italic;">
+Table 3.2.6 - 16 Arrival Taxi Routes
+</p>
 
-::::caution
-All Traffic Movements on B must give way to traffic vacating runway 34L/16R.
-::::
+!!! caution
+    All Traffic Movements on B must give way to traffic vacating runway 34L/16R.
+
 #####  3.2.4.3 Diagram of Arrival Taxi Routes
+
 ![Loading](imgs/ATR.png)
-<div className="center-align">
-  <p>*Figure 3.2.1 - Arrival Taxi Routes Diagram*</p>
-</div>
+
+<p style="text-align: center; font-style: italic;">
+Figure 3.2.1 - Arrival Taxi Routes Diagram
+</p>
 ---
 
 #### 3.2.5  Arrival Taxi Procedures

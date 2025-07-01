@@ -5,37 +5,41 @@ toc_max_heading_level: 5
 ---
 #   Jeddah Tower [OEJN_X_TWR] 
 
-This section details all the necessary Standard Operating Procedures for Tower Operations in **King Abdulaziz International Airport (OEJN)**
+!!! success "Covering"
+    This section details all the necessary Standard Operating Procedures for Tower Operations in **King Abdulaziz International Airport (OEJN)**
 
 ---
 
 ##  1. General Provisions
 
-The Jeddah Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
+The **Jeddah Tower (AIR)** is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
 
 ---
 
 ##  2. Designated Area of Responsibility
 **King Abdulaziz International Airport (OEJN)** features two primary AIR positions, namely **AIR 1**, and **AIR 2**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/SMC.png)
-<div className="center-align">
-<div className="center-align">
-  <p>*Figure 2.1 - Aerodrome DAOR*</p>
-</div>
-![Loading](imgs/twrvrps.png)
-</div>
-<div className="center-align">
-  <p>*Figure 2.2 - Control Zone DAOR*</p>
-</div>
+
+<p style="text-align: center; font-style: italic;">
+Figure 2.1 - Aerodrome DAOR
+</p>
+
+![Loading](imgs/twrvrps.png#center)
+
+<p style="text-align: center; font-style: italic;">
+Figure 2.2 - Control Zone DAOR
+</p>
+
 
 ### 2.1. Airspace
 **King Abdulaziz International Airport (OEJN)** Control Zone (CTR) is Class D airspace and is centered around the aerodrome. Its ceiling is 2500ft AGL and has a radius of 10NM.
-<div className="center-align">
-![Loading](imgs/twr.png)
-</div>
-<div className="center-align">
-  <p>*Figure 2.3 - Jeddah Control Zone*</p>
-</div>
+
+![Loading](imgs/twr.png#center)
+
+<p style="text-align: center; font-style: italic;">
+Figure 2.3 - Jeddah Control Zone
+</p>
+
 
 ### 2.2. AIR 1 [Jeddah Tower West]
 **Jeddah Tower West [OEJN_1_TWR]** covers the western and center runways:
@@ -73,34 +77,34 @@ Controllers must log in the following order to maintain realizm and follow SOPs:
  This hierarchy of connection must always be followed unless ATS staff explictly permit you to do otherwise.
 
  ---
- ##  3. Runway Configurations
- ### 3.1 General
+
+## 3. Runway Configurations
+
+### 3.1 General
 The hierarchy of responsibility for determining the runway configuration is outlined as follows:
+
  - AIR 1
  - APP
  - CTR
  - SMC 1
  - GMP
 
- ::::tip Do note
-It is the **ultimate responsibility** of the tower controllers to set the active runways! In any airport!
+!!! tip "Do note"
+    It is the **ultimate responsibility** of the tower controllers to set the active runways! In any airport!
 
-So as long as there is a tower controller, it is his responsibility to set the active runway and ATIS, if not online, follow the hierarchy above
-::::
-  ###    3.2 Preferential Runway System [PRS]
+    So as long as there is a tower controller, it is his responsibility to set the active runway and ATIS, if not online, follow the hierarchy above
+
+### 3.2 Preferential Runway System [PRS]
 In Jeddah, the Preferential Runway System is in use. In conditions of slack winds, 34 operation is preferred up to a tailwind component of 6kts.
 
 This is the more efficent configuration, thus it is used as much as possible.
 
-::::tip Crosswind
+!!! tip "Crosswind"
+    In the event of a direct crosswind (250 degrees) with a speed exceeding 7 knots, the following guidelines should be followed to determine the runway configuration:
 
-In the event of a direct crosswind (250 degrees) with a speed exceeding 7 knots, the following guidelines should be followed to determine the runway configuration:
-
-- Check the Terminal Aerodrome Forecast (TAF) for any indications of a potential change in weather conditions that may necessitate a different runway configuration.
-- If the TAF suggests a possible shift in weather conditions that would favor an alternative configuration, select the runway configuration that aligns with the forecasted conditions.
-- However, if the TAF does not indicate any expected changes that would warrant a different configuration, default to using the 34 Configs (presumably a reference to a specific set of runway configurations).
-
-::::
+    - Check the Terminal Aerodrome Forecast (TAF) for any indications of a potential change in weather conditions that may necessitate a different runway configuration.
+    - If the TAF suggests a possible shift in weather conditions that would favor an alternative configuration, select the runway configuration that aligns with the forecasted conditions.
+    - However, if the TAF does not indicate any expected changes that would warrant a different configuration, default to using the 34 Configs (presumably a reference to a specific set of runway configurations).
 
 ### 3.3 Standard Runway Configuration
 At King Abdulaziz International Airport, standard runway configurations for normal operations are established and ranked in order of preference. 
@@ -112,15 +116,14 @@ The configurations, listed from most preferred to least preferred, are as follow
 - 16s [DDRO]
 - 16s [SDRO]
 
-::::info Do note.
+!!! info "Do note."
+    Exceptions to runway configurations can be granted per pilot's request after approval from AIR and APP. 
 
-Exceptions to runway configurations can be granted per pilot's request after approval from AIR and APP. 
+    **Standard Exceptions:**
 
-**Standard Exceptions:**
-- VFR Circuits
-- Royal Flights [Always departs/arrives on 34L/16R regardless of the active config]
-- Military Flights [Always departs/arrives on 34R/16L regardless of the active config]
-::::
+    - VFR Circuits
+    - Royal Flights [Always departs/arrives on 34L/16R regardless of the active config]
+    - Military Flights [Always departs/arrives on 34R/16L regardless of the active config]
 
 #### 3.3.1. Dual Departure Runway Operations [DDRO]
 In the context of runway operations at King Abdulaziz International Airport, the most preferred configuration is the **Dual Departure Runway Operations (DDRO)**. This configuration involves utilizing both the center and eastern runways specifically for departures.
@@ -140,9 +143,9 @@ However, SDRO may be implemented due to operational constraints or specific circ
 ##  4. Procedures
 The below procedures are considered as standard and no coordination is required to employ them, except where explicitly required.
 
-::::caution 
-Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
-::::
+!!! caution 
+    Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
+
  ### 4.1 Departure procedures
  ####    4.1.1. Departure points
 
@@ -154,9 +157,10 @@ Should a situation arise that does not match any of the below cases, coordinate 
 |        16L       |        M8, M9 / N9       |
 |        16C       |        G6 / H7       |
 |        16R       |        A7 / B7       |
-<div className="center-align">
-  <p>*Table 4.2.1. - Departure points*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Table 4.2.1. - Departure points
+</p>
+
 
 #### 4.1.2. Line up clearances
 
@@ -165,6 +169,7 @@ Conditional line up instructions shall include the traffic that the aircraft is 
 **AIR:** *“FAD123, Behind the departing Saudia A321, Via M1, line up runway 34R behind”*
 
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
+
 Example: *“SVA123, Via M1, line up runway 34R”*
 
 #### 4.1.3. Take-off clearances
@@ -206,9 +211,9 @@ on an active runway. Once conditions permit, if the aircraft needs to return to 
 the runway for takeoff, the Tower controller shall instruct the aircraft to hold short of the
 closest taxiway parallel to the active runway and hand off the aircraft to Ground.
 
-*(Takeoff roll commenced)* **AIR:** *"SVA123 stop immediately, I say again stop immediately. Aknowledge"*
+> *(Takeoff roll commenced)* **AIR:** *"SVA123 stop immediately, I say again stop immediately. Aknowledge"*
 
-*(Takeoff roll not commenced)* **AIR:***"SVA123 hold position, cancel takeoff clearance. I say again cancel takeoff clearance, due ground crew on runway"*
+> *(Takeoff roll not commenced)* **AIR:***"SVA123 hold position, cancel takeoff clearance. I say again cancel takeoff clearance, due ground crew on runway"*
 
 
 ---
@@ -223,13 +228,14 @@ closest taxiway parallel to the active runway and hand off the aircraft to Groun
 |        34R       |        M4, M6, M7 / N5       |
 |        16L       |        M3, M5 / N4       |
 |        16R       |        B2, B4 / A2       |
-<div className="center-align">
-  <p>*Table 4.1.1 - Preferred exit points*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Table 4.1.1 - Preferred exit points
+</p>
+
 
 On initial contact with AIR, traffic **must** be advised to expect an exit point along with a landing clearance.
 
-**AIR:** *"SVA123, Plan to vacate M6, winds 340 degrees 10kts, runway 34R, cleared to land"*
+> **AIR:** *"SVA123, Plan to vacate M6, winds 340 degrees 10kts, runway 34R, cleared to land"*
 
 #### 4.2.2. Arrival taxi routes
 
@@ -237,14 +243,13 @@ Arrival Taxi Routes (ATRs) are short pre-defined initial taxi paths for traffic 
 
 This allows for a smooth and immediate transfer of traffic to the appropriate ground controller.
 
-::::caution Do Note
+!!! caution "Do Note"
+    The Tower controller is responsible for assigning the Arrival Taxi Route (ATR) to aircraft.
 
-The Tower controller is responsible for assigning the Arrival Taxi Route (ATR) to aircraft.
-Example: 
+    Example: 
 
-Pilot: *SVA123, vacating via M6*
-AIR: *SVA123, Follow the M6A Arrival Taxi Route, Contact Ground 121.600*
-::::
+    Pilot: *SVA123, vacating via M6*
+    AIR: *SVA123, Follow the M6A Arrival Taxi Route, Contact Ground 121.600*
 
 #####  4.2.2.1. 34 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
@@ -256,15 +261,13 @@ AIR: *SVA123, Follow the M6A Arrival Taxi Route, Contact Ground 121.600*
 |           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to SMC 1 |
 |           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to SMC 1 |
 |           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to SMC 1 |
-<div className="center-align">
-  <p>*Table 4.2.1 - 34 Arrival Taxi Routes*</p>
-</div>
+<p style="text-align: center; font-style: italic;">
+Table 4.2.1 - 34 Arrival Taxi Routes
+</p>
 
-‎ ‎
 
-::::caution
-All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
-::::
+!!! caution
+    All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
 
 #####  4.2.2.2. 16 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
@@ -274,19 +277,20 @@ All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
 |           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to SMC 1 |
 |           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to SMC 1 |
 |           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to SMC 1 |
-<div className="center-align">
-  <p>*Table 4.2.2 - 16 Arrival Taxi Routes*</p>
-</div>
-‎ ‎
+<p style="text-align: center; font-style: italic;">
+Table 4.2.2 - 16 Arrival Taxi Routes
+</p>
 
-::::caution
-All Traffic Movements on B must give way to traffic vacating runway 34L/16R.
-::::
+
+!!! caution
+    All Traffic Movements on B must give way to traffic vacating runway 34L/16R.
+
 #####  4.2.2.4. Diagram of Arrival Taxi Routes
-![Loading](imgs/ATR.png)
-<div className="center-align">
-  <p>*Figure 4.2.3 - Arrival Taxi Routes Diagram*</p>
-</div>
+![Loading](imgs/ATR.png#center)
+<p style="text-align: center; font-style: italic;">
+Figure 4.2.3 - Arrival Taxi Routes Diagram
+</p>
+
 ---
 
 #### 4.2.3. Separation requirements
@@ -297,7 +301,7 @@ While the radar controllers are responsible for separating arriving aircraft, th
 ##### 4.2.3.2. Speed control
 AIR may use a tactical reduction in aircraft speed in order to ensure minimum separation between aircrafts.
 
-**AIR:** *SVA123, reduce to final approach speed.*
+> **AIR:** *SVA123, reduce to final approach speed.*
 
 ##### 4.2.3.3. Wake turbulence separation minima
 Standard ICAO Separation is enforce in the Jeddah CTR.
@@ -306,24 +310,21 @@ Standard ICAO Separation is enforce in the Jeddah CTR.
 
 At any time should a runway become unsuitable for an aircraft landing, or separation minima  is not met, aircraft shall be instructed to go-around.
 
-**AIR:** *“SVA123, go around, I say again, go around, acknowledge”*
+> **AIR:** *“SVA123, go around, I say again, go around, acknowledge”*
 
 Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to departure control.
 
 Example: *“SVA123, fly standard missed approach procedure, climb 4000 feet, contact Jeddah Approach 124.0”*
 
-::::info Go around vs cancel approach
+!!! info "Go around vs cancel approach"
 
-A go-around occurs when an aircraft aborts its landing during the final approach phase after reaching the minimum descent altitude. In contrast, a "cancel approach" instruction is given when the aircraft is still in the early stages of the approach. The key difference is that during a cancel approach, air traffic control provides all the missed approach procedures in a single transmission since there is no immediate urgency. On the other hand, during a go-around, the controller instructs the aircraft to initiate the climb, and further instructions are provided once the aircraft is in the climb phase. 
-
-::::
+    A go-around occurs when an aircraft aborts its landing during the final approach phase after reaching the minimum descent altitude. In contrast, a "cancel approach" instruction is given when the aircraft is still in the early stages of the approach. The key difference is that during a cancel approach, air traffic control provides all the missed approach procedures in a single transmission since there is no immediate urgency. On the other hand, during a go-around, the controller instructs the aircraft to initiate the climb, and further instructions are provided once the aircraft is in the climb phase. 
 
 ---
 ###  4.3 VFR procedures
-::::caution Do note. 
+!!! caution "Do note." 
+    VFR is only allowed at daytime. Night VFR is not permitted in the Jeddah Control Zone.
 
-VFR is only allowed at daytime. Night VFR is not permitted in the Jeddah Control Zone.
-::::
 
 #### 4.3.1. Visual Reporting Points (VRPs)
 **Visual Report Points (VRPs)** are specific geographical locations used in aviation to assist pilots in navigation and communication with air traffic control. These points help pilots maintain situational awareness and provide reference points for reporting their position during flight.
@@ -345,17 +346,17 @@ VRPs are typically marked by prominent landmarks, such as buildings, intersectio
 | **VRP11** |                                Prince Abdulmajeed street North of King Abdullah Medical Complex                                |  RDL 336 from JDW 5.1 NM |   214727.0N 0390529.0E   |
 | **VRP12** |          Prince Abdulmajeed street junctions and intersection of Madinah road (East of King Abdullah Medical Complex)          |  RDL 356 from JDW 5.0 NM |    214747.0N 0390718.0E    |
 | **VRP13** |                                                           Lakes City                                                           |  RDL 320 from JDW 8.7 NM |    214944.0N 0390146.4E   |
-<div className="center-align">
-  <p>*Table 4.2.3 - Jeddah VRPs*</p>
-</div>
-::::danger do note.
-These VRPS are not to be used as holding points.
-::::
-::::caution Pilots
-Kindly keep in mind that not all pilots have access to these VRPs as it is difficult to find. VFR Charts with VRPs are also not public.
+<p style="text-align: center; font-style: italic;">
+Table 4.2.3 - Jeddah VRPs
+</p>
 
-The Saudi Arabian vACC is working to release a pilot briefing document for VFR.
-::::
+!!! danger "Do note."
+    These VRPS are not to be used as holding points.
+
+!!! caution "Pilots"
+    Kindly keep in mind that not all pilots have access to these VRPs as it is difficult to find. VFR Charts with VRPs are also not public.
+
+    The Saudi Arabian vACC is working to release a pilot briefing document for VFR.
 
 ##### 4.3.1.1 Entry/Exit VRPs into the CTR
 According to the eAIP traffic must only enter/exit the Jeddah Control Zone via the following VRPs:
@@ -366,10 +367,10 @@ According to the eAIP traffic must only enter/exit the Jeddah Control Zone via t
 
 Clearance to enter the control zone is issued by APP. 
 
-::::info Rejection
-The TWR controller has the right to reject any traffic into the control zone if deemed neccesary.
-AIR: *HHAZA, You are not cleared to enter the control zone, remain outside of the control zone until XXXX()
-::::
+!!! info "Rejection"
+    The TWR controller has the right to reject any traffic into the control zone if deemed neccesary.
+    > **AIR:** *HHAZA, You are not cleared to enter the control zone, remain outside of the control zone until XXXX()
+
 #### 4.3.2. VFR departures
 
 Any VFR aircraft leaving the control zone at Jeddah is considered to be engaging in cross-country VFR flight.
@@ -378,11 +379,8 @@ Coordination between the AIR and APP is required.
 
 All VFR Departures must exit the control zone through the entry/exit VRPs described in section 4.3.1.1.
 
-::::info Do note
-
-VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
-
-::::
+!!! info "Do note"
+    VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
 
 #### 4.3.3. VFR arrivals
 All VFR Arrivals must enter the control zone through the entry/exit VRPs described in section 4.3.1.1.
@@ -398,9 +396,5 @@ Once the traffic has entered the control zone, further intructions to direct to 
 | 34s |   Right Hand   |     1500ft     |
 | 16s |   Left Hand    |     1500ft     |
 
-
-::::info Jet Engine Aircrafts
-
-Jet engine aircraft must  conduct circuits on the **western side of Runway 34L/16R** or the **eastern side of Runway 34R/16L**, maintaining ***1500 feet***.
-
-::::
+!!! info "Jet Engine Aircrafts"
+    Jet engine aircraft must  conduct circuits on the **western side of Runway 34L/16R** or the **eastern side of Runway 34R/16L**, maintaining ***1500 feet***.

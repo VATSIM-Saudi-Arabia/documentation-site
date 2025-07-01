@@ -1,36 +1,92 @@
-:root  > * {
-    --md-primary-fg-color:        #193309;
-  }
+:root > * {
+  --md-primary-fg-color: #193309;
+}
 
-/* Remove margin and padding for body and html */
+/* Reset base layout */
 html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
-/* Target the main content area, which is where your docs are */
-.md-content {
-    margin-left: 0;  /* Remove left margin */
-    margin-right: 0; /* Remove right margin */
-    padding-left: -40px;  /* Optional: reduce left padding */
-    padding-right: -40px; /* Optional: reduce right padding */
-}
-
-/* Adjust the main container to use more space */
+/* Full-width layout for main area */
 .md-main {
-    max-width: 120%; /* Ensure content is taking up full width */
-    width: 100%;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
-/* If the theme adds a wrapper with padding, target it */
-.md-layout__content {
-    padding-left: -10;  /* Reduce padding to make the content wider */
-    padding-right: -10; /* Reduce padding */
+/* Full-width inner container */
+.md-main__inner {
+  max-width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
+/* Page content padding */
+.md-content {
+  max-width: 100% !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Header: space between title and repo */
+.md-header__inner {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Align logo/title to far left */
+.md-header__title {
+  margin-left: 1.5rem !important;
+  padding-left: 0 !important;
+}
+
+/* Repo link (/documentation-site) to far right */
+.md-header__source {
+  margin-left: auto !important;
+  margin-right: 0.25rem !important;
+}
+
+/* Align nav tabs (top menu links) to far left */
+.md-tabs {
+  justify-content: flex-start !important;
+  margin-left: 0 !important;
+  padding-left: 0.25rem !important;
+  padding-right: 0.25rem !important;
+}
+
+/* Sidebar untouched */
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  margin: initial !important;
+  padding: initial !important;
+}
+
+/* Center tables optionally */
 table {
-    display: table;
-    width: initial;
-    margin: 0 auto;
+  display: table;
+  margin: 0 auto;
+}
+
+.md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+  display: table
+}
+
+blockquote {
+    padding: 1px 2px;
+    margin: 0 0 20px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+}
+
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
 }
