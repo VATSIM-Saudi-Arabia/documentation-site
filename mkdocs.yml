@@ -7,14 +7,15 @@ theme:
   font: 
     text: Mulish
   palette:
-
     - scheme: default
       toggle:
+      - accent: light green
         icon: material/brightness-7 
         name: Switch to dark mode
 
     - scheme: slate
       toggle:
+      - accent: light green
         icon: material/brightness-4
         name: Switch to light mode
   features:
