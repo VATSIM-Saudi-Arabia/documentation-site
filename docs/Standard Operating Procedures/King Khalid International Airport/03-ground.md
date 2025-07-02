@@ -219,7 +219,7 @@ SMC 1 should promptly assign a stand to an aircraft as soon as it appears on the
 
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow an initial taxi route and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 
-##### 3.2.5.2 33s Arrival Taxi Procedures
+##### 3.2.5.2 33s SARO Arrival Taxi Procedures
 
 |      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
 |:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
@@ -229,7 +229,17 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 |    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
 |    **General Aviation**   |      Apron G     | A, P, H| A, **Hold Short of P** |
 
-##### 3.2.5.3 15s Arrival Taxi Procedures
+##### 3.2.5.2 33s DARO Arrival Taxi Procedures
+
+|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
+|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
+|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
+|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
+|    **General Aviation**   |      Apron G     | A, P, H| A, **Hold Short of P** |
+
+##### 3.2.5.3 15s SARO Arrival Taxi Procedures
 
 |      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
 |:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
@@ -238,21 +248,55 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 |     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
 |    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
 
-####  3.2.6 Taxi Diagrams
-##### 3.2.6.1 Legend
-###### Departures
+##### 3.2.5.3 15s DARO Arrival Taxi Procedures
+
+|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
+|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
+|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
+|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
+
+#### 3.2.6  Arrival Taxi Procedures
+##### 3.2.6.1 General Arrival Taxi Procedures
+SMC 1 should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. 
+
+Upon vacating the runway, the Tower controller will instruct the aircraft to follow an initial taxi route and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
+
+##### 3.2.6.2 33s Arrival Taxi Procedures
+
+|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
+|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
+|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
+|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
+|    **General Aviation**   |      Apron G     | A, P, H| A, **Hold Short of P** |
+
+##### 3.2.6.3 15s Arrival Taxi Procedures
+
+|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
+|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
+|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
+|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
+
+####  3.2.7 Taxi Diagrams
+##### 3.2.7.1 Legend
+###### Departures Flow
 ![Loading](imgs/blue.png)
-###### Arrivals
+###### Arrivals Flow
 ![Loading](imgs/yellow.png)
 
-##### 3.2.6.2 33 SARO Config
+##### 3.2.7.2 33 SARO Config
 ![Loading](imgs/33saro.png)
 
-##### 3.2.6.2 33 DARO Config
+##### 3.2.7.2 33 DARO Config
 ![Loading](imgs/33daro.png)
 
-##### 3.2.6.3 15 SARO Config
+##### 3.2.7.3 15 SARO Config
 ![Loading](imgs/15saro.png)
 
-##### 3.2.6.3 15 DARO Config
+##### 3.2.7.3 15 DARO Config
 ![Loading](imgs/15daro.png)

@@ -373,15 +373,15 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 
 ####  3.2.6 Taxi Diagrams
 ##### 3.2.6.1 Legend
-###### Departures
+###### Departures Flow
 ![Loading](imgs/blue.png)
-###### Arrivals
+###### Arrivals Flow
 ![Loading](imgs/yellow.png)
-###### Royal Arrivals
+###### Royal Arrivals Flow
 ![Loading](imgs/grn.png)
-###### Hajj Arrivals
+###### Hajj Arrivals Flow
 ![Loading](imgs/yelldot.png)
-###### Cargo Arrivals
+###### Cargo Arrivals Flow
 ![Loading](imgs/org.png)
 
 
