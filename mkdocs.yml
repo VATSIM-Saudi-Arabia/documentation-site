@@ -40,4 +40,3 @@ markdown_extensions:
 plugins:
 - mkdocs-pdf
 - search
-- mkdocs-nav-weight
