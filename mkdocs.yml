@@ -39,3 +39,5 @@ markdown_extensions:
   - attr_list
 plugins:
 - mkdocs-pdf
+- search
+- mkdocs-nav-weight
