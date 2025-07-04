@@ -1,7 +1,9 @@
 site_name: Documentation Site - Saudi Arabian vACC
 site_url: https://documentation.vatsimsa.com
+
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/logo.png
   favicon: assets/favicon.ico
   font: 
@@ -29,7 +31,7 @@ theme:
     - search.share
     - header.autohide
 repo_url: https://github.com/VATSIM-Saudi-Arabia/documentation-site
-repo_name: /documentation-site
+repo_name: VATSIM-Saudi-Arabia/documentation-site
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
