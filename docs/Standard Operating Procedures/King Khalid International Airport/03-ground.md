@@ -248,7 +248,7 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 |     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
 |    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
 
-##### 3.2.5.3 15s DARO Arrival Taxi Procedures
+##### 3.2.5.3 15s Arrival Taxi Procedures
 
 |      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
 |:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
