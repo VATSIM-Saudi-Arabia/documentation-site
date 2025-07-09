@@ -25,7 +25,7 @@ This program can be terminated at any time at the discreation of the subdivision
 |    **Pilot of the Month**   |            The selected Pilot of the Month, the pilot applicant with the most points in a specified month            |
 
 ## 4. Point System
-This program relias on a Points-Based System. The member with the highest points is the one selected as a Pilot of th
+This program relias on a Points-Based System. The member with the highest points is the one selected as a Pilot/Controller of the Month.
 
 ### 4.1 Controller Applicants - Point Earning Chart
 
