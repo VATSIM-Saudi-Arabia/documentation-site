@@ -55,5 +55,5 @@ This policy applies to all members of the Saudi vACC community participating in 
 ### 6.1 Disqualification
 Any member found to be violating the rules or attempting to manipulate the point system will be disqualified from the selection process.
 
-## 7. Giveaway
-At the end of each month, the active member may be eligible for a special giveaway or recognition for their participation and engagement.
+## 7. Recognition
+At the end of each month, the active member will receive recognition for their participation and engagement by receiving a role on the Discord and an announcement.
