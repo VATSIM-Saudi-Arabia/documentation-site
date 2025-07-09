@@ -17,7 +17,7 @@ The **Jeddah Tower (AIR)** is responsible for all aerodrome movements on runways
 ---
 
 ##  2. Designated Area of Responsibility
-**King Abdulaziz International Airport (OEJN)** features two primary AIR positions, namely **AIR 1**, and **AIR 2**. The responsibilities and areas of control for each position are outlined as follows:
+**King Abdulaziz International Airport (OEJN)** features two primary AIR positions, namely **AIR W**, and **AIR E**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/SMC.png)
 
 <p style="text-align: center; font-style: italic;">
@@ -41,14 +41,14 @@ Figure 2.3 - Jeddah Control Zone
 </p>
 
 
-### 2.2. AIR 1 [Jeddah Tower West]
-**Jeddah Tower West [OEJN_1_TWR]** covers the western and center runways:
+### 2.2. AIR W [Jeddah Tower West]
+**Jeddah Tower West [OEJN_W_TWR]** covers the western and center runways:
 
 - 34L/16R
 - 34C/16C
 
 ####  2.2.1 Visual Reporting Points (VRPs)
-**Jeddah Tower West [OEJN_1_TWR]** covers the following VRPs in the Jeddah Control Zone [CTR]:
+**Jeddah Tower West [OEJN_W_TWR]** covers the following VRPs in the Jeddah Control Zone [CTR]:
 
 - VRP07
 - VRP08
@@ -56,12 +56,12 @@ Figure 2.3 - Jeddah Control Zone
 - VRP10
 - VRP11
 
-### 2.3. AIR 2 [Jeddah Tower East]
-**Jeddah Tower East [OEJN_2_TWR]** covers the eastern runway:
+### 2.3. AIR E [Jeddah Tower East]
+**Jeddah Tower East [OEJN_E_TWR]** covers the eastern runway:
 
 - 34R/16L
 ####  2.3.1 Visual Reporting Points (VRPs)
-**Jeddah Tower East [OEJN_2_TWR]** covers the following VRPs in the Jeddah Control Zone [CTR]:
+**Jeddah Tower East [OEJN_E_TWR]** covers the following VRPs in the Jeddah Control Zone [CTR]:
 
 - VRP02
 - VRP03
@@ -71,8 +71,8 @@ Figure 2.3 - Jeddah Control Zone
 ### 2.4. Standard Connection Hierarchy 
 Controllers must log in the following order to maintain realizm and follow SOPs: 
 
-- AIR 1 [OEJN_1_TWR]
-- AIR 2 [OEJN_2_TWR]
+- AIR W [OEJN_W_TWR]
+- AIR E [OEJN_E_TWR]
 
  This hierarchy of connection must always be followed unless ATS staff explictly permit you to do otherwise.
 
@@ -83,10 +83,10 @@ Controllers must log in the following order to maintain realizm and follow SOPs:
 ### 3.1 General
 The hierarchy of responsibility for determining the runway configuration is outlined as follows:
 
- - AIR 1
+ - AIR W
  - APP
  - CTR
- - SMC 1
+ - SMC W
  - GMP
 
 !!! tip "Do note"
@@ -180,7 +180,7 @@ Aircraft shall be cleared for take-off once adequate separation exists
 
 #### 4.1.4. Parallel Departure
 
-##### 4.1.5. Parallel Departure
+**Independent Parallel Departure Operations (Mode 3)** are permitted at Jeddah from runways 34C/34R and 16C/16L.
 
 #### 4.1.5. Separation requirements
 
@@ -254,13 +254,13 @@ This allows for a smooth and immediate transfer of traffic to the appropriate gr
 #####  4.2.2.1. 34 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M4A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to SMC 2 |
-|           M6A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to SMC 2 |
-|           M7A          | 34R    |  M, S, L **Hold Short of MA** | AIR 2 to SMC 2 |
-|           M7B          | 34R    |    M, R **Hold Short of J**   | AIR 2 to SMC 3 |
-|           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to SMC 1 |
-|           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to SMC 1 |
-|           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to SMC 1 |
+|           M4X          | 34R    | M, MA, L **Hold Short of V**  | AIR E to SMC E |
+|           M6X          | 34R    | M, MA, L **Hold Short of V**  | AIR E to SMC E |
+|           M7X          | 34R    |  M, S, L **Hold Short of MA** | AIR E to SMC E |
+|           M7O          | 34R    |    M, R **Hold Short of J**   | AIR E to SMC C |
+|           B3X          | 34L    |     B **Hold Short of B5**    | AIR W to SMC W |
+|           B5X          | 34L    | D5, D3-W **Hold Short of B5** | AIR W to SMC W |
+|           B5O          | 34L    |     B **Hold Short of D6**    | AIR W to SMC W |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.1 - 34 Arrival Taxi Routes
 </p>
@@ -272,11 +272,11 @@ Table 4.2.1 - 34 Arrival Taxi Routes
 #####  4.2.2.2. 16 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M5A         | 16L    | M  **Hold Short of MB**  | AIR 2 to SMC 2 |
-|           M3A          | 16L    | M **Hold Short of MD**  | AIR 2 to SMC 2 |
-|           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to SMC 1 |
-|           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to SMC 1 |
-|           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to SMC 1 |
+|           M5X         | 16L    | M  **Hold Short of MB**  | AIR E to SMC E |
+|           M3X          | 16L    | M **Hold Short of MD**  | AIR E to SMC E |
+|           B4X         | 16R    |  B **Hold Short of R** | AIR W to SMC W |
+|           B2X          | 16R    |   B **Hold Short of B1**   | AIR W to SMC W |
+|           B2O          | 16R    |     B, T, C **Hold Short of S**    | AIR W to SMC W |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.2 - 16 Arrival Taxi Routes
 </p>

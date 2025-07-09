@@ -30,6 +30,17 @@ theme:
     - search.highlight
     - search.share
     - header.autohide
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://community.vatsim.net
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/vatsim_sa/
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/vatsimsa
+    - icon: fontawesome/brands/github
+      link: https://github.com/VATSIM-Saudi-Arabia
+
 repo_url: https://github.com/VATSIM-Saudi-Arabia/documentation-site
 repo_name: VATSIM-Saudi-Arabia/documentation-site
 extra_css:

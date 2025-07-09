@@ -144,8 +144,8 @@ The following are the ATS Positions relevant to this document. They will be subs
 
 |        Radio Callsign        | Logon Callsign | Abbreviation | Frequency |
 |:----------------------------:|:--------------:|:------------:|:---------:|
-|         Jeddah Tower         |   OEJN_1_TWR   |     AIR 1    |  118.200  |
-|         Jeddah Tower         |   OEJN_2_TWR   |     AIR 2    |  118.500  |
+|         Jeddah Tower         |   OEJN_W_TWR   |     AIR W    |  118.200  |
+|         Jeddah Tower         |   OEJN_E_TWR   |     AIR E    |  118.500  |
 |        Jeddah Approach       |    OEJN_APP    |     APP 1    |  124.000  |
 |       Jeddah Final East      |   OEJN_FE_APP  |     FIN E    |  123.800  |
 |       Jeddah Final West      |   OEJN_FW_APP  |     FIN W    |  124.675  |

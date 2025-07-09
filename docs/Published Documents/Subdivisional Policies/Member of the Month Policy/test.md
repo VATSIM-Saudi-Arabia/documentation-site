@@ -1,5 +1,5 @@
 # Member of the Month Program - Policy
-![Loading...](https://cdn.discordapp.com/attachments/869528321199837185/1348165670596116500/Member_of_the_month_1.png?ex=67ce789f&is=67cd271f&hm=274470ec6c29e15985d1499e9843bafaffd88b3684750cae64c658c1e8dc9c2f&)
+![Loading...](https://media.discordapp.net/attachments/869528321199837189/1348793200927576125/Member_of_the_month.png?ex=686ef50e&is=686da38e&hm=20f78716f0e05a9609f6f85f244df0e5820b50f9e1549d6de3022944b934828f&=&format=webp&quality=lossless&width=1845&height=1038)
 ## 1. Purpose
 This Policy is intended to standarized the process of selection of the Members of the month (Pilot of the Month and Controller).
 

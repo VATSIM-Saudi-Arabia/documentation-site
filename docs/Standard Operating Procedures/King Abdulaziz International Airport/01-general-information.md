@@ -55,7 +55,7 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 
 |         Airspace Type         |     Airspace      | Class | Vertical Limits |  Controller  |
 | :---------------------------: | :---------------: | :---: | :-------------: | :----------: |
-|       **Control Zone**        |    Jeddah CTR     |   D   |  SFC - 2500ft   | AIR 1, AIR 2 |
+|       **Control Zone**        |    Jeddah CTR     |   D   |  SFC - 2500ft   | AIR W, AIR E |
 | **Terminal Maneuvering Area** | Jeddah TMA Part 1 |   C   | 1500ft - FL195  |  APP 1, FIN  |
 | **Terminal Maneuvering Area** | Jeddah TMA Part 2 |   C   | 2500ft - FL195  |    APP 1     |
 |       **Control Area**        |  Jeddah CTA East  |   A   |  FL150 - FL600  |    CTR 1     |
@@ -67,11 +67,13 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 | :-------------------------: | :----------------: | :--------------: | :-----------------: |
 |       **Jeddah ATIS**       |     OEJN_ATIS      |       ATIS       |       126.200       |
 |     **Jeddah Delivery**     |      OEJN_DEL      |       GMP        |       121.800       |
-|      **Jeddah Ground**      |     OEJN_1_GND     |      SMC 1       |       121.600       |
-|      **Jeddah Ground**      |     OEJN_2_GND     |      SMC 2       |       121.900       |
-|      **Jeddah Ground**      |     OEJN_3_GND     |      SMC 3       |       121.700       |
-|      **Jeddah Tower**       |     OEJN_1_TWR     |      AIR 1       |       118.200       |
-|      **Jeddah Tower**       |     OEJN_2_TWR     |      AIR 2       |       118.500       |
+|      **Jeddah Apron**       |     OEJN_E_RMP     |      APN E       |         121.750         |
+|      **Jeddah Apron**       |     OEJN_N_RMP     |      APN N       |        121.975          |
+|      **Jeddah Ground**      |     OEJN_W_GND     |      SMC W       |       121.600       |
+|      **Jeddah Ground**      |     OEJN_E_GND     |      SMC E       |       121.900       |
+|      **Jeddah Ground**      |     OEJN_C_GND     |      SMC C       |       121.700       |
+|      **Jeddah Tower**       |     OEJN_W_TWR     |      AIR W       |       118.200       |
+|      **Jeddah Tower**       |     OEJN_E_TWR     |      AIR E       |       118.500       |
 |     **Jeddah Approach**     |      OEJN_APP      |      APP 1       |       124.000       |
 |  **Jeddah Final Approach**  |     OEJN_F_APP     |       FIN        |       123.800       |
 | **Jeddah Terminal Control** |     OEJN_1_CTR     |      CTR 1       |       125.450       |
@@ -82,6 +84,6 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 |    **SOP Type**    | **Revision** |   **Changes**   |                 **Prepared By**                | **Revised and Approved By** |
 |:------------------:|:------------:|:---------------:|:----------------------------------------------:|:---------------------------:|
 | **Delivery [DEL]** |    01/2025   | Removed Radar Departure, Updated SIDs, Added Omni-Directional Procedures, Minor Changes |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
-|  **Ground [GND]**  |    01/2025   | Updated all GMC references to SMC,  |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
-|   **Tower [TWR]**  |    01/2025   | Added Independent Parallel Approaches/Departure Procedure, Minor Changes | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
+|  **Ground [GND]**  |    02/2025   | Updated all callsigns, ATRs and diagrams  |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |    02/2025   | Updated all callsigns, ATRs and diagrams | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
 | **Approach [APP]** |    01/2025    |  Initial Release  |              Ismail Hassan - ACCSA1                    |        Ismail Hassan - ACCSA1           |
