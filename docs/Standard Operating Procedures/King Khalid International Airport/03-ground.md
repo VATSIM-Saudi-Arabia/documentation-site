@@ -215,7 +215,11 @@ This allows for a smooth and immediate transfer of traffic to the appropriate gr
 
 #### 3.2.5  Arrival Taxi Procedures
 ##### 3.2.5.1 General Arrival Taxi Procedures
+<<<<<<< Updated upstream
 SMC 1 should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. 
+=======
+SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. 
+>>>>>>> Stashed changes
 
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow an initial taxi route and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 
@@ -231,6 +235,7 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 
 ##### 3.2.5.2 33s DARO Arrival Taxi Procedures
 
+<<<<<<< Updated upstream
 |      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
 |:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
 |     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
@@ -238,6 +243,20 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 |     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
 |    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
 |    **General Aviation**   |      Apron G     | A, P, H| A, **Hold Short of P** |
+=======
+|    **Apron**    | **Arrival Runway** |          **AIR W Taxi Instructions**          |         **Air E Taxi Instructions**        |     **Handoff to SMC N**    |                          **SMC N Instructions**                          |     **Handoff to SMC S**    |   **SMC S Taxi Instructions**   |
+|:---------------:|:------------------:|:--------------------------------------------:|:-----------------------------------------:|:---------------------------:|:------------------------------------------------------------------------:|:---------------------------:|:-------------------------------:|
+|  **Aprons 1,2** |     Runway 33R     |                       -                      | Vacate G4 <br>Taxi G<br>*Hold Short of R* |        _Immediately_        |                 Taxi G<br>*Hold Short of P*<br>Taxi P,E                  |              -              |                -                |
+|  **Aprons 1,2** |     Runway 33L     | Vacate A4<br>Taxi A, P <br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ |                                  Taxi E                                  |              -              |                -                |
+|  **Aprons 3,4** |     Runway 33R     |                       -                      | Vacate G4 <br>Taxi G<br>*Hold Short of R* |        _Immediately_        |                                 Taxi R,E                                 |              -              |                -                |
+|  **Aprons 3,4** |     Runway 33L     | Vacate A4<br>Taxi A, P <br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ |                Taxi P,F<br>*Hold Short of R*<br>Taxi R,E                 |              -              |                -                |
+|   **Apron 5**   |     Runway 33R     |                       -                      |  Vacate G4<br>Taxi G<br>*Hold Short of R* |        _Immediately_        |                 Taxi R,F<br>*Hold Short of S*<br>Taxi S,E                |              -              |                -                |
+|   **Apron 5**   |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ | Taxi P,F<br>*Hold Short of R*<br>Taxi F<br>*Hold Short of S*<br>Taxi S,E |              -              |                -                |
+|   **Apron 6**   |     Runway 33R     |                       -                      |  Vacate G4<br>Taxi G<br>*Hold Short of T* |              -              |                                     -                                    |        _Immediately_        | Taxi T, D ***OR*** Taxi T, F, U |
+|   **Apron 6**   |     Runway 33L     |  Vacate A4<br>Taxi A, T<br>*Hold Short of E* |                     -                     |              -              |                                     -                                    | _While taxing on Taxiway T_ | Taxi T, D ***OR*** Taxi T, F, U |
+| **Cargo Apron** |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ |                                 Taxi P, E                                |              -              |                -                |
+|   **GA Apron**  |     Runway 33R     |                       -                      |                Vacate H3/H4               |         Immediately         |                      H3, H2 ***OR*** H4, H, H3, H2                       |              -              |                -                |
+>>>>>>> Stashed changes
 
 ##### 3.2.5.3 15s SARO Arrival Taxi Procedures
 
