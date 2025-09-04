@@ -17,10 +17,10 @@ The Jeddah Ground manages aircraft movements on aerodrome areas, excluding runwa
 
 ---
 ## 2. Designated Areas of Responsiblity 
-**King Abdulaziz International Airport (OEJN)** features three primary Ground Movement Control (SMC) positions, namely **SMC 1**, **SMC 2** and **SMC 3**. The responsibilities and areas of control for each position are outlined as follows:
+**King Abdulaziz International Airport (OEJN)** features three primary Ground Movement Control (SMC) positions, namely **SMC W**, **SMC E** and **SMC C**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/SMC.png)
 
-### 2.1 SMC 1 [Jeddah Ground West]
+### 2.1 SMC W [Jeddah Ground West]
 Jeddah Ground West covers western side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron 8 [Royal Apron]
@@ -38,9 +38,9 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 Figure 2.1.1 - Jeddah Ground West AOR
 </p>
 
-### 2.2 SMC 2 [Jeddah Ground East]
+### 2.2 SMC E [Jeddah Ground East]
 
-**Jeddah Ground East [OEJN_2_GND]** covers eastern side of the aerodrome which includes the following aprons and its assoicasted taxiways:
+**Jeddah Ground East [OEJN_E_GND]** covers eastern side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron A,C [Terminal 1]
 - Apron 12 [Military Apron]
@@ -50,9 +50,9 @@ Figure 2.1.1 - Jeddah Ground West AOR
 Figure 2.1.2 - Jeddah Ground East AOR
 </p>
 
-### 2.3 SMC 3 [Jeddah Ground Center]
+### 2.3 SMC C [Jeddah Ground Center]
 
-**Jeddah Ground Center [OEJN_3_GND]** covers central part of the aerodrome which includes the following aprons and its assoicasted taxiways:
+**Jeddah Ground Center [OEJN_C_GND]** covers central part of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron B [Terminal 1]
 - Apron 9 [Cargo Apron]
@@ -68,16 +68,18 @@ Figure 2.1.3 - Jeddah Ground Center AOR
 ### 2.4 Standard Connection Hierarchy 
 Controllers must log in the following order to maintain realizm and follow SOPs: 
 
-- SMC 1 [OEJN_1_GND]
+- SMC W [OEJN_W_GND]
 - GMP [OEJN_DEL]
-- SMC 2 [OEJN_2_GND]
-- SMC 3 [OEJN_3_GND]
+- SMC E [OEJN_E_GND]
+- RMP E [OEJN_E_RMP]
+- SMC C [OEJN_C_GND]
+- RMP N [OEJN_N_RMP]
 
  This hierarchy of connection must always be followed unless ATS staff explictly permit you to do otherwise.
 
 ### 2.5 Splitting Positions
 
-If SMC 1 and SMC 2 are online without SMC 3, SMC 1 must cover the west side of the aerodrome while SMC 2 must cover the east side of the aerodrome (Split at Runway 34C).
+If SMC W and SMC E are online without SMC C, SMC W must cover the west side of the aerodrome while SMC E must cover the east side of the aerodrome (Split at Runway 34C).
 
 Other then that, refer to the figures above to find the designated areas of responsiblity when all controllers are online. 
 
@@ -158,7 +160,7 @@ This is the default type of push-back which will normally have the aircraft stop
 
 > **Pilot:** SVA123, Stand C3, request pushback.
 
-> **GMP:** SVA123, Push & Start Approved, Face West on WA.
+> **SMC:** SVA123, Push & Start Approved, Face West on WA.
 
 ??? tip "Be helpful!"
     If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
@@ -170,7 +172,7 @@ A short pushback instruction shall require the aircraft to complete the pushback
 
 > **Pilot:** SVA123, Stand C3, requesting pushback.
 
-> **GMP:** SVA123, Short Pushback Approved, Face West on WA.
+> **SMC:** SVA123, Short Pushback Approved, Face West on WA.
 
 ##### 3.1.3.3 Long Push-back
 A long pushback instruction shall require aircraft to complete the pushback operation more then two stands away from where the pushback was commenced. This manoeuvre may be used when an aircraft is vacating a stand to be used by another aircraft that is taxing in.
@@ -179,16 +181,16 @@ A long pushback instruction shall require aircraft to complete the pushback oper
 
 > **Pilot:** SVA123, Stand C3, request pushback.
 
-> **GMP:** SVA123, Long Pushback Approved, Face West on WA.
+> **SMC:** SVA123, Long Pushback Approved, Face West on WA.
 
 !!! info "Be Specific!"
     If you desire to provide precise instructions regarding the end point of the pushback, you can use the following phraseology to instruct the aircraft to halt at a specific position:
 
-    > **GMP:** SVA123, Long Pushback Approved, Face North on LA, Finish Abeam stand XX.
+    > **SMC:** SVA123, Long Pushback Approved, Face North on LA, Finish Abeam stand XX.
 
     *or if you wish the aircraft keeps a taxiway clear*
 
-    > **GMP:** SVA123, Long Pushback Approved, Face North on LA, Stay Clear of Taxiway XX.
+    > **SMC:** SVA123, Long Pushback Approved, Face North on LA, Stay Clear of Taxiway XX.
 
 ##### 3.1.3.4 Conditional Push-back
 
@@ -198,14 +200,14 @@ An example of such an instruction is as follows:
 
 > **Pilot:** SVA123, Stand C3, request pushback.
 
-> **GMP:** SVA123, Behind the Qatari B777 passing from your right to left, push & start approved, face east on WA. Behind.
+> **SMC:** SVA123, Behind the Qatari B777 passing from your right to left, push & start approved, face east on WA. Behind.
 
 !!! info "Airline"
     When giving the clearance, the "airline" should be mentioned and not "callsign". 
 
     For example:
 
-    > **GMP:** SVA123, Behind the **Britsh Airways** (~~Speedbird~~) B777 passing from your right to left, push & start approved, face east on WA. Behind.
+    > **SMC:** SVA123, Behind the **Britsh Airways** (~~Speedbird~~) B777 passing from your right to left, push & start approved, face east on WA. Behind.
 
     ---
 
@@ -303,13 +305,13 @@ This allows for a smooth and immediate transfer of traffic to the appropriate gr
 #####  3.2.4.1 34 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M4A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to SMC 2 |
-|           M6A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to SMC 2 |
-|           M7A          | 34R    |  M, S, L **Hold Short of MA** | AIR 2 to SMC 2 |
-|           M7B          | 34R    |    M, R **Hold Short of J**   | AIR 2 to SMC 3 |
-|           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to SMC 1 |
-|           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to SMC 1 |
-|           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to SMC 1 |
+|           M4X          | 34R    | M, MA, L **Hold Short of V**  | AIR E to SMC E |
+|           M6X          | 34R    | M, MA, L **Hold Short of V**  | AIR E to SMC E |
+|           M7X          | 34R    |  M, S, L **Hold Short of MA** | AIR E to SMC E |
+|           M7O          | 34R    |    M, R **Hold Short of J**   | AIR E to SMC C |
+|           B3X          | 34L    |     B **Hold Short of B5**    | AIR W to SMC W |
+|           B5X          | 34L    | D5, D3-W **Hold Short of B5** | AIR W to SMC W |
+|           B5O          | 34L    |     B **Hold Short of D6**    | AIR W to SMC W |
 <p style="text-align: center; font-style: italic;">
 Table 3.2.5 - 34 Arrival Taxi Routes
 </p>
@@ -320,11 +322,11 @@ Table 3.2.5 - 34 Arrival Taxi Routes
 #####  3.2.4.2 16 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M5A         | 16L    | M  **Hold Short of MB**  | AIR 2 to SMC 2 |
-|           M3A          | 16L    | M **Hold Short of MD**  | AIR 2 to SMC 2 |
-|           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to SMC 1 |
-|           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to SMC 1 |
-|           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to SMC 1 |
+|           M5X         | 16L    | M  **Hold Short of MB**  | AIR E to SMC E |
+|           M3X          | 16L    | M **Hold Short of MD**  | AIR E to SMC E |
+|           B4X         | 16R    |  B **Hold Short of R** | AIR W to SMC W |
+|           B2X          | 16R    |   B **Hold Short of B1**   | AIR W to SMC W |
+|           B2O          | 16R    |     B, T, C **Hold Short of S**    | AIR W to SMC W |
 <p style="text-align: center; font-style: italic;">
 Table 3.2.6 - 16 Arrival Taxi Routes
 </p>
@@ -343,7 +345,7 @@ Figure 3.2.1 - Arrival Taxi Routes Diagram
 
 #### 3.2.5  Arrival Taxi Procedures
 ##### 3.2.5.1 General Arrival Taxi Procedures
-SMC 1 should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
+SMC W should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
 
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow the designated ATR and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 
