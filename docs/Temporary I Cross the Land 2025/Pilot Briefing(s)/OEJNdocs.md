@@ -25,7 +25,14 @@ Pilots shall comply with the designated **standard terminal arrival route (STAR)
 Furthermore, pilots are kindly requested to ensure they have the most up-to-date **Aeronautical Information Regulation and Control (AIRAC) cycle** installed in their navigation
 database.
 
-### 1.4 IMPORTANT NOTICE!
+!!! danger "IMPORTANT NOTICE!"
+    All pilots flying into **King Abdulaziz International Airport (OEJN)** are hereby reminded that strict familiarization with the aerodrome procedures is mandatory, with particular emphasis on **Arrival Taxi Routes**.
+    
+    - Due to the complexity of the airfield layout, estimated high traffic density, and simultaneous use of multiple runways, any lack of awareness may disturb the arrival flow or result in unnecessary workload for ATC.
+    
+    - Pilots are required to review the latest charts prior to connecting inro the network, ensure full briefing of expected arrival taxi routes, and comply precisely with all ATC instructions without deviation. 
+    
+    - Request clarification **immediately if in doubt**, as failure to adhere to these procedures will not be appreciated and may compromise the safe and orderly flow of traffic at OEJN.
 
 
 ---
@@ -187,8 +194,8 @@ Fly the published missed approach unless otherwise instructed by ATC.
 ### 3.4 Arrival Taxi Procedure
 All aircraft participating in the event will be allocated a parking stand relative to the arrival runway.
 
-- **For aircraft vacating Runway 34R** <br> they can expect to be assigned Vacating Point **M7** by AIR 2 (Tower East). They will then be provided with an Arrival Taxi Route of **M7X** or **M7O**. Control will be handed over to GMC 2 (Ground East), where the GMC controller will guide them via taxiway L or R then hold short of V, After the handoff, APN E (Apron East) will guide them to the assigned stand.
-- **For aircraft vacating Runway 34L** <br> they should anticipate being assigned Vacating Point B5 by AIR 1. The assigned Arrival Taxi Route will be **B5X** or **B5O**, guiding them to Apron 1, 2, 3, 4, 5, 7 via taxiways B or C.
+- **For aircraft vacating Runway 34R** <br> They can expect to be assigned Vacating Point **M7** by AIR 2 (Tower East). They will then be provided with an Arrival Taxi Route of **M7X** or **M7O**. Control will be handed over to GMC 2 (Ground East), where the GMC controller will guide them via taxiway L or R then hold short of V, After the handoff, APN E (Apron East) will guide them to the assigned stand.
+- **For aircraft vacating Runway 34L** <br> They should anticipate being assigned Vacating Point B5 by AIR 1. The assigned Arrival Taxi Route will be **B5X** or **B5O**, guiding them to Apron 1, 2, 3, 4, 5, 7 via taxiways B or C.
 <p style="text-align: center; font-style: italic;">
 To be continued
 </p>
