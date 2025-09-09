@@ -148,7 +148,7 @@ they can anticipate receiving radar vectors from air traffic control upon arriva
 vectors given by APP 1/FIN will guide them along the appropriate route instead of following
 the predefined RNAV STAR.
 !!! Info "Beware"
-    When the Terminal Maneuvering Area (TMA) reaches full capacity, pilots can anticipate being directed to unpublished holding patterns at the entry points of VEMEM, BOSUT, MUVOL, and NOMDA
+    When the **Terminal Maneuvering Area (TMA)** reaches full capacity, pilots can anticipate being directed to unpublished holding patterns at the entry points of **VEMEM, BOSUT, MUVOL**, and **NOMDA**.
 
 ### 3.3 Runway Operations
 #### 3.3.1 Declared Distances (Landing)
