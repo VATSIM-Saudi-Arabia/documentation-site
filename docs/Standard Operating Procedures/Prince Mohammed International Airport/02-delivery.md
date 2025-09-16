@@ -184,7 +184,7 @@ There are no specific restrictions, designated VFR routes, or prescribed exit po
 !!! info "Do note"
     VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
 
-#### 2.3.2.1 Phrasesolgy
+##### 2.3.2.1 Phrasesolgy
 
 > **GMP:** _HAZAZ, Cleared VFR to Jeddah, Runway 36, SQWK 3423_
 
