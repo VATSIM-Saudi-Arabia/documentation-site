@@ -16,10 +16,10 @@ title: General Information
 ### Runway Characteristics
 | **Runway** | **Dimensions(m)** | **True Bearing** | **Elevation** | **Slope** |
 |:----------:|:-----------------:|:----------------:|:-------------:|:---------:|
-|     17     |     4335 x 60     |        165       |      2063     |    0.0%   |
-|     35     |     4335 x 60     |        345       |      2063     |    0.0%   |
-|     18     |     3050 x 45     |        180       |      2059     |    0.0%   |
-|     36     |     3050 x 45     |        360       |      2059     |    0.0%   |
+|     17     |     4335 x 60     |        165       |      2063     |  -0.78%   |
+|     35     |     4335 x 60     |        345       |      2063     |  +0.15%   |
+|     18     |     3050 x 45     |        180       |      2059     |  -0.84%   |
+|     36     |     3050 x 45     |        360       |      2059     |  +0.33%   |
 
 ### Declared Distances
 | **Runway** | **TORA(m)** | **TODA(m)** | **ASDA(m)** | **LDA(m)** |
@@ -35,9 +35,9 @@ title: General Information
 ### Airspaces
 |         Airspace Type         |     Airspace      | Class | Vertical Limits |  Controller  |
 | :---------------------------: | :---------------: | :---: | :-------------: | :----------: |
-|       **Control Zone**        |    Medina CTR     |   D   |  SFC - 3000ft   |      AIR     |
+|       **Control Zone**        |    Medina CTR     |   D   |  SFC - 5500ft   |      AIR     |
 | **Terminal Maneuvering Area** |    Medina TMA     |   C   |  700ft - FL155  |      APP     |
-|       **Control Area**        |    Medina CTA     |   A   |  FL145 - FL600  |      CTR     |
+|       **Control Area**        |    Medina CTA     |   A   |  FL150 - FL245  |      CTR     |
 
 ## ATS Callsigns
 |     **Radio Callsign**      | **Logon Callsign** | **Abbreviation** | **Frequency (MHz)** |

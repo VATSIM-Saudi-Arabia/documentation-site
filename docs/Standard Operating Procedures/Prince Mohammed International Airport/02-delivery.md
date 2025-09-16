@@ -80,8 +80,6 @@ It is important to note that these radar departures should only be utilized when
     > **GMP -> APP:** _APP, SVA123 is an A320 requesting approval for MADINAH 1T._
 
     > **APP -> GMP:** _GMP, MADINAH 1T approved._
-!!! tip
-    When giving Radar Departures, type **"RDEP"** in the scratch pad so upper controllers don't forget and you too!
 
 ##### 2.2.2.3 Omni-Directional Departures
 Omnidirectional departures can be issued in coordination with AIR & APP.
@@ -106,7 +104,7 @@ An Omnidirectional departure clearance shall contain the following information:
 !!! Do note
     The pilot can receive an initial heading as part of the departure clearance, but it should only be given if instructed by AIR & APP.
 
-Phraseology
+##### 2.2.2.4 Phraseology
 > **GMP:** _SVA123, Cleared Riyadh as filed, After departure, Maintain Runway Heading, Runway 35, Initial Climb 8000ft, SQWK XXXX_
 
 **_OR_**
@@ -127,6 +125,9 @@ Phraseology
     **_OR_**
 
     > **APP -> GMP:** _GMP, Omni-Directional approved, Runway heading/Left Turn heading 310 after departure_ | **(Use Maintain Runway Heading/Assigned heading in Clearance)*
+
+!!! tip
+    When giving Radar Departures, type **"RDEP"** or **"OMNI"** in the scratch pad so upper controllers don't forget and you too!
 
 #### 2.2.3 Rerouting Traffic
 The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP. The GMP should utilize the RouteChecker tool for this purpose.
@@ -154,6 +155,41 @@ Refer to [Supplementary Guides - Flow Management Procedures](/docs/sup/Special%2
 
 ### 2.3 VFR Clearances
 GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, GMP must coordinate with AIR.
+
+#### 2.3.1 VFR Circuits
+|     **Runway Configuration**      |  **Direction**  | **Altitude(s)** |
+| :-------------------------------: | :-------------: | :-------------: |
+|               35/36               |    Right Hand   |    1500ft AGL   |
+|               17/18               |    Left Hand    |    1500ft AGL   |
+
+!!! info "Jet Engine Aircrafts"
+    Jet engine aircraft must receive clearance to conduct circuits maintaining ***1500/2000 feet***.
+
+##### 2.3.1.1 Phrasesolgy
+> **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 35, Make a right hand circuit, climb to 1500ft, SQWK XXXX._
+
 <p style="text-align: center; font-weight: bold; font-style: italic;">
-  To be continued
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
 </p>
+
+> **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal/Jet Aircraft)_**
+
+#### 2.3.2 VFR Crosscountry
+Any VFR aircraft leaving the control zone at Medinah is considered to be engaging in cross-country VFR flight.
+
+Prior to granting clearance for cross-country VFR traffic, coordination with the AIR and APP is required.
+
+There are no specific restrictions, designated VFR routes, or prescribed exit points for VFR departures leaving the control zone at Medinah.
+
+!!! info "Do note"
+    VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
+
+#### 2.3.2.1 Phrasesolgy
+
+> **GMP:** _HAZAZ, Cleared VFR to Jeddah, Runway 36, SQWK 3423_
+
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
+
+> **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal)_**
