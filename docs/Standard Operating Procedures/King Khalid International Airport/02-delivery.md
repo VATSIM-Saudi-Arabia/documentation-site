@@ -129,10 +129,10 @@ Refer to [Supplementary Guides - Flow Management Procedures](/docs/sup/Special%2
 GMP is responsible for issuing VFR Clearances as well. 
 ### 2.3.1 VFR Circuits
 
-|     **Runway**      | **Direction** |   **Altitude(s)**            |
-| :--: | :------------: | :-----------: |
-| 33R/15R |   Right Hand   |     3500ft     |
-| 33L/15L |   Left Hand    |     3500ft     |
+|     **Runway**      | **Direction**  |        **Altitude(s)**       |
+| :-----------------: | :------------: | :--------------------------: |
+|       33R/15R       |   Right Hand   |             3500ft           |
+|       33L/15L       |   Left Hand    |             3500ft           |
 
 #### 2.3.1.2 Phrasesolgy
 

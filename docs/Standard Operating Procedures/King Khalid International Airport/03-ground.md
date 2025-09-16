@@ -144,56 +144,56 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 ##### 3.2.1.1 33s Departure Taxi Procedures
 
 |       **Apron**      | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:--------------------:|:--------------------:|:-------------------------:|:------------:|:------------------:|
-|      **Aprons 2,3,4 & 5** |         G1/G        |          T,R,S         |     T/R/S, G    |     _Passing T_    |
-|      **Apron 6**   |         G1/G        |        V/F        |     V/F, G1     |     _Immediate_    |
-|      **Apron C**  |         G1/G       |           N           |   N, G     |   _Passing by T_  |
-| **Aprons 7 & 9** |        G1/G        |            J/Q           |     A, T, G, G1     |    _Passing T_    |
-|      **Apron G**  |         H1        |             H2            |  H2, H, H1 |    _Taxing on H_    |
+|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
+| **Aprons 2,3,4 & 5** |         G1/G         |           T,R,S           |    T/R/S, G  |      _Passing T_     |
+|      **Apron 6**     |         G1/G         |            V/F            |    V/F, G1   |      _Immediate_     |
+|      **Apron C**     |         G1/G         |             N             |     N, G     |     _Passing by T_   |
+|   **Aprons 7 & 9**   |         G1/G         |            J/Q            |  A, T, G, G1 |      _Passing T_     |
+|      **Apron G**     |          H1          |             H2            |   H2, H, H1  |    _Taxing on H_     |
 
 ##### 3.2.1.2 15s Departure Taxi Procedures
 
 |       **Apron**      | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:--------------------:|:--------------------:|:-------------------------:|:------------:|:------------------:|
-|      **Aprons 2,3,4 & 5** |         G7/G        |          T,R,S         |     T/R/S, G    |     _Passing P_    |
-|      **Apron 6**   |         G7/G        |        V/U        |     V/U, G    |     _Passing P_    |
-|      **Apron C**  |         G7/G       |           N           |   N    |  _Immediate_ |
-|      **Apron G**  |         H4       |             H3           |  H3, H, H4 |    _Taxing on H_    |
+|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
+| **Aprons 2,3,4 & 5** |         G7/G        |            T,R,S           |    T/R/S, G  |      _Passing P_     |
+|      **Apron 6**     |         G7/G        |             V/U            |     V/U, G   |      _Passing P_     |
+|      **Apron C**     |         G7/G        |              N             |       N      |      _Immediate_     |
+|      **Apron G**     |          H4         |              H3            |   H3, H, H4  |     _Taxing on H_    |
 
 ##### 3.2.1.1 33s Departure Taxi Procedures
 
-|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
-|    **General Aviation**   |      Apron G     | A, P, H| A, **Hold Short of P** |
+|          **Type**        |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:------------------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|**International Airlines**| Aprons 2,3,4 & 5 |              A, P, E               |   A, **Hold Short of P**   |
+|  **Domestic & Lowcost**  |      Apron 6     |              A, T, D               |   A, **Hold Short of T**   |
+|     **Royal Aprons**     |   Aprons 7 & 9   |              A, J/Q                |             N/A            |
+|     **Cargo Aprons**     |      Apron C     |              A, P, E               |   A, **Hold Short of P**   |
+|   **General Aviation**   |      Apron G     |              A, P, H               |   A, **Hold Short of P**   |
 
 ##### 3.2.1.2 15s Departure Taxi Procedures
 
-|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
+|         **Type**         |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:------------------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|**International Airlines**| Aprons 2,3,4 & 5 |               A, P, E              |   A, **Hold Short of P**   |
+|  **Domestic & Lowcost**  |      Apron 6     |               A, T, D              |   A, **Hold Short of T**   |
+|     **Royal Aprons**     |    Aprons 7 & 9  |               A, J/Q               |             N/A            |
+|     **Cargo Aprons**     |      Apron C     |               A, P, E              |   A, **Hold Short of P**   |
 
 
 ---
 #### 3.2.3 Stand Allocation Procedure
 Stands are assigned by the GRPlugin in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
 
-| **Aprons** |                         **Airlines**                        |
+|       **Aprons**       |                         **Airlines**                        |
 |:----------------------:|:-----------------------------------------------------------:|
-|         Apron 2        |           International Airlines          |
-|         Apron 3        | International Airlines (Iraqi, Sun air, Ariana Afghan ) |
-|    Apron 4   |                        International Airlines                        |
-|       Apron 5      |                            Saudi Airline (International Flights)                             |
-|         Apron 6       |                            Domestic & Lowcost (Flynas, Flyadeal, Saudi)                            |
-|        Apron 7 & 9        |                   Royal Aprons                   |
-|        Apron C        |                          Cargo Flights                           |
-|         Apron G        |                       General Aviation                      |
+|         Apron 2        |                     International Airlines                  |
+|         Apron 3        |   International Airlines (Iraqi, Sun air, Ariana Afghan )   |
+|         Apron 4        |                     International Airlines                  |
+|         Apron 5        |               Saudi Airline (International Flights)         |
+|         Apron 6        |         Domestic & Lowcost (Flynas, Flyadeal, Saudi)        |
+|         Apron 7 & 9    |                           Royal Aprons                      |
+|         Apron C        |                           Cargo Flights                     |
+|         Apron G        |                          General Aviation                   |
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
 Table 3.2.4 - Stand Allocation Procedure

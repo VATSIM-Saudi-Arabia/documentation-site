@@ -142,14 +142,14 @@ The below procedures are considered as standard and no coordination is required 
  ### 4.1 Departure procedures
  ####    4.1.1. Departure points
 
- |       **Runway**       |     **Departure point**     |
-|:------------------------:|:-----------------------:|
-|        34L       |        B1 / U       |
-|        34C       |        G1, G2 / H1, H2       |
-|        34R       |        M1, M2 / N1       |
-|        16L       |        M8, M9 / N9       |
-|        16C       |        G6 / H7       |
-|        16R       |        A7 / B7       |
+|       **Runway**       |   **Departure point**   |
+|:----------------------:|:-----------------------:|
+|            34L         |         B1 / U          |
+|            34C         |     G1, G2 / H1, H2     |
+|            34R         |       M1, M2 / N1       |
+|            16L         |       M8, M9 / N9       |
+|            16C         |         G6 / H7         |
+|            16R         |         A7 / B7         |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.1. - Departure points
 </p>
@@ -212,11 +212,11 @@ closest taxiway parallel to the active runway and hand off the aircraft to Groun
 #### 4.2.1. Preferred exit points
 
 |       **Runway**       |     **Exit points**     |
-|:------------------------:|:-----------------------:|
-|        34L       |        B5, B8 / A5       |
-|        34R       |        M4, M6, M7 / N5       |
-|        16L       |        M3, M5 / N4       |
-|        16R       |        B2, B4 / A2       |
+|:----------------------:|:-----------------------:|
+|           34L          |        B5, B8 / A5      |
+|           34R          |      M4, M6, M7 / N5    |
+|           16L          |        M3, M5 / N4      |
+|           16R          |        B2, B4 / A2      |
 <p style="text-align: center; font-style: italic;">
 Table 4.1.1 - Preferred exit points
 </p>
@@ -261,11 +261,11 @@ Table 4.2.1 - 34 Arrival Taxi Routes
 #####  4.2.2.2. 16 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M5X         | 16L    | M  **Hold Short of MB**  | AIR E to SMC E |
-|           M3X          | 16L    | M **Hold Short of MD**  | AIR E to SMC E |
-|           B4X         | 16R    |  B **Hold Short of R** | AIR W to SMC W |
-|           B2X          | 16R    |   B **Hold Short of B1**   | AIR W to SMC W |
-|           B2O          | 16R    |     B, T, C **Hold Short of S**    | AIR W to SMC W |
+|           M5X          | 16L    |    M  **Hold Short of MB**    | AIR E to SMC E |
+|           M3X          | 16L    |    M **Hold Short of MD**     | AIR E to SMC E |
+|           B4X          | 16R    |    B **Hold Short of R**      | AIR W to SMC W |
+|           B2X          | 16R    |    B **Hold Short of B1**     | AIR W to SMC W |
+|           B2O          | 16R    |  B, T, C **Hold Short of S**  | AIR W to SMC W |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.2 - 16 Arrival Taxi Routes
 </p>
@@ -320,21 +320,21 @@ Example: *“SVA123, fly standard missed approach procedure, climb 4000 feet, co
 
 VRPs are typically marked by prominent landmarks, such as buildings, intersections, or natural features, making them easily identifiable from the air. They are particularly useful in busy airspace, allowing pilots to report their locations accurately, which helps air traffic controllers manage traffic effectively and ensure safety.
 
-| **Ident** |                                                            **Name**                                                            | **Bearing and Distance** | **Coordinates** |
-|:---------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:---------------:|
-| **VRP01** |                                                  University of Jeddah (North)                                                  |  RDL 032 from JDW 13.0NM |    215322.9N 0391525.9E    |
-| **VRP02** |           Highway junctions and intersection of King Abdullah Sports City (0.6 NM East of King Abdullah Sports City)           |  RDL 032 from JDW 4.8 NM |    214643.0N 0391019.0E    |
-| **VRP03** |               Highway junctions and intersection of Airbase (3.2 NM East of King Abdulaziz international airport)              |  RDL 103 from JDW 4.8 NM |    214123.0N 0391223.0E    |
-| **VRP04** |                        Highway junctions and intersection of Tahliya street (0.8 NM East of ALAhli club)                       | RDL 142 from JDW 10.6 NM |    	213405.0N 0391354.0E   |
-| **VRP05** |                              Abruq Al-Rughamah (2.5 NM South East of Jeddah Central train station)                             | RDL 142 from JDW 14.8 NM |    	213026.2N 0391625.9E    |
-| **VRP06** | Makkah - Jeddah Highway junctions East of Prince Abdullah Al Faisal Stadium (0.5 NM East of Prince Abdullah Al Faisal Stadium) | RDL 151 from JDW 17.5 NM |    212655.0N 0391532.0E    |
-| **VRP07** |                      King Abdul Aziz road junctions and intersection of Tahliya street (King’s Road Tower)                     |  RDL 176 from JDW 9.9 NM |    	213247.9N 0390738.6E    |
-| **VRP08** |                King Abdul Aziz road junctions and intersection of Hira street (Bank Al Jazira, the Head Office)                |  RDL 175 from JDW 6.4 NM |    	213622.3N 0390714.2E    |
-| **VRP09** |                                               Marine Sciences roundabout (Abhor)                                               |  RDL 252 from JDW 1.1 NM |    	214228.0N 0390612.0E    |
-| **VRP10** |                                 Prince Abdulmajeed street West of King Abdullah Medical Complex                                |  RDL 317 from JDW 4.0 NM |   214548.0N 0390438.0E    |
-| **VRP11** |                                Prince Abdulmajeed street North of King Abdullah Medical Complex                                |  RDL 336 from JDW 5.1 NM |   214727.0N 0390529.0E   |
-| **VRP12** |          Prince Abdulmajeed street junctions and intersection of Madinah road (East of King Abdullah Medical Complex)          |  RDL 356 from JDW 5.0 NM |    214747.0N 0390718.0E    |
-| **VRP13** |                                                           Lakes City                                                           |  RDL 320 from JDW 8.7 NM |    214944.0N 0390146.4E   |
+| **Ident** |                                                            **Name**                                                            | **Bearing and Distance** |    **Coordinates**   |
+|:---------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:--------------------:|
+| **VRP01** |                                                  University of Jeddah (North)                                                  |  RDL 032 from JDW 13.0NM | 215322.9N 0391525.9E |
+| **VRP02** |           Highway junctions and intersection of King Abdullah Sports City (0.6 NM East of King Abdullah Sports City)           |  RDL 032 from JDW 4.8 NM | 214643.0N 0391019.0E |
+| **VRP03** |               Highway junctions and intersection of Airbase (3.2 NM East of King Abdulaziz international airport)              |  RDL 103 from JDW 4.8 NM | 214123.0N 0391223.0E |
+| **VRP04** |                        Highway junctions and intersection of Tahliya street (0.8 NM East of ALAhli club)                       | RDL 142 from JDW 10.6 NM | 213405.0N 0391354.0E |
+| **VRP05** |                              Abruq Al-Rughamah (2.5 NM South East of Jeddah Central train station)                             | RDL 142 from JDW 14.8 NM | 213026.2N 0391625.9E |
+| **VRP06** | Makkah - Jeddah Highway junctions East of Prince Abdullah Al Faisal Stadium (0.5 NM East of Prince Abdullah Al Faisal Stadium) | RDL 151 from JDW 17.5 NM | 212655.0N 0391532.0E |
+| **VRP07** |                      King Abdul Aziz road junctions and intersection of Tahliya street (King’s Road Tower)                     |  RDL 176 from JDW 9.9 NM | 213247.9N 0390738.6E |
+| **VRP08** |                King Abdul Aziz road junctions and intersection of Hira street (Bank Al Jazira, the Head Office)                |  RDL 175 from JDW 6.4 NM | 213622.3N 0390714.2E |
+| **VRP09** |                                               Marine Sciences roundabout (Abhor)                                               |  RDL 252 from JDW 1.1 NM | 214228.0N 0390612.0E |
+| **VRP10** |                                 Prince Abdulmajeed street West of King Abdullah Medical Complex                                |  RDL 317 from JDW 4.0 NM | 214548.0N 0390438.0E |
+| **VRP11** |                                Prince Abdulmajeed street North of King Abdullah Medical Complex                                |  RDL 336 from JDW 5.1 NM | 214727.0N 0390529.0E |
+| **VRP12** |          Prince Abdulmajeed street junctions and intersection of Madinah road (East of King Abdullah Medical Complex)          |  RDL 356 from JDW 5.0 NM | 214747.0N 0390718.0E |
+| **VRP13** |                                                           Lakes City                                                           |  RDL 320 from JDW 8.7 NM | 214944.0N 0390146.4E |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.3 - Jeddah VRPs
 </p>
@@ -380,10 +380,10 @@ Once the traffic has entered the control zone, further intructions to direct to 
 
 #### 4.3.4. VFR circuits
 
-|     **Runway Configuration**      | **Direction** |   **Altitude(s)**            |
-| :--: | :------------: | :-----------: |
-| 34s |   Right Hand   |     1500ft     |
-| 16s |   Left Hand    |     1500ft     |
+|     **Runway Configuration**      |  **Direction** | **Altitude(s)** |
+| :-------------------------------: | :------------: | :-------------: |
+|                 34s               |   Right Hand   |      1500ft     |
+|                 16s               |    Left Hand   |      1500ft     |
 
 !!! info "Jet Engine Aircrafts"
     Jet engine aircraft must  conduct circuits on the **western side of Runway 34L/16R** or the **eastern side of Runway 34R/16L**, maintaining ***1500 feet***.
