@@ -130,12 +130,12 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 ##### 3.2.1.2 17/18 Departure Taxi Procedures
 |       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
 |:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-|     **Apron 103-120**    |        Runway 35        |         J7/J8        |           K/W/N           |       J      |      Immediate       |
-|     **Apron 121-126**    |        Runway 35        |         J7/J8        |             P             |       J      |      Immediate       |
-|     **Apron 127-131**    |        Runway 35        |         J7/J8        |             P             |       J      |      Immediate       |
-|     **Apron 132-135**    |        Runway 35        |         J7/J8        |             P             |       J      |      Immediate       |
-|       **GA Apron**       |        Runway 36        |         D, D1        |             S             |      S,D     |     Passing by R     |
-|      **Royal Apron**     |        Runway 36        |         D, D1        |             R             |      R,D     |      Immediate       |
+|     **Apron 103-120**    |        Runway 17        |         J7/J8        |           K/W/N           |       J      |      Immediate       |
+|     **Apron 121-126**    |        Runway 17        |         J7/J8        |             P             |       J      |      Immediate       |
+|     **Apron 127-131**    |        Runway 17        |         J7/J8        |             P             |       J      |      Immediate       |
+|     **Apron 132-135**    |        Runway 17        |         J7/J8        |             P             |       J      |      Immediate       |
+|       **GA Apron**       |        Runway 18        |         D, D1        |             S             |      S,D     |     Passing by R     |
+|      **Royal Apron**     |        Runway 18        |         D, D1        |             R             |      R,D     |      Immediate       |
 
 #### 3.2.2 Stand Allocation Procedure
 Stands are assigned by the SAUControllerPack in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
