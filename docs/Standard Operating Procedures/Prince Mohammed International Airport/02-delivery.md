@@ -8,6 +8,9 @@ toc_max_heading_level: 5
 !!! success "Covering"
     This section details all the necessary Standard Operating Procedures for Delivery Operations in **Prince Mohammed bin Abdulaziz International Airport (OEMA)**
 
+!!! Warning "Disclaimer"
+    Medinah does not have GMP position, thus it's covered by the Ground controller.
+
 ## 1. General Provisions
 **Medinah Ground (OEMA_GND)** is entrusted with the task of validating routes and providing IFR/VFR clearances to departing aircraft. This involves carefully reviewing the flight plan and cross-verifying the accuracy of the filed route, assigned level, and departure procedure. In situations where any inconsistencies, errors, or invalid information are identified, the controller must rectify the errors and issue a reclearance.
 
