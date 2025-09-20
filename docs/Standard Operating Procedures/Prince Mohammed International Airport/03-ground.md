@@ -155,7 +155,7 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 ##### 3.2.2.2 35/36 Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
 |:----------------------------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|        **Domestic & Lowcost**      |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|           **Royal Aprons**         |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|         **General Aviation**       |      Apron G     | A, P, H| A, **Hold Short of P** |
+|     **International Airlines**     |    East Apron    |              J3, W, L              |            **W**           |
+|       **Domestic & Lowcost**       |    East Apron    |              J3, W, L              |            **W**           |
+|          **Royal Aprons**          |    West Apron    |                  A, J/Q            |         N/A        |
+|        **General Aviation**        |    West Apron    | A, P, H                            | A, **Hold Short of P** |
