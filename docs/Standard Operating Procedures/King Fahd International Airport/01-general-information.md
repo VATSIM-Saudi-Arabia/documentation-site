@@ -18,9 +18,8 @@ title: General Information
 
 **Runway 34R/16L** is commonly used by both commercial and private aviation. Specifically, it is known to be utilized by private aviation operators and **Saudi Aramco**. The availability of this runway caters to the needs of private aircraft and supports the operations of Aramco, contributing to the overall aviation activities at OEDF.
 
-::::info **Fun Fact**
-**Saudi Aramco** is the state-owned oil company of Saudi Arabia, which conducts its main operations in Dammam, strategically situated near Abqaiq, home to the country's largest oil reserve.
-::::
+!!! info "Fun Fact"
+    **Saudi Aramco** is the state-owned oil company of Saudi Arabia, which conducts its main operations in Dammam, strategically situated near Abqaiq, home to the country's largest oil reserve.
 
 ### 1.1.1 Runway Characteristics
 

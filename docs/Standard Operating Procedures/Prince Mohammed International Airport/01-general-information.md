@@ -2,7 +2,7 @@
 title: General Information
 ---
 
-**Prince Mohammed bin Abdulaziz International Airport** is the main airport serving the holy city of Medina, Saudi Arabia. Located about 15 kilometers northeast of the city center, it is one of the kingdom’s most important gateways, particularly during the annual Hajj and Umrah seasons, when millions of Muslim pilgrims travel to Medina to visit the Prophet’s Mosque. The airport was first opened in 1977, but underwent a major expansion and modernization in 2015, making it the first airport in Saudi Arabia to be fully privatized under a build-operate-transfer (BOT) model.
+**Prince Mohammed bin Abdulaziz International Airport** is the main airport serving the holy city of Medina, Saudi Arabia. Located about 15 kilometers northeast of the city center, it is one of the kingdom’s most important gateways, particularly during the annual Hajj and Umrah seasons, when millions of Muslim pilgrims travel to Medina to visit the Prophet’s Mosque. The airport was first opened in 1950, but underwent a major expansion and modernization in 2015, making it the first airport in Saudi Arabia to be fully privatized under a build-operate-transfer (BOT) model.
 
 ---
 ## Aerodrome Details
