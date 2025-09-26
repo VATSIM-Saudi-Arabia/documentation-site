@@ -44,9 +44,9 @@ In Medinah, the standard GACA phrasesology is used. For IFR Clearances, the foll
 
 > **GMP:** _SVA123, Cleared Riyadh as filed, MEDRO1K Departure, Runway 35, Initial Climb 8000ft, SQWK XXXX_
 
-<div className="center-align">
-  <p>--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------</p>
-</div>
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
 
 > **GMP:** _SVA123, Readback Correct, Information A, Report ready for push and start_
 
@@ -102,9 +102,9 @@ An Omnidirectional departure clearance shall contain the following information:
 
 > **GMP:** _SVA123, Cleared Riyadh as filed, Expect Radar Vectors, Runway 35, Initial Climb 8000ft, SQWK XXXX_
 
-<div className="center-align">
-  <p>--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------</p>
-</div>
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
 
 > **GMP:** _SVA123, Readback Correct, Information A, Report ready for push and start_
 

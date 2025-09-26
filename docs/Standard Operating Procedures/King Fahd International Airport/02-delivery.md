@@ -55,9 +55,9 @@ In Dammam, the standard GACA phrasesology is used. For IFR Clearances, the follo
 
 > **GMP:** _SVA123, Cleared Jeddah as filed, MIBRA2E Departure, Runway 34L, Initial Climb 4000ft, SQWK XXXX_
 
-<div className="center-align">
-  <p>--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------</p>
-</div>
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
 
 > **GMP:** _SVA123, Readback Correct, Information A, Report ready for push and start_
 
@@ -130,9 +130,9 @@ An Omnidirectional departure clearance shall contain the following information:
 
 > **GMP:** _SVA123, Cleared Jeddah as filed, Expect Radar Vectors, Runway 34L, Initial Climb 4000ft, SQWK XXXX_
 
-<div className="center-align">
-  <p>--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------</p>
-</div>
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
 
 > **GMP:** _SVA123, Readback Correct, Information A, Report ready for push and start_
 
@@ -223,9 +223,9 @@ Jet engine aircraft, on the other hand, must receive clearance to conduct circui
 
 > **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 34L, Make a left hand circuit and climb to 1500ft, SQWK 2423._
 
-<div className="center-align">
-  <p>--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------</p>
-</div>
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
 
 > **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal)_**
 
@@ -246,8 +246,8 @@ There are no specific restrictions, designated VFR routes, or prescribed exit po
 
 > **GMP:** _HAZAZ, Cleared VFR to Madinah, Runway 34L, SQWK 3423_
 
-<div className="center-align">
-  <p>--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------</p>
-</div>
+<p style="text-align: center; font-weight: bold; font-style: italic;">
+  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
+</p>
 
 > **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal)_**
