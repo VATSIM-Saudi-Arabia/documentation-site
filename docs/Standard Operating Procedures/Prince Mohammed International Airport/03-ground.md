@@ -155,10 +155,18 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 ##### 3.2.3.2 35/36 Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   | **Vacate via** |             **Taxi via**            |   **Initial Taxi By TWR**  |
 |:----------------------------------:|:----------------:|:--------------:|:-----------------------------------:|:--------------------------:|
-|     **International Airlines**     |    East Apron    |      J2/J3     |                 K/W, L              |            **W**           |
-|       **Domestic & Lowcost**       |    East Apron    |      J2/J3     |                 K/W, L              |            **W**           |
-|          **Royal Aprons**          |    West Apron    |       A/B      |                   R                 |            **R**           |
-|        **General Aviation**        |    West Apron    |       A/B      |                   S                 |            **S**           |
+|     **International Airlines**     |    East Apron    |    J4/J5 [35]  |                 N/W, L              |            **W**           |
+|       **Domestic & Lowcost**       |    East Apron    |    J4/J5 [35]  |                 N/W, L              |            **W**           |
+|          **Royal Aprons**          |    West Apron    |        H [36]  |                 D, R                |            **D**           |
+|        **General Aviation**        |    West Apron    |        H [36]  |                 D, S                |            **D**           |
+
+##### 3.2.3.2 17/18 Arrival Taxi Procedures
+|               **Type**             |    **Taxi to**   | **Vacate via** |             **Taxi via**            |   **Initial Taxi By TWR**  |
+|:----------------------------------:|:----------------:|:--------------:|:-----------------------------------:|:--------------------------:|
+|     **International Airlines**     |    East Apron    |    J2/J3 [17]  |                 K/W, L              |            **W**           |
+|       **Domestic & Lowcost**       |    East Apron    |    J2/J3 [17]  |                 K/W, L              |            **W**           |
+|          **Royal Aprons**          |    West Apron    |      A/B [18]  |                 D, R                |            **D**           |
+|        **General Aviation**        |    West Apron    |      A/B [18]  |                 D, S                |            **D**           |
 
 #### 3.2.4 Taxi Diagrams
 ##### 3.2.4.1 Legend
