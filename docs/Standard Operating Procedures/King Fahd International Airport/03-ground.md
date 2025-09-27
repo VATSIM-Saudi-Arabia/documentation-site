@@ -1,78 +1,171 @@
 ---
-title: "[GND] Ground"
+title: "Dammam Ground [GND]"
+toc_min_heading_level: 2
+toc_max_heading_level: 5
 ---
 # Dammam Ground [OEDF_X_GND]
 
-This section details all the necessary Standard Operating Procedures for Ground Operations in **King Fahd International Airport (OEDF)**
+!!! success "Covering"
+    This section details all the necessary Standard Operating Procedures for Ground Operations in **King Fahd International Airport (OEDF)**
 
-NOT FULLY DETAILED. USE AS QRH.
+## 1. General Provisions
+The Dammam Ground manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
+
 ---
 
-# 1. General Provisions
-
-**Dammam Ground (OEJN_1_GND)** is responsible for controlling the aerodrome's aprons and taxiways.
-
+## 2. Designated Areas of Responsiblity
 **King Fahd International Airport (OEDF)** features two primary Ground Movement Control (SMC) positions, namely **SMC 1** and **SMC 2**. The responsibilities and areas of control for each position are outlined as follows:
-
 ![Loading](imgs/aor.png)
 
-# 2. Push-back Procedures
+### 2.1 SMC 1 [Dammam Ground]
+Dammam Ground (1) covers western side of the aerodrome which includes the following aprons and its assoicasted taxiways:
+
+- Apron 1 [Passenger Terminal]
+- Apron 2 [Cargo Terminal]
+
+!!! info "Bandbox Position"
+    **Dammam Ground [OEDF_1_GND]** is the Bandbox Position for ground operations at King Fahd International Airport. This means that when other Ground Movement Control (SMC) positions are offline, OEDF_1_GND is responsible for controlling all aprons and taxiways.
+
+### 2.2 SMC 2 [Dammam Ground]
+Dammam Ground (2) covers the eastern side of the aerodrome which includes the following aprons and its assoicasted taxiways:
+
+- Apron 5 [Aramco Hanger]
+- Apron 8 [Royal Terminal]
+
+## 3. Procedures
+The below procedures are considered as standard and no coordination is required to employ them, except where explicitly required.
+
+!!! caution 
+    Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
+
+### 3.1 Push-back Procedures
 
 Aircraft are issued pushback clearances by the SMC controlling the respective apron that the aircraft is parking at.
 
 Pushback direction is based primarily on aircraft location, runway configuration and the apron's flow directiom.
 
-::::info Apron Flow Direction
-
-The apron's flow direction can be determined by examining the taxiway diagrams outlined in the **[TWR] Tower** section of this aerodrome's SOP.
+#### 3.1.1 Apron Flow Direction
+The apron's flow direction can be determined by examining the taxiway diagrams outlined in the [TWR] Tower section of this aerodrome's SOP.
 
 By looking at the entry and exit taxiways of the apron, it is very obvious what the direction that all traffic should face.
-::::
 
-## 2.1 Push-back Types
-### 2.1.1 Standard Push-back
+|       **Apron(s)**       |           _34L_         |      _16R_      |
+|:------------------------:|:-----------------------:|:---------------:|
+|        **Apron 1**       |        Southbound       |    Northbound   |
+|        **Apron 2**       |        Southbound       |    Northbound   |
+
+#### 3.1.2 Push-back Types
+##### 3.1.2.1 Standard Push-back
 This is the default type of push-back which will normally have the aircraft stop abeam the adjacent stand.
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand C3, requesting pushback.
+> **Pilot:** SVA123, Stand 17, requesting pushback.
 
-> **GMP:** SVA123, Push & Start Approved, Face North on C.
+> **GMP:** SVA123, Push & Start Approved, Face South on C.
 
-::::tip Be helpful!
+!!! tip "Be helpful!"
+    If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
 
-If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
-
-::::
-### 2.1.2 Short Push-back
+##### 3.1.2.2 Short Push-back
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand C3, requesting pushback.
+> **Pilot:** SVA123, Stand 10, requesting pushback.
 
-> **GMP:** SVA123, Short Push & Start Approved, Face North on C.
+> **SMC:** SVA123, Short Pushback Approved, Face South on C.
 
-### 2.1.3 Long Push-back
+##### 3.1.2.3 Long Push-back
 A long pushback instruction shall require aircraft to complete the pushback operation more then two stands away from where the pushback was commenced. This manoeuvre may be used when an aircraft is vacating a stand to be used by another aircraft that is taxing in.
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand C3, requesting pushback.
+> **Pilot:** SVA123, Stand 10, request pushback.
 
-> **GMP:** SVA123, Long Push & Start Approved, Face North on C.
+> **SMC:** SVA123, Long Pushback Approved, Face South on C.
 
-::::info Be Specific!
+!!! info "Be Specific!"
+    If you desire to provide precise instructions regarding the end point of the pushback, you can use the following phraseology to instruct the aircraft to halt at a specific position:
 
-If you desire to provide precise instructions regarding the end point of the pushback, you can use the following phraseology to instruct the aircraft to halt at a specific position:
+    > **SMC:** SVA123, Long Pushback Approved, Face South on C, Finish Abeam stand XX.
 
-> **GMP:** SVA123, Long Push & Start Approved, Face North on C, Finish Abeam stand XX.
+    *or if you wish the aircraft keeps a taxiway clear*
 
-*or if you wish the aircraft keeps a taxiway clear*
+    > **SMC:** SVA123, Long Pushback Approved, Face South on C, Stay Clear of Taxiway XX.
 
-> **GMP:** SVA123, Long Push & Start Approved, Face North on C, Stay Clear of Taxiway XX.
+##### 3.1.2.4 Conditional Push-back
 
-# 3. Taxi Diagrams
+In certain situations, conditional pushback instructions may be given when there is an aircraft taxiing behind another aircraft that is waiting for pushback. This ensures safe coordination and efficient movement on the taxiway. This type of pushback is always prefered to be used when applicable as it saves radio time and eases the controller's job.
+
+An example of such an instruction is as follows:
+
+> **Pilot:** SVA123, Stand 17, request pushback.
+
+> **SMC:** SVA123, Behind the Flynas A320 passing from your left to right, push & start approved, face south on C. Behind.
+
+!!! info "Airline"
+    When giving the clearance, the "airline" should be mentioned and not "callsign". 
+
+    For example:
+
+    > **SMC:** SVA123, Behind the **Qatar Airways** (~~Speedbird~~) B777 passing from your left to right, push & start approved, face south on L. Behind.
+
+    ---
+
+    In addition, if both aircraft involved in the conditional pushback instruction belong to the same airline, it is common to specify the relationship by saying "Behind the Company B777".
+
+!!! caution "Do note."
+    The traffic is only mandated to say "Behind" **once**. The controller is mandated to say it **twice** to ensure the instruction is clear.
+
+##### 3.1.2.5 Simultaneous pushback operations
+Simultaneous pushbacks from neighboring stands may be allowed if aircraft are directed using the pushback types described in section 3.1. The aim is to ensure that once both aircraft have completed their pushback procedures, they will be positioned on the taxiway with one stand between them.
+
+---
+
+### 3.2 Taxi Procedures
+#### 3.2.1 Departure Taxi Procedures
+##### 3.2.1.1 34L/34R Departure Taxi Procedures
+|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
+|        **Apron 1**       |        Runway 34L       |        B1/B2         |           C1/C2           |       B      |      Immediate       |
+|        **Apron 2**       |        Runway 34L       |        B1/B2         |             P1            |       B      |      Immediate       |
+|     **Aramco Apron**     |        Runway 34R       |          J           |             R             |      R, J    |      Immediate       |
+|      **Royal Apron**     |        Runway 34R       |          J           |             J             |       J      |      Immediate       |
+
+##### 3.2.1.2 16L/16R Departure Taxi Procedures
+|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
+|        **Apron 1**       |        Runway 16R       |        B6/B7         |            C3/R           |       B      |      Immediate       |
+|        **Apron 2**       |        Runway 16R       |        B6/B7         |            P1/P2          |       B      |      Immediate       |
+|     **Aramco Apron**     |        Runway 16L       |          J           |             R             |      R, J    |      Immediate       |
+|      **Royal Apron**     |        Runway 16L       |          J           |             J             |       J      |      Immediate       |
+
+#### 3.2.2 Stand Allocation Procedure
+Stands are assigned by the SAUControllerPack in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
+
+|       **Aprons**       |                         **Airlines**                        |
+|:----------------------:|:-----------------------------------------------------------:|
+|         Apron 1        |    Domestic and international airlines (KNE,FAD,SVA,GFA)    |
+|         Apron 2        |                            Cargo                            |
+|      Aramco Apron      |                       Aloula Aviation                       |
+|       Royal Apron      |                            Royal                            |
+
+#### 3.2.3  Arrival Taxi Procedures
+##### 3.2.3.1 General Arrival Taxi Procedures
+SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile. This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
+
+Upon vacating the runway, the Tower controller will instruct the aircraft to follow the designated ATR and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
+
+##### 3.2.3.2 34L/34R Arrival Taxi Procedures
+|               **Type**             |    **Taxi to**   |         **Vacate via**       |             **Taxi via**            |   **Initial Taxi By TWR**  |
+|:----------------------------------:|:----------------:|:----------------------------:|:-----------------------------------:|:--------------------------:|
+|     **Domestic & International**   |      Apron 1     |    B3/B4 [34L] <br> H [34R]  |                B/R, C               |          **B, R**          |
+|              **Cargo**             |      Apron 1     |           B3/B4 [34L]        |                  P2                 |           **P2**           |
+|           **Royal Apron**          |    Royal Apron   |              J2 [34R]        |                 J, R                |           **J**            |
+|         **Aloula Aviation**        |   Aramco Apron   |              J2 [34R]        |                   J                 |           **J**            |
+
+#### 3.2.4 Taxi Diagrams
 # 3.1 34s SRO
 ![Loading](imgs/34.png)
 # 3.2 16s SRO
