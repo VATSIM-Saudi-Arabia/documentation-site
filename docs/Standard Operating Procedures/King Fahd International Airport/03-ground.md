@@ -26,11 +26,21 @@ Dammam Ground (1) covers western side of the aerodrome which includes the follow
 !!! info "Bandbox Position"
     **Dammam Ground [OEDF_1_GND]** is the Bandbox Position for ground operations at King Fahd International Airport. This means that when other Ground Movement Control (SMC) positions are offline, OEDF_1_GND is responsible for controlling all aprons and taxiways.
 
+![Loading](imgs/smc1.png)
+<p style="text-align: center; font-style: italic;">
+Figure 2.1.1 - Dammam Ground 1 AOR
+</p>
+
 ### 2.2 SMC 2 [Dammam Ground]
 Dammam Ground (2) covers the eastern side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron 5 [Aramco Hanger]
 - Apron 8 [Royal Terminal]
+
+![Loading](imgs/smc2.png)
+<p style="text-align: center; font-style: italic;">
+Figure 2.1.2 - Dammam Ground 2 AOR
+</p>
 
 ## 3. Procedures
 The below procedures are considered as standard and no coordination is required to employ them, except where explicitly required.
@@ -161,14 +171,20 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 |               **Type**             |    **Taxi to**   |         **Vacate via**       |             **Taxi via**            |   **Initial Taxi By TWR**  |
 |:----------------------------------:|:----------------:|:----------------------------:|:-----------------------------------:|:--------------------------:|
 |     **Domestic & International**   |      Apron 1     |    B3/B4 [34L] <br> H [34R]  |                B/R, C               |          **B, R**          |
-|              **Cargo**             |      Apron 1     |           B3/B4 [34L]        |                  P2                 |           **P2**           |
+|              **Cargo**             |      Apron 1     |              B4 [34L]        |                  P2                 |           **P2**           |
 |           **Royal Apron**          |    Royal Apron   |              J2 [34R]        |                 J, R                |           **J**            |
 |         **Aloula Aviation**        |   Aramco Apron   |              J2 [34R]        |                   J                 |           **J**            |
 
 #### 3.2.4 Taxi Diagrams
-# 3.1 34s SRO
-![Loading](imgs/34.png)
-# 3.2 16s SRO
-![Loading](imgs/16.png)
+##### 3.2.4.1 Legend
+###### Departures Flow
+![Loading](imgs/blue.png)
+###### Arrivals Flow
+![Loading](imgs/yellow.png)
+###### Cargo Arrivals Flow
+![Loading](imgs/org.png)
 
-## Detailed Procedures In the making
+##### 3.2.4.2 34s SRO
+![Loading](imgs/34.png)
+##### 3.2.4.3 16s SRO
+![Loading](imgs/16.png)
