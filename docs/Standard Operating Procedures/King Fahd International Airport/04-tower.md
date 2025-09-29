@@ -63,7 +63,7 @@ The hierarchy of responsibility for determining the runway configuration is outl
     So as long as there is a tower controller, it is his responsibility to set the active runway and ATIS, if not online, follow the hierarchy above
 
 ### 3.2 Preferential Runway System [PRS]
-In Dammam, the Preferential Runway System is in use. In conditions of slack winds, 35 operation is preferred up to a tailwind component of 6kts.
+In Dammam, the Preferential Runway System is in use. In conditions of slack winds, 34 operation is preferred up to a tailwind component of 6kts.
 
 This is the more efficent configuration, thus it is used as much as possible.
 
@@ -75,7 +75,7 @@ This is the more efficent configuration, thus it is used as much as possible.
     - However, if the TAF does not indicate any expected changes that would warrant a different configuration, default to using the 34 Configs (presumably a reference to a specific set of runway configurations).
 
 ### 3.3 Standard Runway Configuration
-At Prince Mohammed bin Abdulaziz International Airport, standard runway configurations for normal operations are established and ranked in order of preference. 
+At King Fahd International Airport, standard runway configurations for normal operations are established and ranked in order of preference. 
 
 The configurations, listed from most preferred to least preferred, are as follows:
 
@@ -212,7 +212,7 @@ AIR may use a tactical reduction in aircraft speed in order to ensure minimum se
 > **AIR:** *SVA123, reduce to final approach speed.*
 
 ##### 4.2.2.3 Wake turbulence separation minima
-Standard ICAO Separation is enforce in the Dammam CTR.
+Standard ICAO Separation is enforced in the Dammam CTR.
 
 #### 4.2.3 Go around procedure
 
@@ -230,7 +230,7 @@ Once aircraft have acknowledged the instruction and are observed to be safely cl
 
 ###  4.3 VFR procedures
 !!! caution "Do note." 
-    VFR is only allowed at daytime. Night VFR is not permitted in the Medinah Control Zone.
+    VFR is only allowed at daytime. Night VFR is not permitted in the Dammam Control Zone.
 
 #### 4.3.1. Visual Reporting Points (VRPs)
 **Visual Report Points (VRPs)** are specific geographical locations used in aviation to assist pilots in navigation and communication with air traffic control. These points help pilots maintain situational awareness and provide reference points for reporting their position during flight.
