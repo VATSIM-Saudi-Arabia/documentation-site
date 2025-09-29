@@ -289,3 +289,9 @@ Oxford Saudi Flight Academy aircraft operate on visual traffic circuit east of R
 
 !!! info "Jet Engine Aircrafts"
     On request, jet engine aircraft must conduct circuits maintaining ***2000 feet***.
+
+#### 4.3.5 Low Visibility Procedures (LVPs)
+
+- When RVR reading is less than 550 meters, or surface visibility is less than 800 meters when RVR is U/S, or when aircraft ground movement cannot be observed by ATC, aircraft ground movement shall be restricted to one arrival one departure at a time.
+- **Follow me** service shall be provided when requested.
+- All departures shall be from the beginning of the RWY, no intermediate departure is permitted.
