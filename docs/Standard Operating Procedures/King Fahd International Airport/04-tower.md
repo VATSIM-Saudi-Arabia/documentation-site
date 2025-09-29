@@ -189,7 +189,18 @@ Table 4.2.1 - Preferred exit points
 
 On initial contact with AIR, traffic **must** be advised to expect an exit point along with a landing clearance.
 
-> **AIR:** *"SVA123, Plan to vacate J4, winds 340 degrees 10kts, runway 35, cleared to land"*
+> **AIR:** *"SVA123, Plan to vacate B4, winds 340 degrees 10kts, runway 34L, cleared to land"*
+
+!!! info "Do note"
+    **Runway 34R**:
+
+    - All arrival traffic intending to park on **Apron 1** and **Apron 2**, when landing on **RWY34R** are to vacate the runway via **taxiway H** and to hold short of taxiway Romeo, if unable, vacate the runway via the end.
+    
+    - It is not permitted to turn left on **taxiway R** directly from the runway if passing **taxiway H** unless otherwise instructed by ATC.
+
+    **Runway 16L**:
+
+    - All arrival traffic landing on **RWY16L**, after vacating the runway and joining taxiway Juliet intending to park on **Aprons 1 ,2 and 5** shall hold position well before intersection **J3** facing north. ATC will issue further taxi instruction based on traffic situation.
 
 #### 4.2.2 Separation requirements
 ##### 4.2.2.1 General

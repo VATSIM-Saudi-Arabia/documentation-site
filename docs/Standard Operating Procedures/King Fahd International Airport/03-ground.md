@@ -161,6 +161,19 @@ Stands are assigned by the SAUControllerPack in the Euroscope, but controllers s
 |      Aramco Apron      |                       Aloula Aviation                       |
 |       Royal Apron      |                            Royal                            |
 
+!!! warning "Apron 2"
+    **Stand 1**:
+
+    - Taxiway P1 will be CLOSED when aircraft parked at stand 1.
+    - Aircraft code F can use stand 1 and has to use TWY P1 for exit and entrance.
+    - Stand 2 at same ramp will be used by aircraft code C or D while aircraft code F still occupying stand 1.
+
+    **Stand 3**:
+
+    - Aircraft code F can use stand 3 and has to use TWY P2 for exit and entrance.
+    - Taxiway P2 will be CLOSED when aircraft parked at stand 3
+    - Stand 2 at same ramp will be used by aircraft code C or D while aircraft code F still occupying stand 3.
+
 #### 3.2.3  Arrival Taxi Procedures
 ##### 3.2.3.1 General Arrival Taxi Procedures
 SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile. This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
