@@ -174,7 +174,7 @@ GMP may use the following phrasesolgy to reroute traffic.
 
 > **GMP:** SVA123, Cleared Jeddah, MIBRA N687 KIA, Flight plan route, MIBRA2F, Runway 34L, Initial Climb 4000ft, SQWK XXXX
 
-Altough this is allowed, it consumes time on frequency which maybe needed for other traffic on the frequency. Therefore, Rerouting by Private Message is preferred.
+While this is permitted, it occupies valuable airtime that may be required for other traffic. For efficiency, rerouting via Private Message is the preferred method.
 
 ##### 2.2.3.2 Rerouting by private message
 
