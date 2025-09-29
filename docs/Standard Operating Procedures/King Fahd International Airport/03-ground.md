@@ -17,7 +17,7 @@ The **Dammam Ground** manages aircraft movements on aerodrome areas, excluding r
 **King Fahd International Airport (OEDF)** features two primary Service Movement Control (SMC) positions, namely **SMC 1** and **SMC 2**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/aor.png)
 
-### 2.1 SMC 1 [Dammam Ground]
+### 2.1 SMC 1 [Dammam Ground West]
 Dammam Ground (SMC1) covers western side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron 1 [Passenger Terminal]
@@ -31,7 +31,7 @@ Dammam Ground (SMC1) covers western side of the aerodrome which includes the fol
 Figure 2.1.1 - Dammam Ground 1 AOR
 </p>
 
-### 2.2 SMC 2 [Dammam Ground]
+### 2.2 SMC 2 [Dammam Ground East]
 Dammam Ground (SMC2) covers the eastern side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron 5 [Aramco Hanger]
