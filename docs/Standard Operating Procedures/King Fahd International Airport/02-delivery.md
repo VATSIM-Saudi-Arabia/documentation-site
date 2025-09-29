@@ -18,7 +18,7 @@ This section details all the necessary Standard Operating Procedures for Deliver
 
 ## 1. General Provisions
 
-**Dammam Ground (OEJN_1_GND)** is entrusted with the task of validating routes and providing IFR/VFR clearances to departing aircraft. This involves carefully reviewing the flight plan and cross-verifying the accuracy of the filed route, assigned level, and departure procedure. In situations where any inconsistencies, errors, or invalid information are identified, the controller must rectify the errors and issue a reclearance.
+**Dammam Ground (OEDF_1_GND)** is entrusted with the task of validating routes and providing IFR/VFR clearances to departing aircraft. This involves carefully reviewing the flight plan and cross-verifying the accuracy of the filed route, assigned level, and departure procedure. In situations where any inconsistencies, errors, or invalid information are identified, the controller must rectify the errors and issue a reclearance.
 
 Additionally, the GMP plays a vital role in minimizing potential delays and congestion on the taxiways for outbound flights. During periods characterized by increased departure activities, the GMP implements proactive measures to optimize the flow of traffic. This includes holding aircraft at their stands.
 
@@ -51,7 +51,7 @@ An IFR clearance shall contain:
 
 In Dammam, the standard GACA phrasesology is used. For IFR Clearances, the following phrasesolgy must strictly be adhered to.
 
-> **Pilot:** _SVA123, Stand C3, A320, requesting IFR clearance to Jeddah_
+> **Pilot:** _SVA123, Stand 21, A320, requesting IFR clearance to Jeddah_
 
 > **GMP:** _SVA123, Cleared Jeddah as filed, MIBRA2E Departure, Runway 34L, Initial Climb 4000ft, SQWK XXXX_
 
@@ -87,7 +87,7 @@ Table 1.1 - RNAV SIDs of Dammam
 
 ##### 2.2.2.2 Radar Departures
 
-King Fahd International Airport (OEDF) offers two radar departures, namely **DAMMAM1A** and **DAMMAM1B**, specifically designed for aircraft departing from **Runway 34L and 34R**, respectively. These departure procedures involve deviating the aircraft by _15_ degrees from the runway heading until further instructions are provided by APP 1.
+King Fahd International Airport (OEDF) offers two radar departures, namely **DAMMAM1A** and **DAMMAM1B**, specifically designed for aircraft departing from **Runway 34L and 34R**, respectively. These departure procedures involve deviating the aircraft by _15_ degrees from the runway heading until further instructions are provided by APP.
 
 It is important to note that these radar departures should only be utilized when necessary, and their usage requires coordination with APP 1 and/or APP L.
 
