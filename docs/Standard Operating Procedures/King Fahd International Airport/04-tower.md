@@ -6,7 +6,7 @@ toc_max_heading_level: 5
 # Dammam Tower [OEDF_X_TWR]
 
 !!! success "Covering"
-    This section details all the necessary Standard Operating Procedures for Tower Operations in **King Fahd International Airport (OEMA)**
+    This section details all the necessary Standard Operating Procedures for Tower Operations in **King Fahd International Airport (OEDF)**
 
 ---
 
@@ -17,7 +17,7 @@ The **Dammam Tower (AIR)** is responsible for all aerodrome movements on runways
 ---
 
 ##  2. Designated Area of Responsibility
-**King Fahd International Airport (OEMA)** features one primary AIR position. The responsibilities and areas of control for each position are outlined as follows:
+**King Fahd International Airport (OEDF)** features two primary AIR position. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/aor.png#center)
 
 <p style="text-align: center; font-style: italic;">
@@ -25,7 +25,7 @@ Figure 2.1 - Aerodrome DAOR
 </p>
 
 ### 2.1. Airspace
-**King Fahd International Airport (OEMA)** Control Zone (CTR) is Class C airspace and is centered around the aerodrome. Its ceiling is 5500ft AGL and has a radius of 10NM.
+**King Fahd International Airport (OEDF)** Control Zone (CTR) is Class C airspace and is centered around the aerodrome. Its ceiling is 2500ft AGL and has a radius of 10NM.
 
 ### 2.2. AIR 1 [Dammam Tower]
 **Dammam Tower [OEDF_1_TWR]** covers the western runway:
