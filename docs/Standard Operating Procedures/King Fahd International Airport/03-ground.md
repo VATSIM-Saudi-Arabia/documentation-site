@@ -55,7 +55,7 @@ Aircraft are issued pushback clearances by the SMC controlling the respective ap
 Pushback direction is based primarily on aircraft location, runway configuration and the apron's flow directiom.
 
 #### 3.1.1 Apron Flow Direction
-The apron's flow direction can be determined by examining the taxiway diagrams outlined in the [TWR] Tower section of this aerodrome's SOP.
+The apron's flow direction can be determined by examining the taxiway diagrams outlined in *section 3.2.4* of this aerodrome's SOP.
 
 By looking at the entry and exit taxiways of the apron, it is very obvious what the direction that all traffic should face.
 
