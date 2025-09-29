@@ -9,16 +9,16 @@ toc_max_heading_level: 5
     This section details all the necessary Standard Operating Procedures for Ground Operations in **King Fahd International Airport (OEDF)**
 
 ## 1. General Provisions
-The Dammam Ground manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
+The **Dammam Ground** manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
 
 ---
 
 ## 2. Designated Areas of Responsiblity
-**King Fahd International Airport (OEDF)** features two primary Ground Movement Control (SMC) positions, namely **SMC 1** and **SMC 2**. The responsibilities and areas of control for each position are outlined as follows:
+**King Fahd International Airport (OEDF)** features two primary Service Movement Control (SMC) positions, namely **SMC 1** and **SMC 2**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/aor.png)
 
 ### 2.1 SMC 1 [Dammam Ground]
-Dammam Ground (1) covers western side of the aerodrome which includes the following aprons and its assoicasted taxiways:
+Dammam Ground (SMC1) covers western side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron 1 [Passenger Terminal]
 - Apron 2 [Cargo Terminal]
@@ -32,7 +32,7 @@ Figure 2.1.1 - Dammam Ground 1 AOR
 </p>
 
 ### 2.2 SMC 2 [Dammam Ground]
-Dammam Ground (2) covers the eastern side of the aerodrome which includes the following aprons and its assoicasted taxiways:
+Dammam Ground (SMC2) covers the eastern side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron 5 [Aramco Hanger]
 - Apron 8 [Royal Terminal]
