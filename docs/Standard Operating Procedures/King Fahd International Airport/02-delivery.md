@@ -164,7 +164,7 @@ An Omnidirectional departure clearance shall contain the following information:
 
 #### 2.2.3 Rerouting Traffic
 
-The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP. The GMP should utilize the RouteChecker tool for this purpose.
+The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP. The GMP should utilize the VFPC tool for this purpose.
 
 If a traffic files an invalid route, they shall be informed by GMP of such as soon as they have connected to the network by private message or on frequency.
 
