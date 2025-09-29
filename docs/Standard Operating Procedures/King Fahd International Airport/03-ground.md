@@ -26,7 +26,7 @@ Dammam Ground (1) covers western side of the aerodrome which includes the follow
 !!! info "Bandbox Position"
     **Dammam Ground [OEDF_1_GND]** is the Bandbox Position for ground operations at King Fahd International Airport. This means that when other Ground Movement Control (SMC) positions are offline, OEDF_1_GND is responsible for controlling all aprons and taxiways.
 
-![Loading](imgs/smc1.png)
+![Loading](imgs/smc1.png#center)
 <p style="text-align: center; font-style: italic;">
 Figure 2.1.1 - Dammam Ground 1 AOR
 </p>
@@ -37,7 +37,7 @@ Dammam Ground (2) covers the eastern side of the aerodrome which includes the fo
 - Apron 5 [Aramco Hanger]
 - Apron 8 [Royal Terminal]
 
-![Loading](imgs/smc2.png)
+![Loading](imgs/smc2.png#center)
 <p style="text-align: center; font-style: italic;">
 Figure 2.1.2 - Dammam Ground 2 AOR
 </p>

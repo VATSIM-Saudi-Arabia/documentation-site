@@ -151,7 +151,6 @@ closest taxiway parallel to the active runway and hand off the aircraft to Groun
     > **AIR:** *"SVA123 hold position, cancel takeoff clearance. I say again cancel takeoff clearance, due ground crew on runway"*
 
 ###  4.2 Arrival procedures
-
 #### 4.2.1 Preferred exit points
 
 |    **Runway**   |     **Exit points**     |
@@ -181,7 +180,7 @@ AIR may use a tactical reduction in aircraft speed in order to ensure minimum se
 ##### 4.2.2.3 Wake turbulence separation minima
 Standard ICAO Separation is enforce in the Medinah CTR.
 
-#### 4.2.4 Go around procedure
+#### 4.2.3 Go around procedure
 
 At any time should a runway become unsuitable for an aircraft landing, or separation minima  is not met, aircraft shall be instructed to go-around.
 
@@ -189,7 +188,7 @@ At any time should a runway become unsuitable for an aircraft landing, or separa
 
 Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to departure control.
 
-> **AIR:** *“SVA123, fly standard missed approach procedure, climb 6000 feet, contact Jeddah Approach 125.1”*
+> **AIR:** *“SVA123, fly standard missed approach procedure, climb 6000 feet, contact Medinah Approach 125.1”*
 
 !!! info "Go around vs cancel approach"
 
@@ -222,9 +221,9 @@ Table 4.3.1 - Medinah VRPs
     The Saudi Arabian vACC is working to release a pilot briefing document for VFR.
 
 ##### 4.3.1.1 Entry/Exit VRPs into the CTR
-According to the eAIP traffic must only enter/exit the Jeddah Control Zone via the following VRPs:
+According to the eAIP traffic must only enter/exit the Medinah Control Zone via the following VRPs:
 - MAD1
-- MAD1
+- MAD2
 
 Clearance to enter the control zone is issued by APP.
 
@@ -237,7 +236,7 @@ Clearance to enter the control zone is issued by APP.
 
 
 #### 4.3.2. VFR departures
-Any VFR aircraft leaving the control zone at Jeddah is considered to be engaging in cross-country VFR flight.
+Any VFR aircraft leaving the control zone at Medinah is considered to be engaging in cross-country VFR flight.
 
 Coordination between the AIR and APP is required.
 
