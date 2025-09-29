@@ -176,9 +176,9 @@ Stands are assigned by the SAUControllerPack in the Euroscope, but controllers s
 
 #### 3.2.3  Arrival Taxi Procedures
 ##### 3.2.3.1 General Arrival Taxi Procedures
-SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile. This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
+SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile. This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below.
 
-Upon vacating the runway, the Tower controller will instruct the aircraft to follow the designated ATR and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
+Upon vacating the runway, the Tower controller will instruct the aircraft to follow the assigned initial taxi and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 
 ##### 3.2.3.2 34L/34R Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   |         **Vacate via**       |             **Taxi via**            |   **Initial Taxi By TWR**  |
