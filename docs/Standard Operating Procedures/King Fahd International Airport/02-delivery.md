@@ -264,7 +264,7 @@ Pilots are not required to strictly follow the route below for their destination
 > **GMP:** _HAZAZ, Cleared VFR to Ahsa via WASLA - JUDAH - AHS1 - MALAF, Runway 34L, Maintain 1500ft, SQWK XXXX._
 
 > **GMP:** _HAZAZ, Cleared VFR to Riyadh via WASLA - DAM1 - SLASL - DAM2 - SAAD - DAM1 - EAST GATE, Runway 34L, Maintain 1500ft, SQWK XXXX._
-s
+
 ##### 2.3.2.2 VFR departures without UVR
 For VFR Traffic leaving the control zone without utlizing one of the UVR, they shall be cleared on track to their destination after coordination with APP. 
 
