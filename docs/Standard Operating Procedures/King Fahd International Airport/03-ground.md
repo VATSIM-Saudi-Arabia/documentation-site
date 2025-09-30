@@ -119,7 +119,7 @@ An example of such an instruction is as follows:
 
     For example:
 
-    > **SMC:** SVA123, Behind the **Etihad Airways** (~~Etihad~~) A321 passing from your left to right, push & start approved, face south on C. Behind.
+    > **SMC:** SVA123, After the **Etihad Airways** (~~Etihad~~) A321 passing from your left to right, push & start approved, face south on C. Behind.
 
     ---
 
