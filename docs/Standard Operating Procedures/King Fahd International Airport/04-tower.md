@@ -239,8 +239,15 @@ VRPs are typically marked by prominent landmarks, such as buildings, intersectio
 
 |    **Ident**    |       **Location Geographic**       | **Radial and distance** | **Coordinates**  |
 |:---------------:|:-----------------------------------:|:-----------------------:|:----------------:|
-|  **East gate**  |        Prince Nayef sport city      |   R087 from KFA 10.8NM  | 263024N 0495847E |
-|  **South gate** | King Fahad military medical complex |   R129 from KFA 16.8NM  | 261912N 0500112E |
+|    **JUDAH**    |             Judah City              |   R311 from HSA 48.0NM  | 255010N 0485104E |
+|    **MALAF**    |         Highway Intersection        |   R290 from HSA 17.0NM  | 252310N 0491205E |
+|      **N**      |        HASA Industrial City         |   R351 from HSA 08.0NM  | 252426N 0492811E |
+|      **Q**      |                 ---                 |   R091 from MGA 076NM   | 261325N 0483623E |
+|   **RAFIYYAH**  |             ARRAFIYYAH              |   R220 from KFA 19.0NM  | 261540N 0493200E |
+|    **RQUBA**    |     10NM South of AL Jubail City    |   R206 from NJL 10.0NM  | 264811N 0493706E |
+|    **SLASL**    |         Highway Intersection        |   R219 from KFA 28.0NM  | 260907N 0492555E |
+|      **U**      |     3NM South of Hijrat AL Hurah    |   R245 from KFA 36.0NM  | 261507N 0490938E |
+|      **W**      |             UTHMANIYAH              |   R239 from HSA 11.0NM  | 251139N 0491832E |
 <p style="text-align: center; font-style: italic;">
 Table 4.3.1 - Dammam VRPs
 </p>
@@ -271,6 +278,12 @@ All VFR Departures must exit the control zone through the entry/exit VRPs descri
 
 !!! info "Do note"
     VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
+
+##### 4.3.2.1 VFR departures with UVR
+VFR aircraft desiring to exit Dammam CTR shall follow the published urban VFR routes by GACA.
+
+##### 4.3.2.2 VFR departures without UVR
+Upon request, VFR aircraft may exit Dammam CTR either along their intended track or as directed by AIR.
 
 #### 4.3.3. VFR arrivals
 All VFR Arrivals must enter the control zone through the entry/exit VRPs described in section 4.3.1.1.
