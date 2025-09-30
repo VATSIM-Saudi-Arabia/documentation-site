@@ -6,21 +6,22 @@ toc_max_heading_level: 6
 
 # Dammam Delivery [OEDF_1_GND]
 
-This section details all the necessary Standard Operating Procedures for Delivery Operations in **King Fahd International Airport (OEDF)**
+!!! success "Covering"
+    This section details all the necessary Standard Operating Procedures for Delivery Operations in **King Fahd International Airport (OEDF)**
 
 !!! caution "Do Note"
     **King Fahd International Airport (OEDF)** does **NOT** have a GMP position. The Ground Movement Planner (GMP) operations are handled by SMC 1.
 
     During periods of high traffic, the authority to issue clearances may be delegated to SMC 2.
 
-!!! danger "Don't get confused!"
-    In this section, GMP (Ground Movement Planner) will be used to refer to Dammam Ground (SMC 1).
-
 ## 1. General Provisions
 
 **Dammam Ground (OEDF_1_GND)** is entrusted with the task of validating routes and providing IFR/VFR clearances to departing aircraft. This involves carefully reviewing the flight plan and cross-verifying the accuracy of the filed route, assigned level, and departure procedure. In situations where any inconsistencies, errors, or invalid information are identified, the controller must rectify the errors and issue a reclearance.
 
 Additionally, the GMP plays a vital role in minimizing potential delays and congestion on the taxiways for outbound flights. During periods characterized by increased departure activities, the GMP implements proactive measures to optimize the flow of traffic. This includes holding aircraft at their stands.
+
+!!! danger "Don't get confused!"
+    In this section, GMP (Ground Movement Planner) will be used to refer to Dammam Ground (SMC 1).
 
 ---
 
@@ -233,48 +234,40 @@ Jet engine aircraft, on the other hand, must receive clearance to conduct circui
 
 #### 2.3.2 VFR Crosscountry
 
-Any VFR aircraft leaving the control zone at Dammam is considered to be engaging in cross-country VFR flight.
+Any VFR aircraft leaving the control zone at Dammam is considered to be engaging in cross-country VFR flight. Traffic leaving the control zone will either fly on track to their destination or follow one of the published Urban Visual Routes (UVRs).
 
 Prior to granting clearance for cross-country VFR traffic, coordination with the AIR and APP is required.
-
-There are no specific restrictions, designated VFR routes, or prescribed exit points for VFR departures leaving the control zone at Dammam.
 
 !!! info "Do note"
     VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
 
-##### 2.3.2.1 VFR departures with UVR
-VFR aircraft desiring to exit Dammam CTR shall follow the published urban VFR routes by GACA.
+##### 2.3.2.1 VFR departures following Urban Visual Routes (UVRs)
+VFR traffic planning to exit Dammam CTR following the published urban VFR routes by GACA shall be given the most appropriate UVR to their destination.
 
+It is advisable for VFR flights between Riyadh, Ahsa, and Dammam to utilize the **Urban Visual Routes (UVRs)** as the preferred method of navigation. Controllers should consistently suggest UVRs to pilots for their flight planning and execution.
+
+###### 2.3.2.1.1 Routes
+
+The provided routes serve as examples for reference, and there are various appropriate routes available for each destination.
+
+Pilots are not required to strictly follow the route below for their destinations; they can opt for alternate routes. GMP must clear them if APP approves.
+
+| **Destination** |      **Preferred Route**     |
+|:---------------:|:----------------------------:|
+|  **Riyadh CTR** |   WASLA - DAM1 - EAST GATE   |
+|   **Ahsa CTR**  | WASLA - JUDAH - AHS1 - MALAF |
+
+###### 2.3.2.1.2 Phraseology
+
+> **GMP:** _HAZAZ, Cleared VFR to Riyadh via WASLA - DAM1 - EAST GATE, Runway 34L, Maintain 1500ft, SQWK XXXX._
+
+> **GMP:** _HAZAZ, Cleared VFR to Ahsa via WASLA - JUDAH - AHS1 - MALAF, Runway 34L, Maintain 1500ft, SQWK XXXX._
+
+> **GMP:** _HAZAZ, Cleared VFR to Riyadh via WASLA - DAM1 - SLASL - DAM2 - SAAD - DAM1 - EAST GATE, Runway 34L, Maintain 1500ft, SQWK XXXX._
+s
 ##### 2.3.2.2 VFR departures without UVR
-Upon request, VFR aircraft may exit Dammam CTR either along their intended track or as directed by AIR.
+For VFR Traffic leaving the control zone without utlizing one of the UVR, they shall be cleared on track to their destination after coordination with APP. 
 
+###### 2.3.2.2.1 Phraseology
 
-|    **Ident**    |       **Location Geographic**       | **Radial and distance** | **Coordinates**  |
-|:---------------:|:-----------------------------------:|:-----------------------:|:----------------:|
-|    **JUDAH**    |             Judah City              |   R311 from HSA 48.0NM  | 255010N 0485104E |
-|    **MALAF**    |         Highway Intersection        |   R290 from HSA 17.0NM  | 252310N 0491205E |
-|      **N**      |        HASA Industrial City         |   R351 from HSA 08.0NM  | 252426N 0492811E |
-|      **Q**      |                 ---                 |   R091 from MGA 076NM   | 261325N 0483623E |
-|   **RAFIYYAH**  |             ARRAFIYYAH              |   R220 from KFA 19.0NM  | 261540N 0493200E |
-|    **RQUBA**    |     10NM South of AL Jubail City    |   R206 from NJL 10.0NM  | 264811N 0493706E |
-|    **SLASL**    |         Highway Intersection        |   R219 from KFA 28.0NM  | 260907N 0492555E |
-|      **U**      |     3NM South of Hijrat AL Hurah    |   R245 from KFA 36.0NM  | 261507N 0490938E |
-|      **W**      |             UTHMANIYAH              |   R239 from HSA 11.0NM  | 251139N 0491832E |
-
-##### 2.3.2.1 Phrasesolgy
-
-> **GMP:** _HAZAZ, Cleared VFR to Madinah, Runway 34L, SQWK XXXX_
-
-**_OR_**
-
-> **GMP:** _HAZAZ, Cleared to Riyadh via WASLA, DAM1, East Gate, Runway 34L, Maintain 1500ft, SQWK XXXX._
-
-**_OR_** 
-
-> **GMP:** _HAZAZ, Cleared on tract Riyadh, Runway 34L, Maintain 1500ft, SQWK XXXX._
-
-<p style="text-align: center; font-weight: bold; font-style: italic;">
-  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
-</p>
-
-> **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal)_**
+> **GMP:** _HAZAZ, Cleared VFR to Ras Tanura, Runway 34L, Altitude 3500ft, SQWK XXXX_
