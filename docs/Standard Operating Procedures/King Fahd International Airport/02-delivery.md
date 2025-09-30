@@ -126,7 +126,7 @@ An Omnidirectional departure clearance shall contain the following information:
 -   Initial climb;
 -   Assigned SSR code
 
-> **Pilot:** _SVA123, Stand C3, A320, requesting IFR clearance to Jeddah_
+> **Pilot:** _SVA123, Stand 14, A320, requesting IFR clearance to Jeddah_
 
 > **GMP:** _SVA123, Cleared Jeddah as filed, Expect Radar Vectors, Runway 34L, Initial Climb 4000ft, SQWK XXXX_
 
@@ -221,7 +221,7 @@ Jet engine aircraft, on the other hand, must receive clearance to conduct circui
 
 ##### 2.3.1.3 Phrasesolgy
 
-> **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 34L, Make a left hand circuit and climb to 1500ft, SQWK 2423._
+> **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 34L, Make a left hand circuit and climb to 1500ft, SQWK XXXX._
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
   --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
@@ -242,9 +242,36 @@ There are no specific restrictions, designated VFR routes, or prescribed exit po
 !!! info "Do note"
     VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
 
+##### 2.3.2.1 VFR departures with UVR
+VFR aircraft desiring to exit Dammam CTR shall follow the published urban VFR routes by GACA.
+
+##### 2.3.2.2 VFR departures without UVR
+Upon request, VFR aircraft may exit Dammam CTR either along their intended track or as directed by AIR.
+
+
+|    **Ident**    |       **Location Geographic**       | **Radial and distance** | **Coordinates**  |
+|:---------------:|:-----------------------------------:|:-----------------------:|:----------------:|
+|    **JUDAH**    |             Judah City              |   R311 from HSA 48.0NM  | 255010N 0485104E |
+|    **MALAF**    |         Highway Intersection        |   R290 from HSA 17.0NM  | 252310N 0491205E |
+|      **N**      |        HASA Industrial City         |   R351 from HSA 08.0NM  | 252426N 0492811E |
+|      **Q**      |                 ---                 |   R091 from MGA 076NM   | 261325N 0483623E |
+|   **RAFIYYAH**  |             ARRAFIYYAH              |   R220 from KFA 19.0NM  | 261540N 0493200E |
+|    **RQUBA**    |     10NM South of AL Jubail City    |   R206 from NJL 10.0NM  | 264811N 0493706E |
+|    **SLASL**    |         Highway Intersection        |   R219 from KFA 28.0NM  | 260907N 0492555E |
+|      **U**      |     3NM South of Hijrat AL Hurah    |   R245 from KFA 36.0NM  | 261507N 0490938E |
+|      **W**      |             UTHMANIYAH              |   R239 from HSA 11.0NM  | 251139N 0491832E |
+
 ##### 2.3.2.1 Phrasesolgy
 
-> **GMP:** _HAZAZ, Cleared VFR to Madinah, Runway 34L, SQWK 3423_
+> **GMP:** _HAZAZ, Cleared VFR to Madinah, Runway 34L, SQWK XXXX_
+
+**_OR_**
+
+> **GMP:** _HAZAZ, Cleared to Riyadh via WASLA, DAM1, East Gate, Runway 34L, Maintain 1500ft, SQWK XXXX._
+
+**_OR_** 
+
+> **GMP:** _HAZAZ, Cleared on tract Riyadh, Runway 34L, Maintain 1500ft, SQWK XXXX._
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
   --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
