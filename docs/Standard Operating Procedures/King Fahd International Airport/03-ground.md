@@ -28,7 +28,7 @@ Dammam Ground (SMC1) covers western side of the aerodrome which includes the fol
 
 ![Loading](imgs/smc1.png#center)
 <p style="text-align: center; font-style: italic;">
-Figure 2.1.1 - Dammam Ground 1 AOR
+Figure 2.1 - Dammam Ground 1 AOR
 </p>
 
 ### 2.2 SMC 2 [Dammam Ground East]
@@ -39,7 +39,7 @@ Dammam Ground (SMC2) covers the eastern side of the aerodrome which includes the
 
 ![Loading](imgs/smc2.png#center)
 <p style="text-align: center; font-style: italic;">
-Figure 2.1.2 - Dammam Ground 2 AOR
+Figure 2.2 - Dammam Ground 2 AOR
 </p>
 
 ## 3. Procedures
@@ -63,6 +63,9 @@ By looking at the entry and exit taxiways of the apron, it is very obvious what 
 |:------------------------:|:-----------------------:|:---------------:|
 |        **Apron 1**       |        Southbound       |    Northbound   |
 |        **Apron 2**       |        Southbound       |    Northbound   |
+<p style="text-align: center; font-style: italic;">
+Table 2.3 - Apron Flow Direction
+</p>
 
 #### 3.1.2 Push-back Types
 ##### 3.1.2.1 Standard Push-back
@@ -140,8 +143,11 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 |:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:------------------------------------:|
 |        **Apron 1**       |        Runway 34L       |        B1/B2         |          C1/C2/C3         |       B      | Passing **C2** when clear of traffic |
 |        **Apron 2**       |        Runway 34L       |        B1/B2         |             P1            |       B      | Passing **C2** when clear of traffic |
-|     **Aramco Apron**     |        Runway 34R       |          J           |             R             |      R, J    |               Immediate              |
-|      **Royal Apron**     |        Runway 34R       |          J           |             J             |       J      |               Immediate              |
+|     **Aramco Apron**     |        Runway 34R       |         J/J3         |             R             |      R, J    |               Immediate              |
+|      **Royal Apron**     |        Runway 34R       |         J/J3         |             J             |       J      |               Immediate              |
+<p style="text-align: center; font-style: italic;">
+Table 2.4 - 34L/34R Departure Taxi Procedures
+</p>
 
 ##### 3.2.1.2 16L/16R Departure Taxi Procedures
 |       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** |         **Handoff to Tower**        |
@@ -150,6 +156,9 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 |        **Apron 2**       |        Runway 16R       |        B6/B7         |            P1/P2          |       B      | Passing **R** when clear of traffic |
 |     **Aramco Apron**     |        Runway 16L       |          J           |             R             |      R, J    |              Immediate              |
 |      **Royal Apron**     |        Runway 16L       |          J           |             J             |       J      |              Immediate              |
+<p style="text-align: center; font-style: italic;">
+Table 2.5 - 16L/16R Departure Taxi Procedures
+</p>
 
 #### 3.2.2 Stand Allocation Procedure
 Stands are assigned by the Ground Radar Plugin in Euroscope, but controllers should preferably have a basic idea of stand assignments.
@@ -160,6 +169,9 @@ Stands are assigned by the Ground Radar Plugin in Euroscope, but controllers sho
 |         Apron 2        |                            Cargo                            |
 |      Aramco Apron      |                       Aloula Aviation                       |
 |       Royal Apron      |                            Royal                            |
+<p style="text-align: center; font-style: italic;">
+Table 2.6 - Stand Allocation Procedure
+</p>
 
 !!! warning "Apron 2"
     **Stand 1**:
@@ -183,10 +195,24 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 ##### 3.2.3.2 34L/34R Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   |         **Vacate via**       |             **Taxi via**            |   **Initial Taxi By TWR**  |
 |:----------------------------------:|:----------------:|:----------------------------:|:-----------------------------------:|:--------------------------:|
-|     **Domestic & International**   |      Apron 1     |    B4/B5 [34L] <br> H [34R]  |              B, R, C3/C             |          **B, R**          |
+|     **Domestic & International**   |      Apron 1     |    B4/B5 [34L] <br> H [34R]  |          B, R, C3 <br> R, C         |          **B, R**          |
 |              **Cargo**             |      Apron 2     |              B5 [34L]        |                  P2                 |           **P2**           |
 |           **Royal Apron**          |    Royal Apron   |              J2 [34R]        |                 J, R                |           **J**            |
 |         **Aloula Aviation**        |   Aramco Apron   |              J2 [34R]        |                   J                 |           **J**            |
+<p style="text-align: center; font-style: italic;">
+Table 2.7 - 34L/34R Arrival Taxi Procedures
+</p>
+
+##### 3.2.3.2 16L/16R Arrival Taxi Procedures
+|               **Type**             |    **Taxi to**   |         **Vacate via**       |             **Taxi via**            |   **Initial Taxi By TWR**  |
+|:----------------------------------:|:----------------:|:----------------------------:|:-----------------------------------:|:--------------------------:|
+|     **Domestic & International**   |      Apron 1     |    J/J1 [16L] <br> B3 [16R]  |          J, R, C <br> C1/C2         |  **J, R** <br> **C1, C2**  |
+|              **Cargo**             |      Apron 2     |              B3 [16R]        |                 B, P1               |           **B**            |
+|           **Royal Apron**          |    Royal Apron   |            J/J1 [16L]        |                   J                 |           **J**            |
+|         **Aloula Aviation**        |   Aramco Apron   |            J/J1 [16L]        |                 J, R                |           **J**            |
+<p style="text-align: center; font-style: italic;">
+Table 2.8 - 16L/16R Arrival Taxi Procedures
+</p>
 
 #### 3.2.4 Taxi Diagrams
 ##### 3.2.4.1 Legend

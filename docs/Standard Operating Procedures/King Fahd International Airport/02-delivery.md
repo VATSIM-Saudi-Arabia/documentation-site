@@ -204,6 +204,9 @@ GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
 |  **Runway(s)**  |    34R/16L     |            34L/16R _OR_ 34R/16L            |
 |  **Direction**  |      East      |     West for 34L/16R, East for 34R/16L     |
 | **Altitude(s)** |   1000ft AGL   | 1500ft AGL. _(2000ft on request for Jets)_ |
+<p style="text-align: center; font-style: italic;">
+Table 1.3 - Dammam VFR Circuits
+</p>
 
 ##### 2.3.1.1 Oxford Training Circuits
 
@@ -220,7 +223,7 @@ Piston aircraft should be granted clearance to perform circuits on the eastern s
 
 Jet engine aircraft, on the other hand, must receive clearance to conduct circuits on the western side of Runway 34L/16R, maintaining 1500 feet.
 
-##### 2.3.1.3 Phrasesolgy
+##### 2.3.1.3 Phraseology
 
 > **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 34L, Make a left hand circuit and climb to 1500ft, SQWK XXXX._
 
@@ -256,6 +259,9 @@ Pilots are not required to strictly follow the route below for their destination
 |:---------------:|:----------------------------:|
 |  **Riyadh CTR** |   WASLA - DAM1 - EAST GATE   |
 |   **Ahsa CTR**  | WASLA - JUDAH - AHS1 - MALAF |
+<p style="text-align: center; font-style: italic;">
+Table 1.4 - Dammam UVRs
+</p>
 
 ###### 2.3.2.1.2 Phraseology
 
