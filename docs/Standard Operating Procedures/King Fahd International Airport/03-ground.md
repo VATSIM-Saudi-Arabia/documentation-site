@@ -152,7 +152,7 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 |      **Royal Apron**     |        Runway 16L       |          J           |             J             |       J      |      Immediate       |
 
 #### 3.2.2 Stand Allocation Procedure
-Stands are assigned by the SAUControllerPack in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
+Stands are assigned by the Ground Radar Plugin in Euroscope, but controllers should preferably have a basic idea of stand assignments.
 
 |       **Aprons**       |                         **Airlines**                        |
 |:----------------------:|:-----------------------------------------------------------:|
@@ -197,7 +197,7 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 ###### Cargo Arrivals Flow
 ![Loading](imgs/org.png)
 
-##### 3.2.4.2 34s SRO
+##### 3.2.4.2 34s Configuration
 ![Loading](imgs/34.png)
-##### 3.2.4.3 16s SRO
+##### 3.2.4.3 16s Configuration
 ![Loading](imgs/16.png)
