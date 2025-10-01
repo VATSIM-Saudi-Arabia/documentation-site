@@ -14,8 +14,27 @@ This policy is intended to promote consistency, professionalism, and efficiency 
 
 ---
 
-## 2. Controller
-### 2.1 Operation Conduct
+## 2. Document Idenification
+
+|                     |                                                 |
+|---------------------|-------------------------------------------------|
+|         Type        |                      Policy                     |
+|       Revision      |                 Initial Document                |
+|    Effective Date   |                        ---                      |
+|     Prepared by     |              Muhammad Sinada - SAUOPS           |
+|     Approved by     |               Ismail Hassan – ACCSA1            |
+|   Next review date  |                        ---                      |
+
+### 2.1 Amendment Record
+
+| **Revision** |   **Changes**   |      **Prepared By**     | **Revised and Approved By** |
+|--------------|-----------------|--------------------------|-----------------------------|
+|    01/2025   | Initial Release | Muhammad Sinada - SAUOPS |    Ismail Hassan – ACCSA1   |
+
+---
+
+## 3. Controller Conduct
+### 3.1 Operation Conduct
 All controllers are expected to conduct themselves in a manner that upholds professionalism.
 
 - **Adherence to VATSIM Regulations** <br> Controllers members are expected to fully comply with the VATSIM Code of Conduct and Code of Regulations as the governing framework for participation.
@@ -36,7 +55,7 @@ All controllers are expected to conduct themselves in a manner that upholds prof
 
 ---
 
-### 2.2 Language Requirement
+### 3.2 Language Requirement
 
 - **English Proficiency** <br> English is the required language for all controller-pilot communication on VATSIM, in line with ICAO standards.
 
@@ -46,7 +65,7 @@ All controllers are expected to conduct themselves in a manner that upholds prof
 
 ---
 
-### 2.3 Operational Standards
+### 3.3 Operational Standards
 The Saudi Arabian vACC upholds a rigorous standard of operational realism and professional excellence in the provision of air traffic control services.
 
 - **Adherence to Official Procedures** <br> Controllers must follow the procedures outlined in:
@@ -60,7 +79,7 @@ The Saudi Arabian vACC upholds a rigorous standard of operational realism and pr
 
 ---
 
-### 2.4 Availability and Staffing
+### 3.4 Availability and Staffing
 
 - **Staffing Requirement** <br> Controllers are required to remain at their assigned position and maintain continuous, active supervision of their station throughout the entirety of the session.
 
@@ -70,7 +89,7 @@ The Saudi Arabian vACC upholds a rigorous standard of operational realism and pr
 
 ---
 
-### 2.5 Minimum Session Time
+### 3.5 Minimum Session Time
 Controllers shall adhere to the following minimum session time obligations:
 
 | **Position**  | **Minimum Session Time** |
@@ -84,23 +103,41 @@ Any session of less than the required duration shall be excluded from the contro
 
 ---
 
-## 3. Controller Coordination
-### 3.1 Starting a Session
+## 4. Controller Coordination
+### 4.1 Starting a Session
 Controllers are required to finalize all coordination protocols prior to assuming any position. They must verify the presence of adjacent controllers within the coordination channels on the Saudi Arabian vACC Discord server.
 
+1. **Controller consults the VATSIM Radar, or an equivalent platform, to verify the presence of active ATC coverage**.
+    1. If Adjacent controllers are not online:
+        1. Review the most recent NOTAMs and real-world air traffic conditions to appropriately adjust and mitigate operational implications
+        2. Review the latest METAR and TAF to determine ATIS and most appropriate runway configuration
+
+    <p style="text-align: center; font-weight: bold; font-style: italic;">
+    Log on desired position
+    </p>
+
+    2. If Adjacent controllers are online:
+        1. Log on as an Observer
+        2. Coordinate with the next controller to determine ATIS, runways in use, and operational info
+
+    <p style="text-align: center; font-weight: bold; font-style: italic;">
+    Log on desired position
+    </p>
+
 ---
 
-### 3.2 Discord Presence
+### 4.2 Discord Presence
+For the purposes of coordination, controllers operating concurrently with adjacent positions within the Saudi Arabian vACC are **required** to remain active on Discord to facilitate seamless communication. During events, controllers **shall** be present in the designated coordination channels on Discord to ensure effective and uninterrupted collaboration with neighboring positions.
 
 ---
 
-### 3.3 Swapping Positions
+### 4.3 Swapping Positions
 
 ---
 
-### 3.4 Ending a Session
+### 4.4 Ending a Session
 
 ---
 
-## 4. Conflict Resolution
-### 4.1 Reporting Issues
+## 5. Conflict Resolution
+### 5.1 Reporting Issues
