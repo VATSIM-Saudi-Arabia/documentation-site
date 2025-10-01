@@ -136,20 +136,20 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 ### 3.2 Taxi Procedures
 #### 3.2.1 Departure Taxi Procedures
 ##### 3.2.1.1 34L/34R Departure Taxi Procedures
-|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-|        **Apron 1**       |        Runway 34L       |        B1/B2         |           C1/C2           |       B      |      Immediate       |
-|        **Apron 2**       |        Runway 34L       |        B1/B2         |             P1            |       B      |      Immediate       |
-|     **Aramco Apron**     |        Runway 34R       |          J           |             R             |      R, J    |      Immediate       |
-|      **Royal Apron**     |        Runway 34R       |          J           |             J             |       J      |      Immediate       |
+|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** |         **Handoff to Tower**         |
+|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:------------------------------------:|
+|        **Apron 1**       |        Runway 34L       |        B1/B2         |          C1/C2/C3         |       B      | Passing **C2** when clear of traffic |
+|        **Apron 2**       |        Runway 34L       |        B1/B2         |             P1            |       B      | Passing **C2** when clear of traffic |
+|     **Aramco Apron**     |        Runway 34R       |          J           |             R             |      R, J    |               Immediate              |
+|      **Royal Apron**     |        Runway 34R       |          J           |             J             |       J      |               Immediate              |
 
 ##### 3.2.1.2 16L/16R Departure Taxi Procedures
-|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-|        **Apron 1**       |        Runway 16R       |        B6/B7         |            C3/R           |       B      |      Immediate       |
-|        **Apron 2**       |        Runway 16R       |        B6/B7         |            P1/P2          |       B      |      Immediate       |
-|     **Aramco Apron**     |        Runway 16L       |          J           |             R             |      R, J    |      Immediate       |
-|      **Royal Apron**     |        Runway 16L       |          J           |             J             |       J      |      Immediate       |
+|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** |         **Handoff to Tower**        |
+|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:-----------------------------------:|
+|        **Apron 1**       |        Runway 16R       |        B6/B7         |            C3/R           |       B      | Passing **R** when clear of traffic |
+|        **Apron 2**       |        Runway 16R       |        B6/B7         |            P1/P2          |       B      | Passing **R** when clear of traffic |
+|     **Aramco Apron**     |        Runway 16L       |          J           |             R             |      R, J    |              Immediate              |
+|      **Royal Apron**     |        Runway 16L       |          J           |             J             |       J      |              Immediate              |
 
 #### 3.2.2 Stand Allocation Procedure
 Stands are assigned by the Ground Radar Plugin in Euroscope, but controllers should preferably have a basic idea of stand assignments.
@@ -165,12 +165,12 @@ Stands are assigned by the Ground Radar Plugin in Euroscope, but controllers sho
     **Stand 1**:
 
     - Taxiway P1 will be CLOSED when aircraft parked at stand 1.
-    - Aircraft code F can use stand 1 and has to use TWY P1 for exit and entrance.
+    - Aircraft code F can use stand 1 and has to use taxiway P1 for exit and entrance.
     - Stand 2 at same ramp will be used by aircraft code C or D while aircraft code F still occupying stand 1.
 
     **Stand 3**:
 
-    - Aircraft code F can use stand 3 and has to use TWY P2 for exit and entrance.
+    - Aircraft code F can use stand 3 and has to use taxiway P2 for exit and entrance.
     - Taxiway P2 will be CLOSED when aircraft parked at stand 3
     - Stand 2 at same ramp will be used by aircraft code C or D while aircraft code F still occupying stand 3.
 
@@ -183,8 +183,8 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 ##### 3.2.3.2 34L/34R Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   |         **Vacate via**       |             **Taxi via**            |   **Initial Taxi By TWR**  |
 |:----------------------------------:|:----------------:|:----------------------------:|:-----------------------------------:|:--------------------------:|
-|     **Domestic & International**   |      Apron 1     |    B3/B4 [34L] <br> H [34R]  |                B/R, C               |          **B, R**          |
-|              **Cargo**             |      Apron 1     |              B4 [34L]        |                  P2                 |           **P2**           |
+|     **Domestic & International**   |      Apron 1     |    B4/B5 [34L] <br> H [34R]  |              B, R, C3/C             |          **B, R**          |
+|              **Cargo**             |      Apron 2     |              B5 [34L]        |                  P2                 |           **P2**           |
 |           **Royal Apron**          |    Royal Apron   |              J2 [34R]        |                 J, R                |           **J**            |
 |         **Aloula Aviation**        |   Aramco Apron   |              J2 [34R]        |                   J                 |           **J**            |
 
