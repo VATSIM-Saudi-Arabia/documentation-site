@@ -21,7 +21,7 @@ The **Dammam Tower (AIR)** is responsible for all aerodrome movements on runways
 ![Loading](imgs/aor.png#center)
 
 <p style="text-align: center; font-style: italic;">
-Figure 2.1 - Aerodrome DAOR
+Figure 2. - Aerodrome DAOR
 </p>
 
 ### 2.1. Airspace
@@ -299,6 +299,9 @@ Oxford Saudi Flight Academy aircraft operate on visual traffic circuit east of R
 | :-------------------------------: | :-------------: | :-------------: |
 |                34R                |    Right Hand   |    1000ft AGL   |
 |                16L                |    Left Hand    |    1000ft AGL   |
+<p style="text-align: center; font-style: italic;">
+Table 4.3.4. - Dammam VFR Circuits
+</p>
 
 !!! info "Jet Engine Aircrafts"
     On request, jet engine aircraft must conduct circuits maintaining ***2000 feet***.

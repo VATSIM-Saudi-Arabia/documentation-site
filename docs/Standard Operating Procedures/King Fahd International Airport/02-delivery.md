@@ -80,7 +80,7 @@ GMP must always issue RNAV SIDs unless needed otherwise.
 |     **16L**     |    1H     |    2H     |    1H     |    2H     |    2H     |    2H     |    2H     |    2H     |
 |     **16R**     |    1G     |    2G     |    1G     |    2G     |    2G     |    2G     |    2G     |    2G     |
 <p style="text-align: center; font-style: italic;">
-Table 1.1 - RNAV SIDs of Dammam
+Table 2.2.2.1 - RNAV SIDs of Dammam
 </p>
 
 !!! info "Initial Climb"
@@ -108,7 +108,7 @@ It is important to note that these radar departures should only be utilized when
 
 ![Loading](imgs/radardep.png)
 <p style="text-align: center; font-style: italic;">
-Figure 1.2 - DAMMAM1A & DAMMAM1B
+Figure 2.2.2.2 - DAMMAM1A & DAMMAM1B
 </p>
 
 !!! caution "Do note"
@@ -205,7 +205,7 @@ GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
 |  **Direction**  |      East      |     West for 34L/16R, East for 34R/16L     |
 | **Altitude(s)** |   1000ft AGL   | 1500ft AGL. _(2000ft on request for Jets)_ |
 <p style="text-align: center; font-style: italic;">
-Table 1.3 - Dammam VFR Circuits
+Table 2.3.1 - Dammam VFR Circuits
 </p>
 
 ##### 2.3.1.1 Oxford Training Circuits
@@ -260,7 +260,7 @@ Pilots are not required to strictly follow the route below for their destination
 |  **Riyadh CTR** |   WASLA - DAM1 - EAST GATE   |
 |   **Ahsa CTR**  | WASLA - JUDAH - AHS1 - MALAF |
 <p style="text-align: center; font-style: italic;">
-Table 1.4 - Dammam UVRs
+Table 2.3.2.1.1 - Dammam UVRs
 </p>
 
 ###### 2.3.2.1.2 Phraseology
