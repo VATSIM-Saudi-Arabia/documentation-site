@@ -79,10 +79,8 @@ At King Fahd International Airport, standard runway configurations for normal op
 
 The configurations, listed from most preferred to least preferred, are as follows:
 
-- 34L SRO
-- 34R SRO
-- 16R SRO
-- 16L SRO
+- 34s SRO
+- 16s SRO
 
 !!! info "Do note."
     Exceptions to runway configurations can be granted per pilot's request after approval from AIR and APP. 
@@ -92,11 +90,15 @@ The configurations, listed from most preferred to least preferred, are as follow
     - VFR Circuits
     - Royal Flights [Always departs/arrives on 34R/16L regardless of the active config]
     - Aramco Flights [Always departs/arrives on 34R/16L regardless of the active config]
+    - Training Flights [Always departs/arrives on 34R/16L regardless of the active config]
 
 #### 3.3.1 Single Runway Operation [SRO]
 King Fahd International Airport utilizes **Single Runway Operation (SRO)** procedure in which all arrivals and departures at an airport are conducted using a single active runway, either due to airport design limitations, operational restrictions, or temporary closures of parallel or intersecting runways.
 
 SRO is considered the most preferred configuration unless otherwise during offload periods.
+
+!!! warning "Beware"
+    Refer to NOTAMs as runways might be closed.
 
 ---
 
