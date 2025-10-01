@@ -47,4 +47,11 @@ title: General Information
 |      **Medina Tower**       |      OERK_TWR      |        AIR       |       118.300       |
 |     **Medina Approach**     |      OEMA_APP      |        APP       |       127.700       |
 
-## SOP Ammendment Record
+## SOPs Ammendment Record
+
+|    **SOP Type**    | **Revision** |   **Changes**   |     **Prepared By**    | **Revised and Approved By** |
+|:------------------:|:------------:|:---------------:|:----------------------:|:---------------------------:|
+| **Delivery [DEL]** |    10/2025   |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
+|  **Ground [GND]**  |    10/2025   |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |      --      |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
+| **Approach [APP]** |      --      |        --       |           --           |              --             |
