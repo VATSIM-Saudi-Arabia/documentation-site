@@ -79,23 +79,18 @@ At King Fahd International Airport, standard runway configurations for normal op
 
 The configurations, listed from most preferred to least preferred, are as follows:
 
-- 34s SRO
-- 16s SRO
+- 34s
+- 16s
 
-!!! info "Do note."
-    Exceptions to runway configurations can be granted per pilot's request after approval from AIR and APP. 
+#### 3.3.1 34s and 16s Operations
+The **Western Runway (34L/16R)** is the busiest at King Fahd International Airport, as most civil operations take place on the western side of the aerodrome. It handles all cargo and passenger flights arriving at and departing from the airport.
 
-    **Standard Exceptions:**
+The **Eastern Runway (34R/16L)** is only used upon pilot request, or for the following operations:
 
-    - VFR Circuits
-    - Royal Flights [Always departs/arrives on 34R/16L regardless of the active config]
-    - Aramco Flights [Always departs/arrives on 34R/16L regardless of the active config]
-    - Training Flights [Always departs/arrives on 34R/16L regardless of the active config]
-
-#### 3.3.1 Single Runway Operation [SRO]
-King Fahd International Airport utilizes **Single Runway Operation (SRO)** procedure in which all arrivals and departures at an airport are conducted using a single active runway, either due to airport design limitations, operational restrictions, or temporary closures of parallel or intersecting runways.
-
-SRO is considered the most preferred configuration unless otherwise during offload periods.
+- VFR Circuits
+- Royal Flights
+- Aramco Flights
+- Oxford Training Flights
 
 !!! warning "Beware"
     Refer to NOTAMs as runways might be closed.
@@ -142,7 +137,7 @@ Aircraft shall be cleared for take-off once adequate separation exists
 
 #### 4.1.4 Separation requirements
 
-Aircraft shall be separated on departure in compliance with standard IFR departure separation minima, standard wake turbulence separation or RE-CAT.
+Aircraft shall be separated on departure in compliance with standard IFR departure separation minima, ICAO standard wake turbulence separation.
 
 Succeeding aircraft on the same SID shall be separated by a minimum of 2 minutes.
 
@@ -153,6 +148,12 @@ VFR aircraft may be instructed to maintain visual separation with preceding airc
 During low visibility operations and during IMC, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within 4 NM of the landing runway threshold.
 
 Traffic should report **"airborne"** after take-off. Once airborne they should then be handed off to the appropriate station.
+
+##### 4.1.5.1 Low Visibility Procedures (LVPs)
+
+- When RVR reading is less than 550 meters, or surface visibility is less than 800 meters when RVR is U/S, or when aircraft ground movement cannot be observed by ATC, aircraft ground movement shall be restricted to one arrival one departure at a time.
+- **Follow me** service shall be provided when requested.
+- All departures shall be from the beginning of the RWY, no intermediate departure is permitted.
 
 #### 4.1.6 IFR handoff procedure
 
@@ -171,7 +172,7 @@ closest taxiway parallel to the active runway and hand off the aircraft to Groun
 
 !!! Example
     Takeoff roll commenced 
-    > **AIR:** *"SVA123 stop immediately, I say again stop immediately. Aknowledge"*
+    > **AIR:** *"SVA123 stop immediately, I say again stop immediately. acknowledge"*
 
     Takeoff roll not commenced
     > **AIR:** *"SVA123 hold position, cancel takeoff clearance. I say again cancel takeoff clearance, due ground crew on runway"*
@@ -181,10 +182,10 @@ closest taxiway parallel to the active runway and hand off the aircraft to Groun
 
 |    **Runway**   |     **Exit points**     |
 |:---------------:|:-----------------------:|
-|        34L      |         B4, B5          |
-|        34R      |         J2, H           |
+|        34L      |           B4            |
+|        34R      |            H            |
 |        16R      |           B3            |
-|        16L      |         J1, J           |
+|        16L      |            J            |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.1 - Preferred exit points
 </p>
@@ -227,8 +228,9 @@ Once aircraft have acknowledged the instruction and are observed to be safely cl
 > **AIR:** *“SVA123, fly standard missed approach procedure, climb 3000 feet, contact Dammam Approach 126.3”*
 
 !!! info "Go around vs cancel approach"
+    When the go around is before the minimums, the phraseology is the full with climb instructions and everything except handoff. When he starts climbing, it's a handoff.
 
-    A go-around occurs when an aircraft aborts its landing during the final approach phase after reaching the minimum descent altitude. In contrast, a "cancel approach" instruction is given when the aircraft is still in the early stages of the approach. The key difference is that during a cancel approach, air traffic control provides all the missed approach procedures in a single transmission since there is no immediate urgency. On the other hand, during a go-around, the controller instructs the aircraft to initiate the climb, and further instructions are provided once the aircraft is in the climb phase.
+For short final go-around, say the acknowledge thing first, then when he starts climbing, everything else including handoff.
 
 ###  4.3 VFR procedures
 !!! caution "Do note." 
@@ -307,9 +309,3 @@ Table 4.3.4. - Dammam VFR Circuits
 
 !!! info "Jet Engine Aircrafts"
     On request, jet engine aircraft must conduct circuits maintaining ***2000 feet***.
-
-#### 4.3.5 Low Visibility Procedures (LVPs)
-
-- When RVR reading is less than 550 meters, or surface visibility is less than 800 meters when RVR is U/S, or when aircraft ground movement cannot be observed by ATC, aircraft ground movement shall be restricted to one arrival one departure at a time.
-- **Follow me** service shall be provided when requested.
-- All departures shall be from the beginning of the RWY, no intermediate departure is permitted.
