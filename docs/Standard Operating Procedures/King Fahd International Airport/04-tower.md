@@ -277,7 +277,7 @@ All VFR Traffic must contact the TWR 10NM prior to the entry VRP.
 
 !!! info "Rejection"
     The TWR controller has the right to reject any traffic into the control zone if deemed neccesary.
-    > **AIR:** *HHAZA, You are not cleared to enter the control zone, remain outside of the control zone until XXXX()
+    > **AIR:** *"HHAZA, You are not cleared to enter the control zone, remain outside of the control zone until XXXX"*
 
 #### 4.3.2. VFR departures
 Any VFR aircraft leaving the control zone at Dammam is considered to be engaging in cross-country VFR flight.

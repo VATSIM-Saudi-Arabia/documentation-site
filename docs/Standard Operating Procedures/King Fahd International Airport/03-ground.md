@@ -198,7 +198,7 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 ##### 3.2.3.2 34L/34R Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   |         **Vacate via**       |             **Taxi via**            |   **Initial Taxi By TWR**  |
 |:----------------------------------:|:----------------:|:----------------------------:|:-----------------------------------:|:--------------------------:|
-|     **Domestic & International**   |      Apron 1     |    B4/B5 [34L] <br> H [34R]  |          B, R, C3 <br> R, C         |          **B, R**          |
+|     **Domestic & International**   |      Apron 1     |     B4 [34L] <br> H [34R]    |        B, R, C3/C2 <br> R, C        |          **B, R**          |
 |              **Cargo**             |      Apron 2     |              B5 [34L]        |                  P2                 |           **P2**           |
 |           **Royal Apron**          |    Royal Apron   |              J2 [34R]        |                 J, R                |           **J**            |
 |         **Aloula Aviation**        |   Aramco Apron   |              J2 [34R]        |                   J                 |           **J**            |
