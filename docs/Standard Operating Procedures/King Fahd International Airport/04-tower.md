@@ -130,10 +130,10 @@ Conditional line up instructions shall include the traffic that the aircraft is 
 
 !!! Example
     Normal clearance:
-    > **AIR:** *“SVA123, Via B1, line up runway 34L”*
+    > **AIR:** *"SVA123, Via B1, line up runway 34L"*
 
     Conditional clearance:
-    > **AIR:** *“FAD123, Behind the departing Saudia A321, Via B1, line up runway 34L behind”*
+    > **AIR:** *"FAD123, Behind the departing Saudia A321, Via B1, line up runway 34L behind"*
 
 #### 4.1.3 Take-off clearances
 
@@ -218,7 +218,7 @@ While the radar controllers are responsible for separating arriving aircraft, th
 ##### 4.2.2.2 Speed control
 AIR may use a tactical reduction in aircraft speed in order to ensure minimum separation between aircrafts.
 
-> **AIR:** *SVA123, reduce to final approach speed.*
+> **AIR:** *"SVA123, reduce to final approach speed."*
 
 ##### 4.2.2.3 Wake turbulence separation minima
 Standard ICAO Separation is enforced in the Dammam CTR.
@@ -227,11 +227,11 @@ Standard ICAO Separation is enforced in the Dammam CTR.
 
 At any time should a runway become unsuitable for an aircraft landing, or separation minima  is not met, aircraft shall be instructed to go-around.
 
-> **AIR:** *“SVA123, go around, I say again, go around, acknowledge”*
+> **AIR:** *"SVA123, go around, I say again, go around, acknowledge"*
 
 Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to departure control.
 
-> **AIR:** *“SVA123, fly standard missed approach procedure, climb 3000 feet, contact Dammam Approach 126.3”*
+> **AIR:** *"SVA123, fly standard missed approach procedure, climb 3000 feet, contact Dammam Approach 126.3"*
 
 !!! info "Go around vs cancel approach"
     When the go around is before the minimums, the phraseology is the full with climb instructions and everything except handoff. When he starts climbing, it's a handoff.
