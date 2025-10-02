@@ -18,9 +18,8 @@ title: General Information
 
 **Runway 34R/16L** is commonly used by both commercial and private aviation. Specifically, it is known to be utilized by private aviation operators and **Saudi Aramco**. The availability of this runway caters to the needs of private aircraft and supports the operations of Aramco, contributing to the overall aviation activities at OEDF.
 
-::::info **Fun Fact**
-**Saudi Aramco** is the state-owned oil company of Saudi Arabia, which conducts its main operations in Dammam, strategically situated near Abqaiq, home to the country's largest oil reserve.
-::::
+!!! info "Fun Fact"
+    **Saudi Aramco** is the state-owned oil company of Saudi Arabia, which conducts its main operations in Dammam, strategically situated near Abqaiq, home to the country's largest oil reserve.
 
 ### 1.1.1 Runway Characteristics
 
@@ -69,7 +68,7 @@ title: General Information
 
 |    **SOP Type**    | **Revision** |   **Changes**   |     **Prepared By**    | **Revised and Approved By** |
 |:------------------:|:------------:|:---------------:|:----------------------:|:---------------------------:|
-| **Delivery [DEL]** |    01/2024   | Initial Release | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
-|  **Ground [GND]**  |    01/2024   | Initial Incompleted Release | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
-|   **Tower [TWR]**  |      --      |        --       |           --           |              --             |
+| **Delivery [DEL]** |    01/2025   | Initial Release | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
+|  **Ground [GND]**  |    01/2025   |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |    01/2025   |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
 | **Approach [APP]** |      --      |        --       |           --           |              --             |
