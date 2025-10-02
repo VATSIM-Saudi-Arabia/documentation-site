@@ -27,6 +27,12 @@ Figure 2. - Aerodrome DAOR
 ### 2.1. Airspace
 **King Fahd International Airport (OEDF)** Control Zone (CTR) is Class C airspace and is centered around the aerodrome. Its ceiling is 2500ft AGL and has a radius of 10NM.
 
+![Loading](imgs/ctr.png#center)
+
+<p style="text-align: center; font-style: italic;">
+Figure 2.1 - King Fahd Control Zone
+</p>
+
 ### 2.2. AIR 1 [Dammam Tower]
 **Dammam Tower [OEDF_1_TWR]** covers the western runway:
 
