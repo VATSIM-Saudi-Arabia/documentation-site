@@ -303,7 +303,7 @@ Clearance to enter the Control Zone is issued by Approach.
 Once the traffic has entered the control zone, further intructions to direct to a VRP or to join a downwind can be issued by tower
 
 #### 4.3.4. VFR circuits
-Oxford Saudi Flight Academy aircraft operate on visual traffic circuit east of RWY 16L/34R as follows:
+Oxford Saudi Flight Academy Training Flights operate on visual traffic circuit east of RWY 16L/34R as follows:
 
 |     **Runway Configuration**      |  **Direction**  | **Altitude(s)** |
 | :-------------------------------: | :-------------: | :-------------: |

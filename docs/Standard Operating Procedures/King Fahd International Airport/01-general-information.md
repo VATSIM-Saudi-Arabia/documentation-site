@@ -68,7 +68,7 @@ title: General Information
 
 |    **SOP Type**    | **Revision** |   **Changes**   |     **Prepared By**    | **Revised and Approved By** |
 |:------------------:|:------------:|:---------------:|:----------------------:|:---------------------------:|
-| **Delivery [DEL]** |    10/2025   | Initial Release | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
-|  **Ground [GND]**  |    10/2025   |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
-|   **Tower [TWR]**  |    10/2025   |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
+| **Delivery [DEL]** |    01/2025   | Initial Release | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
+|  **Ground [GND]**  |    01/2025   |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |    01/2025   |    Completed    |   Muhammad - SAUOPS    |    Ismail Hassan - ACCSA1   |
 | **Approach [APP]** |      --      |        --       |           --           |              --             |

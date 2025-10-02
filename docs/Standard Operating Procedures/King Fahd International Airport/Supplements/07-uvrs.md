@@ -5,6 +5,7 @@ title: "Supplement B - Urban Visual Routes (UVRs)"
 !!! success "Covering"
     This supplement covers the Urban Visual Routes (UVRs) surrounding the Dammam Control Area (CTA). 
 
+---
 
 ## 1. Visual Reference Points (VRPs)
 ### 1.1 Visual Reference Points within Dammam CTA
@@ -21,6 +22,8 @@ title: "Supplement B - Urban Visual Routes (UVRs)"
 |      **U**      |     3NM South of Hijrat AL Harah    |   R245 from KFA 36.0NM  | 261507N 0490938E |
 |      **W**      |             UTHMANIYAH              |   R239 from HSA 11.0NM  | 251139N 0491832E |
 
+---
+
 ### 1.2 Visual Reference Points outside Dammam CTA
 |    **Ident**    |       **Location Geographic**       | **Radial and distance** | **Coordinates**  |
 |:---------------:|:-----------------------------------:|:-----------------------:|:----------------:|
@@ -28,6 +31,8 @@ title: "Supplement B - Urban Visual Routes (UVRs)"
 |  **EAST GATE**  |       The 9th Electric Station      |   R072 from KIA 17.0NM  | 245740N 0470342E |
 |     **SAAD**    |    2.7NM Northeast of Hijrat Saad   |   R067 from KIA 47.0NM  | 250854N 0473348E |
 |      **V**      |                 ---                 |   R113 from MGA 55.0NM  | 255411N 0480751E |
+
+---
 
 ## 2. Urban Visual Routes (UVR)
 
@@ -37,6 +42,8 @@ title: "Supplement B - Urban Visual Routes (UVRs)"
 |     **DAM2**    |                              SAAD - V - Q - U - SLASL                            |
 |     **DAM3**    |                              SLASL - RAFIYYAH - RQUBA                            |
 |     **AHS1**    |                                   JUDAH - MALAF                                  |
+
+---
 
 ## 3. Urban Visual Routes (UVRs) Chart
 
