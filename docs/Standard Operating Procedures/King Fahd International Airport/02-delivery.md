@@ -50,7 +50,7 @@ An IFR clearance shall contain:
 
 #### 2.2.1 Phrasesology
 
-In Dammam, the standard GACA phrasesology is used. For IFR Clearances, the following phrasesolgy must strictly be adhered to.
+In Dammam, the standard GACA phraseology is used. For IFR Clearances, the following phrasesolgy must strictly be adhered to.
 
 > **Pilot:** _"SVA123, Stand 21, A320, requesting IFR clearance to Jeddah"_
 
