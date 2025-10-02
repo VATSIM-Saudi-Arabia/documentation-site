@@ -267,13 +267,13 @@ Table 4.3.1 - Dammam VRPs
 
 ##### 4.3.1.1 Entry/Exit VRPs into the CTR
 According to the eAIP traffic must only enter/exit the Dammam Control Zone via the following VRPs:
-- East gate
-- South gate
 
-Clearance to enter the control zone is issued by APP.
+- WASLA
+- RQUBA
 
-!!! caution "Do note"
-    All VFR flights shall enter Dammam CTR via this VRP and must contact the TWR 10NM prior the VRP.
+Clearance to enter from controlled airspace is issued by APP; for uncontrolled airspace, the clearance is issued by TWR.
+
+All VFR Traffic must contact the TWR 10NM prior to the entry VRP.
 
 !!! info "Rejection"
     The TWR controller has the right to reject any traffic into the control zone if deemed neccesary.
