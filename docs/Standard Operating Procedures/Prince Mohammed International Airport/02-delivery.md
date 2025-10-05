@@ -40,15 +40,15 @@ An IFR clearance shall contain:
 
 #### 2.2.1 Phraseology
 In Medinah, the standard GACA phrasesology is used. For IFR Clearances, the following phrasesolgy must strictly be adhered to.
-> **Pilot:** _SVA123, Stand 117, A320, requesting IFR clearance to Riyadh_
+> **Pilot:** _"SVA123, Stand 117, A320, requesting IFR clearance to Riyadh"_
 
-> **GMP:** _SVA123, Cleared Riyadh as filed, MEDRO1K Departure, Runway 35, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _"SVA123, Cleared Riyadh as filed, MEDRO1K Departure, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
   --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
 </p>
 
-> **GMP:** _SVA123, Readback Correct, Information A, Report ready for push and start_
+> **GMP:** _"SVA123, Readback Correct, Information A, Report ready for push and start"_
 
 !!! tip "Keep in mind"
     GMP shall obtain a full readback of the clearance. If the pilot reports the current information on initial contact, GMP must not repeat it.
@@ -82,9 +82,9 @@ It is important to note that these radar departures should only be utilized when
 
     > **APP:** _Accepts call from GMP_
 
-    > **GMP -> APP:** _APP, SVA123 is an A320 requesting approval for MADINAH 1T._
+    > **GMP -> APP:** _"APP, SVA123 is an A320 requesting approval for MADINAH 1T"_
 
-    > **APP -> GMP:** _GMP, MADINAH 1T approved._
+    > **APP -> GMP:** _"GMP, MADINAH 1T approved"_
 
 ##### 2.2.2.3 Omni-Directional Departures
 Omnidirectional departures can be issued in coordination with AIR & APP.
@@ -98,25 +98,25 @@ An Omnidirectional departure clearance shall contain the following information:
 -   Initial climb;
 -   Assigned SSR code
 
-> **Pilot:** _SVA123, Stand 117, A320, requesting IFR clearance to Riyadh_
+> **Pilot:** _"SVA123, Stand 117, A320, requesting IFR clearance to Riyadh"_
 
-> **GMP:** _SVA123, Cleared Riyadh as filed, Expect Radar Vectors, Runway 35, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _"SVA123, Cleared Riyadh as filed, Expect Radar Vectors, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
   --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
 </p>
 
-> **GMP:** _SVA123, Readback Correct, Information A, Report ready for push and start_
+> **GMP:** _"SVA123, Readback Correct, Information A, Report ready for push and start"_
 
 !!! Do note
     The pilot can receive an initial heading as part of the departure clearance, but it should only be given if instructed by AIR & APP.
 
 ##### 2.2.2.4 Phraseology
-> **GMP:** _SVA123, Cleared Riyadh as filed, After departure, Maintain Runway Heading, Runway 35, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _"SVA123, Cleared Riyadh as filed, After departure, Maintain Runway Heading, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
 
 **_OR_**
 
-> **GMP:** _SVA123, Cleared Riyadh as filed, After departure, Turn left heading 310, Runway 35, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _"SVA123, Cleared Riyadh as filed, After departure, Turn left heading 310, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
 
 !!! Example
     FAD5MA is requesting Omni-Directional due to technical malfunctions. GMP must call APP via VCCS to coordinate
@@ -125,13 +125,13 @@ An Omnidirectional departure clearance shall contain the following information:
 
     > **APP:** _Accepts call from GMP_
 
-    > **GMP -> APP:** _APP, SVA123 is an A320. Requesting approval for Omni-Directional Departure.._
+    > **GMP -> APP:** _"APP, SVA123 is an A320. Requesting approval for Omni-Directional Departure"_
 
-    > **APP -> GMP:** _GMP, Omni-Directional approved_ | **(Use Expect Radar Vectors in Clearance)**
+    > **APP -> GMP:** _"GMP, Omni-Directional approved"_ | **(Use Expect Radar Vectors in Clearance)**
 
     **_OR_**
 
-    > **APP -> GMP:** _GMP, Omni-Directional approved, Runway heading/Left Turn heading 310 after departure_ | **(Use Maintain Runway Heading/Assigned heading in Clearance)*
+    > **APP -> GMP:** _"GMP, Omni-Directional approved, Runway heading/Left Turn heading 310 after departure"_ | **(Use Maintain Runway Heading/Assigned heading in Clearance)*
 
 !!! tip
     When giving Radar Departures, type **"RDEP"** or **"OMNI"** in the scratch pad so upper controllers don't forget and you too!
@@ -144,7 +144,7 @@ If a traffic files an invalid route, they shall be informed by GMP of such as so
 ##### 2.2.3.1 Rerouting by voice
 GMP may use the following phrasesolgy to reroute traffic.
 
-> **GMP:** SVA123, Cleared Riyadh, MEDRO J852 KIA, Flight plan route, MEDRO1K, Runway 35, Initial Climb 8000ft, SQWK XXXX
+> **GMP:** _"SVA123, Cleared Riyadh, MEDRO J852 KIA, Flight plan route, MEDRO1K, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
 
 Altough this is allowed, it consumes time on frequency which maybe needed for other traffic on the frequency. Therefore, Rerouting by Private Message is preferred.
 
@@ -173,13 +173,13 @@ GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
     Jet engine aircraft must receive clearance to conduct circuits maintaining ***1500/2000 feet***.
 
 ##### 2.3.1.1 Phrasesolgy
-> **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 35, Make a right hand circuit, climb to 1500ft, SQWK XXXX._
+> **GMP:** _"HAZAZ, Cleared VFR Circuits, Runway 35, Make a right hand circuit, climb to 1500ft, SQWK XXXX"_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
   --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
 </p>
 
-> **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal/Jet Aircraft)_**
+> **GMP:** _"HAZAZ, Readback Correct, Information A, Report Ready for Startup"_ **_(Pushback if on a terminal/Jet Aircraft)_**
 
 #### 2.3.2 VFR Crosscountry
 Any VFR aircraft leaving the control zone at Medinah is considered to be engaging in cross-country VFR flight.
@@ -193,10 +193,10 @@ There are no specific restrictions, designated VFR routes, or prescribed exit po
 
 ##### 2.3.2.1 Phrasesolgy
 
-> **GMP:** _HAZAZ, Cleared VFR to Jeddah, Runway 36, SQWK 3423_
+> **GMP:** _"HAZAZ, Cleared VFR to Jeddah, Runway 36, SQWK 3423"_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
   --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
 </p>
 
-> **GMP:** _HAZAZ, Readback Correct, Information A, Report Ready for Startup_ **_(Pushback if on a terminal)_**
+> **GMP:** _"HAZAZ, Readback Correct, Information A, Report Ready for Startup"_ **_(Pushback if on a terminal)_**

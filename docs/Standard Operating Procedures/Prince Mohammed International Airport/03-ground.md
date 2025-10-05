@@ -52,9 +52,9 @@ This is the default type of push-back which will normally have the aircraft stop
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 112, request pushback.
+> **Pilot:** _"SVA123, Stand 112, request pushback"_
 
-> **SMC:** SVA123, Push & Start Approved, Face South on L.
+> **SMC:** _"SVA123, Push & Start Approved, Face South on L"_
 
 !!! tip "Be helpful!"
     If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
@@ -64,27 +64,27 @@ A short pushback instruction shall require the aircraft to complete the pushback
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 108, requesting pushback.
+> **Pilot:** _"SVA123, Stand 108, requesting pushback"_
 
-> **SMC:** SVA123, Short Pushback Approved, Face South on L.
+> **SMC:** _"SVA123, Short Pushback Approved, Face South on L"_
 
 ##### 3.1.2.3 Long Push-back
 A long pushback instruction shall require aircraft to complete the pushback operation more then two stands away from where the pushback was commenced. This manoeuvre may be used when an aircraft is vacating a stand to be used by another aircraft that is taxing in.
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 109, request pushback.
+> **Pilot:** _"SVA123, Stand 109, request pushback"_
 
-> **SMC:** SVA123, Long Pushback Approved, Face South on L.
+> **SMC:** _"SVA123, Long Pushback Approved, Face South on L"_
 
 !!! info "Be Specific!"
     If you desire to provide precise instructions regarding the end point of the pushback, you can use the following phraseology to instruct the aircraft to halt at a specific position:
 
-    > **SMC:** SVA123, Long Pushback Approved, Face South on L, Finish Abeam stand XX.
+    > **SMC:** _"SVA123, Long Pushback Approved, Face South on L, Finish Abeam stand XX"_
 
     *or if you wish the aircraft keeps a taxiway clear*
 
-    > **SMC:** SVA123, Long Pushback Approved, Face South on L, Stay Clear of Taxiway XX.
+    > **SMC:** _"SVA123, Long Pushback Approved, Face South on L, Stay Clear of Taxiway XX"_
 
 ##### 3.1.2.4 Conditional Push-back
 
@@ -92,16 +92,16 @@ In certain situations, conditional pushback instructions may be given when there
 
 An example of such an instruction is as follows:
 
-> **Pilot:** SVA123, Stand 112, request pushback.
+> **Pilot:** _"SVA123, Stand 112, request pushback"_
 
-> **SMC:** SVA123, Behind the Flynas A320 passing from your left to right, push & start approved, face south on L. Behind.
+> **SMC:** _"SVA123, Behind the Flynas A320 passing from your left to right, push & start approved, face south on L. Behind"_
 
 !!! info "Airline"
     When giving the clearance, the "airline" should be mentioned and not "callsign". 
 
     For example:
 
-    > **SMC:** SVA123, Behind the **Qatar Airways** (~~Qatari~~) B777 passing from your left to right, push & start approved, face south on L. Behind.
+    > **SMC:** _"SVA123, Behind the **Qatar Airways** (~~Qatari~~) B777 passing from your left to right, push & start approved, face south on L. Behind"_
 
     ---
 

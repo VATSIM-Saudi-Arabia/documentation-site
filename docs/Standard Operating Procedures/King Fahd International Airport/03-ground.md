@@ -78,7 +78,7 @@ This is the default type of push-back which will normally have the aircraft stop
 
 > **Pilot:** *"SVA123, Stand 17, requesting pushback"*
 
-> **SMP:** *"SVA123, Push & Start Approved, Face South on C"*
+> **SMC:** *"SVA123, Push & Start Approved, Face South on C"*
 
 !!! tip "Be helpful!"
     If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
