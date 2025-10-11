@@ -141,7 +141,7 @@ Controllers wishing to take over or relief an occupied position using the publis
 ### 4.4 Pending/Ternimating a Session
 Controllers must notify others of their intent to disconnect using the `.break` function on EuroScope and announce it either via `/atc` channel or voice at least 5 minutes before disconnecting.
 
-In cases where the neighboring postion needs to step away shortly during peak hours, the use of **Cross-coupling of frequencies** may be employed for a period not exceeding **10 minutes** to accommodate brief absences from the primary frequency.
+In cases where the neighboring position needs to step away shortly during peak hours, the use of **Cross-coupling of frequencies** may be employed for a period not exceeding **10 minutes** to accommodate brief absences from the primary frequency.
 
 ---
 
