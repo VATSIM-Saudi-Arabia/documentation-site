@@ -85,7 +85,7 @@ The Saudi Arabian vACC upholds a rigorous standard of operational realism and pr
 
 - **Temporary Absences** <br> Controllers are required to disconnect from the network if intending to be absent from their position for more than **5 minutes**. Reconnection shall only be made once they are fully prepared to resume all operational responsibilities.
 
-- **Session Termination** <br> Controllers are required to adhere to the prescribed coordination protocol outlined in the “Ending a Session” section prior to terminating their connection.
+- **Session Termination** <br> Controllers are required to adhere to the prescribed coordination protocol outlined in the “Pending, or Ternimating a Session” section prior to terminating their connection.
 
 ---
 
@@ -138,12 +138,20 @@ Controllers wishing to take over or relief an occupied position using the publis
 
 ---
 
-### 4.4 Pending/Ternimating a Session
+### 4.4 Pending, or Ternimating a Session
 Controllers must notify others of their intent to disconnect using the `.break` function on EuroScope and announce it either via `/atc` channel or voice at least 5 minutes before disconnecting.
 
 In cases where the neighboring position needs to step away shortly during peak hours, the use of **Cross-coupling of frequencies** may be employed for a period not exceeding **10 minutes** to accommodate brief absences from the primary frequency.
 
+!!! Example
+    AIR controller shall coordinate with APP to take over his frequency during his absence for a short period of time.
+
 ---
 
 ## 5. Conflict Resolution
-### 5.1 Reporting Issues
+In the event of a conflict, controllers shall first seek informal resolution by contacting the vACC Director or Deputy Director. Should the matter remain unresolved, it may be escalated to the Division Director or the DCRM for further action.
+
+---
+
+## 6. Non-compliance with this Policy
+Lack of awareness of established policies shall not be considered a valid justification. Each member is responsible for remaining informed of the latest procedures. Repeated violations may result in the revocation of existing approvals.
