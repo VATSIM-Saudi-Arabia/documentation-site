@@ -107,6 +107,8 @@ Any session of less than the required duration shall be excluded from the contro
 ### 4.1 Starting a Session
 Controllers are required to finalize all coordination protocols prior to assuming any position. They must verify the presence of adjacent controllers within the coordination channels on the Saudi Arabian vACC Discord server.
 
+Controllers shall only utilise callsigns and frequencies approved for use by the Operations Department.
+
 1. **Controller consults the VATSIM Radar, or an equivalent platform, to verify the presence of active ATC coverage**.
     1. If Adjacent controllers are not online:
         1. Review the most recent NOTAMs and real-world air traffic conditions to appropriately adjust and mitigate operational implications
@@ -132,10 +134,14 @@ For the purposes of coordination, controllers operating concurrently with adjace
 ---
 
 ### 4.3 Swapping Positions
+Controllers wishing to take over or relief an occupied position using the published callsign shall utilize an additional letter `(R)` prior to the final suffix to make the position recognizable to pilots. **(e.g. OEJN_W_TWR becomes OEJN_WR_TWR)** unless an alternative is published by the Operations Department.
 
 ---
 
-### 4.4 Ending a Session
+### 4.4 Pending/Ternimating a Session
+Controllers must notify others of their intent to disconnect using the `.break` function on EuroScope and announce it either via `/atc` channel or voice at least 5 minutes before disconnecting.
+
+In some case where the neighboring postion needs to step away shortly during peak hours, the use of **Cross-coupling of frequencies** may be employed for a period not exceeding **10 minutes** to accommodate brief absences from the primary frequency.
 
 ---
 
