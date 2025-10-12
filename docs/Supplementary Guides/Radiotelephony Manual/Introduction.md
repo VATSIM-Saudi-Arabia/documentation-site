@@ -1,8 +1,8 @@
 ---
-title: 1. Introduction
+title: Introduction
 ---
 
-## 1.1 General Provisions
+## General Provisions
 The annotation phraseology denotes the prescribed words and/or phrases to be used in
 communications. Controllers are required to use standardized procedures and phraseologies
 when communicating with pilots. When needed, controllers can rephrase the message to
@@ -16,7 +16,7 @@ All communications shall be delivered in a clear, concise, and unambiguous manne
 
 ---
 
-## 1.2 Standard Phrasesolgy
+## Standard Phrasesolgy
 
 Standardised phraseology shall be used in all situations wherever applicable. However, plain
 language may be used when standardised phraseology is unable to serve the intended purpose, or
@@ -29,7 +29,7 @@ reasons.
 The expression “TAKE-OFF” shall only be used in radiotelephony when an aircraft is cleared for take-
 off or when cancelling a take-off clearance.
 
-## 1.1 Appropriate Transmitting Techniques
+## Appropriate Transmitting Techniques
 
 - **Listen!** Before you transmit, listen, and make sure the frequency is clear.
 - **Think!** Before keying your transmitter, know what you want to say.
@@ -38,13 +38,13 @@ off or when cancelling a take-off clearance.
 be sure the first word is transmitted.
 - Release the button after the message is **completely transmitted**.
 
-## 1.3 Blocked frequency
+## Blocked frequency
 Frequency blocking is a phenomenon that occurs when two or more stations transmit on the
 same frequency or when a station makes an unnecessary transmission that lasts for too long.
 In the former case, the result is a signal that is a mix of all transmissions, and the receiving
 stations hear a garbled message which is often completely unreadable.
 
-### 1.3.1 Frequency blocking reasons
+### Frequency blocking reasons
 Frequency blocking can occur between **pilot-pilot** or **pilot-ATC** transmissions. The most common reasons for frequency blocking are:
 
 - **Stuck microphone button.** It often prevents the normal use of the frequency because
@@ -60,7 +60,7 @@ relevant by more than one flight crew. This usually (but not always) happens due
 callsign similarity (e.g., SVA078 and SVA778). The result is that both pilots reply and
 block the frequency.
 
-### 1.3.2 Frequency blocking results
+### Frequency blocking results
 A frequency blocking may lead to:
 
 - **Inability to communicate.** If the frequency is unavailable for a prolonged period, some
@@ -70,7 +70,7 @@ stations may be unreachable on the frequency.
 - **Receiving wrong information.** Blocking frequency may lead to aircraft accepting a
 clearance intended for another, with the controller unaware of the situation.
 
-### 1.3.3 Restoring normal communications
+### Restoring normal communications
 The following procedures are helpful to mitigate the consequences of frequency blocking and restore normal communications:
 
 - Using the word **BLOCKED** to alert the others that a frequency blocking has occurred so
