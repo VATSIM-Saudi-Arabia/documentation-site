@@ -2,6 +2,9 @@
 title: Introduction
 ---
 
+!!! Warning
+    Manual is still in development and therefore not effective. Use for reference only.
+
 ## General Provisions
 The annotation phraseology denotes the prescribed words and/or phrases to be used in
 communications. Controllers are required to use standardized procedures and phraseologies
