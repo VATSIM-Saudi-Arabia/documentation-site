@@ -47,7 +47,7 @@ In Riyadh, the standard GACA phrasesology is used. For IFR Clearances, the follo
 
 > **Pilot:** _SVA123, Stand 34, A320, requesting IFR clearance to Dammam_
 
-> **GMP:** _SVA123, Cleared Dammam as filed, ALTAV1K Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _SVA123, Cleared Dammam as filed, ALTAV1D Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
 --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
