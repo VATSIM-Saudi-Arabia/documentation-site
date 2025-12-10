@@ -141,44 +141,62 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 
 ### 3.2  Taxi Procedures
 ####  3.2.1  Departure Taxi Procedures
-##### 3.2.1.1 33s Departure Taxi Procedures
+##### 3.2.1.1 33s Mixed Operations Departure Taxi Procedures
 
-|       **Apron**      | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-| **Aprons 2,3,4 & 5** |         G1/G         |           T,R,S           |    T/R/S, G  |      _Passing T_     |
-|      **Apron 6**     |         G1/G         |            V/F            |    V/F, G1   |      _Immediate_     |
-|      **Apron C**     |         G1/G         |             N             |     N, G     |     _Passing by T_   |
-|   **Aprons 7 & 9**   |         G1/G         |            J/Q            |  A, T, G, G1 |      _Passing T_     |
-|      **Apron G**     |          H1          |             H2            |   H2, H, H1  |    _Taxing on H_     |
+|    **Apron**   | **Departure Runway** |                                             **SMC N Instructions**                                            |                                        **SMC S Instructions**                                        |                  **Handoff to AIR**                 |
+|:--------------:|:--------------------:|:-------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
+| **Aprons 1,2** |      Runway 33R      | Taxi E <br>*Hold Short R*<br>Taxi R,F<br>*Hold Short S*<br>Taxi F<br>*Hold Short T*<br>***Handoff to SMC S*** |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
+| **Aprons 1,2** |      Runway 33L      | Taxi E <br>*Hold Short R*<br>Taxi R,F<br>*Hold Short S*<br>Taxi F<br>*Hold Short T*<br>***Handoff to SMC S*** |                                               Taxi T,A                                               |  _While taxing on Taxiway T and clear of conflict_  |
+| **Aprons 3,4** |      Runway 33R      |               Taxi E <br>*Hold Short S*<br>Taxi S,F<br>*Hold Short T*<br>***Handoff to SMC S***               |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
+| **Aprons 3,4** |      Runway 33L      |               Taxi E <br>*Hold Short S*<br>Taxi S,F<br>*Hold Short T*<br>***Handoff to SMC S***               |                                               Taxi T,A                                               |  _While taxing on Taxiway T and clear of conflict_  |
+|   **Apron 5**  |      Runway 33R      |                              Taxi E <br>*Hold Short T*<br>***Handoff to SMC S***                              |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
+|   **Apron 5**  |      Runway 33L      |                              Taxi E <br>*Hold Short T*<br>***Handoff to SMC S***                              |                                               Taxi T,A                                               |  _While taxing on Taxiway T and clear of conflict_  |
+|   **Apron 6**  |      Runway 33R      |                                                       -                                                       |       Taxi F,V<br>***OR***<br>Taxi F/D<br>*Hold Short of T*<br>Taxi T,G<br>***OR***<br>Taxi D,V      | _While taxing on Taxiway G/V and clear of conflict_ |
+|   **Apron 6**  |      Runway 33L      |                                                       -                                                       | Taxi F,V,D<br>*Hold Short of T*<br>Taxi T,A<br>***OR***<br>Taxi F/D<br>*Hold Short of T*<br>Taxi T,A |  _While taxing on Taxiway T and clear of conflict_  |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.1.1 - 33s Mixed Operations Departure Taxi Procedures
+</p>
 
-##### 3.2.1.2 15s Departure Taxi Procedures
+##### 3.2.1.2 33s Semi-mixed Operations Departure Taxi Procedures
 
-|       **Apron**      | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-| **Aprons 2,3,4 & 5** |         G7/G        |            T,R,S           |    T/R/S, G  |      _Passing P_     |
-|      **Apron 6**     |         G7/G        |             V/U            |     V/U, G   |      _Passing P_     |
-|      **Apron C**     |         G7/G        |              N             |       N      |      _Immediate_     |
-|      **Apron G**     |          H4         |              H3            |   H3, H, H4  |     _Taxing on H_    |
+|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
+| **Aprons 2,3,4 & 5** |      Runway 33R      |         G1/G         |           T,R,S           |   T/R/S, G   |      _Passing T_     |
+|      **Apron 6**     |      Runway 33R      |         G1/G         |            V/F            |    V/F, G1   |      _Immediate_     |
+|      **Apron C**     |      Runway 33R      |         G1/G         |             N             | N/G/P/F/T, G |     _Passing by T_   |
+|   **Aprons 7 & 9**   |      Runway 33L      |         A1/A         |            J/Q            |       A      |      _Passing T_     |
+|      **Apron G**     |      Runwya 33R      |          H1          |             H2            |   H2, H, H1  |    _Taxing on H_     |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.1.2 - 33s Semi-mixed Operations Departure Taxi Procedures
+</p>
 
-##### 3.2.1.1 33s Departure Taxi Procedures
+##### 3.2.1.3 15s Mixed Operations Departure Taxi Procedures
 
-|          **Type**        |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:------------------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|**International Airlines**| Aprons 2,3,4 & 5 |              A, P, E               |   A, **Hold Short of P**   |
-|  **Domestic & Lowcost**  |      Apron 6     |              A, T, D               |   A, **Hold Short of T**   |
-|     **Royal Aprons**     |   Aprons 7 & 9   |              A, J/Q                |             N/A            |
-|     **Cargo Aprons**     |      Apron C     |              A, P, E               |   A, **Hold Short of P**   |
-|   **General Aviation**   |      Apron G     |              A, P, H               |   A, **Hold Short of P**   |
+|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
+| **Aprons 2,3,4 & 5** |      Runway 15R      |         A7/A         |             P             |       A      |    _Taxing on P_     |
+| **Aprons 2,3,4 & 5** |      Runway 15L      |         G7/G         |           P,R,S           |   P/R/S, G   |      _Passing P_     |
+|      **Apron 6**     |      Runway 15L      |         G7/G         |            U/V            |    U/V/G G   |      _Passing P_     |
+|      **Apron C**     |      Runway 15R      |         A7/A         |             P             |    P/A, A    |     _Passing by P_   |
+|      **Apron C**     |      Runway 15L      |         G7/G         |             N             |    N/G, G    |      _Immediate_     |
+|   **Aprons 7 & 9**   |      Runway 15R      |         A7/A         |            J/Q            |       A      |      _Passing P_     |
+|      **Apron G**     |      Runwya 15L      |          H4          |             H2            |   H3, H, H4  |    _Taxing on H_     |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.1.3 - 15s Mixed Operations Departure Taxi Procedures
+</p>
 
-##### 3.2.1.2 15s Departure Taxi Procedures
+##### 3.2.1.4 15s Semi-mixed Departure Taxi Procedures
 
-|         **Type**         |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:------------------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|**International Airlines**| Aprons 2,3,4 & 5 |               A, P, E              |   A, **Hold Short of P**   |
-|  **Domestic & Lowcost**  |      Apron 6     |               A, T, D              |   A, **Hold Short of T**   |
-|     **Royal Aprons**     |    Aprons 7 & 9  |               A, J/Q               |             N/A            |
-|     **Cargo Aprons**     |      Apron C     |               A, P, E              |   A, **Hold Short of P**   |
-
+|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
+| **Aprons 2,3,4 & 5** |      Runway 15L      |         G7/G         |           P,R,S           |   P/R/S, G   |      _Passing P_     |
+|      **Apron 6**     |      Runway 15L      |         G7/G         |            U/V            |    U/V, G7   |      _Passing P_     |
+|      **Apron C**     |      Runway 15L      |         G7/G         |             N             |    N/G, G    |      _Immediate_     |
+|   **Aprons 7 & 9**   |      Runway 15R      |         A7/A         |            J/Q            |       A      |      _Passing P_     |
+|      **Apron G**     |      Runwya 15L      |          H4          |             H3            |   H3, H, H4  |    _Taxing on H_     |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.1.4 - 15s Semi-mixed Operations Departure Taxi Procedures
+</p>
 
 ---
 #### 3.2.3 Stand Allocation Procedure
@@ -186,14 +204,14 @@ Stands are assigned by the GRPlugin in the Euroscope, but controllers should pre
 
 |       **Aprons**       |                         **Airlines**                        |
 |:----------------------:|:-----------------------------------------------------------:|
-|         Apron 2        |                     International Airlines                  |
+|         Apron 2        |        International Airlines (Non-SkyTeam carriers)        |
 |         Apron 3        |   International Airlines (Iraqi, Sun air, Ariana Afghan )   |
 |         Apron 4        |                     International Airlines                  |
 |         Apron 5        |               Saudi Airline (International Flights)         |
 |         Apron 6        |         Domestic & Lowcost (Flynas, Flyadeal, Saudi)        |
 |         Apron 7 & 9    |                           Royal Aprons                      |
 |         Apron C        |                           Cargo Flights                     |
-|         Apron G        |                          General Aviation                   |
+|         Apron G        |                         General Aviation                    |
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
 Table 3.2.4 - Stand Allocation Procedure
@@ -215,107 +233,93 @@ This allows for a smooth and immediate transfer of traffic to the appropriate gr
 
 #### 3.2.5  Arrival Taxi Procedures
 ##### 3.2.5.1 General Arrival Taxi Procedures
-<<<<<<< Updated upstream
-SMC 1 should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. 
-=======
 SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. 
->>>>>>> Stashed changes
 
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow an initial taxi route and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 
-##### 3.2.5.2 33s SARO Arrival Taxi Procedures
+##### 3.2.5.2 33s Mixed Operations Arrival Taxi Procedures
 
-|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
-|    **General Aviation**   |      Apron G     | A, P, H| A, **Hold Short of P** |
+|     **Apron**    | **Arrival Runway** |          **AIR W Taxi Instructions**         |        **Air E Taxi Instructions**       |     **Handoff to SMC N**    |                                         **SMC N Instructions**                                        |                **Handoff to SMC S**               |                     **SMC S Taxi Instructions**                    |
+|:----------------:|:------------------:|:--------------------------------------------:|:----------------------------------------:|:---------------------------:|:-----------------------------------------------------------------------------------------------------:|:-------------------------------------------------:|:------------------------------------------------------------------:|
+| **_Aprons 1,2_** |    _Runway 33R_    |                       -                      |                _Vacate G4_               |        _Immediately_        |                               *Taxi G<br>*Hold Short of P*<br>Taxi P,E*                               |                         -                         |                                  -                                 |
+|  **Aprons 1,2**  |     Runway 33L     | Vacate A4<br>Taxi A, P <br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                                                 Taxi E                                                |                         -                         |                                  -                                 |
+| **_Aprons 3,4_** |    _Runway 33R_    |                       -                      |                _Vacate G4_               |        _Immediately_        |                                              _Taxi G,R,E_                                             |                         -                         |                                  -                                 |
+|  **Aprons 3,4**  |     Runway 33L     | Vacate A4<br>Taxi A, P <br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                               Taxi P,F<br>*Hold Short of R*<br>Taxi R,E                               |                         -                         |                                  -                                 |
+|   **_Apron 5_**  |    _Runway 33R_    |                       -                      |                _Vacate G4_               |        _Immediately_        | _Taxi G,R<br>_Hold Short of F_<br>Taxi F<br>_Hold Short of S_<br>_Taxi S,E_<br>_**OR**_<br>_Taxi S,E_ |                         -                         |                                  -                                 |
+|    **Apron 5**   |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                Taxi P,F<br>*Hold Short of R*<br>Taxi F<br>*Hold Short of S*<br>Taxi S,E               |                         -                         |                                  -                                 |
+|    **Apron 6**   |     Runway 33R     |                       -                      | Vacate G4<br>Taxi G<br>*Hold Short of T* |              -              |                                                   -                                                   |                   _Immediately_                   | Taxi G,U<br>*Hold Short of D*<br> Taxi D<br>***OR***<br>Taxi G,U,F |
+|    **Apron 6**   |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                                   <br>Taxi P, G<br>*Hold Short of T*                                  | _While taxing on Taxiway G and clear of conflict_ | Taxi G,U<br>*Hold Short of D*<br> Taxi D<br>***OR***<br>Taxi G,U,F |
+|  **Cargo Apron** |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                                               Taxi P, E                                               |                         -                         |                                  -                                 |
+|   **GA Apron**   |     Runway 33R     |                       -                      |               Vacate H3/H4               |         Immediately         |                               Taxi H3, H2 <br>***OR*** <br>H4, H, H3, H2                              |                         -                         |                                  -                                 |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.5.2 - 33s Mixed Operations Arrival Taxi Procedures
+</p>
 
-##### 3.2.5.2 33s DARO Arrival Taxi Procedures
+##### 3.2.5.3 33s Semi-mixed Operations Arrival Taxi Procedures
 
-<<<<<<< Updated upstream
-|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
-|    **General Aviation**   |      Apron G     | A, P, H| A, **Hold Short of P** |
-=======
-|    **Apron**    | **Arrival Runway** |          **AIR W Taxi Instructions**          |         **Air E Taxi Instructions**        |     **Handoff to SMC N**    |                          **SMC N Instructions**                          |     **Handoff to SMC S**    |   **SMC S Taxi Instructions**   |
-|:---------------:|:------------------:|:--------------------------------------------:|:-----------------------------------------:|:---------------------------:|:------------------------------------------------------------------------:|:---------------------------:|:-------------------------------:|
-|  **Aprons 1,2** |     Runway 33R     |                       -                      | Vacate G4 <br>Taxi G<br>*Hold Short of R* |        _Immediately_        |                 Taxi G<br>*Hold Short of P*<br>Taxi P,E                  |              -              |                -                |
-|  **Aprons 1,2** |     Runway 33L     | Vacate A4<br>Taxi A, P <br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ |                                  Taxi E                                  |              -              |                -                |
-|  **Aprons 3,4** |     Runway 33R     |                       -                      | Vacate G4 <br>Taxi G<br>*Hold Short of R* |        _Immediately_        |                                 Taxi R,E                                 |              -              |                -                |
-|  **Aprons 3,4** |     Runway 33L     | Vacate A4<br>Taxi A, P <br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ |                Taxi P,F<br>*Hold Short of R*<br>Taxi R,E                 |              -              |                -                |
-|   **Apron 5**   |     Runway 33R     |                       -                      |  Vacate G4<br>Taxi G<br>*Hold Short of R* |        _Immediately_        |                 Taxi R,F<br>*Hold Short of S*<br>Taxi S,E                |              -              |                -                |
-|   **Apron 5**   |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ | Taxi P,F<br>*Hold Short of R*<br>Taxi F<br>*Hold Short of S*<br>Taxi S,E |              -              |                -                |
-|   **Apron 6**   |     Runway 33R     |                       -                      |  Vacate G4<br>Taxi G<br>*Hold Short of T* |              -              |                                     -                                    |        _Immediately_        | Taxi T, D ***OR*** Taxi T, F, U |
-|   **Apron 6**   |     Runway 33L     |  Vacate A4<br>Taxi A, T<br>*Hold Short of E* |                     -                     |              -              |                                     -                                    | _While taxing on Taxiway T_ | Taxi T, D ***OR*** Taxi T, F, U |
-| **Cargo Apron** |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ |                                 Taxi P, E                                |              -              |                -                |
-|   **GA Apron**  |     Runway 33R     |                       -                      |                Vacate H3/H4               |         Immediately         |                      H3, H2 ***OR*** H4, H, H3, H2                       |              -              |                -                |
->>>>>>> Stashed changes
+|             **Type**          | **Arrival Runway** |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:-----------------------------:|:------------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|   **International Airlines**  |     Runway 33L     | Aprons 2,3,4 & 5 |              A, P, E               |   A, P **Hold Short of E**   |
+|      **Domestic & Lowcost**   |     Runway 33L     |      Apron 6     |              A, T, D               |   A, **Hold Short of T**   |
+|         **Royal Aprons**      |     Runway 33L     |   Aprons 7 & 9   |              A, J/Q                |             N/A            |
+|         **Cargo Aprons**      |     Runway 33L     |      Apron C     |              A, P, E               |   A, **Hold Short of P**   |
+|      **General Aviation**     |     Runway 33L     |      Apron G     |              A, P, H               |   A, **Hold Short of P**   |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.5.3 - 33s Semi-mixed Operations Arrival Taxi Procedures
+</p>
 
-##### 3.2.5.3 15s SARO Arrival Taxi Procedures
+##### 3.2.5.3 15s Mixed Operations Arrival Taxi Procedures
 
-|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
+|    **Apron**   | **Arrival Runway** |         **AIR W Taxi Instructions**         | **Air E Taxi Instructions** |     **Handoff to SMC S**    |                        **SMC S Taxi Instructions**                       |            **Handoff to SMC N**           |                           **SMC N Instructions**                           |                                                                              **Notes**                                                                              |
+|:--------------:|:------------------:|:-------------------------------------------:|:---------------------------:|:---------------------------:|:------------------------------------------------------------------------:|:-----------------------------------------:|:--------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Aprons 1,2** |     Runway 15R     | Vacate A4<br>Taxi A, T<br>_Hold Short of D_ |              -              | _While taxing on Taxiway T_ |       Taxi T<br>_Hold Short of D_<br>Taxi T,G<br>_Hold Short of S_       |       _While taxing on Taxiway G/T_       |                   Taxi G<br>_Hold Short of R_<br>Taxi R,E                  |                                                                                  -                                                                                  |
+| **Aprons 1,2** |     Runway 15L     |                      -                      |              -              |              -              |                         Taxi T<br>_Hold Short E_                         |               _Immediately_               | Taxi S<br>_Hold Short of F_<br>Taxi F<br>_Hold Short of T_<br>--<br>Taxi E | SMC N/SMC S can coordinate to avoid the handover at T. <br><br>Furthermore an exception can be given when there is no traffic and allow the traffic to taxi via S,E |
+| **Aprons 3,4** |     Runway 15R     | Vacate A4<br>Taxi A, T<br>_Hold Short of D_ |              -              | _While taxing on Taxiway T_ | Taxi T,G<br>_Hold Short of S_<br>***OR***<br>Taxi T<br>_Hold Short of E_ | While Taxing on T/G and clear of conflict |                       Taxi S,E<br>***OR***<br>Taxi E                       |                                                                                  -                                                                                  |
+| **Aprons 3,4** |     Runway 15L     |                      -                      |              -              |              -              |                                     -                                    |               _Immediately_               |                  Taxi S<br>_Hold Short of F_<br>Taxi S, E                  |                                     If needed, to avoid clutter at F/S, traffic maybe instructed to taxi up to R and back down.                                     |
+|   **Apron 5**  |     Runway 15R     | Vacate A4<br>Taxi A, T<br>_Hold Short of D_ |              -              | _While taxing on Taxiway T_ |        Taxi T<br>_Hold Short of D_<br>Taxi T<br>_Hold Short of E_        |        _While taxing on Taxiway T_        |                                   Taxi E                                   |                                                                                  -                                                                                  |
+|   **Apron 5**  |     Runway 15L     |                      -                      |              -              | _While taxing on Taxiway F_ |                         Taxi T<br>_Hold Short E_                         |               _Immediately_               | Taxi S<br>_Hold Short of F_<br>Taxi F<br>_Hold Short of T_<br>--<br>Taxi E | SMC N/SMC S can coordinate to avoid the handover at T. <br><br>Furthermore an exception can be given when there is no traffic and allow the traffic to taxi via S,E |
+|   **Apron 6**  |     Runway 15R     | Vacate A4<br>Taxi A, T<br>_Hold Short of D_ |              -              |  While taxing on Taxiway T  |                 Taxi T<br>_Hold Short of D_<br>Taxi T,D/F                |                     -                     |                                      -                                     |                                                                                  -                                                                                  |
+|   **Apron 6**  |     Runway 15L     |                      -                      |              -              | _While taxing on Taxiway F_ |                      Taxi T, D<br>***OR***<br>Taxi F                     |               _Immediately_               |         Taxi S<br>_Hold Short of F_<br>Taxi F<br>_Hold Short of T_         |                                                                                  -                                                                                  |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.5.4 - 15s Mixed Operations Arrival Taxi Procedures
+</p>
 
-##### 3.2.5.3 15s Arrival Taxi Procedures
+##### 3.2.5.3 15s Semi-mixed Arrival Taxi Procedures
 
-|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
+|             **Type**          | **Arrival Runway** |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:-----------------------------:|:------------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|   **International Airlines**  |     Runway 15R     | Aprons 2,3,4 & 5 |              A, T, E               |   A,T **Hold Short of D**  |
+|      **Domestic & Lowcost**   |     Runway 15R     |      Apron 6     |              A, T, D               |   A,T **Hold Short of D**  |
+|         **Royal Aprons**      |     Runway 15R     |   Aprons 7 & 9   |              A, J/Q                |             N/A            |
+|         **Cargo Aprons**      |     Runway 15R     |      Apron C     |              A, T, E               |   A,T **Hold Short of D**  |
+|      **General Aviation**     |     Runway 15L     |      Apron G     |              A, P, H               |   A,P **Hold Short of E**  |
 
-#### 3.2.6  Arrival Taxi Procedures
-##### 3.2.6.1 General Arrival Taxi Procedures
-SMC 1 should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. 
-
-Upon vacating the runway, the Tower controller will instruct the aircraft to follow an initial taxi route and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
-
-##### 3.2.6.2 33s Arrival Taxi Procedures
-
-|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
-|    **General Aviation**   |      Apron G     | A, P, H| A, **Hold Short of P** |
-
-##### 3.2.6.3 15s Arrival Taxi Procedures
-
-|      **Type**     |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|     **International Airlines**     |      Aprons 2,3,4 & 5   | A, P, E| A, **Hold Short of P** |
-|      **Domestic & Lowcost**     |    Apron 6     |  A, T, D| A, **Hold Short of T** |
-|     **Royal Aprons**     |      Aprons 7 & 9   |                  A, J/Q               |         N/A        |
-|    **Cargo Aprons**   |      Apron C      |  A, P, E| A, **Hold Short of P** |
-
-####  3.2.7 Taxi Diagrams
-##### 3.2.7.1 Legend
+####  3.2.6 Taxi Diagrams
+##### 3.2.6.1 Legend
 ###### Departures Flow
 ![Loading](imgs/blue.png)
 ###### Arrivals Flow
 ![Loading](imgs/yellow.png)
 
-##### 3.2.7.2 33 SARO Config
+##### 3.2.6.2 33 Mixed Operatiions (33s MO) Config
+###### 3.2.6.2.1 Departures/Arrival Flow
+![Loading](imgs/33mo.png)
+
+###### 3.2.6.2.2 Departures Flow
+![Loading](imgs/33mod.png)
+
+###### 3.2.6.2.3 Arrivals Flow
+![Loading](imgs/33moa.png)
+
+##### 3.2.6.2 33 DARO Config
 ![Loading](imgs/33saro.png)
 
-##### 3.2.7.2 33 DARO Config
-![Loading](imgs/33daro.png)
+##### 3.2.6.3 15 Mixed Operatiions (15s MO) Config
+###### 3.2.6.3.1 Departures/Arrival Flow
+![Loading](imgs/15mo.png)
 
-##### 3.2.7.3 15 SARO Config
-![Loading](imgs/15saro.png)
+###### 3.2.6.3.2 Departures Flow
+![Loading](imgs/15mod.png)
 
-##### 3.2.7.3 15 DARO Config
-![Loading](imgs/15daro.png)
+###### 3.2.6.3.3 Arrivals Flow
+![Loading](imgs/15moa.png)

@@ -66,8 +66,11 @@ In Riyadh, the standard GACA phrasesology is used. For IFR Clearances, the follo
 
 All Standard Instrument Departures used in Riyadh are  **RNAV standard instrument departures (SIDs)**. The selection of the appropriate SID for departing aircraft is based on the exit point specified in the flight plan and the active departure runway at the airport.
 
+!!! caution "Do note"
+    At Riyadh, all eastbound departures shall utilize Runway 33R, while westbound departures shall utilize Runway 33L.
+
 !!! info "Initial Climb"
-  In Riyadh, regardless of the specific SID chosen, all departures should be assigned an initial climb of **8000 feet**.
+    In Riyadh, regardless of the specific SID chosen, all departures should be assigned an initial climb of **8000 feet**.
 
 #### 2.2.2.2 Radar Departures
 

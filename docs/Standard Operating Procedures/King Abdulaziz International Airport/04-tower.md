@@ -16,7 +16,7 @@ The **Jeddah Tower (AIR)** is responsible for all aerodrome movements on runways
 
 ---
 
-##  2. Designated Area of Responsibility
+##  2. Designated Areas of Responsibility
 **King Abdulaziz International Airport (OEJN)** features two primary AIR positions, namely **AIR W**, and **AIR E**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/SMC.png)
 
@@ -146,17 +146,17 @@ The below procedures are considered as standard and no coordination is required 
 !!! caution 
     Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
 
- ### 4.1 Departure procedures
- ####    4.1.1. Departure points
+### 4.1 Departure procedures
+####    4.1.1. Departure points
 
- |       **Runway**       |     **Departure point**     |
-|:------------------------:|:-----------------------:|
-|        34L       |        B1 / U       |
-|        34C       |        G1, G2 / H1, H2       |
-|        34R       |        M1, M2 / N1       |
-|        16L       |        M8, M9 / N9       |
-|        16C       |        G6 / H7       |
-|        16R       |        A7 / B7       |
+|       **Runway**       |  **Departure point**   |
+|:----------------------:|:----------------------:|
+|           34L          |        B1 / U          |
+|           34C          |        G1, G2 / H1, H2 |
+|           34R          |        M1, M2 / N1     |
+|           16L          |        M8, M9 / N9     |
+|           16C          |        G6 / H7         |
+|           16R          |        A7 / B7         |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.1. - Departure points
 </p>

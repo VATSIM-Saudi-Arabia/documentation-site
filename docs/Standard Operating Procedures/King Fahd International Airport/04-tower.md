@@ -16,7 +16,7 @@ The **Dammam Tower (AIR)** is responsible for all aerodrome movements on runways
 
 ---
 
-##  2. Designated Area of Responsibility
+##  2. Designated Areas of Responsibility
 **King Fahd International Airport (OEDF)** features two primary AIR position. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/aor.png#center)
 

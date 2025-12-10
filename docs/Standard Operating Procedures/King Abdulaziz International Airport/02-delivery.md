@@ -113,7 +113,7 @@ GMP may use the following phrasesolgy to reroute traffic.
 
 > **GMP:** SVA123, Cleared Riyadh, EGREP T532 KAVUR, Flight plan route, EGREP2W, Runway 34C, Initial Climb 6000ft, SQWK XXXX
 
-Altough this is allowed, it consumes time on frequency which maybe needed for other traffic on the frequency. Therefore, Rerouting by Private Message is preferred.
+Although this is allowed, it consumes time on frequency which maybe needed for other traffic on the frequency. Therefore, Rerouting by Private Message is preferred.
 
 #### 2.2.3.2 Rerouting by private message
 

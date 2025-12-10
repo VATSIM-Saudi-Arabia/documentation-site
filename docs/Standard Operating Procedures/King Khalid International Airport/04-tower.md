@@ -10,7 +10,7 @@ The **King Khalid Tower (AIR)** is responsible for all aerodrome movements on ru
 
 ---
 
-##  2. Designated Area of Responsibility
+##  2. Designated Areas of Responsibility
 **King Khalid International Airport (OERK)** features two primary AIR positions, namely **AIR W**, and **AIR E**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/gmc.png)
 
@@ -139,8 +139,9 @@ The below procedures are considered as standard and no coordination is required 
 !!! caution 
     Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
 
- ### 4.1 Departure procedures
- ####    4.1.1. Departure points
+### 4.1 Departure procedures
+
+#### 4.1.1. Departure points
 
 |       **Runway**       |   **Departure point**   |
 |:----------------------:|:-----------------------:|
