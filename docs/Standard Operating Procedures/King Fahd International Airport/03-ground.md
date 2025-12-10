@@ -76,9 +76,9 @@ This is the default type of push-back which will normally have the aircraft stop
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 17, requesting pushback.
+> **Pilot:** *"SVA123, Stand 17, requesting pushback"*
 
-> **GMP:** SVA123, Push & Start Approved, Face South on C.
+> **SMC:** *"SVA123, Push & Start Approved, Face South on C"*
 
 !!! tip "Be helpful!"
     If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
@@ -88,27 +88,27 @@ A short pushback instruction shall require the aircraft to complete the pushback
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 10, requesting pushback.
+> **Pilot:** *"SVA123, Stand 10, requesting pushback"*
 
-> **SMC:** SVA123, Short Pushback Approved, Face South on C.
+> **SMC:** *"SVA123, Short Pushback Approved, Face South on C"*
 
 ##### 3.1.2.3 Long Push-back
 A long pushback instruction shall require aircraft to complete the pushback operation more then two stands away from where the pushback was commenced. This manoeuvre may be used when an aircraft is vacating a stand to be used by another aircraft that is taxing in.
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 10, request pushback.
+> **Pilot:** *"SVA123, Stand 10, request pushback"*
 
-> **SMC:** SVA123, Long Pushback Approved, Face South on C.
+> **SMC:** *"SVA123, Long Pushback Approved, Face South on C"*
 
 !!! info "Be Specific!"
     If you desire to provide precise instructions regarding the end point of the pushback, you can use the following phraseology to instruct the aircraft to halt at a specific position:
 
-    > **SMC:** SVA123, Long Pushback Approved, Face South on C, Finish Abeam stand XX.
+    > **SMC:** *"SVA123, Long Pushback Approved, Face South on C, Finish Abeam stand XX"*
 
     *or if you wish the aircraft keeps a taxiway clear*
 
-    > **SMC:** SVA123, Long Pushback Approved, Face South on C, Stay Clear of Taxiway XX.
+    > **SMC:** *"SVA123, Long Pushback Approved, Face South on C, Stay Clear of Taxiway XX"*
 
 ##### 3.1.2.4 Conditional Push-back
 
@@ -116,16 +116,16 @@ In certain situations, conditional pushback instructions may be given when there
 
 An example of such an instruction is as follows:
 
-> **Pilot:** SVA123, Stand 17, request pushback.
+> **Pilot:** *"SVA123, Stand 17, request pushback"*
 
-> **SMC:** SVA123, Behind the Flynas A320 passing from your left to right, push & start approved, face south on C. Behind.
+> **SMC:** *"SVA123, Behind the Flynas A320 passing from your left to right, push & start approved, face south on C. Behind"*
 
 !!! info "Airline"
     When giving the clearance, the "airline" should be mentioned and not "callsign". 
 
     For example:
 
-    > **SMC:** SVA123, After the **Etihad Airways** (~~Etihad~~) A321 passing from your left to right, push & start approved, face south on C. Behind.
+    > **SMC:** *"SVA123, After the **Etihad Airways** (~~Etihad~~) A321 passing from your left to right, push & start approved, face south on C. Behind"*
 
     ---
 
@@ -198,7 +198,7 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 ##### 3.2.3.2 34L/34R Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   |         **Vacate via**       |             **Taxi via**            |   **Initial Taxi By TWR**  |
 |:----------------------------------:|:----------------:|:----------------------------:|:-----------------------------------:|:--------------------------:|
-|     **Domestic & International**   |      Apron 1     |    B4/B5 [34L] <br> H [34R]  |          B, R, C3 <br> R, C         |          **B, R**          |
+|     **Domestic & International**   |      Apron 1     |     B4 [34L] <br> H [34R]    |        B, R, C3/C2 <br> R, C        |          **B, R**          |
 |              **Cargo**             |      Apron 2     |              B5 [34L]        |                  P2                 |           **P2**           |
 |           **Royal Apron**          |    Royal Apron   |              J2 [34R]        |                 J, R                |           **J**            |
 |         **Aloula Aviation**        |   Aramco Apron   |              J2 [34R]        |                   J                 |           **J**            |
