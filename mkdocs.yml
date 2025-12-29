@@ -19,17 +19,16 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.footer
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.tabs
     - navigation.path
     - navigation.top
+    - navigation.tabs.sticky
     - search.suggest
     - search.highlight
     - search.share
-    - header.autohide
+    - content.footer
+    - content.tooltips
+    - content.footnote.tooltips
 extra:
   social:
     - icon: fontawesome/brands/discord
@@ -45,11 +44,19 @@ repo_url: https://github.com/VATSIM-Saudi-Arabia/documentation-site
 repo_name: VATSIM-Saudi-Arabia/documentation-site
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/theme.css
+  - stylesheets/effect.css
+  - stylesheets/styling.css
 markdown_extensions:
+  - abbr
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - attr_list
+  - footnotes
 plugins:
 - mkdocs-pdf
 - search

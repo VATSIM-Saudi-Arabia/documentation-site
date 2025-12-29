@@ -20,6 +20,46 @@
     background-position-x: center;
 }
 
+/* Remove white gap under hero section */
+.md-main,
+.md-main__inner,
+.md-content {
+  background: transparent !important;
+  margin: 0;
+  padding: 0;
+}
+
+/* Add the dark overlay */
+.container::before {
+  content: "";
+  position: absolute;
+  inset: 0; /* same as top:0; right:0; bottom:0; left:0; */
+  background-image: inherit; /* use same background as container */
+  background-size: inherit;
+  background-position: inherit;
+  background-repeat: inherit;
+  filter: brightness(0.6); /* blur and darken */
+  transform: scale(1.05); /* prevents visible edges after blur */
+  z-index: 0;
+}
+
+/* Keep content above the blur layer */
+.container > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Transparent header and tabs */
+.md-header, .md-tabs {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+/* index permeant tabs color */
+.md-tabs {
+  color: #F2F2F2 !important;
+}
+
 .hero {
     color: var(--md-primary-bg-color);
     display: flex;
