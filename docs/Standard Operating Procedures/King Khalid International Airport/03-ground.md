@@ -182,16 +182,6 @@ Table 3.2.1.2 - 33s Semi-mixed Operations Departure Taxi Procedures
 |   **Apron 5**  |      Runway 15L      |                       Taxi E <br>*Hold Short S*<br>Taxi S,G<br>*Hold Short R*<br>Taxi G                       |                                                                         -                                                               |  _While taxing on Taxiway G and clear of conflict_  |
 |   **Apron 6**  |      Runway 15R      |                                                  Taxi G,P,A                                                   | Taxi D,U<br>***OR***<br>Taxi F/U<br>*Hold Short of U*<br>Taxi U,G<br>***OR***<br>Taxi D,V,G<br>*Hold Short S*<br>***Handoff to SMC N*** |  _While taxing on Taxiway P and clear of conflict_  |
 |   **Apron 6**  |      Runway 15L      |                                                    Taxi G                                                     | Taxi D,U<br>***OR***<br>Taxi F/U<br>*Hold Short of U*<br>Taxi U,G<br>***OR***<br>Taxi D,V,G<br>*Hold Short S*<br>***Handoff to SMC N*** |  _While taxing on Taxiway G and clear of conflict_  |
-
-|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-| **Aprons 2,3,4 & 5** |      Runway 15R      |         A7/A         |             P             |       A      |    _Taxing on P_     |
-| **Aprons 2,3,4 & 5** |      Runway 15L      |         G7/G         |           P,R,S           |   P/R/S, G   |      _Passing P_     |
-|      **Apron 6**     |      Runway 15L      |         G7/G         |            U/V            |    U/V/G G   |      _Passing P_     |
-|      **Apron C**     |      Runway 15R      |         A7/A         |             P             |    P/A, A    |     _Passing by P_   |
-|      **Apron C**     |      Runway 15L      |         G7/G         |             N             |    N/G, G    |      _Immediate_     |
-|   **Aprons 7 & 9**   |      Runway 15R      |         A7/A         |            J/Q            |       A      |      _Passing P_     |
-|      **Apron G**     |      Runwya 15L      |          H4          |             H2            |   H3, H, H4  |    _Taxing on H_     |
 <p style="text-align: center; font-style: italic;">
 Table 3.2.1.3 - 15s Mixed Operations Departure Taxi Procedures
 </p>
