@@ -159,13 +159,12 @@ Table 3.2.1.1 - 33s Mixed Operations Departure Taxi Procedures
 
 ##### 3.2.1.2 33s Semi-mixed Operations Departure Taxi Procedures
 
-|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-| **Aprons 2,3,4 & 5** |      Runway 33R      |         G1/G         |           T,R,S           |   T/R/S, G   |      _Passing T_     |
-|      **Apron 6**     |      Runway 33R      |         G1/G         |            V/F            |    V/F, G1   |      _Immediate_     |
-|      **Apron C**     |      Runway 33R      |         G1/G         |             N             | N/G/P/F/T, G |     _Passing by T_   |
-|   **Aprons 7 & 9**   |      Runway 33L      |         A1/A         |            J/Q            |       A      |      _Passing T_     |
-|      **Apron G**     |      Runwya 33R      |          H1          |             H2            |   H2, H, H1  |    _Taxing on H_     |
+|    **Apron**   | **Departure Runway** |                                             **SMC N Instructions**                                            |                                        **SMC S Instructions**                                        |                  **Handoff to AIR**                 |
+|:--------------:|:--------------------:|:-------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
+| **Aprons 1,2** |      Runway 33R      | Taxi E <br>*Hold Short R*<br>Taxi R,F<br>*Hold Short S*<br>Taxi F<br>*Hold Short T*<br>***Handoff to SMC S*** |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
+| **Aprons 3,4** |      Runway 33R      |               Taxi E <br>*Hold Short S*<br>Taxi S,F<br>*Hold Short T*<br>***Handoff to SMC S***               |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
+|   **Apron 5**  |      Runway 33R      |                              Taxi E <br>*Hold Short T*<br>***Handoff to SMC S***                              |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
+|   **Apron 6**  |      Runway 33R      |                                                       -                                                       |       Taxi F,V<br>***OR***<br>Taxi F/D<br>*Hold Short of T*<br>Taxi T,G<br>***OR***<br>Taxi D,V      | _While taxing on Taxiway G/V and clear of conflict_ |
 <p style="text-align: center; font-style: italic;">
 Table 3.2.1.2 - 33s Semi-mixed Operations Departure Taxi Procedures
 </p>
@@ -188,13 +187,12 @@ Table 3.2.1.3 - 15s Mixed Operations Departure Taxi Procedures
 
 ##### 3.2.1.4 15s Semi-mixed Departure Taxi Procedures
 
-|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-| **Aprons 2,3,4 & 5** |      Runway 15L      |         G7/G         |           P,R,S           |   P/R/S, G   |      _Passing P_     |
-|      **Apron 6**     |      Runway 15L      |         G7/G         |            U/V            |    U/V, G7   |      _Passing P_     |
-|      **Apron C**     |      Runway 15L      |         G7/G         |             N             |    N/G, G    |      _Immediate_     |
-|   **Aprons 7 & 9**   |      Runway 15R      |         A7/A         |            J/Q            |       A      |      _Passing P_     |
-|      **Apron G**     |      Runwya 15L      |          H4          |             H3            |   H3, H, H4  |    _Taxing on H_     |
+|    **Apron**   | **Departure Runway** |                                             **SMC N Instructions**                                            |                                                             **SMC S Instructions**                                                      |                  **Handoff to AIR**                 |
+|:--------------:|:--------------------:|:-------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
+| **Aprons 1,2** |      Runway 15L      |                                      Taxi E <br>*Hold Short R*<br>Taxi R,G                                    |                                                                         -                                                               |  _While taxing on Taxiway G and clear of conflict_  |
+| **Aprons 3,4** |      Runway 15L      |                                      Taxi E <br>*Hold Short S*<br>Taxi S,G                                    |                                                                         -                                                               |  _While taxing on Taxiway G and clear of conflict_  |
+|   **Apron 5**  |      Runway 15L      |                       Taxi E <br>*Hold Short S*<br>Taxi S,G<br>*Hold Short R*<br>Taxi G                       |                                                                         -                                                               |  _While taxing on Taxiway G and clear of conflict_  |
+|   **Apron 6**  |      Runway 15L      |                                                    Taxi G                                                     | Taxi D,U<br>***OR***<br>Taxi F/U<br>*Hold Short of U*<br>Taxi U,G<br>***OR***<br>Taxi D,V,G<br>*Hold Short S*<br>***Handoff to SMC N*** |  _While taxing on Taxiway G and clear of conflict_  |
 <p style="text-align: center; font-style: italic;">
 Table 3.2.1.4 - 15s Semi-mixed Operations Departure Taxi Procedures
 </p>
