@@ -307,9 +307,9 @@ Table 3.2.5.3 - 33s Semi-mixed Operations Arrival Taxi Procedures
 ###### One-way Flow
 ![Loading](imgs/grn.png)
 ###### Hand-off Line
-![Loading](imgs/ihp.png)
-###### Intermediate Holding Point
 ![Loading](imgs/hof.png)
+###### Intermediate Holding Point
+![Loading](imgs/ihp.png)
 
 ##### 3.2.6.2 33 Mixed Operatiions (33s MO) Config
 ###### 3.2.6.2.1 Departures/Arrival Flow
@@ -320,9 +320,6 @@ Table 3.2.5.3 - 33s Semi-mixed Operations Arrival Taxi Procedures
 
 ###### 3.2.6.2.3 Arrivals Flow
 ![Loading](imgs/33moa.png)
-
-##### 3.2.6.2 33 DARO Config
-![Loading](imgs/33saro.png)
 
 ##### 3.2.6.3 15 Mixed Operatiions (15s MO) Config
 ###### 3.2.6.3.1 Departures/Arrival Flow
