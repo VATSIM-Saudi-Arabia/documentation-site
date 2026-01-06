@@ -302,6 +302,10 @@ Table 3.2.5.3 - 33s Semi-mixed Operations Arrival Taxi Procedures
 ![Loading](imgs/blue.png)
 ###### Arrivals Flow
 ![Loading](imgs/yellow.png)
+###### Bidirectional Flow
+![Loading](imgs/org.png)
+###### One-way Flow
+![Loading](imgs/grn.png)
 
 ##### 3.2.6.2 33 Mixed Operatiions (33s MO) Config
 ###### 3.2.6.2.1 Departures/Arrival Flow
