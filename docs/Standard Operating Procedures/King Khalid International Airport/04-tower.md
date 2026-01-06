@@ -105,10 +105,10 @@ At King Khalid International Airport, standard runway configurations for normal 
 
 The configurations, listed from most preferred to least preferred, are as follows:
 
-- 33s [SARO]
-- 33s [DARO]
-- 15s [SARO]
-- 15s [DARO]
+- 33s Mixed Operations
+- 33s Semi-mixed Operations
+- 15s Mixed Operations
+- 15s Semi-mixed Operations
 
 !!! info "Do note."
     Exceptions to runway configurations can be granted per pilot's request after approval from AIR and APP. 
