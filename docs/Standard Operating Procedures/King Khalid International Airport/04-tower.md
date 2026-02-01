@@ -12,18 +12,11 @@ The **King Khalid Tower (AIR)** is responsible for all aerodrome movements on ru
 
 ##  2. Designated Areas of Responsibility
 **King Khalid International Airport (OERK)** features two primary AIR positions, namely **AIR W**, and **AIR E**. The responsibilities and areas of control for each position are outlined as follows:
-![Loading](imgs/gmc.png)
 
+![Loading](imgs/gmc.png)
 <p style="text-align: center; font-style: italic;">
 Figure 2.1 - Aerodrome DAOR
 </p>
-
-![Loading](imgs/twrvrps.png#center)
-
-<p style="text-align: center; font-style: italic;">
-Figure 2.2 - Control Zone DAOR
-</p>
-
 
 ### 2.1. Airspace
 **King Khalid International Airport (OERK)** Control Zone (CTR) is Class C airspace and is centered around the aerodrome. Its ceiling is 4500ft MSL and has a radius of 10NM.
@@ -38,7 +31,7 @@ Figure 2.3 - King Khalid Control Zone
 ### 2.2. AIR W [King Khalid Tower West]
 **King Khalid Tower West [OERK_W_TWR]** covers runway 33L and it's assoiscated taxiways.
 
-####  2.2.1 Visual Reporting Points (VRPs)
+#### 2.2.1 Visual Reporting Points (VRPs)
 **King Khalid Tower West [OERK_W_TWR]** covers the following VRPs in the King Khalid Control Zone [CTR]:
 
 - B
@@ -115,21 +108,20 @@ The configurations, listed from most preferred to least preferred, are as follow
 
     **Standard Exceptions:**
 
-    - VFR Circuits
-    - Royal Flights [Always departs/arrives on 34L/16R regardless of the active config]
-    - Military Flights [Always departs/arrives on 34R/16L regardless of the active config]
+    - Royal Flights [Always departs/arrives on 33L/15R regardless of the active config]
+    - VFR Flights [Always departs/arrives on 33R/15L regardless of the active config]
 
-#### 3.3.1. Single Arrival Runway Operations [SARO]
-In the context of runway operations at King Khalid International Airport, the most preferred configuration is the **Single Arrival Runway Operations (SARO)**. This configuration involves the western runway for arrivals and the eastern runway for departures.
+#### 3.3.1. Mixed Runway Operations [MO]
+In the context of runway operations at King Khalid International Airport, **Mixed Runway Operations (MO)** is the primary and most preferred configuration, where both arrivals and departures are conducted on the same runway. This configuration provides optimal flexibility and efficiency in managing traffic flows under normal operating conditions.
 
-By using this configuration, the airport can manage the flow of aircraft on the taxiways efficently. SARO is considered the most preferred configuration due to its ability to enhance the airport's operational efficiency.
+Mixed Runway Operations shall be used as the standard configuration unless traffic demand, weather conditions, or operational constraints require an alternative runway configuration.
 
-#### 3.3.2. Dual Arrival Runway Operations [DARO]
-**Dual Arrival Runway Operations (DARO)** is a runway configuration utilized at King Khalid International Airport, though it is considered less preferred compared to other configurations. DARO involves utilizing the eastern runway to offload arrivals even though it is mainly used for departures.
+#### 3.3.2. Semi-Mixed Runway Operations [SMO]
+**Semi-Mixed Runway Operations (SMO)** is a runway configuration utilized at King Khalid International Airport in which one runway is primarily dedicated to a single traffic flow, while the secondary runway accommodates a limited mix of arrivals and departures. This configuration is considered the least preferred due to its reduced operational efficiency.
 
-While this configuration allows for efficient management and increased capacity of arrival aircraft, it can result in reduced departure capacity and potential taxi delays, especially during periods of high traffic demand. 
+While Semi-Mixed Operations may provide short-term flexibility during specific traffic or infrastructure constraints, they increase controller workload, complicate traffic sequencing, and may result in reduced runway throughput. Additionally, this configuration can lead to increased taxi times and coordination complexity, particularly during periods of elevated traffic demand.
 
-DARO shall only be used during high arrival traffic operations.
+Semi-Mixed Runway Operations is the least preferred configuration and shall not be implemented during high arrival traffic operations.
 
 ---
 
@@ -140,17 +132,14 @@ The below procedures are considered as standard and no coordination is required 
     Should a situation arise that does not match any of the below cases, coordinate an arrangement with the affected agencies
 
 ### 4.1 Departure procedures
-
 #### 4.1.1. Departure points
 
 |       **Runway**       |   **Departure point**   |
 |:----------------------:|:-----------------------:|
-|            34L         |         B1 / U          |
-|            34C         |     G1, G2 / H1, H2     |
-|            34R         |       M1, M2 / N1       |
-|            16L         |       M8, M9 / N9       |
-|            16C         |         G6 / H7         |
-|            16R         |         A7 / B7         |
+|            33L         |        A, A1, A2        |
+|            33R         |      G, G1, G2 / H1     |
+|            15L         |      G, G7, G6 / H4     |
+|            15R         |        A, A7, A6        |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.1. - Departure points
 </p>
@@ -158,9 +147,9 @@ Table 4.2.1. - Departure points
 
 #### 4.1.2. Line up clearances
 
-Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission.
+Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word **“behind”** at the beginning and end of the transmission.
 
-**AIR:** *“FAD123, Behind the departing Saudia A321, Via G1, line up runway 33R behind”*
+> **AIR:** *“FAD123, Behind the departing Saudia A321, Via G1, line up runway 33R behind”*
 
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
 
@@ -170,7 +159,7 @@ Example: *“SVA123, Via M1, line up runway 33R”*
 
 Aircraft shall be cleared for take-off once adequate separation exists
 
-**Air:** *“SVA123, Winds 340 degrees 10knots, Runway 33R, cleared for take-off”*
+> **AIR:** *“SVA123, Winds 340 degrees 10knots, Runway 33R, cleared for take-off”*
 
 #### 4.1.4. Separation requirements
 
@@ -214,10 +203,10 @@ closest taxiway parallel to the active runway and hand off the aircraft to Groun
 
 |       **Runway**       |     **Exit points**     |
 |:----------------------:|:-----------------------:|
-|           34L          |        B5, B8 / A5      |
-|           34R          |      M4, M6, M7 / N5    |
-|           16L          |        M3, M5 / N4      |
-|           16R          |        B2, B4 / A2      |
+|           33L          |            A4           |
+|           33R          |         G4 / H3         |
+|           15L          |         G4 / H3         |
+|           15R          |            A4           |
 <p style="text-align: center; font-style: italic;">
 Table 4.1.1 - Preferred exit points
 </p>
@@ -233,58 +222,44 @@ On initial contact with AIR, traffic **must** be advised to expect an exit point
 
 This allows for a smooth and immediate transfer of traffic to the appropriate ground controller.
 
-!!! caution "Do Note"
-    The Tower controller is responsible for assigning the Arrival Taxi Route (ATR) to aircraft.
-
-    Example: 
-
-    Pilot: *SVA123, vacating via M6*
-    AIR: *SVA123, Taxi via A, P Holdshort of E*
-
-#####  4.2.2.1. 34 Arrival Taxi Routes
-| **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
-|:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M4X          | 34R    | M, MA, L **Hold Short of V**  | AIR E to SMC E |
-|           M6X          | 34R    | M, MA, L **Hold Short of V**  | AIR E to SMC E |
-|           M7X          | 34R    |  M, S, L **Hold Short of MA** | AIR E to SMC E |
-|           M7O          | 34R    |    M, R **Hold Short of J**   | AIR E to SMC C |
-|           B3X          | 34L    |     B **Hold Short of B5**    | AIR W to SMC W |
-|           B5X          | 34L    | D5, D3-W **Hold Short of B5** | AIR W to SMC W |
-|           B5O          | 34L    |     B **Hold Short of D6**    | AIR W to SMC W |
+#####  4.2.2.1. 33 Initial Taxi Routes
+|     **Apron**    | **Arrival Runway** |          **AIR W Taxi Instructions**         |        **Air E Taxi Instructions**       |     **Handoff to SMC N**    |                **Handoff to SMC S**               |
+|:----------------:|:------------------:|:--------------------------------------------:|:----------------------------------------:|:---------------------------:|:-------------------------------------------------:|
+| **_Aprons 1,2_** |    _Runway 33R_    |                       -                      |                _Vacate G4_               |        _Immediately_        |                         -                         |
+|  **Aprons 1,2**  |     Runway 33L     | Vacate A4<br>Taxi A, P <br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                         -                         |
+| **_Aprons 3,4_** |    _Runway 33R_    |                       -                      |                _Vacate G4_               |        _Immediately_        |                         -                         |
+|  **Aprons 3,4**  |     Runway 33L     | Vacate A4<br>Taxi A, P <br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                         -                         |
+|   **_Apron 5_**  |    _Runway 33R_    |                       -                      |                _Vacate G4_               |        _Immediately_        |                         -                         |
+|    **Apron 5**   |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                         -                         |
+|    **Apron 6**   |     Runway 33R     |                       -                      | Vacate G4<br>Taxi G<br>*Hold Short of T* |              -              |                   _Immediately_                   |
+|    **Apron 6**   |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ | _While taxing on Taxiway G and clear of conflict_ |
+|  **Cargo Apron** |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                    | _While taxing on Taxiway P_ |                         -                         |
+|   **GA Apron**   |     Runway 33R     |                       -                      |               Vacate H3/H4               |         Immediately         |                         -                         |
 <p style="text-align: center; font-style: italic;">
-Table 4.2.1 - 34 Arrival Taxi Routes
+Table 4.2.1 - 33 Initial Taxi Routes
 </p>
 
+#####  4.2.2.2. 15 Initial Taxi Routes
+|    **Apron**   | **Arrival Runway** |         **AIR W Taxi Instructions**         | **Air E Taxi Instructions** |     **Handoff to SMC S**    |            **Handoff to SMC N**           |
+|:--------------:|:------------------:|:-------------------------------------------:|:---------------------------:|:---------------------------:|:-----------------------------------------:|
+| **Aprons 1,2** |     Runway 15R     | Vacate A4<br>Taxi A, T<br>_Hold Short of D_ |              -              | _While taxing on Taxiway T_ |                     -                     |
+| **Aprons 1,2** |     Runway 15L     |                      -                      |           Vacate G4         |              -              |               _Immediately_               |
+| **Aprons 3,4** |     Runway 15R     | Vacate A4<br>Taxi A, T<br>_Hold Short of D_ |              -              | _While taxing on Taxiway T_ |                     -                     |
+| **Aprons 3,4** |     Runway 15L     |                      -                      |           Vacate G4         |              -              |               _Immediately_               |
+|   **Apron 5**  |     Runway 15R     | Vacate A4<br>Taxi A, T<br>_Hold Short of D_ |              -              | _While taxing on Taxiway T_ |                     -                     |
+|   **Apron 5**  |     Runway 15L     |                      -                      |           Vacate G4         |              -              |               _Immediately_               |
+|   **Apron 6**  |     Runway 15R     | Vacate A4<br>Taxi A, T<br>_Hold Short of D_ |              -              |  While taxing on Taxiway T  |                     -                     |
+|   **Apron 6**  |     Runway 15L     |                      -                      |           Vacate G4         |              -              |               _Immediately_               |
+<p style="text-align: center; font-style: italic;">
+Table 4.2.2 - 15 Initial Taxi Routes
+</p>
 
 !!! caution
-    All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
-
-#####  4.2.2.2. 16 Arrival Taxi Routes
-| **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
-|:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M5X          | 16L    |    M  **Hold Short of MB**    | AIR E to SMC E |
-|           M3X          | 16L    |    M **Hold Short of MD**     | AIR E to SMC E |
-|           B4X          | 16R    |    B **Hold Short of R**      | AIR W to SMC W |
-|           B2X          | 16R    |    B **Hold Short of B1**     | AIR W to SMC W |
-|           B2O          | 16R    |  B, T, C **Hold Short of S**  | AIR W to SMC W |
-<p style="text-align: center; font-style: italic;">
-Table 4.2.2 - 16 Arrival Taxi Routes
-</p>
-
-
-!!! caution
-    All Traffic Movements on B must give way to traffic vacating runway 34L/16R.
-
-#####  4.2.2.4. Diagram of Arrival Taxi Routes
-![Loading](imgs/ATR.png#center)
-<p style="text-align: center; font-style: italic;">
-Figure 4.2.3 - Arrival Taxi Routes Diagram
-</p>
+    All Traffic Movements on B must give way to traffic vacating runway 33L/15R.
 
 ---
 
 #### 4.2.3. Separation requirements
-
 ##### 4.2.3.1. General
 While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold.
 
@@ -321,23 +296,35 @@ Example: *“SVA123, fly standard missed approach procedure, climb 4000 feet, co
 
 VRPs are typically marked by prominent landmarks, such as buildings, intersections, or natural features, making them easily identifiable from the air. They are particularly useful in busy airspace, allowing pilots to report their locations accurately, which helps air traffic controllers manage traffic effectively and ensure safety.
 
-| **Ident** |                                                            **Name**                                                            | **Bearing and Distance** |    **Coordinates**   |
-|:---------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:--------------------:|
-| **VRP01** |                                                  University of Jeddah (North)                                                  |  RDL 032 from JDW 13.0NM | 215322.9N 0391525.9E |
-| **VRP02** |           Highway junctions and intersection of King Abdullah Sports City (0.6 NM East of King Abdullah Sports City)           |  RDL 032 from JDW 4.8 NM | 214643.0N 0391019.0E |
-| **VRP03** |               Highway junctions and intersection of Airbase (3.2 NM East of King Abdulaziz international airport)              |  RDL 103 from JDW 4.8 NM | 214123.0N 0391223.0E |
-| **VRP04** |                        Highway junctions and intersection of Tahliya street (0.8 NM East of ALAhli club)                       | RDL 142 from JDW 10.6 NM | 213405.0N 0391354.0E |
-| **VRP05** |                              Abruq Al-Rughamah (2.5 NM South East of Jeddah Central train station)                             | RDL 142 from JDW 14.8 NM | 213026.2N 0391625.9E |
-| **VRP06** | Makkah - Jeddah Highway junctions East of Prince Abdullah Al Faisal Stadium (0.5 NM East of Prince Abdullah Al Faisal Stadium) | RDL 151 from JDW 17.5 NM | 212655.0N 0391532.0E |
-| **VRP07** |                      King Abdul Aziz road junctions and intersection of Tahliya street (King’s Road Tower)                     |  RDL 176 from JDW 9.9 NM | 213247.9N 0390738.6E |
-| **VRP08** |                King Abdul Aziz road junctions and intersection of Hira street (Bank Al Jazira, the Head Office)                |  RDL 175 from JDW 6.4 NM | 213622.3N 0390714.2E |
-| **VRP09** |                                               Marine Sciences roundabout (Abhor)                                               |  RDL 252 from JDW 1.1 NM | 214228.0N 0390612.0E |
-| **VRP10** |                                 Prince Abdulmajeed street West of King Abdullah Medical Complex                                |  RDL 317 from JDW 4.0 NM | 214548.0N 0390438.0E |
-| **VRP11** |                                Prince Abdulmajeed street North of King Abdullah Medical Complex                                |  RDL 336 from JDW 5.1 NM | 214727.0N 0390529.0E |
-| **VRP12** |          Prince Abdulmajeed street junctions and intersection of Madinah road (East of King Abdullah Medical Complex)          |  RDL 356 from JDW 5.0 NM | 214747.0N 0390718.0E |
-| **VRP13** |                                                           Lakes City                                                           |  RDL 320 from JDW 8.7 NM | 214944.0N 0390146.4E |
+|    **Ident**    |                  **Location Geographic**                |  **Radial and distance** | **Coordinates**  |
+|:---------------:|:-------------------------------------------------------:|:------------------------:|:----------------:|
+|      **A**      |                    Kuzam Residential                    | RDL 298 from KIA 6.8 DME | 243623N 0463831E |
+|      **B**      |    Intersection Special Forces Road with king Fahad     | RDL 267 from KIA 9.5 DME | 245305N 0463504E |
+|      **C**      |      Intersection king Salma Road with king Fahad       | RDL 243 from KIA 8.7 DME | 244936N 0463651E |
+|      **J**      |                        Janadeiyah                       | RDL 030 from KIA 5.0 DME | 245715N 0464818E |
+|      **K**      |                       Khuzam Oasis                      | RDL 345 from KIA 11.6 DME| 250435N 0464247E |
+|      **L**      |                      Thumamah Road                      | RDL 342 from KIA 15.1 DME| 250737N 0464030E |
+|      **M**      |                     Equestrian Club                     | RDL 007 from KIA 8.3 DME | 250132N 0464637E |
+|      **D**      |                     Salbuok Bridge                      | RDL 303 from KIA 17.0 DME| 250315N 0463004E |
+|      **H**      |                     Al Rajhi Mosque                     | RDL 176 from KIA 19.0 DME| 244037N 0464644E |
+|      **N**      |                      Malham bridge                      | RDL 312 from KIA 26.9 DME| 251115N 0462333E |
+|      **O**      |    Intersection of Khuris road and eastern ring road    | RDL 179 from KIA 10.2 DME| 244253N 0464542E |
+|      **P**      |Intersection of Eastern Ring Road with Southern ring road| RDL 171 from KIA 15.4 DME| 243749N 0464812E |
+|      **R**      |      Intersection King Fahad Road with Makkah Road      | RDL 197 from KIA 12.9 DME| 244044N 0464120E |
+|      **S**      |    Intersection Eastern Ring Road with Al-Kharj Road    | RDL 154 from KIA 25.0 DME| 243010N 0465612E |
+|      **T**      |Intersection of Northen Ring Road with eastern ring road | RDL 200 from KIA 5.9 DME | 244733N 0464320E |
+|      **X**      |     Intersection Khurais Road With Shaikh Jaber Road    | RDL 148 from KIA 8.5 DME | 244554N 0465029E |
+|      **Y**      |  Intersection King Abdullah Road with Eastern Ring Road | RDL 188 from KIA 7.6 DME | 244535N 0464420E |
+|      **Z**      |                    King Fahad Studium                   | RDL 121 from KIA 6.2 DME | 244958N 0465123E |
+|  **East Gate**  |                 The 9th Electric Station                | RDL 072 from KIA 17.0 DME| 245740N 0470342E |
+|    **HRGAN**    |                   A 'bar Hargan Town                    | RDL 291 from KIA 31.0 DME| 250439N 0461343E |
+|     **KAFD**    |             King Abdullah Financial District            | RDL 216 from KIA 9.7 DME | 244539N 0463851E |
+|    **MZHMYA**   |                       Almuzahmeyah                      | RDL 232 from KIA 42.0 DME| 242729N 0460835E |
+|  **West Gate**  |             Prince Sultan Humanitarian City             | RDL 293 from KIA 14.0 DME| 245911N 0463137E |
+|    **RAJEM**    |                   Rajem intersection                    | RDL 095 from KIA 36.8 DME| 244944N 0472553E |
+|    **MALHAM**   |                          MALHAM                         | RDL 318 from KIA 29.8 DME| 251520N 0462335E |
 <p style="text-align: center; font-style: italic;">
-Table 4.2.3 - Jeddah VRPs
+Table 4.2.3 - Riyadh VRPs
 </p>
 
 !!! danger "Do note."
@@ -350,10 +337,8 @@ Table 4.2.3 - Jeddah VRPs
 
 ##### 4.3.1.1 Entry/Exit VRPs into the CTR
 According to the eAIP traffic must only enter/exit the Jeddah Control Zone via the following VRPs:
-- VRP01
-- VRP05
-- VRP06
-- VRP13
+- WG
+- L
 
 Clearance to enter the control zone is issued by APP. 
 
@@ -383,8 +368,5 @@ Once the traffic has entered the control zone, further intructions to direct to 
 
 |     **Runway Configuration**      |  **Direction** | **Altitude(s)** |
 | :-------------------------------: | :------------: | :-------------: |
-|                 34s               |   Right Hand   |      1500ft     |
-|                 16s               |    Left Hand   |      1500ft     |
-
-!!! info "Jet Engine Aircrafts"
-    Jet engine aircraft must  conduct circuits on the **western side of Runway 34L/16R** or the **eastern side of Runway 34R/16L**, maintaining ***1500 feet***.
+|                 33s               |   Right Hand   |      3500ft     |
+|                 15s               |    Left Hand   |      3500ft     |
