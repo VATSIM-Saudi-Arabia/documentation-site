@@ -51,4 +51,5 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
 plugins:
+- mkdocs-pdf
 - search
