@@ -10,10 +10,10 @@ Depending on the assigned stand, pilots may anticipate the following Standard Te
 
 |     **Appron**    |   **Runway**   |        **NW Arrivals**       |        **N Arrivals**       |       **NE Arrivals**       |
 | :---------------: | :------------: | :--------------------------- | :-------------------------- | :-------------------------: |
-|    **A, B, C**    |  34R <br> 16L  |     MUVOL1C <br> MUVOL1D     |     NOMDA1C <br> NOMDA1D    |     VEMEM1C <br> VEMEM1D    |
-| **1, 2, 3, 4, 5** |  34L <br> 16R  |     MUVOL2L <br> MUVOL1F     |     NOMDA2L <br> NOMDA1F    |     VEMEM2L <br> VEMEM1F    |
-|    **6, 7, 8**    |  34L <br> 16R  |     MUVOL2L <br> MUVOL1F     |     NOMDA2L <br> NOMDA1F    |     VEMEM2L <br> VEMEM1F    |
-|     **G, 11**     |  34L <br> 16R  |     MUVOL2L <br> MUVOL1F     |     NOMDA2L <br> NOMDA1F    |     VEMEM2L <br> VEMEM1F    |
+|    **A, B, C**    |  34R <br> 16L  |     MUVOL2N <br> MUVOL2S     |     NOMDA2N <br> NOMDA2S    |     VEMEM2N <br> VEMEM2S    |
+| **1, 2, 3, 4, 5** |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |     NOMDA2L <br> NOMDA2R    |     VEMEM2L <br> VEMEM2R    |
+|    **6, 7, 8**    |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |     NOMDA2L <br> NOMDA2R    |     VEMEM2L <br> VEMEM2R    |
+|     **G, 11**     |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |     NOMDA2L <br> NOMDA2R    |     VEMEM2L <br> VEMEM2R    |
 
 #### 1.1.1 Radar Vectors on Downwind
 Traffic can expect standard vectors on Downwind.
