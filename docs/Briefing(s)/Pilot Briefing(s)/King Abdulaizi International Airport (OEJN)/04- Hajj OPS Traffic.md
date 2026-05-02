@@ -62,7 +62,19 @@ If you failed to pushback/start up within +5 minutes after TSAT
 ---
 
 ## 3. Arrivals
-### 3.1 Arrival Taxi Procedure
+
+### 3.1 Standard Terminal Arrival Routes (STARs)
+Depending on the stream flow, pilots may anticipate the following Standard Terminal Arrival Routes (STARs):
+
+|     **Stream**    |   **Runway**   |           **STAR**           |
+| :---------------: | :------------: | :--------------------------- |
+|   **E Arrivals**  |  34R <br> 16L  |     MUVOL2N <br> MUVOL2S     |
+|  **SE Arrivals**  |  34R <br> 16L  |     MUVOL2N <br> MUVOL2S     |
+|   **N Arrivals**  |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |
+|   **W Arrivals**  |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |
+|  **SW Arrivals**  |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |
+
+### 3.2 Arrival Taxi Procedure
 All aircraft participating in the event will be allocated a parking stand at either Apron 6 or Apron 7, specifically at the Hajj Terminal.
 
 - **For aircraft vacating Runway 34R**, they can expect to be assigned Vacating Point M7 by AIR 2 (Tower East). They will then be provided with an Arrival Taxi Route of M7B. Control will be handed over to GMC 2 (Ground East), where the GMC controller will guide them via taxiway R. Depending on coordination with AIR, they may receive crossing clearance or be directed to AIR 1 (Tower West). After the handoff, they should continue taxiing via taxiway R and turn right onto taxiway F, leading to Apron 6.
@@ -76,8 +88,8 @@ All aircraft participating in the event will be allocated a parking stand at eit
 !!! note
     Please note that all aircraft landing on Runway 34L or 16R will be assigned Apron 7, while those landing on Runway 34R or 16L will be assigned Apron 6. Although Saudi aircraft typically park at Apron A in reality, for the event's convenience, they will also be directed to the Hajj Terminal. Saudi pilots landing on Runway 34R may request Apron A, although it deviates from realism.
 
-### 3.2 Migat Al-Ihram (Ihram Zone) Instructions
+### 3.3 Migat Al-Ihram (Ihram Zone) Instructions
 All carriers operating flights inbound to Jeddah are requested to announce passengers wishing to perform Hajj or Omrah **“we will pass abeam Migat Al-Ihram (Ihram Zone) after 30 minutes from now”** and they are requested to repeat the announcement **5 minutes** before passing Migat Al-Ihram. Charts Available In Appendix A.
 
-### 3.3 Enroute Holdings
+### 3.4 Enroute Holdings
 When the **Terminal Maneuvering Area (TMA)** reaches full capacity, pilots can anticipate being directed to unpublished holding patterns at the entry points of VEMEM, BOSUT, MUVOL, and NOMDA.
