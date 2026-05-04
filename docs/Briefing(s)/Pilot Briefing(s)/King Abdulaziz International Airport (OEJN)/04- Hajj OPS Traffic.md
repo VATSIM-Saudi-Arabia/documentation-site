@@ -68,20 +68,20 @@ Depending on the stream flow, pilots may anticipate the following Standard Termi
 
 |     **Stream**    |   **Runway**   |           **STAR**           |
 | :---------------: | :------------: | :--------------------------- |
-|   **E Arrivals**  |  34R <br> 16L  |     MUVOL2N <br> MUVOL2S     |
-|  **SE Arrivals**  |  34R <br> 16L  |     MUVOL2N <br> MUVOL2S     |
-|   **N Arrivals**  |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |
+|   **E Arrivals**  |  34R <br> 16L  |     VEMEM2N <br> VEMEM2S     |
+|  **SE Arrivals**  |  34R <br> 16L  |     BOSUT2N <br> BOSUT2S     |
+|   **N Arrivals**  |  34L <br> 16R  |     NOMDA2L <br> NOMDA2R     |
 |   **W Arrivals**  |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |
-|  **SW Arrivals**  |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |
+|  **SW Arrivals**  |  34L <br> 16R  |     EGMEG2L <br> EGMEG2R     |
 
 ### 3.2 Arrival Taxi Procedure
 All aircraft participating in the event will be allocated a parking stand at either Apron 6 or Apron 7, specifically at the Hajj Terminal.
 
-- **For aircraft vacating Runway 34R**, they can expect to be assigned Vacating Point M7 by AIR 2 (Tower East). They will then be provided with an Arrival Taxi Route of M7B. Control will be handed over to GMC 2 (Ground East), where the GMC controller will guide them via taxiway R. Depending on coordination with AIR, they may receive crossing clearance or be directed to AIR 1 (Tower West). After the handoff, they should continue taxiing via taxiway R and turn right onto taxiway F, leading to Apron 6.
+- **For aircraft vacating Runway 34R**, they can expect to be assigned Vacating Point M7 by AIR 2 (Tower East). They will then be provided with an Arrival Taxi Route of M7O. Control will be handed over to GMC 2 (Ground East), where the GMC controller will guide them via taxiway R. Depending on coordination with AIR, they may receive crossing clearance or be directed to AIR 1 (Tower West). After the handoff, they should continue taxiing via taxiway R and turn right onto taxiway F, leading to Apron 6.
 
 - **For aircraft vacating Runway 34L**, they should anticipate being assigned Vacating Point B5 by AIR 1. The assigned Arrival Taxi Route will be B5B, guiding them to Apron 7 via taxiways B and D6.
 
-- **Aircraft vacating Runway 16R** will receive Vacating Point B2 and follow the B2B Arrival Taxi Route provided by AIR 1. This route will lead them to Apron 7 via taxiways C and D5.
+- **Aircraft vacating Runway 16R** will receive Vacating Point B2 and follow the B2O Arrival Taxi Route provided by AIR 1. This route will lead them to Apron 7 via taxiways C and D5.
 
 - **Aircraft vacating Runway 16L** will be assigned Vacating Point M5 and instructed to follow the M5A Arrival Taxi Route by AIR 2. This route will guide them to Apron 6 via taxiways MB, L, R, and F.
 
