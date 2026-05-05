@@ -17,7 +17,7 @@ The **Jeddah Tower (AIR)** is responsible for all aerodrome movements on runways
 ---
 
 ##  2. Designated Areas of Responsibility
-**King Abdulaziz International Airport (OEJN)** features two primary AIR positions, namely **AIR W**, and **AIR E**. The responsibilities and areas of control for each position are outlined as follows:
+**King Abdulaziz International Airport (OEJN)** features three primary AIR positions, namely **AIR W**, **AIR E**, and **AIR C**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/SMC.png)
 
 <p style="text-align: center; font-style: italic;">
@@ -31,7 +31,7 @@ Figure 2.2 - Control Zone DAOR
 </p>
 
 
-### 2.1. Airspace
+### 2.1 Airspace
 **King Abdulaziz International Airport (OEJN)** Control Zone (CTR) is Class D airspace and is centered around the aerodrome. Its ceiling is 2500ft AGL and has a radius of 10NM.
 
 ![Loading](imgs/twr.png#center)
@@ -41,11 +41,10 @@ Figure 2.3 - Jeddah Control Zone
 </p>
 
 
-### 2.2. AIR W [Jeddah Tower West]
-**Jeddah Tower West [OEJN_W_TWR]** covers the western and center runways:
+### 2.2 AIR W [Jeddah Tower West]
+**Jeddah Tower West [OEJN_W_TWR]** covers the western runway:
 
 - 34L/16R
-- 34C/16C
 
 ####  2.2.1 Visual Reporting Points (VRPs)
 **Jeddah Tower West [OEJN_W_TWR]** covers the following VRPs in the Jeddah Control Zone [CTR]:
@@ -56,10 +55,11 @@ Figure 2.3 - Jeddah Control Zone
 - VRP10
 - VRP11
 
-### 2.3. AIR E [Jeddah Tower East]
+### 2.3 AIR E [Jeddah Tower East]
 **Jeddah Tower East [OEJN_E_TWR]** covers the eastern runway:
 
 - 34R/16L
+
 ####  2.3.1 Visual Reporting Points (VRPs)
 **Jeddah Tower East [OEJN_E_TWR]** covers the following VRPs in the Jeddah Control Zone [CTR]:
 
@@ -68,11 +68,17 @@ Figure 2.3 - Jeddah Control Zone
 - VRP04
 - VRP12
 
-### 2.4. Standard Connection Hierarchy 
+### 2.4 AIR C [Jeddah Tower Center]
+**Jeddah Tower West [OEJN_C_TWR]** covers the centeral runway:
+
+- 34C/16C
+
+### 2.5 Standard Connection Hierarchy 
 Controllers must log in the following order to maintain realizm and follow SOPs: 
 
 - AIR W [OEJN_W_TWR]
 - AIR E [OEJN_E_TWR]
+- AIR C [OEJN_C_TWR]
 
  This hierarchy of connection must always be followed unless ATS staff explictly permit you to do otherwise.
 
@@ -331,21 +337,24 @@ Example: *“SVA123, fly standard missed approach procedure, climb 4000 feet, co
 
 VRPs are typically marked by prominent landmarks, such as buildings, intersections, or natural features, making them easily identifiable from the air. They are particularly useful in busy airspace, allowing pilots to report their locations accurately, which helps air traffic controllers manage traffic effectively and ensure safety.
 
-| **Ident** |                                                            **Name**                                                            | **Bearing and Distance** | **Coordinates** |
-|:---------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:---------------:|
+| **Ident** |                                                            **Name**                                                            | **Bearing and Distance** |      **Coordinates**       |
+|:---------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:--------------------------:|
 | **VRP01** |                                                  University of Jeddah (North)                                                  |  RDL 032 from JDW 13.0NM |    215322.9N 0391525.9E    |
 | **VRP02** |           Highway junctions and intersection of King Abdullah Sports City (0.6 NM East of King Abdullah Sports City)           |  RDL 032 from JDW 4.8 NM |    214643.0N 0391019.0E    |
 | **VRP03** |               Highway junctions and intersection of Airbase (3.2 NM East of King Abdulaziz international airport)              |  RDL 103 from JDW 4.8 NM |    214123.0N 0391223.0E    |
-| **VRP04** |                        Highway junctions and intersection of Tahliya street (0.8 NM East of ALAhli club)                       | RDL 142 from JDW 10.6 NM |    	213405.0N 0391354.0E   |
-| **VRP05** |                              Abruq Al-Rughamah (2.5 NM South East of Jeddah Central train station)                             | RDL 142 from JDW 14.8 NM |    	213026.2N 0391625.9E    |
+| **VRP04** |                        Highway junctions and intersection of Tahliya street (0.8 NM East of ALAhli club)                       | RDL 142 from JDW 10.6 NM |    213405.0N 0391354.0E    |
+| **VRP05** |                              Abruq Al-Rughamah (2.5 NM South East of Jeddah Central train station)                             | RDL 142 from JDW 14.8 NM |    213026.2N 0391625.9E    |
 | **VRP06** | Makkah - Jeddah Highway junctions East of Prince Abdullah Al Faisal Stadium (0.5 NM East of Prince Abdullah Al Faisal Stadium) | RDL 151 from JDW 17.5 NM |    212655.0N 0391532.0E    |
-| **VRP07** |                      King Abdul Aziz road junctions and intersection of Tahliya street (King’s Road Tower)                     |  RDL 176 from JDW 9.9 NM |    	213247.9N 0390738.6E    |
-| **VRP08** |                King Abdul Aziz road junctions and intersection of Hira street (Bank Al Jazira, the Head Office)                |  RDL 175 from JDW 6.4 NM |    	213622.3N 0390714.2E    |
-| **VRP09** |                                               Marine Sciences roundabout (Abhor)                                               |  RDL 252 from JDW 1.1 NM |    	214228.0N 0390612.0E    |
-| **VRP10** |                                 Prince Abdulmajeed street West of King Abdullah Medical Complex                                |  RDL 317 from JDW 4.0 NM |   214548.0N 0390438.0E    |
-| **VRP11** |                                Prince Abdulmajeed street North of King Abdullah Medical Complex                                |  RDL 336 from JDW 5.1 NM |   214727.0N 0390529.0E   |
+| **VRP07** |                      King Abdul Aziz road junctions and intersection of Tahliya street (King’s Road Tower)                     |  RDL 176 from JDW 9.9 NM |    213247.9N 0390738.6E    |
+| **VRP08** |                King Abdul Aziz road junctions and intersection of Hira street (Bank Al Jazira, the Head Office)                |  RDL 175 from JDW 6.4 NM |    213622.3N 0390714.2E    |
+| **VRP09** |                                               Marine Sciences roundabout (Abhor)                                               |  RDL 252 from JDW 1.1 NM |    214228.0N 0390612.0E    |
+| **VRP10** |                                 Prince Abdulmajeed street West of King Abdullah Medical Complex                                |  RDL 317 from JDW 4.0 NM |    214548.0N 0390438.0E    |
+| **VRP11** |                                Prince Abdulmajeed street North of King Abdullah Medical Complex                                |  RDL 336 from JDW 5.1 NM |    214727.0N 0390529.0E    |
 | **VRP12** |          Prince Abdulmajeed street junctions and intersection of Madinah road (East of King Abdullah Medical Complex)          |  RDL 356 from JDW 5.0 NM |    214747.0N 0390718.0E    |
-| **VRP13** |                                                           Lakes City                                                           |  RDL 320 from JDW 8.7 NM |    214944.0N 0390146.4E   |
+| **VRP13** |                                                           Lakes City                                                           |  RDL 320 from JDW 8.7 NM |    214944.0N 0390146.4E    |
+| **KHOAR** |                                                                                                                                | RDL 039 from JDW 39.4 NM |    221200.0N 0393600.0E    |
+| **GHARI** |                                                                                                                                | RDL 039 from JDW 59.1 NM |    222600.0N 0395100.0E    |
+| **AZIZI** |                                                                                                                                | RDL 143 from JDW 15.0 NM |    212757.0N 0391827.0E    |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.3 - Jeddah VRPs
 </p>

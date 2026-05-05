@@ -67,13 +67,14 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 | :-------------------------: | :----------------: | :--------------: | :-----------------: |
 |       **Jeddah ATIS**       |     OEJN_ATIS      |       ATIS       |       126.200       |
 |     **Jeddah Delivery**     |      OEJN_DEL      |       GMP        |       121.800       |
-|      **Jeddah Apron**       |     OEJN_E_RMP     |      APN E       |         121.750         |
-|      **Jeddah Apron**       |     OEJN_N_RMP     |      APN N       |        121.975          |
+|      **Jeddah Apron**       |     OEJN_E_RMP     |      APN E       |       121.750       |
+|      **Jeddah Apron**       |     OEJN_N_RMP     |      APN N       |       121.975       |
 |      **Jeddah Ground**      |     OEJN_W_GND     |      SMC W       |       121.600       |
 |      **Jeddah Ground**      |     OEJN_E_GND     |      SMC E       |       121.900       |
 |      **Jeddah Ground**      |     OEJN_C_GND     |      SMC C       |       121.700       |
 |      **Jeddah Tower**       |     OEJN_W_TWR     |      AIR W       |       118.200       |
 |      **Jeddah Tower**       |     OEJN_E_TWR     |      AIR E       |       118.500       |
+|      **Jeddah Tower**       |     OEJN_C_TWR     |      AIR C       |       118.300       |
 |     **Jeddah Approach**     |      OEJN_APP      |      APP 1       |       124.000       |
 |  **Jeddah Final Approach**  |     OEJN_F_APP     |       FIN        |       123.800       |
 | **Jeddah Terminal Control** |     OEJN_1_CTR     |      CTR 1       |       125.450       |
@@ -85,5 +86,5 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 |:------------------:|:------------:|:---------------:|:----------------------------------------------:|:---------------------------:|
 | **Delivery [DEL]** |    01/2025   | Removed Radar Departure, Updated SIDs, Added Omni-Directional Procedures, Minor Changes |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
 |  **Ground [GND]**  |    02/2025   | Updated all callsigns, ATRs and diagrams  |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
-|   **Tower [TWR]**  |    02/2025   | Updated all callsigns, ATRs and diagrams | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
-| **Approach [APP]** |    01/2025    |  Initial Release  |              Ismail Hassan - ACCSA1                    |        Ismail Hassan - ACCSA1           |
+|   **Tower [TWR]**  |    02/2025   | Added new position and updated diagrams | Muhammed Sinada - SAUOPS1 |    Ismail Hassan - ACCSA1   |
+| **Approach [APP]** |    01/2025   |  Initial Release  |              Ismail Hassan - ACCSA1                    |        Ismail Hassan - ACCSA1           |
