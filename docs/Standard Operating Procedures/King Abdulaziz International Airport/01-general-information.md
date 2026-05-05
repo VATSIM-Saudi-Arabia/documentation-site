@@ -86,5 +86,5 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 |:------------------:|:------------:|:---------------:|:----------------------------------------------:|:---------------------------:|
 | **Delivery [DEL]** |    01/2025   | Removed Radar Departure, Updated SIDs, Added Omni-Directional Procedures, Minor Changes |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
 |  **Ground [GND]**  |    02/2025   | Updated all callsigns, ATRs and diagrams  |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
-|   **Tower [TWR]**  |    02/2025   | Added new position and updated diagrams | Muhammed Sinada - SAUOPS1 |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |    02/2025   | Added new position and updated materials | Muhammed Sinada - SAUOPS1 |    Ismail Hassan - ACCSA1   |
 | **Approach [APP]** |    01/2025   |  Initial Release  |              Ismail Hassan - ACCSA1                    |        Ismail Hassan - ACCSA1           |
