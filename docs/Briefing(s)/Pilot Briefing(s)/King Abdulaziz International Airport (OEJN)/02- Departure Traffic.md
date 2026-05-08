@@ -31,8 +31,43 @@ apron.
 ---
 
 ## 2. Preflight
-!!! warning "Caution"
-    Pilots are kindly requested to ensure they have the most up-to-date **Aeronautical Information Regulation and Control (AIRAC) cycle** installed in their navigation database.
+
+Pilots are kindly requested to ensure they have the most up-to-date **Aeronautical Information Regulation and Control (AIRAC) cycle** installed in their navigation database.
+
+!!! warning "CDM Procedures"
+    During Hajj OPS event, **Collaborative Decision Making (CDM**) will be put in place to regulate the flow of traffic on the ground. When this system is in use, you will be able to view your TSAT at https://vacdm.vatsimsa.com.
+
+    By default, the TSAT is taken from the TOBT that you submitted on the website or the EOBT you filed in the flight plan.
+
+    Pilots are expected to report ready for pushback/start-up within TSAT+-2. Should you report ready earlier, you may be given an earlier slot depending on the current traffic situation.
+
+    For events with individual CTOTs, your TSAT will be generated after you receive your IFR clearance.
+
+    |                **Time**                 |                                              |
+    |:---------------------------------------:|:---------------------------------------------|
+    |   **EOBT (Estimated Off-Block Time)**   | This is the time when you estimate to be ready for pushback during the creation of your flight plan.|
+    |     **TOBT (Target Off-Block Time)**    | This is the time that you target to offblock. Keeping your TOBT up to date will help ATC to reduce delays and ensure a smooth operation. When you set a TOBT, ATC will treat it as a confirmed time and calculate your TSAT based on it.|
+    | **TSAT (Target Startup Approval Time)** | This is the time when ATC is planning to approve your startup. Keep in mind that it is ultimately your responsibility as the pilot to request startup within the TSAT window.<br>In an optimal situation, your TOBT and TSAT will be at the same time. However, if there are more aircraft wanting to depart than the airport can currently accommodate, startups will be delayed and your TSAT will be at a later time than your TOBT.|
+    |   **CTOT (Calculated Take-Off Time)**   | This is the actual slot for you to take off from the departure airport.|
+
+    #### CDM Procedure and Checklist
+    1. Submit your flight plan on VATSIM and connect on the network at least **30 minutes** prior your off-block time (or 45 minutes before your CTOT)
+    2. Submit your TOBT on **https://vacdm.vatsimsa.com**
+    3. Check your TSAT on **https://vacdm.vatsimsa.com**
+    4. Request clearance 25 minutes before your EOBT/TOBT
+    5. Be ready and request for pushback/startup at TSAT +-2 minutes
+    
+    <p style="text-align: center;">
+    If you failed to pushback/start up within +5 minutes after TSAT
+    </p>
+
+    1. Inform ATC
+    2. Submit your new TOBT on **https://vacdm.vatsimsa.com**
+    3. Check your new TSAT on **https://vacdm.vatsimsa.com**
+    4. Be ready and request for pushback/startup at new TSAT +-2 minutes
+
+    !!! tip
+        Keep on refreshing the vACDM website to check for SID/RWY/TOBT changes. TSAT updates automatically and does not require you to refresh.
 
 ### 2.1 Expected departure runways
 - Aircraft spawning at Apron **A, C** may expect to depart **RWY34R**.

@@ -1,5 +1,5 @@
 ---
-title: "Arrival Traffic"
+title: "Arrival Traffic - Hajj OPS 2026"
 toc_min_heading_level: 2
 toc_max_heading_level: 5
 ---
@@ -14,6 +14,18 @@ Depending on the assigned stand, pilots may anticipate the following Standard Te
 | **1, 2, 3, 4, 5** |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |     NOMDA2L <br> NOMDA2R    |     VEMEM2L <br> VEMEM2R    |
 |    **6, 7, 8**    |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |     NOMDA2L <br> NOMDA2R    |     VEMEM2L <br> VEMEM2R    |
 |     **G, 11**     |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |     NOMDA2L <br> NOMDA2R    |     VEMEM2L <br> VEMEM2R    |
+
+
+!!! warning "Hajj OPS Trafiic!"
+    Depending on the stream flow, pilots may anticipate the following Standard Terminal Arrival Routes (STARs):
+
+    |     **Stream**    |   **Runway**   |           **STAR**           |
+    | :---------------: | :------------: | :--------------------------- |
+    |   **E Arrivals**  |  34R <br> 16L  |     VEMEM2N <br> VEMEM2S     |
+    |  **SE Arrivals**  |  34R <br> 16L  |     BOSUT2N <br> BOSUT2S     |
+    |   **N Arrivals**  |  34L <br> 16R  |     NOMDA2L <br> NOMDA2R     |
+    |   **W Arrivals**  |  34L <br> 16R  |     MUVOL2L <br> MUVOL2R     |
+    |  **SW Arrivals**  |  34L <br> 16R  |     EGMEG2L <br> EGMEG2R     |
 
 #### 1.1.1 Radar Vectors on Downwind
 Traffic can expect standard vectors on Downwind.
@@ -61,8 +73,8 @@ If pilots are unable to fly an RNAV (Area Navigation) Standard Terminal Arrival 
 !!! Info "Beware"
     When the **Terminal Maneuvering Area (TMA)** reaches full capacity, pilots can anticipate being directed to unpublished holding patterns at the entry points of **VEMEM, BOSUT, MUVOL**, and **NOMDA**.
 
-### 1.3 Runway Operations
-#### 1.3.1 Declared Distances (Landing)
+## 2. Runway Operations
+### 2.1 Declared Distances (Landing)
 | **Runway** | **Landing Distance Available (at Threshold)** |
 | :--------: | :-------------------------------------------: |
 |    34L     |                    3800 m                     |
@@ -72,14 +84,14 @@ If pilots are unable to fly an RNAV (Area Navigation) Standard Terminal Arrival 
 |    16C     |                    4000 m                     |
 |    16R     |                    3800 m                     |
 
-#### 1.3.2 Minimum Runway Occupancy Time
+### 2.2 Minimum Runway Occupancy Time
 To maximize runway utilization at King Abdulaziz International Airport, pilots must follow the following procedures:
 
 - Aircraft should vacate the runway promptly using a pre-planned runway exit point provided by the AIR (Tower). This helps to ensure the efficient flow of traffic.
 - Pilots are reminded not to reduce speed to less than normal taxi speed until the aircraft has completely passed the runway holding point. This allows for continuous movement and prevents congestion.
 - After vacating the runway, pilots must immediately follow the assigned Arrival Taxi Route as directed by the AIR (Tower). This helps to maintain orderly taxi operations and minimize delays.
 
-#### 1.3.3 Standard Vacating Points
+### 2.3 Standard Vacating Points
 During the final approach, pilots will receive a designated vacating point from AIR (Tower). It is crucial for pilots to apply the appropriate brake power to ensure they neither overshoot nor undershoot the designated vacating point.
 
 Pilots with confirmed bookings can anticipate being assigned the following vacating points:
@@ -91,13 +103,27 @@ Pilots with confirmed bookings can anticipate being assigned the following vacat
 |     16L    |       M3, M5       |
 |     16R    |       B2, B4       |
 
-#### 1.3.4 Missed Approach Procedure
+### 2.4 Missed Approach Procedure
 Fly the published missed approach unless otherwise instructed by ATC.
 
-#### 1.3.5 Arrival Taxi Routes (ATRs)
+### 2.5 Arrival Taxi Routes (ATRs)
 **Arrival Taxi Routes (ATRs)** are short pre-defined initial taxi paths for traffic that are designed to maintain a smooth flow of traffic after aircraft vacate the runway. These routes are established to prevent traffic congestion around the RETs and to optimize the tower's efficiency by avoiding the need to provide initial taxiway instructions. Instead, the tower instructs the aircraft to follow one of the predetermined ATRs based on the assigned parking stand by the Ground (GND) controller.
 
 This allows for a smooth and immediate transfer of traffic to the appropriate ground controller.
+
+!!! warning "Hajj OPS Trafiic!"
+    All aircraft participating in the event will be allocated a parking stand at either Apron 6 or Apron 7, specifically at the Hajj Terminal.
+
+    - **For aircraft vacating Runway 34R**, they can expect to be assigned Vacating Point M7 by AIR 2 (Tower East). They will then be provided with an Arrival Taxi Route of M7O. Control will be handed over to GMC 2 (Ground East), where the GMC controller will guide them via taxiway R. Depending on coordination with AIR, they may receive crossing clearance or be directed to AIR 1 (Tower West). After the handoff, they should continue taxiing via taxiway R and turn right onto taxiway F, leading to Apron 6.
+
+    - **For aircraft vacating Runway 34L**, they should anticipate being assigned Vacating Point B5 by AIR 1. The assigned Arrival Taxi Route will be B5B, guiding them to Apron 7 via taxiways B and D6.
+
+    - **Aircraft vacating Runway 16R** will receive Vacating Point B2 and follow the B2O Arrival Taxi Route provided by AIR 1. This route will lead them to Apron 7 via taxiways C and D5.
+
+    - **Aircraft vacating Runway 16L** will be assigned Vacating Point M5 and instructed to follow the M5A Arrival Taxi Route by AIR 2. This route will guide them to Apron 6 via taxiways MB, L, R, and F.
+
+    !!! note
+        Please note that all aircraft landing on Runway 34L or 16R will be assigned Apron 7, while those landing on Runway 34R or 16L will be assigned Apron 6. Although Saudi aircraft typically park at Apron A in reality, for the event's convenience, they will also be directed to the Hajj Terminal. Saudi pilots landing on Runway 34R may request Apron A, although it deviates from realism.
 
 !!! danger "IMPORTANT NOTICE!"
     All pilots flying into **King Abdulaziz International Airport (OEJN)** are hereby reminded that strict familiarization with the aerodrome procedures is mandatory, with particular emphasis on **Arrival Taxi Routes**.
@@ -109,3 +135,9 @@ This allows for a smooth and immediate transfer of traffic to the appropriate gr
     - Request clarification **immediately if in doubt**, as failure to adhere to these procedures will not be appreciated and may compromise the safe and orderly flow of traffic at OEJN.
 
 ![Loading](imgs/ATR.png#center)
+
+### 2.6 Migat Al-Ihram (Ihram Zone) Instructions
+All carriers operating flights inbound to Jeddah are requested to announce passengers wishing to perform Hajj or Omrah **“we will pass abeam Migat Al-Ihram (Ihram Zone) after 30 minutes from now”** and they are requested to repeat the announcement **5 minutes** before passing Migat Al-Ihram. Charts Available In Appendix A.
+
+### 2.7 Enroute Holdings
+When the **Terminal Maneuvering Area (TMA)** reaches full capacity, pilots can anticipate being directed to unpublished holding patterns at the entry points of VEMEM, BOSUT, MUVOL, and NOMDA.
