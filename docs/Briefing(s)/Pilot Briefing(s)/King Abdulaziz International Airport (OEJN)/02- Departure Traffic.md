@@ -99,8 +99,7 @@ Pilots unable to push on colored lines shall immediately inform ATC if cleared f
 - Independent Parallel Departures in progress between RWY 34C/16C and RWY 34R/16L.
 
 ### 3.3 Minimum Runway Occupancy Time
-To maximize runway utilization at King Abdulaziz International Airport, pilots must follow the
-following procedures:
+To maximize runway utilization at King Abdulaziz International Airport, pilots must follow the following procedures:
 
 - On receipt of the line-up clearance, pilots shall taxi into position expeditiously.
 - If pilots require more separation than the WTS time-based standard or extra time for any other reason, advise ATC early **PRIOR** to entering the runway, **NOT** when on the runway. When informed, ATC may be able to make changes in the departure sequence, if necessary, to minimize delays to other succeeding departures.
