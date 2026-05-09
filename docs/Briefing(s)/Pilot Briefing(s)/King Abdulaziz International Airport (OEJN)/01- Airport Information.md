@@ -50,6 +50,9 @@ for the Islamic Hajj pilgrimage season.
 |      **Jeddah Apron**     |     OEJN_E_RMP     |       APN E      |       121.750       |
 |      **Jeddah Tower**     |     OEJN_W_TWR     |       AIR W      |       118.200       |
 |      **Jeddah Tower**     |     OEJN_E_TWR     |       AIR E      |       118.500       |
+|      **Jeddah Tower**     |     OEJN_C_TWR     |       AIR C      |       118.300       |
 |    **Jeddah Approach**    |      OEJN_APP      |       APP 1      |       124.000       |
-|**Jeddah Terminal Control**|     OEJN_W_CTR     |       CTR 1      |       125.450       |
-|**Jeddah Terminal Control**|     OEJN_E_CTR     |       CTR 2      |       119.100       |
+| **Jeddah Final Approach** |     OEJN_F_APP     |       FIN        |       123.800       |
+|**Jeddah Terminal Control**|     OEJN_W_CTR     |       CTR W      |       125.450       |
+|**Jeddah Terminal Control**|     OEJN_E_CTR     |       CTR E      |       119.100       |
+|**Jeddah Terminal Control**|     OEJN_WU_CTR    |       CTR WU     |       124.825       |
