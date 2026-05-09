@@ -18,6 +18,8 @@ title: "Jeddah Approach [APP 1]"
 ### Arrival
 - GND-FL195 = **Class C airspace**
 - **RWY34L and 34R** for arrivals.
+- Arrivals from **BOSUT**, **VEMEM**, and **EMGEG** will expect **RWY34R**.
+- Arrivals from **NOMDA** and **MUVOL** will expect **RWY34L**.
 - There is a large restricted zone in the **East** of Jeddah TMA, *Makkah.*
 - Arrivals into Jeddah will be handed off to *Jeddah Approach* around **FL180-FL190**. They would have **already been cleared for their STAR** by *Jeddah Terminal*
 - In OEJN, there is a **PMS (Point Merge System)** which is utilized for efficient traffic management. 
