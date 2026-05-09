@@ -8,7 +8,7 @@ title: "Jeddah Tower West [AIR W]"
     This section details all the necessary briefing materials for **OEJN_W_TWR [AIR W]** during Hajj OPS: 2026
 
 ## Designated Area of Responsibility 
-"*Jeddah Tower*" (OEJN_W_TWR) is in charge of **runway 34R and runway 34C** operations, whether that be departures or arrivals.
+"*Jeddah Tower*" (OEJN_W_TWR) is in charge of **runway 34R** operations, whether that be departures or arrivals.
 
 ![Loading](img/smc.png)
 
