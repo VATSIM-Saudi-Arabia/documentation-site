@@ -14,5 +14,5 @@ title: "Jeddah Clearance [GMP]"
 ### Departure
 - IFR clearances in Jeddah include the **departure runway**, the **SID**, the **initial climb**, and **the squawk** using the prescribed phraseology in the **SOP**.
 - The initial climb for all SIDs is **6000ft**.
-- Departure traffic at **Apron A or C** should expect **RWY34R**. Departure traffic at all other aprons should expect **RWY34C**..
-- **Departure** traffic shall be handed off to "*Jeddah Ramp*" (OEJN_E_RMP) if at **Apron 6, 7, A, B, C** or to "*Jeddah Ground*" if at Apron 1, 2, 3, 4, 5.
+- Departure traffic shall only be cleared on RWY 34C/16C regardless of their stand or requests as SDRO will be in use during the whole event to increase the arrival runway capacity.
+- **Departure** traffic shall be handed off to "*Jeddah Apron*" (OEJN_E_RMP) if at **Apron 7, 6, A, B, C** or to the respective "*Jeddah Ground*" controller if at Apron 1, 2, 3, 4, 5.

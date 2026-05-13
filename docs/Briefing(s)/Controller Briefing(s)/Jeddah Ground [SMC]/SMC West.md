@@ -11,15 +11,17 @@ title: "Jeddah Ground West [SMC W]"
     During the event, only SMC W and SMC E are going to be online, spliting the DOAR on 34C.
 
 ## Designated Area of Responsibility 
-**"Jeddah Ground" (OEJN_W_GND)** is in charge of all GMC operations west of RWY 34C. Ground west includes the old terminal, Hajj aprons, GA aprons, royal aprons, and cargo aprons **(Aprons 1, 2, 3, 4, 5, 13, 8, 9, G, 6, 7, and 11)**.
+**"Jeddah Ground" (OEJN_W_GND)** is in charge of all GMC operations west of RWY 34C. Ground west includes the Old terminal, Hajj aprons, GA aprons, Royal aprons, and Cargo aprons **(Aprons 1, 2, 3, 4, 5, 13, 8, 9, G, 6, 7, and 11)**.
 
 ![Loading](img/smc.png)
 
 ---
 
 ## Notes
-### Arrival
-- **Arrival** traffic going to Apron 1, 2, 3, 4, 5, will contact "*Jeddah Ground*" while taxing via the **B3X arrival taxi route**, once clear of departure traffic, further taxi by "*Jeddah Ground*" via **C T** to **Apron 1, 2, 3, 4** or via **C** to **Apron 5**.
+### Arrivals 
+
+- Arrival Traffic will always have priority during the event time.
+- During 34s Config, **Arrival** traffic going to Apron 1, 2, 3, 4, 5, will contact "*Jeddah Ground*" while taxing via the **B3X arrival taxi route**, once clear of departure traffic, further taxi by "*Jeddah Ground*" via **C T** to **Apron 1, 2, 3, 4** or via **C** to **Apron 5**.
 
 - Arrival traffic going to **Apron 6**, will contact "*Jeddah Ground*" while taxing via the **B3X arrival taxi route**. Once **clear** **of departure** traffic, further taxi by "*Jeddah Ground*" via **D5 C S to hold short of E.** Once clear of conflict, **taxi via S G to hold short GA**, and to contact "*Jeddah Apron*."
 
