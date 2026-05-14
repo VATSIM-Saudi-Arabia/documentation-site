@@ -65,7 +65,7 @@ On initial contact with Jeddah Approach, aircraft are to pass the following info
 - Advise in the event full length runway is required [If required]
 
 ##### 1.1.4.2 Jeddah Final
-When establishing initial contact with Jeddah Final [FIN E] or [FIN W], it is requested that pilots **ONLY** provide their callsign **WITHOUT ANY** additional information. The controller does not require any further details at that point.
+When establishing initial contact with **Jeddah Final [FIN E]** or **[FIN W]**, it is requested that pilots **ONLY** provide their callsign **WITHOUT ANY** additional information. The controller does not require any further details at that point.
 
 ### 1.2 Radar Vector Arrival
 If pilots are unable to fly an RNAV (Area Navigation) Standard Terminal Arrival Route (STAR), they can anticipate receiving radar vectors from air traffic control upon arrival. The radar vectors given by APP 1/FIN will guide them along the appropriate route instead of following the predefined RNAV STAR.
@@ -114,13 +114,13 @@ This allows for a smooth and immediate transfer of traffic to the appropriate gr
 !!! warning "Hajj OPS Trafiic!"
     All aircraft participating in the event will be allocated a parking stand at either Apron 6 or Apron 7, specifically at the Hajj Terminal.
 
-    - **For aircraft vacating Runway 34R**, they can expect to be assigned Vacating Point M7 by AIR 2 (Tower East). They will then be provided with an Arrival Taxi Route of M7O. Control will be handed over to GMC 2 (Ground East), where the GMC controller will guide them via taxiway R. Depending on coordination with AIR, they may receive crossing clearance or be directed to AIR 1 (Tower West). After the handoff, they should continue taxiing via taxiway R and turn right onto taxiway F, leading to Apron 6.
+    - **For aircraft vacating Runway 34R**, they can expect to be assigned Vacating Point **M7** by AIR E (Tower East). They will then be provided with an Arrival Taxi Route of **M7O**. Control will be handed over to GMC E (Ground East), where the GMC controller will guide them via taxiway R. Depending on coordination with AIR, they may receive crossing clearance or be directed to AIR W (Tower West) or AIR C (Tower Central). After the handoff, they should continue taxiing via taxiway R and turn right onto taxiway F, leading to **Apron 6**.
 
-    - **For aircraft vacating Runway 34L**, they should anticipate being assigned Vacating Point B5 by AIR 1. The assigned Arrival Taxi Route will be B5B, guiding them to Apron 7 via taxiways B and D6.
+    - **For aircraft vacating Runway 34L**, they should anticipate being assigned Vacating Point B5 by AIR W. The assigned Arrival Taxi Route will be **B5O**, guiding them to **Apron 7** via taxiways B and D6.
 
-    - **Aircraft vacating Runway 16R** will receive Vacating Point B2 and follow the B2O Arrival Taxi Route provided by AIR 1. This route will lead them to Apron 7 via taxiways C and D5.
+    - **Aircraft vacating Runway 16R** will receive Vacating Point **B2** and follow the **B2O** Arrival Taxi Route provided by AIR W. This route will lead them to **Apron 7** via taxiways C and D5.
 
-    - **Aircraft vacating Runway 16L** will be assigned Vacating Point M5 and instructed to follow the M5A Arrival Taxi Route by AIR 2. This route will guide them to Apron 6 via taxiways MB, L, R, and F.
+    - **Aircraft vacating Runway 16L** will be assigned Vacating Point **M5** and instructed to follow the **M5X** Arrival Taxi Route by AIR E. This route will guide them to **Apron 6** via taxiways MB, L, R, and F.
 
     !!! note
         Please note that all aircraft landing on Runway 34L or 16R will be assigned Apron 7, while those landing on Runway 34R or 16L will be assigned Apron 6. Although Saudi aircraft typically park at Apron A in reality, for the event's convenience, they will also be directed to the Hajj Terminal. Saudi pilots landing on Runway 34R may request Apron A, although it deviates from realism.
