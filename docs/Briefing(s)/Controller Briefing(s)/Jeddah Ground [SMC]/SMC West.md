@@ -38,4 +38,4 @@ title: "Jeddah Ground West [SMC W]"
 
 ## Visual Representation
 
-![Loading](img/smcw.png)
+![Loading](img/smcw34.png)
