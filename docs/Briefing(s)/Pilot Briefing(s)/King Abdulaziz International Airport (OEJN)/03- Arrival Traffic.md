@@ -65,13 +65,13 @@ On initial contact with Jeddah Approach, aircraft are to pass the following info
 - Advise in the event full length runway is required [If required]
 
 ##### 1.1.4.2 Jeddah Final
-When establishing initial contact with Jeddah Final [FIN 1], it is requested that pilots **ONLY** provide their callsign **WITHOUT ANY** additional information. The controller does not require any further details at that point.
+When establishing initial contact with Jeddah Final [FIN E] or [FIN W], it is requested that pilots **ONLY** provide their callsign **WITHOUT ANY** additional information. The controller does not require any further details at that point.
 
 ### 1.2 Radar Vector Arrival
 If pilots are unable to fly an RNAV (Area Navigation) Standard Terminal Arrival Route (STAR), they can anticipate receiving radar vectors from air traffic control upon arrival. The radar vectors given by APP 1/FIN will guide them along the appropriate route instead of following the predefined RNAV STAR.
 
 !!! Info "Beware"
-    When the **Terminal Maneuvering Area (TMA)** reaches full capacity, pilots can anticipate being directed to unpublished holding patterns at the entry points of **VEMEM, BOSUT, MUVOL**, and **NOMDA**.
+    When the **Terminal Maneuvering Area (TMA)** reaches full capacity, pilots can anticipate being directed to unpublished holding patterns at the entry points of **VEMEM, BOSUT, MUVOL, EGMEG**, and **NOMDA**.
 
 ## 2. Runway Operations
 ### 2.1 Declared Distances (Landing)
