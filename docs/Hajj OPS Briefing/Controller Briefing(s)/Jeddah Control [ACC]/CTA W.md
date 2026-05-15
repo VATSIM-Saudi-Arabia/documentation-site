@@ -10,7 +10,7 @@ title: "Jeddah Terminal Control [CTA W]"
 
 ## Designated Area of Responsibility 
 
-"*Jeddah Terminal Control*" (OEJN_W_CTR) is in charge of the Western Jeddah Terminal Sector from FL150+.
+"*Jeddah Terminal Control*" (OEJN_W_CTR) is the bandbox position in charge of both the Eastern and Western Jeddah CTA Sectors from FL150+.
 
 ![Loading](img/main.png)
 
@@ -26,6 +26,6 @@ title: "Jeddah Terminal Control [CTA W]"
       * 2,000 ft vertical separation above FL410 or 10 NM lateral separation.
 * Any non-event aircraft entering the Jeddah FIR with destination Jeddah must obtain a release from the appropriate Jeddah Control sector before entry.   Adjacent ACC sectors are responsible for coordinating the release prior to transfer.
 * Issuing arrival clearances for traffic inbound to Jeddah is not the responsibility of Jeddah Control; this duty belongs to Jeddah Terminal Control.
-* A minimum of 10-15 NM longitudinal spacing must be maintained between arrival aircraft before transfer to Jeddah Approach (APP 1). This means initial sequencing and spacing start in this sector
+* A minimum of 12-15 NM longitudinal spacing must be maintained between arrival aircraft before transfer to Jeddah Approach (APP 1). This means final sequencing and spacing start in this sector
 * All aircraft handed off to Jeddah Terminal Control must be descended below FL390.
 * Controllers should regularly review ECFMP updates to remain informed of the latest traffic flow restrictions and measures.
