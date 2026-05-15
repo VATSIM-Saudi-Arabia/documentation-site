@@ -12,7 +12,7 @@ title: "Jeddah Ground East [SMC E]"
 
 
 ## Designated Area of Responsibility 
-**"Jeddah Ground" (OEJN_E_GND)**, is in charge of any GMC operations **east of RWY 34C**. Ground east includes terminal 1, military aprons, GA apron, and royal hangar (**Aprons A, B, C, 12, 14, and 15)**.
+**"Jeddah Ground" (OEJN_E_GND)**, is in charge of any GMC operations **east of RWY 34C**. Ground east includes military aprons, GA apron, and royal hangar (**Aprons 12, 14, and 15)**.
 
 ![Loading](img/smc.png)
 
@@ -42,7 +42,7 @@ title: "Jeddah Ground East [SMC E]"
 
 ---
 
-## Visual Representation
+### Visual Representation
 
 ![Loading](img/smce34.png)
 
@@ -61,3 +61,7 @@ title: "Jeddah Ground East [SMC E]"
 - Departures from **Apron A** will be cleared by "APN E" directly to **hold short of L4 or L5 taxiway**. expect traffic to call you holding short of L via L4 or L5 from "APN E" Traffic should be cleared to taxi via **L,W, H holding point H7** and shall be transferred to "Jeddah Tower West". **passing V** if clear of conflict.
 
 - Departures from **Apron B** will be cleared by "Jeddah Apron" directly to hold short of **K taxiway via K1, K2 or K3**. expect traffic to call you holding short of K via K1, K2 or K3 from "APN E" Traffic should be cleared to taxi via **H holding point H7** and shall be transferred to "Jeddah Tower West". **passing V** if clear of conflict.
+
+### Visual Representation
+
+![Loading](img/smce16.png)

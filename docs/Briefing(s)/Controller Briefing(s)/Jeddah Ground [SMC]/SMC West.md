@@ -11,13 +11,13 @@ title: "Jeddah Ground West [SMC W]"
     During the event, only SMC W and SMC E are going to be online, spliting the DOAR on 34C.
 
 ## Designated Area of Responsibility 
-**"Jeddah Ground" (OEJN_W_GND)** is in charge of all GMC operations west of RWY 34C. Ground west includes the Old terminal, Hajj aprons, GA aprons, Royal aprons, and Cargo aprons **(Aprons 1, 2, 3, 4, 5, 13, 8, 9, G, 6, 7, and 11)**.
+**"Jeddah Ground" (OEJN_W_GND)** is in charge of all GMC operations west of RWY 34C. Ground west includes the Old terminal, GA aprons, Royal aprons, and Cargo aprons **(Aprons 1, 2, 3, 4, 5, 13, 8, 9, G and 11)**.
 
 ![Loading](img/smc.png)
 
 ---
 
-## Notes
+## 34's Configuration
 ### Arrivals 
 
 - Arrival Traffic will always have priority during the event time.
@@ -36,6 +36,6 @@ title: "Jeddah Ground West [SMC W]"
 
 ---
 
-## Visual Representation
+### Visual Representation
 
 ![Loading](img/smcw34.png)
