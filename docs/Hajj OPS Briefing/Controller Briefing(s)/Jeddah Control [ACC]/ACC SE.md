@@ -7,6 +7,10 @@ title: "Jeddah Control [ACC SE]"
 !!! success "Covering"
     This section details all the necessary breifing materials for **OEJD_SE_CTR [ACC SE]** during Hajj OPS: 2026
 
+## Designated Area of Responsibility 
+
+"*Jeddah Control*" (OEJD_SE_CTR) is in charge of the South Eastern Jeddah Sector from SFC-UNL.
+
 ![Loading](img/main.png)
 
 ---
