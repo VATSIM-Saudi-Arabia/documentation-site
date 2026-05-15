@@ -52,3 +52,130 @@ markdown_extensions:
   - attr_list
 plugins:
 - search
+
+nav:
+  - Home: index.md
+  - Standard Operating Procedures:
+    - Standard Operating Procedures/Introduction copy.md
+    - King Abdulaziz International Airport (OEJN):
+      - Standard Operating Procedures/King Abdulaziz International Airport/01-general-information.md
+      - Standard Operating Procedures/King Abdulaziz International Airport/02-delivery.md
+      - Standard Operating Procedures/King Abdulaziz International Airport/03-ground.md
+      - Standard Operating Procedures/King Abdulaziz International Airport/04-tower.md
+      - Standard Operating Procedures/King Abdulaziz International Airport/05-approach.md
+    - King Fahd International Airport (OEDF):
+      - Standard Operating Procedures/King Fahd International Airport/01-general-information.md
+      - Standard Operating Procedures/King Fahd International Airport/02-delivery.md
+      - Standard Operating Procedures/King Fahd International Airport/03-ground.md
+      - Standard Operating Procedures/King Fahd International Airport/04-tower.md
+      - Standard Operating Procedures/King Fahd International Airport/05-approach.md
+      - Supplements:
+        - Standard Operating Procedures/King Fahd International Airport/Supplements/06-hsp.md
+        - Standard Operating Procedures/King Fahd International Airport/Supplements/07-uvrs.md
+    - King Khalid International Airport (OERK):
+      - Standard Operating Procedures/King Khalid International Airport/01-general-information.md
+      - Standard Operating Procedures/King Khalid International Airport/02-delivery.md
+      - Standard Operating Procedures/King Khalid International Airport/03-ground.md
+      - Standard Operating Procedures/King Khalid International Airport/04-tower.md
+      - Standard Operating Procedures/King Khalid International Airport/05-approach.md
+    - Prince Mohammed International Airport (OEMA):
+      - Standard Operating Procedures/Prince Mohammed International Airport/01-general-information.md
+      - Standard Operating Procedures/Prince Mohammed International Airport/02-delivery.md
+      - Standard Operating Procedures/Prince Mohammed International Airport/03-ground.md
+      - Standard Operating Procedures/Prince Mohammed International Airport/04-tower.md
+      - Standard Operating Procedures/Prince Mohammed International Airport/05-approach.md
+  - Sector Guides:
+    - Voice Controller Coordination System: Sector Guides/Voice Controller Coordination System/VCCS.md
+  - Supplementary Guides:
+    - Supplementary Guides/Introduction.md
+    - Radiotelephony Manual:
+      - Supplementary Guides/Radiotelephony Manual/1. Introduction.md
+      - Supplementary Guides/Radiotelephony Manual/2. General Phrasesolgy and Guidelines.md
+      - General Phraseology:
+        - Supplementary Guides/Radiotelephony Manual/1. General Phraseology/1.1 General Phrasesolgy and Guidelines.md
+    - Special Procedures:
+      - Supplementary Guides/Special Procedures/vacdm.md
+      - Emergency Procedures: Supplementary Guides/Special Procedures/Emergency Procedures/Emergencies,Abnormal Situations.md
+      - Flow Management Procedures:
+        - Supplementary Guides/Special Procedures/Flow Management Procedures/Flow-Management-Procedures.md
+        - ECFMP:
+          - Supplementary Guides/Special Procedures/Flow Management Procedures/ECFMP/01-Introduction to ECFMP.md
+          - Supplementary Guides/Special Procedures/Flow Management Procedures/ECFMP/02-Flow Management Basics.md
+          - Supplementary Guides/Special Procedures/Flow Management Procedures/ECFMP/03-Flow Measure Types.md
+  - Training vMATS:
+    - S1 - Developing Controller:
+      - General Knowledge:
+        - "Training vMATS/(S1) Developing Controller Training vMATS/1. General Knowledge/01- 1.1 Introduction to VATSIM.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/1. General Knowledge/02- 1.2 ATC Positions and Hierarchy.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/1. General Knowledge/03- 1.3 ATC Ratings.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/1. General Knowledge/04- 1.4 Controller Practical Test (CPT) and Solo Validation (SV).md"
+      - Major Airfields:
+        - "Training vMATS/(S1) Developing Controller Training vMATS/2. Major Airfields/01- 2.1 King Abdulaziz International Airport (OEJN).md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/2. Major Airfields/02- 2.2 King Khalid International Airport (OERK).md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/2. Major Airfields/03- 2.3 King Fahd International Airport (OEDF).md"
+      - Responsibilities:
+        - "Training vMATS/(S1) Developing Controller Training vMATS/3. Responsibilities/01- 3.1 Delivery (DEL).md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/3. Responsibilities/02- 3.2 Ground (GND).md"
+      - Flight Rules:
+        - "Training vMATS/(S1) Developing Controller Training vMATS/4. Flight Rules/01- 4.1 Instrument Flight Rules.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/4. Flight Rules/02- 4.2 Visual Flight Rules (VFR).md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/4. Flight Rules/03- 4.3 VFR Departures.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/4. Flight Rules/04- 4.4 VFR Circuits.md"
+      - Flight Routes:
+        - "Training vMATS/(S1) Developing Controller Training vMATS/5. Flight Routes/01- 5.1 Flight Routes.md"
+      - Charts:
+        - "Training vMATS/(S1) Developing Controller Training vMATS/6. Charts/01- 6.1 Types of Charts.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/6. Charts/02- 6.2 Standard Instrument Departure (SID).md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/6. Charts/03- 6.3 Aerodrome Charts.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/6. Charts/04- 6.4 Initial Climbs.md"
+      - Cruising Flight Levels:
+        - "Training vMATS/(S1) Developing Controller Training vMATS/7. Cruising Flight Levels/01- 7.1 Cruising Flight level.md"
+      - ATIS:
+        - "Training vMATS/(S1) Developing Controller Training vMATS/8. ATIS/01- Intro copy.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/8. ATIS/02- 8.1 METAR.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/8. ATIS/02- 8.2 NOTAM.md"
+        - "Training vMATS/(S1) Developing Controller Training vMATS/8. ATIS/03- 8.3 Active Runways.md"
+  - Published Documents:
+    - Subdivisional Policies:
+      - Published Documents/Subdivisional Policies/ats.md
+      - Published Documents/Subdivisional Policies/coc.md
+      - Published Documents/Subdivisional Policies/gdpr.md
+      - Member of the Month Policy:
+        - Published Documents/Subdivisional Policies/Member of the Month Policy/mom.md
+        - Published Documents/Subdivisional Policies/Member of the Month Policy/test.md
+  - Hajj OPS Briefing:
+    - "Hajj OPS Briefing/test.md"
+    - "Jeddah Approach (APP)":
+      - "Hajj OPS Briefing/Jeddah Approach [APP]/APP.md"
+      - "Hajj OPS Briefing/Jeddah Approach [APP]/APP FINAL E.md"
+      - "Hajj OPS Briefing/Jeddah Approach [APP]/APP FINAL W.md"
+    - "Jeddah Clearance (GMP)":
+      - "Hajj OPS Briefing/Jeddah Clearance [GMP]/GMP.md"
+    - "Jeddah Control (ACC)":
+      - "Hajj OPS Briefing/Jeddah Control [ACC]/ACC 2.md"
+      - "Hajj OPS Briefing/Jeddah Control [ACC]/ACC SE.md"
+    - "Jeddah Ground (SMC)":
+      - "Hajj OPS Briefing/Jeddah Ground [SMC]/APN East.md"
+      - "Hajj OPS Briefing/Jeddah Ground [SMC]/SMC East.md"
+      - "Hajj OPS Briefing/Jeddah Ground [SMC]/SMC West.md"
+    - "Jeddah Tower (AIR)":
+      - "Hajj OPS Briefing/Jeddah Tower [AIR]/AIR East.md"
+      - "Hajj OPS Briefing/Jeddah Tower [AIR]/AIR West.md"
+    - Pilot Briefings:
+      - "Hajj OPS Briefing/Pilot Briefing(s)/OEJN.md"
+      - Departure Aerodromes:
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/DAAG.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/HECA.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/HSSK.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/LEBL.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/LGAV.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/LROP.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/LTFM.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/OKKK.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/OMDB.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/OPKC.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/UBBB.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/VABB.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/VTBS.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/WIII.md"
+        - "Hajj OPS Briefing/Pilot Briefing(s)/Departure Aerodromes/WMKK.md"
