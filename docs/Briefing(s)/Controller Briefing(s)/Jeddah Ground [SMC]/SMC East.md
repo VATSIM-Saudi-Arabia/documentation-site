@@ -36,11 +36,9 @@ title: "Jeddah Ground East [SMC E]"
 ### Departure
 - Departures from Apron C will be cleared by "APN E" until holding short of **W via W1 or W2**, expect traffic to call you holding short of W via W1 or W2 from "APN E" Traffic should be cleared via **WM holding point M2** and shall be transferred to "Jeddah Tower East" **passing MB** if clear of conflict.
 
-- Departures from **Apron A** will be cleared by "APN E" directly to **hold short of M1 taxiway**. **No contact** will be made between the traffic and "Jeddah Ground East" Traffic will be **directly handed off** to "Jeddah Tower E".
+- Departures from **Apron A** will be cleared by "APN E" directly to **hold short of M1 taxiway**. **No contact** will be made between the traffic and "Jeddah Ground East" Traffic will be **directly handed off** to "Jeddah Tower West".
 
-- Departures from **Apron B** will be cleared by "Jeddah Apron" directly to hold short of **H1 taxiway**. No contact will be made between the traffic and "Jeddah Ground East" Traffic will be **directly handed off** to **Tower West**.
-
-- **No** traffic from **Apron C** shall be cleared to **hold short of M1 or H1** to avoid conflicts between Apron B or Apron A traffic.
+- Departures from **Apron B** will be cleared by "Jeddah Apron" directly to hold short of **H1 taxiway**. No contact will be made between the traffic and "Jeddah Ground East" Traffic will be **directly handed off** to **Jeddah Tower West**.
 
 ---
 
@@ -51,17 +49,15 @@ title: "Jeddah Ground East [SMC E]"
 ## 16's Configuration
 ### Arrival
 
-- **Arrival** traffic going to **Apron A**, will contact you while taxing via the **M4X or M6X arrival taxi route**, and shall be taxied by "Jeddah Ground East" to hold short **L5** and **passing MB** shall contact "APN E"
+- **Arrival** traffic going to **Apron A**, will contact you while taxing via the **M3X or M5X arrival taxi route**, and shall be taxied by "Jeddah Ground East" to hold short **L2 or L3 on M** and **passing MB** shall contact "APN E"
 
-- **Arrival** traffic going to **Apron B,** will contact you while taxing via the **M7O arrival taxi route**, and shall be taxied by "Jeddah Ground East" via **R, K to hold short K5** and **passing HB** shall contact " APN E"
+- **Arrival** traffic going to **Apron B,** will contact you while taxing via the **M5X arrival taxi route**, and shall be taxied by "Jeddah Ground East" via **M, MB, L, W , K to hold short K5** and **passing HB** shall contact " APN E"
 
-- **Arrival** traffic going to **Apron C**, will contact you while taxing via the **M4X or M6X** arrival taxi route, and shall be taxied by "Jeddah Ground East" via **V to hold short V3 or V4**, and contact "APN E"
+- **Arrival** traffic going to **Apron C**, will contact you while taxing via the **M5X arrival taxi route**, and shall be taxied by "Jeddah Ground East" via **M, MB, L, W to hold short W4 or W3 on W**, and contact "APN E"
 
 ### Departure
-- Departures from Apron C will be cleared by "APN E" until holding short of **W via W1 or W2**, expect traffic to call you holding short of W via W1 or W2 from "APN E" Traffic should be cleared via **WM holding point M2** and shall be transferred to "Jeddah Tower East" **passing MB** if clear of conflict.
+- Departures from **Apron C** will be cleared by "APN E" until holding short of **W via W1 or W2**, expect traffic to call you holding short of W via W1 or W2 from "APN E" Traffic should be cleared to taxi via **W,H  holding point H7 Runway 16C** and shall be transferred to "Jeddah Tower West" **passing V** if clear of conflict.
 
-- Departures from **Apron A** will be cleared by "APN E" directly to **hold short of M1 taxiway**. **No contact** will be made between the traffic and "Jeddah Ground East" Traffic will be **directly handed off** to "Jeddah Tower E".
+- Departures from **Apron A** will be cleared by "APN E" directly to **hold short of L4 or L5 taxiway**. expect traffic to call you holding short of L via L4 or L5 from "APN E" Traffic should be cleared to taxi via **L,W, H holding point H7** and shall be transferred to "Jeddah Tower West". **passing V** if clear of conflict.
 
-- Departures from **Apron B** will be cleared by "Jeddah Apron" directly to hold short of **H1 taxiway**. No contact will be made between the traffic and "Jeddah Ground East" Traffic will be **directly handed off** to **Tower West**.
-
-- **No** traffic from **Apron C** shall be cleared to **hold short of M1 or H1** to avoid conflicts between Apron B or Apron A traffic.
+- Departures from **Apron B** will be cleared by "Jeddah Apron" directly to hold short of **K taxiway via K1, K2 or K3**. expect traffic to call you holding short of K via K1, K2 or K3 from "APN E" Traffic should be cleared to taxi via **H holding point H7** and shall be transferred to "Jeddah Tower West". **passing V** if clear of conflict.
