@@ -33,6 +33,10 @@ title: "Jeddah Ground East [SMC E]"
 
 - **Arrival** traffic going to **Apron C**, will contact you while taxing via the **M4X or M6X** arrival taxi route, and shall be taxied by "Jeddah Ground East" via **V to hold short V3 or V4**, and contact "APN E"
 
+- **Arrival** traffic going to **Apron 6**, will contact you while taxing on R , and shall be taxied by "Jeddah Ground East" via **R to hold short Runway 34C**, and contact "AIR West/SMC West" based on coordiantion.
+
+-  **No arrivals from the east shall be taxied to Apron 7**.
+
 ### Departure
 - Departures from Apron C will be cleared by "APN E" until holding short of **W via W1 or W2**, expect traffic to call you holding short of W via W1 or W2 from "APN E" Traffic should be cleared via **WM holding point M2** and shall be transferred to "Jeddah Tower East" **passing MB** if clear of conflict.
 
@@ -54,6 +58,11 @@ title: "Jeddah Ground East [SMC E]"
 - **Arrival** traffic going to **Apron B,** will contact you while taxing via the **M5X arrival taxi route**, and shall be taxied by "Jeddah Ground East" via **M, MB, L, W , K to hold short K5** and **passing HB** shall contact " APN E"
 
 - **Arrival** traffic going to **Apron C**, will contact you while taxing via the **M5X arrival taxi route**, and shall be taxied by "Jeddah Ground East" via **M, MB, L, W to hold short W4 or W3 on W**, and contact "APN E"
+
+- **Arrival** traffic going to **Apron 6**, will contact you while **taxing on M** after the **M5X arrival taxi route**, and shall be taxied by "Jeddah Ground East" via **L, W, H to hold S**, and contact "AIR West/SMC West" based on coordiantion
+
+- **No arrivals from the east shall be taxied to Apron 7**.
+
 
 ### Departure
 - Departures from **Apron C** will be cleared by "APN E" until holding short of **W via W1 or W2**, expect traffic to call you holding short of W via W1 or W2 from "APN E" Traffic should be cleared to taxi via **W,H  holding point H7 Runway 16C** and shall be transferred to "Jeddah Tower West" **passing V** if clear of conflict.
