@@ -47,9 +47,9 @@ toc_max_heading_level: 5
 - Taxiway **E** is **southbound** only.
 ---
 
-## Visual Representation
+### Visual Representation
 
-![Loading](img/apn.png)
+![Loading](img/apn34.png)
 
 ## Runway 16 Configuration
 
@@ -68,3 +68,7 @@ toc_max_heading_level: 5
 - **Apron 7** flow direction is **Northbound** to exit via **B7**.
 - **Apron 6** traffic must be pushed **facing south**.
 - Taxiway **E** is **southbound** only.
+
+### Visual Representation
+
+![Loading](img/apn16.png)
