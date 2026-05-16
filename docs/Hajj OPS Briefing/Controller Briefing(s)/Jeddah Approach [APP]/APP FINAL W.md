@@ -30,7 +30,7 @@ The full Standard Operating Procedures for OEJN_x_APP can be found [here](https:
 - The standard vector headings are below:
   - **Base Leg -** 070
   - **Intercepting Vector -** 010 (340 - 010)
-- Before turning base, aircraft must of **vacated 4,000 ft**. Aircraft should be turned onto base when passing 3,7000 ft to avoid a conflict.
+- Before turning base, aircraft must of **vacated 4,000 ft**. Aircraft should not be turned onto base prior to passing 3,7000 ft to avoid a conflict.
 
 - When established, aircraft should be kept:
   - "180 knots maintain to 10 DME, 160 knots maintain to 4 DME."
