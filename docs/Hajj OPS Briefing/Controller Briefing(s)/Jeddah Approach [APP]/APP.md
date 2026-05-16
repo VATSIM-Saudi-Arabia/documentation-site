@@ -32,6 +32,7 @@ title: "1. Jeddah Approach [APP 1]"
 - All arrivals into the Jeddah TMA shall be released with a **minimum of 12-15 NM** longitudinal spacing by Jeddah Terminal Control (CTA W).
 
 - Arrivals should be descended to **odd** altitudes prior to the handoff to APF. Descend levels should be FL170, FL150, 13000ft, 11000ft, 9000ft then the designated altitudes below.
+- Controllers should be aware of the MRVA's. These can be found [here](https://docs.vatsimsa.com/Standard%20Operating%20Procedures/King%20Abdulaziz%20International%20Airport/imgs/app-mrva.png)
 
 ## Handoff to Jeddah Final (APF)
 
