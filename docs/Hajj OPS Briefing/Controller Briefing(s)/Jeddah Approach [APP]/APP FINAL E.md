@@ -32,6 +32,9 @@ The full Standard Operating Procedures for OEJN_x_APP can be found [here](https:
   - **Base Leg -** 250
   - **Intercepting Vector -** 310 (340 - 310)
 
+- When established, aircraft should be kept:
+  - "180 knots maintain to 10 DME, 160 knots maintain to 4 DME."
+
 ## Handoffs from Jeddah Approach [APP 1]
 
 - The tables below dictate the altitudes and fixes at which arrival traffic will be handed off to from Jedday Approach [APP 1]. These are to be **strictly adhered to**.
