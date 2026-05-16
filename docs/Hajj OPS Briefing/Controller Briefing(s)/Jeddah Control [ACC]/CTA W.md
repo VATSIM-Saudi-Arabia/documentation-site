@@ -37,13 +37,13 @@ title: "Jeddah Terminal Control [CTA W]"
 - STARs into OEJN will be assigned by Jeddah Terminal Control (CTA W) and will be based on the route. **Not based on where they park**.
 - The following table dictates the STARs that should be assigned to arrivals based on their CTA and TMA entry point.
 
-| Handoff From | TMA Entry | CTA Entry |          STAR           |
-|:------------:|:---------:|:---------:|:-----------------------:|
-|    ACC 2     |   NOMDA   |   ASLAD   |         NOMDA2L         |
-|     HECA     |   MUVOL   |   DEDLU   |         MUVOL2L         |
-|    ACC 2     |   VEMEM   |   BOPEV   |         VEMEM2N         |
-|     HSSK     |   EGMEG   |   MIPOL   |         EGMEG2N         |
-|    ACC 2     |   BOSUT   |   GODSA   | ULULU2N x IMLER1N trans |
+| Handoff From | TMA Entry | CTA Entry |           STAR           |
+|:------------:|:---------:|:---------:|:------------------------:|
+|    ACC 2     |   NOMDA   |   ASLAD   |         NOMDA2L          |
+|     HECA     |   MUVOL   |   DEDLU   |         MUVOL2L          |
+|    ACC 2     |   VEMEM   |   BOPEV   |         VEMEM2N          |
+|     HSSK     |   EGMEG   |   MIPOL   |         EGMEG2N          |
+|    ACC 2     |   BOSUT   |   GODSA   | ULULU2N x IMLER1N trans. |
 
 ## Delay Phases
 
