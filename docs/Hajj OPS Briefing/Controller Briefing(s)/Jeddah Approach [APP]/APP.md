@@ -6,6 +6,8 @@ title: "1. Jeddah Approach [APP 1]"
 !!! success "Covering"
     This section details all the necessary briefing materials for **OEJN_APP [APP 1]** during Hajj OPS: 2026
 
+The full Standard Operating Procedures for OEJN_x_APP can be found [here](https://docs.vatsimsa.com/Standard%20Operating%20Procedures/King%20Abdulaziz%20International%20Airport/05-approach/#62421-34s-configuration-downwind-suggested-descents). However note that any information in this page **supersedes any other information**.
+
 ## Designated Area of Responsibility
 
 "_Jeddah Approach_" (OEJN_APP) is responsible for handling all **arrivals and departures** in the Jeddah TMA up to FL195.
