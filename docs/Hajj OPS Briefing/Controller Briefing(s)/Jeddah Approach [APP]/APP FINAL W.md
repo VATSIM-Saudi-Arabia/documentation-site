@@ -1,5 +1,5 @@
 ---
-title: "3. Jeddah Final West [APF W]"
+title: "Jeddah Final West [APF W]"
 ---
 
 # OEJN_FW_APP [APF W] Briefing Material | Hajj OPS: 2026

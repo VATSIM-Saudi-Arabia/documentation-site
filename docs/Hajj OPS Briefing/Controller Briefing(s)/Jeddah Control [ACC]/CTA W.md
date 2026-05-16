@@ -5,7 +5,7 @@ title: "Jeddah Terminal Control [CTA W]"
 # OEJN_W_CTR [CTA W] Briefing Material | Hajj OPS: 2026
 
 !!! success "Covering"
-    This section details all the necessary breifing materials for **OEJN_W_CTR [CTA W]** during Hajj OPS: 2026
+    This section details all the necessary briefing materials for **OEJN_W_CTR [CTA W]** during **Hajj OPS: 2026**
 
 
 ## Designated Area of Responsibility 
@@ -20,15 +20,30 @@ title: "Jeddah Terminal Control [CTA W]"
 
 * Five separate traffic flows — Western, Southwestern, Northern, Eastern, and Southeastern will enter CTA W airspace at varying times.
 * Controllers are required to use the VATCAN plugin to distinguish event traffic from non-event traffic.
+* Any non-event aircraft entering the Jeddah FIR with destination Jeddah **must obtain a release** from the appropriate Jeddah Control sector before entry. Adjacent ACC sectors are responsible for coordinating the release prior to transfer.
 * RVSM procedures and the semi-circular cruising level rule are applicable throughout the OEJD FIR.
    * Standard separation minima within the airspace are:
       * 1,000 ft vertical separation up to FL410 or 10 NM lateral separation.
       * 2,000 ft vertical separation above FL410 or 10 NM lateral separation.
-* Any non-event aircraft entering the Jeddah FIR with destination Jeddah must obtain a release from the appropriate Jeddah Control sector before entry.   Adjacent ACC sectors are responsible for coordinating the release prior to transfer.
 * Issuing arrival clearances for traffic inbound to Jeddah is not the responsibility of Jeddah Control; this duty belongs to Jeddah Terminal Control.
 * A minimum of 12-15 NM longitudinal spacing must be maintained between arrival aircraft before transfer to Jeddah Approach (APP 1). This means final sequencing and spacing start in this sector
 * All aircraft handed off to Jeddah Terminal Control must be descended below FL390.
 * Controllers should regularly review ECFMP updates to remain informed of the latest traffic flow restrictions and measures.
+* All arrivals into the Jeddah CTA will be FL390 or below. 
+  * All handoffs from Cairo Control (HECA) via DEDLU shall enter FL290 or below.
+* Any non-event traffic entering the Jeddah CTA to be held at the Jeddah TMA entry points if they cannot be sequenced.
+
+## Arrivals to assign
+- STARs into OEJN will be assigned by Jeddah Terminal Control (CTA W) and will be based on the route. **Not based on where they park**.
+- The following table dictates the STARs that should be assigned to arrivals based on their CTA and TMA entry point.
+
+| Handoff From | TMA Entry | CTA Entry |          STAR           |
+|:------------:|:---------:|:---------:|:-----------------------:|
+|    ACC 2     |   NOMDA   |   ASLAD   |         NOMDA2L         |
+|     HECA     |   MUVOL   |   DEDLU   |         MUVOL2L         |
+|    ACC 2     |   VEMEM   |   BOPEV   |         VEMEM2N         |
+|     HSSK     |   EGMEG   |   MIPOL   |         EGMEG2N         |
+|    ACC 2     |   BOSUT   |   GODSA   | ULULU2N x IMLER1N trans |
 
 ## Delay Phases
 

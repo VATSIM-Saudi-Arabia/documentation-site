@@ -5,7 +5,7 @@ title: "Jeddah Control [ACC 2]"
 # OEJD_2_CTR [ACC 2] Briefing Material | Hajj OPS: 2026
 
 !!! success "Covering"
-    This section details all the necessary breifing materials for **OEJD_2_CTR [ACC 2]** during Hajj OPS: 2026
+    This section details all the necessary briefing materials for **OEJD_2_CTR [ACC 2]** during Hajj OPS: 2026
 
 
 ## Designated Area of Responsibility 
