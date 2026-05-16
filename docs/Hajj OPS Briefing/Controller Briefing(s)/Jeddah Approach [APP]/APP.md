@@ -31,6 +31,8 @@ title: "Jeddah Approach [APP 1]"
   - Handoffs to Jeddah Approach (APP 1) should be initated prior to the TMA entry point, or passing FL160/FL190 (dependant on the entry fix) whichever is earlier.
 - All arrivals into the Jeddah TMA shall be released with a **minimum of 12-15 NM** longitudinal spacing by Jeddah Terminal Control (CTA W).
 
+- Arrivals should be descended to **odd** altitudes prior to the handoff to APF. Descend levels should be FL170, FL150, 13000ft, 11000ft, 9000ft then the designated altitudes below.
+
 ## Handoff to Jeddah Final (APF)
 
 - The tables below dictate the altitudes and fixes at which arrival traffic will be handed off to Jeddah Final (APF). These are to be **strictly adhered to.**
