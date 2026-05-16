@@ -34,6 +34,7 @@ The full Standard Operating Procedures for OEJN_x_APP can be found [here](https:
 
 - When established, aircraft should be kept:
   - "180 knots maintain to 10 DME, 160 knots maintain to 4 DME."
+- "SVA123, contact Jeddah Tower, callsign only, 118.500."
 
 ## Handoffs from Jeddah Approach [APP 1]
 
