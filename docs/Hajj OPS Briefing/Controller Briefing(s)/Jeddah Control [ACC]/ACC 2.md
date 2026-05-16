@@ -36,6 +36,8 @@ title: "Jeddah Control [ACC 2]"
 Incase of TMA overload, the following delay phases can be initiated by Jeddah Approach (APP 1) or Jeddah Terminal Control (CTA W).
 All delay phases should be coordinated with the designated **"HAJJ OPS HELP"** staff member or **Ismail Hassan**. After initiation of a delay phase, this should be announced globally in the ATC chat on EuroScope.
 
+All temporary holding procedures can be found [here](https://docs.vatsimsa.com/Hajj%20OPS%20Briefing/Controller%20Briefing%28s%29/Jeddah%20Control%20%5BACC%5D/Holds/).
+
 | Phase |  Initiated By   |                                                                                                                    Description                                                                                                                    |
 | :---: |:---------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | P1 |      APP 1      |                                                             Arrivals into OEJN will be slowed down to delay the hourly rate into the TMA. Relevant flow measures to be put in place.                                                              |

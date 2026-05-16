@@ -73,6 +73,7 @@ The full Standard Operating Procedures for OEJN_x_APP can be found [here](https:
 Incase of TMA overload, the following delay phases can be initiated by Jeddah Approach (APP 1) or Jeddah Terminal Control (CTA W).
 All delay phases should be coordinated with the designated **"HAJJ OPS HELP"** staff member or **Ismail Hassan**. After initiation, and subsequent coordination with a staff member, of a delay phase, it should be announced globally in the ATC chat on EuroScope.
 
+All temporary holding procedures can be found [here](https://docs.vatsimsa.com/Hajj%20OPS%20Briefing/Controller%20Briefing%28s%29/Jeddah%20Control%20%5BACC%5D/Holds/).
 
 | Phase |  Initiated By  |                                                                                                                    Description                                                                                                                    |
 | :---: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
