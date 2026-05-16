@@ -2,10 +2,10 @@
 title: "Jeddah Ground West [SMC W]"
 ---
 
-# OEJN_W_GND [SMC E] Briefing Material | Cross the Land: 2025
+# OEJN_W_GND [SMC E] Briefing Material | Hajj OPS: 2026
 
 !!! success "Covering"
-    This section details all the necessary briefing materials for **OEJN_W_GND [SMC W]** during Cross the Land: 2025
+    This section details all the necessary briefing materials for **OEJN_W_GND [SMC W]** during Hajj OPS: 2026
 
 !!! Caution "Bandbox"
     During the event, only SMC W and SMC E are going to be online, spliting the DOAR on 34C.
@@ -19,11 +19,10 @@ title: "Jeddah Ground West [SMC W]"
 
 ## Notes
 ### Arrival
-- **Arrival** traffic going to Apron 1, 2, 3, 4, 5, will contact "*Jeddah Ground*" while taxing via the **B3X arrival taxi route**, once clear of departure traffic, further taxi by "*Jeddah Ground*" via **C T** to **Apron 1, 2, 3, 4** or via **C** to **Apron 5**.
-
-- Arrival traffic going to **Apron 6**, will contact "*Jeddah Ground*" while taxing via the **B3X arrival taxi route**. Once **clear** **of departure** traffic, further taxi by "*Jeddah Ground*" via **D5 C S to hold short of E.** Once clear of conflict, **taxi via S G to hold short GA**, and to contact "*Jeddah Apron*."
-
-- **Arrival** traffic going to **Apron 7** will **not** contact "*Jeddah Ground*" and will directly contact "Jeddah Apron."
+- **Arrival** traffic going to **Apron 1, 2, 3, 4, 5**, will contact "*Jeddah Ground*" while taxing via the **B5X arrival taxi route**, once clear of departure traffic, further taxi by "*Jeddah Ground*" via **C T** to **Apron 1, 2, 3, 4** or via **C** to **Apron 5** will be issued.
+- Arrival traffic going to **Apron 6**, will contact "*Jeddah Ground*" while taxing via the **B5X arrival taxi route**. Once **clear** **of departure** traffic, further taxi by "*Jeddah Ground*" via **D5 C S to hold short of E.** Once clear of conflict, **taxi via S G to hold short GA**, and to contact "*Jeddah Apron*."
+- **Arrival** traffic going to **Apron 7** will **not** contact "*Jeddah Ground*" and will directly contact "_Jeddah Apron_".
+- The **B3X** arrival taxi should not be used as all aircraft shall vacate via B5.
 
 ### Departure
 - Departure traffic from **Apron 6** will be cleared by "*Jeddah Apron*" via **E to hold short R**. Expect traffic to call "*Jeddah Ground*" taxing on **E** from "*Jeddah Apron*." Once clear of conflict, traffic shall be taxied by "*Jeddah Ground*" via **E S G to hold short G1 or G2** for **RWY34C**, if clear of conflict, **traffic passing U** shall contact "Jeddah Tower.'
