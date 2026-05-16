@@ -5,7 +5,7 @@ title: "Jeddah Control [ACC SE]"
 # OEJD_SE_CTR [ACC SE] Briefing Material | Hajj OPS: 2026
 
 !!! success "Covering"
-    This section details all the necessary breifing materials for **OEJD_SE_CTR [ACC SE]** during Hajj OPS: 2026
+    This section details all the necessary briefing materials for **OEJD_SE_CTR [ACC SE]** during Hajj OPS: 2026
 
 ## Designated Area of Responsibility 
 
@@ -28,3 +28,14 @@ title: "Jeddah Control [ACC SE]"
 * A minimum of 10-15 NM longitudinal spacing must be maintained between arrival aircraft before transfer to Jeddah Control (ACC 2). This means initial sequencing and spacing start in this sector
 * All aircraft handed off to Jeddah Terminal Control must be descended below FL390.
 * Controllers should regularly review ECFMP updates to remain informed of the latest traffic flow restrictions and measures.
+
+## Delay Phases
+
+Incase of TMA overload, the following delay phases can be initiated by Jeddah Approach (APP 1) or Jeddah Terminal Control (CTA W).
+All delay phases should be coordinated with the designated **"HAJJ OPS HELP"** staff member or **Ismail Hassan**. After initiation of a delay phase, this should be announced globally in the ATC chat on EuroScope.
+
+| Phase |  Initiated By   |                                                                                                                    Description                                                                                                                    |
+| :---: |:---------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| P1 |      APP 1      |                                                             Arrivals into OEJN will be slowed down to delay the hourly rate into the TMA. Relevant flow measures to be put in place.                                                              |
+| P2 | APP 1 and CTA W | APP and CTA to agree on this phase prior to coordination with staff members. All handoffs into the Jeddah TMA will be stopped. Holding will be initiated at the TMA entry points (e.g. VEMEM, NOMDA, MUVOL). Holding stacks to be managed by CTA. |
+| P3 |      CTA W      |                                       All handoffs into the Jeddah CTA will be stopped. Holding will be initiated at the CTA entry points (e.g. BOPEV, ASLAD, GODSA). Holding stacks to be managed by ACC.                                        |
