@@ -36,9 +36,11 @@ title: "1. Jeddah Approach [APP 1]"
 
 ## Handoff to Jeddah Final (APF)
 
-- The tables below dictate the altitudes and fixes at which arrival traffic will be handed off to Jeddah Final (APF). These are to be **strictly adhered to.**
+- The tables below dictate the altitudes and fixes at which arrival traffic will be handed off to Jeddah Final (APF). These are to be **strictly adhered to**.
 - Longitudinal spacing of **7 NM** should be targetted when handing off to APF. This figure is the minimum, and the longitudinal spacing **should not go under this figure**.
 - The target speed for handoff to APF is **210 knots**. This figure can be increased to **220 knots**, however should not go beyond this figure.
+- When handing off to Jeddah Final (APF), you should emphasise callsign only.
+  - "SVA123, contact Jeddah Final, callsign only, 123.800."
 
 ### Runway 16
 
