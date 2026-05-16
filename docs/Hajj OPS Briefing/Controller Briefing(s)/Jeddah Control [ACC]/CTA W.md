@@ -40,9 +40,9 @@ title: "Jeddah Terminal Control [CTA W]"
 | Handoff From | TMA Entry | CTA Entry |           STAR           |
 |:------------:|:---------:|:---------:|:------------------------:|
 |    ACC 2     |   NOMDA   |   ASLAD   |         NOMDA2L          |
-|     HECA     |   MUVOL   |   DEDLU   |         MUVOL2L          |
+|     HECC     |   MUVOL   |   DEDLU   |         MUVOL2L          |
 |    ACC 2     |   VEMEM   |   BOPEV   |         VEMEM2N          |
-|     HSSK     |   EGMEG   |   MIPOL   |         EGMEG2N          |
+|     HSSS     |   EGMEG   |   MIPOL   |         EGMEG2N          |
 |    ACC 2     |   BOSUT   |   GODSA   | ULULU2N x IMLER1N trans. |
 
 ## Delay Phases
@@ -54,6 +54,6 @@ All temporary holding procedures can be found [here](https://docs.vatsimsa.com/H
 
 | Phase |  Initiated By   |                                                                                                                    Description                                                                                                                    |
 | :---: |:---------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| P1 |      APP 1      |                                                             Arrivals into OEJN will be slowed down to delay the hourly rate into the TMA. Relevant flow measures to be put in place.                                                              |
+| P1 |      APP 1      |                                                            Arrivals into OEJN will be slowed down to delay the hourly rate into the TMA. Relevant flow measures to be put in place.                                                             |
 | P2 | APP 1 and CTA W | APP and CTA to agree on this phase prior to coordination with staff members. All handoffs into the Jeddah TMA will be stopped. Holding will be initiated at the TMA entry points (e.g. VEMEM, NOMDA, MUVOL). Holding stacks to be managed by CTA. |
 | P3 |      CTA W      |                                       All handoffs into the Jeddah CTA will be stopped. Holding will be initiated at the CTA entry points (e.g. BOPEV, ASLAD, GODSA). Holding stacks to be managed by ACC.                                        |
