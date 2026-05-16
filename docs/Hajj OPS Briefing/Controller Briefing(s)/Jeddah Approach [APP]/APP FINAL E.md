@@ -21,7 +21,7 @@ title: "2. Jeddah Final East [APF E]"
   - On final approach, the lateral separation can be reduced to **3 NM**.
 - Wake Turbulence Separation must be enforced under 6,000 feet.
 - After handoff from Jeddah Approach [APP 1], all aircraft should be descended onto **odd** altitudes. Below are the recommended altitudes:
-  - 7,000 ft, 5,000 ft, 4,5000 ft (to adhere to MRVA's), 4,000 ft (when intercept heading is given).
+  - 7,000 ft, 5,000 ft, 4,500 ft (to adhere to MRVA's), 4,000 ft (when intercept heading is given).
 - Controllers should be aware of the MRVA's. These can be found [here](https://docs.vatsimsa.com/Standard%20Operating%20Procedures/King%20Abdulaziz%20International%20Airport/imgs/app-mrva.png)
 - Independent Parallel Approaches (Mode 1) will be in use for Hajj OPS: 2026.
   - RWY 34R is the **high side**, with an establishing altitude of 4,000 ft.
