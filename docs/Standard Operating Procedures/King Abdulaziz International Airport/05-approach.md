@@ -146,14 +146,16 @@ The following are the ATS Positions relevant to this document. They will be subs
 |:----------------------------:|:--------------:|:------------:|:---------:|
 |         Jeddah Tower         |   OEJN_W_TWR   |     AIR W    |  118.200  |
 |         Jeddah Tower         |   OEJN_E_TWR   |     AIR E    |  118.500  |
+|         Jeddah Tower         |   OEJN_C_TWR   |     AIR C    |  118.300  |
 |        Jeddah Approach       |    OEJN_APP    |     APP 1    |  124.000  |
 |       Jeddah Final East      |   OEJN_FE_APP  |     FIN E    |  123.800  |
 |       Jeddah Final West      |   OEJN_FW_APP  |     FIN W    |  124.675  |
 | Jeddah Final Monitor Control |  OEJN_FMC_APP  |     FMC 1    |  125.850  |
-|    Jeddah Terminal Control   |   OEJN_1_CTR   |     CTR 1    |  125.450  |
-|    Jeddah Terminal Control   |   OEJN_2_CTR   |     CTR 2    |  119.100  |
+|    Jeddah Terminal Control   |  OEJN_WU_CTR   |     CTR WU   |  124.825  |
+|    Jeddah Terminal Control   |   OEJN_W_CTR   |     CTR W    |  125.450  |
+|    Jeddah Terminal Control   |   OEJN_E_CTR   |     CTR E    |  119.100  |
 |        Jeddah Control        |   OEJD_1_CTR   |     ACC 1    |  126.500  |
-|        Jeddah Control        |   OEJD_1_CTR   |     ACC 2    |  133.900  |
+|        Jeddah Control        |   OEJD_2_CTR   |     ACC 2    |  133.900  |
 
 <p style="text-align: center; font-style: italic;">
 Table 1.3 - ATS Positions
@@ -195,7 +197,7 @@ Controllers must log in the following order to maintain realizm and follow SOPs:
 
 ## 5. General Separation Minimas
 ### 5.1 Surveillance-Based Separation
-Unless specified in 6.1.6.1, aircraft flying within the Jeddah TMA must maintain a horizontal separation of at least **3 nautical miles**. If this distance cannot be achieved, a minimum vertical separation of **1000 feet** should be maintained.
+Unless specified in 6.1.6.1, aircraft flying within the Jeddah TMA must maintain a horizontal separation of at least **5 nautical miles**. If this distance cannot be achieved, a minimum vertical separation of **1000 feet** should be maintained.
 
 Controllers are required to give suitable speed and altitude directives, along with control over the aircraft's lateral path, to guarantee the necessary separation standards are upheld.
 
@@ -585,7 +587,7 @@ The Normal Operating Zone, illustrated in Figure 4.1, is the designated region n
 |  **ISLAM2W**  |                                                            **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 12000ft                                                             |                                                          Handoff after clear of PTMs                                                         |
 |  **KAROX2W**  |                          **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 12000ft till JN610/Clear of NOMDA ARRs<br />**APP:** Even levels up till FL200                          |                                                             Handoff Passing FL160                                                            |
 |  **RIBAM2W**  | **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 8000ft till JN522/Clear of ULULU ARRs<br />**APP:** 12000ft till JN521/Clear of ULULU ARRs<br />**APP:** Even levels up till FL200 |                                                             Handoff Passing FL160                                                            |
-|  **EGPOB3V**  | **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 8000ft till JN522/Clear of ULULU ARRs<br />**APP:** 12000ft till JN521/Clear of ULULU ARRs<br />**APP:** Even levels up till FL200 |                                                             Handoff Passing FL160                                                            |
+|  **EGPOB2W**  | **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 8000ft till JN522/Clear of ULULU ARRs<br />**APP:** 12000ft till JN521/Clear of ULULU ARRs<br />**APP:** Even levels up till FL200 |                                                             Handoff Passing FL160                                                            |
 |  **BOMOX3V**  |                             **APP:** 6000ft till clear of the arrivals/till RIBIL<br />**APP:** 12000ft till Clear of NOMDA ARRs<br />**APP:** Even levels up till FL200                             |                                                             Handoff Passing FL160                                                            |
 |  **MIGDA3V**  |                             **APP:** 6000ft till clear of the arrivals/till RIBIL<br />**APP:** 12000ft till Clear of NOMDA ARRs<br />**APP:** Even levels up till FL200                             |                                                             Handoff Passing FL160                                                            |
 |  **DATAP3V**  |                                            **APP:** 6000ft till clear of the arrivals/till RIBIL<br />**APP:** Even levels up till FL200 (Unrestricted)                                            |                                                             Handoff Passing FL160                                                            |

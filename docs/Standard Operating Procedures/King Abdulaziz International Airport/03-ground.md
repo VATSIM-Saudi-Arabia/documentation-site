@@ -30,7 +30,7 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 - Apron 13
 
 !!! info "Bandbox Position"
-    **Jeddah Ground West [OEJN_1_GND]** is the Bandbox Position for ground operations at King Abdulaziz International Airport. This means that when other Ground Movement Control (SMC) positions are offline, OEJN_1_GND is responsible for controlling all aprons and taxiways.
+    **Jeddah Ground West [OEJN_W_GND]** is the Bandbox Position for ground operations at King Abdulaziz International Airport. This means that when other Ground Movement Control (SMC) positions are offline, OEJN_1_GND is responsible for controlling all aprons and taxiways.
 
 
 ![Loading](imgs/SMC1.png)
@@ -271,7 +271,7 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 ---
 
 #### 3.2.3 Stand Allocation Procedure
-Stands are assigned by the SAUControllerPack in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
+Stands are assigned by the GRpluginStands in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
 
 | **Aprons** |                         **Airlines**                        |
 |:----------------------:|:-----------------------------------------------------------:|
