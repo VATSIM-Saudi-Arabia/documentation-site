@@ -86,32 +86,7 @@ It is important to note that these radar departures should only be utilized when
 
     > **APP -> GMP:** _"GMP, MADINAH 1T approved"_
 
-##### 2.2.2.3 Omni-Directional Departures
-Omnidirectional departures can be issued in coordination with AIR & APP.
-
-An Omnidirectional departure clearance shall contain the following information:
-
--   Callsign;
--   Destination (Optional);
--   Expect Radar vectors;
--   Departure Runway;
--   Initial climb;
--   Assigned SSR code
-
-> **Pilot:** _"SVA123, Stand 117, A320, requesting IFR clearance to Riyadh"_
-
-> **GMP:** _"SVA123, Cleared Riyadh as filed, Expect Radar Vectors, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
-
-<p style="text-align: center; font-weight: bold; font-style: italic;">
-  --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
-</p>
-
-> **GMP:** _"SVA123, Readback Correct, Information A, Report ready for push and start"_
-
-!!! Do note
-    The pilot can receive an initial heading as part of the departure clearance, but it should only be given if instructed by AIR & APP.
-
-##### 2.2.2.4 Phraseology
+##### 2.2.2.3 Phraseology
 > **GMP:** _"SVA123, Cleared Riyadh as filed, After departure, Maintain Runway Heading, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
 
 **_OR_**
@@ -134,7 +109,7 @@ An Omnidirectional departure clearance shall contain the following information:
     > **APP -> GMP:** _"GMP, Omni-Directional approved, Runway heading/Left Turn heading 310 after departure"_ | **(Use Maintain Runway Heading/Assigned heading in Clearance)*
 
 !!! tip
-    When giving Radar Departures, type **"RDEP"** or **"OMNI"** in the scratch pad so upper controllers don't forget and you too!
+    When giving Radar Departures, type **"RDEP"** in the scratch pad so upper controllers don't forget and you too!
 
 #### 2.2.3 Rerouting Traffic
 The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP. The GMP should utilize the RouteChecker tool for this purpose.
@@ -166,14 +141,14 @@ GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
 #### 2.3.1 VFR Circuits
 |     **Runway Configuration**      |  **Direction**  | **Altitude(s)** |
 | :-------------------------------: | :-------------: | :-------------: |
-|               35/36               |    Right Hand   |    1500ft AGL   |
-|               17/18               |    Left Hand    |    1500ft AGL   |
+|               35/36               |    Right Hand   |    3500ft AGL   |
+|               17/18               |    Left Hand    |    3500ft AGL   |
 
 !!! info "Jet Engine Aircrafts"
-    Jet engine aircraft must receive clearance to conduct circuits maintaining ***1500/2000 feet***.
+    Jet engine aircraft must receive clearance to conduct circuits maintaining ***3500/4000 feet***.
 
 ##### 2.3.1.1 Phrasesolgy
-> **GMP:** _"HAZAZ, Cleared VFR Circuits, Runway 35, Make a right hand circuit, climb to 1500ft, SQWK XXXX"_
+> **GMP:** _"HAZAZ, Cleared VFR Circuits, Runway 35, Make a right hand circuit, climb to 3500ft, SQWK XXXX"_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
   --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
