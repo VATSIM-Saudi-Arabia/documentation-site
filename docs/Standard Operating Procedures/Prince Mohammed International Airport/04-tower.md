@@ -12,7 +12,7 @@ toc_max_heading_level: 5
 
 ##  1. General Provisions
 
-The **Medinah Tower (AIR)** is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
+**Medinah Tower (AIR)** is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
 
 ---
 
@@ -112,7 +112,7 @@ Conditional line up instructions shall include the traffic that the aircraft is 
 
 Aircraft shall be cleared for take-off once adequate separation exists
 
-> **Air:** *“SVA123, Winds 340 degrees 10knots, Runway 34R, cleared for take-off”*
+> **Air:** *“SVA123, Winds 340 degrees 10knots, Runway 35, cleared for take-off”*
 
 #### 4.1.4 Separation requirements
 
@@ -232,7 +232,7 @@ Clearance to enter the control zone is issued by APP.
 
 !!! info "Rejection"
     The TWR controller has the right to reject any traffic into the control zone if deemed neccesary.
-    > **AIR:** *HHAZA, You are not cleared to enter the control zone, remain outside of the control zone until XXXX()
+    > **AIR:** "*HHAZA, You are not cleared to enter the control zone, remain outside of the control zone until XXXX*"
 
 
 #### 4.3.2. VFR departures
@@ -260,7 +260,7 @@ Once the traffic has entered the control zone, further intructions to direct to 
 |               17/18               |    Left Hand    |    1500ft AGL   |
 
 !!! info "Jet Engine Aircrafts"
-    Jet engine aircraft must conduct circuits on the **eastern side of the aerodrome**, maintaining ***2000 feet***.
+    Jet engine aircraft must conduct circuits on the **eastern side of the aerodrome**, maintaining ***4000 feet***.
 
 !!! danger "Do note"
     Circling in Circuits are not allowed in west of the aerodrome.

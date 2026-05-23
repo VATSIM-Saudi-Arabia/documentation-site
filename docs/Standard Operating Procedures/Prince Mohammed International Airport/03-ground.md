@@ -9,7 +9,7 @@ toc_max_heading_level: 5
     This section details all the necessary Standard Operating Procedures for Ground Operations in **Prince Mohammed bin Abdulaziz International Airport (OEMA)**
 
 ## 1. General Provisions
-The Medinah Ground manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
+**Medinah Ground (OEMA_GND)** manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
 
 ---
 
