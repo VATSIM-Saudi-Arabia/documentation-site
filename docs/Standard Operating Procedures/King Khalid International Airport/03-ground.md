@@ -12,7 +12,7 @@ toc_max_heading_level: 5
 
 ## 1. General Provisions
 
-King Khalid Ground manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
+**King Khalid Ground (GND)** manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
 
 ---
 ## 2. Designated Areas of Responsiblity 

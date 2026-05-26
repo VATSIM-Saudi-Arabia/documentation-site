@@ -45,7 +45,7 @@ An IFR clearance shall contain:
 
 In Riyadh, the standard GACA phrasesology is used. For IFR Clearances, the following phrasesolgy must strictly be adhered to.
 
-> **Pilot:** _SVA123, Stand 34, A320, requesting IFR clearance to Dammam_
+> **Pilot:** _SVA123, Stand 304, A320, requesting IFR clearance to Dammam_
 
 > **GMP:** _SVA123, Cleared Dammam as filed, AMBAG2 D Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
 

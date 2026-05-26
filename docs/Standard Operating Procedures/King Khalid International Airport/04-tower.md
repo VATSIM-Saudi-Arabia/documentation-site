@@ -6,7 +6,7 @@ title: "King Khalid Tower [TWR]"
 
 ##  1. General Provisions
 
-The **King Khalid Tower (AIR)** is responsible for all aerodrome movements on runways and their associated runways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
+**King Khalid Tower (AIR)** is responsible for all aerodrome movements on runways and their associated holding points. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
 
 ---
 
@@ -29,7 +29,7 @@ Figure 2.3 - King Khalid Control Zone
 
 
 ### 2.2. AIR W [King Khalid Tower West]
-**King Khalid Tower West [OERK_W_TWR]** covers runway 33L and it's assoiscated runways.
+**King Khalid Tower West [OERK_W_TWR]** covers runway 33L and it's assoiscated holding points.
 
 #### 2.2.1 Visual Reporting Points (VRPs)
 **King Khalid Tower West [OERK_W_TWR]** covers the following VRPs in the King Khalid Control Zone [CTR]:
@@ -41,7 +41,7 @@ Figure 2.3 - King Khalid Control Zone
 - D
 
 ### 2.3. AIR E [King Khalid Tower East]
-**King Khalid Tower East [OERK_E_TWR]** covers runway 33R and it's assoiscated runways.
+**King Khalid Tower East [OERK_E_TWR]** covers runway 33R and it's assoiscated holding points.
 
 ####  2.3.1 Visual Reporting Points (VRPs)
 **King Khalid Tower East [OERK_E_TWR]** covers the following VRPs in the King Khalid Control Zone [CTR]:
