@@ -146,14 +146,16 @@ The following are the ATS Positions relevant to this document. They will be subs
 |:----------------------------:|:--------------:|:------------:|:---------:|
 |         Jeddah Tower         |   OEJN_W_TWR   |     AIR W    |  118.200  |
 |         Jeddah Tower         |   OEJN_E_TWR   |     AIR E    |  118.500  |
+|         Jeddah Tower         |   OEJN_C_TWR   |     AIR C    |  118.300  |
 |        Jeddah Approach       |    OEJN_APP    |     APP 1    |  124.000  |
 |       Jeddah Final East      |   OEJN_FE_APP  |     FIN E    |  123.800  |
 |       Jeddah Final West      |   OEJN_FW_APP  |     FIN W    |  124.675  |
 | Jeddah Final Monitor Control |  OEJN_FMC_APP  |     FMC 1    |  125.850  |
-|    Jeddah Terminal Control   |   OEJN_1_CTR   |     CTR 1    |  125.450  |
-|    Jeddah Terminal Control   |   OEJN_2_CTR   |     CTR 2    |  119.100  |
+|    Jeddah Terminal Control   |  OEJN_WU_CTR   |     CTR WU   |  124.825  |
+|    Jeddah Terminal Control   |   OEJN_W_CTR   |     CTR W    |  125.450  |
+|    Jeddah Terminal Control   |   OEJN_E_CTR   |     CTR E    |  119.100  |
 |        Jeddah Control        |   OEJD_1_CTR   |     ACC 1    |  126.500  |
-|        Jeddah Control        |   OEJD_1_CTR   |     ACC 2    |  133.900  |
+|        Jeddah Control        |   OEJD_2_CTR   |     ACC 2    |  133.900  |
 
 <p style="text-align: center; font-style: italic;">
 Table 1.3 - ATS Positions

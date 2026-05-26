@@ -22,4 +22,10 @@ title: "Jeddah Tower West [AIR W]"
 ### Departure
 - Departures shall be **immediately** handed off to "*Jeddah Approach*" (OEJN_APP) after **departure**.
 - Departures from **Apron B** will contact you at holding point H1.
-- Departures from **Aprons 1, 2, 3, 4, 5, 6, 7** will contact you **while taxing on G**, or at holding point **G1 or G2**.
+- When AIR C is offline, Departures from **Aprons 1, 2, 3, 4, 5, 6, 7** will contact you **while taxing on G**, or at holding point **G1 or G2**.
+
+---
+
+## Visual Representation
+
+![Loading](img/airw.png)

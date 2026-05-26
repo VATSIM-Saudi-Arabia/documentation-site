@@ -76,9 +76,11 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 |      **Jeddah Tower**       |     OEJN_E_TWR     |      AIR E       |       118.500       |
 |      **Jeddah Tower**       |     OEJN_C_TWR     |      AIR C       |       118.300       |
 |     **Jeddah Approach**     |      OEJN_APP      |      APP 1       |       124.000       |
-|  **Jeddah Final Approach**  |     OEJN_F_APP     |       FIN        |       123.800       |
-| **Jeddah Terminal Control** |     OEJN_1_CTR     |      CTR 1       |       125.450       |
-| **Jeddah Terminal Control** |     OEJN_2_CTR     |      CTR 2       |       119.100       |
+|  **Jeddah Final Approach**  |    OEJN_FE_APP     |      FIN E       |       123.800       |
+|  **Jeddah Final Approach**  |    OEJN_FW_APP     |      FIN W       |       124.675       |
+| **Jeddah Terminal Control** |     OEJN_W_CTR     |      CTR W       |       125.450       |
+| **Jeddah Terminal Control** |     OEJN_E_CTR     |      CTR E       |       119.100       |
+| **Jeddah Terminal Control** |     OEJN_WU_CTR    |      CTR WU      |       124.825       |
 
 ## SOP Ammendment Record
 

@@ -172,7 +172,7 @@ Table 4.2.1. - Departure points
 
 Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission.
 
-**AIR:** *“FAD123, Behind the departing Saudia A321, Via M1, line up runway 34R behind”*
+> **AIR:** *“FAD123, Behind the departing Saudia A321, Via M1, line up runway 34R behind”*
 
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
 
@@ -182,7 +182,7 @@ Example: *“SVA123, Via M1, line up runway 34R”*
 
 Aircraft shall be cleared for take-off once adequate separation exists
 
-**Air:** *“SVA123, Winds 340 degrees 10knots, Runway 34R, cleared for take-off”*
+> **AIR:** *“SVA123, Winds 340 degrees 10knots, Runway 34R, cleared for take-off”*
 
 #### 4.1.4. Parallel Departure
 
@@ -254,8 +254,9 @@ This allows for a smooth and immediate transfer of traffic to the appropriate gr
 
     Example: 
 
-    Pilot: *SVA123, vacating via M6*
-    AIR: *SVA123, Follow the M6A Arrival Taxi Route, Contact Ground 121.600*
+    > **Pilot**: *"SVA123, vacating via M6"*
+
+    > **AIR**: *"SVA123, Follow the M6A Arrival Taxi Route, Contact Ground 121.600"*
 
 #####  4.2.2.1. 34 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
@@ -320,7 +321,9 @@ At any time should a runway become unsuitable for an aircraft landing, or separa
 
 Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to departure control.
 
-Example: *“SVA123, fly standard missed approach procedure, climb 4000 feet, contact Jeddah Approach 124.0”*
+Example:
+
+> *“SVA123, fly standard missed approach procedure, climb 4000 feet, contact Jeddah Approach 124.0”*
 
 !!! info "Go around vs cancel approach"
 
@@ -369,6 +372,7 @@ Table 4.2.3 - Jeddah VRPs
 
 ##### 4.3.1.1 Entry/Exit VRPs into the CTR
 According to the eAIP traffic must only enter/exit the Jeddah Control Zone via the following VRPs:
+
 - VRP01
 - VRP05
 - VRP06
