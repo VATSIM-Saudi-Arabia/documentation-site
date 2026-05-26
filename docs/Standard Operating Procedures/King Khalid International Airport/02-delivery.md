@@ -47,7 +47,7 @@ In Riyadh, the standard GACA phrasesology is used. For IFR Clearances, the follo
 
 > **Pilot:** _SVA123, Stand 34, A320, requesting IFR clearance to Dammam_
 
-> **GMP:** _SVA123, Cleared Dammam as filed, ALTAV1D Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _SVA123, Cleared Dammam as filed, AMBAG2 D Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
 --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
@@ -72,28 +72,25 @@ All Standard Instrument Departures used in Riyadh are  **RNAV standard instrumen
 !!! info "Initial Climb"
     In Riyadh, regardless of the specific SID chosen, all departures should be assigned an initial climb of **8000 feet**.
 
-#### 2.2.2.2 Radar Departures
 
-King Khalid International Airport (OERK) **DOES NOT OFFER ANY RADAR DEPARTURES**
-
-#### 2.2.2.3 Omni-Directional Departures
+#### 2.2.2.3 Radar Vectors After Departure
 
 !!! danger "Do Note."
-    Omni-Directional Departures must only be used in the case of an aircraft which has an old AIRAC or as instructed by TWR/APP.
+    Radar Vectors must only be used in the case of an aircraft which has an old AIRAC or as instructed by TWR/APP.
 
-GMP may use the following phrasesolgy to issue Omni-Directional departures to traffic.
+GMP may use the following phrasesolgy to issue Radar Vector departures to traffic.
 
 
-> **GMP:** _SVA123, Cleared Dammam as filed, Omni-Directional Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _SVA123, Cleared Dammam as filed, Radar Vectors after departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
 
 !!! tip
-    When giving Omni-Directional Departures, type **"OMNI"** in the scratch pad so upper controllers don't forget and you too!
+    When giving Radar Departures, type **"RAD"** in the scratch pad so upper controllers don't forget and you too!
 
 ---
 
 ### 2.2.3 Rerouting Traffic
 
-The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP. The GMP should utilize the VFPC & DHLPER tool for this purpose.
+The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP. The GMP should utilize the VFPC tool for this purpose.
 
 If a traffic files an invalid route, they shall be informed by GMP of such as soon as they have connected to the network by private message or on frequency.
 
@@ -101,7 +98,7 @@ If a traffic files an invalid route, they shall be informed by GMP of such as so
 
 GMP may use the following phrasesolgy to reroute traffic.
 
-> **GMP:** SVA123, Cleared Jeddah, KAVUR T532 EGREP, Flight plan route, EGREP2W, Runway 34C, Initial Climb 6000ft, SQWK XXXX
+> **GMP:** SVA123, Cleared Jeddah, RGB M309 VEMEM, Flight plan route, UMASU2D, Runway 33R, Initial Climb 8000ft, SQWK XXXX
 
 Altough this is allowed, it consumes time on frequency which maybe needed for other traffic on the frequency. Therefore, Rerouting by Private Message is preferred.
 
@@ -139,7 +136,7 @@ GMP is responsible for issuing VFR Clearances as well.
 
 #### 2.3.1.2 Phrasesolgy
 
-> **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 33R, Make a right hand circuit, climb to 3000ft, SQWK XXXX._
+> **GMP:** _HAZAZ, Cleared VFR Circuits, Runway 33R, Make a right hand circuit, climb to 3500ft, SQWK XXXX._
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
 --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
@@ -155,7 +152,7 @@ Any VFR aircraft leaving the control zone at Riyadh is considered to be engaging
 
 Prior to granting clearance for cross-country VFR traffic, coordination with the AIR and APP is required.
 
-There are no specific restrictions, designated VFR routes, or prescribed exit points for VFR departures leaving the control zone at Riyadh.
+VFR Departures leaving the control zone must exit via the prescribed exite point outlined in the AIP
 
 !!! info "Do note"
     VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.

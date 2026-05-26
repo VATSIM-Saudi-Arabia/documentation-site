@@ -134,6 +134,10 @@ An example of such an instruction is as follows:
 !!! caution "Do note."
     The traffic is only mandated to say "Behind" **once**. The controller is mandated to say it **twice** to ensure the instruction is clear.
 
+Aircraft can also be instructed to stay clear of a specific taxiway, to allow for continous flow of traffic
+
+> **GMP:** SVA123, Push & start approved, face south on E, stay clear of taxiway S.
+
 ##### 3.1.1.5 Simultaneous pushback operations
 Simultaneous pushbacks from neighboring stands may be allowed if aircraft are directed using the pushback types described in section 3.1. The aim is to ensure that once both aircraft have completed their pushback procedures, they will be positioned on the taxiway with one stand between them.
 
