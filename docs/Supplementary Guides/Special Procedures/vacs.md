@@ -3,7 +3,7 @@ title: VATSIM ATC Communication System
 ---
 
 !!! success "Covering"
-    This section details all the necessary information for **VACS** coordination methods between controller
+    This section details all the necessary information for **VACS** coordination methods between controllers
 
 **VACS, VATSIM ATC Communication System**, is a free, open-source voice platform designed exclusively for VATSIM air traffic controllers. It streamlines coordination with neighboring sectors by removing the need for external accounts or third-party servers like Discord or TeamSpeak.
 
