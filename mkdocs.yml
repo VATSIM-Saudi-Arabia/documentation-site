@@ -7,7 +7,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   font: 
-    text: Mulish
+    text: Maven Pro
   palette:
     - scheme: default
       toggle:

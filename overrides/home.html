@@ -2,33 +2,142 @@
 {% block tabs %}
 {{ super() }}
 <link rel="stylesheet" href="assets/stylesheets/home.css">
-<!-- Hero -->
-<section class="container">
-    <div class="md-grid md-typeset">
-        <div class="hero">
-            <div class="hero-items">
-                <div class="left">
-                    <h1> #ManagingSkies #SecuringLives</h1>
-                    <p>Welcome to the Saudi Arabian vACC documentation site. View our documentation and policies by clicking the tabs above.</p>
-                </div>
-                <div class="right">
-                    <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}"
-                    class="md-button md-button--primary">
-                        <span style="">Get started
-                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="15" viewBox="0 0 25 20" fill="none">
-                                <path d="M2 10H23.5M23.5 10L15.5 18M23.5 10L15.5 2" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-                            </svg>
-                        </span>
-            
-                        
-                    </a>
-                </div>
-                
-            </div>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+
+<section class="landing-page">
+
+  <!-- HERO -->
+  <section class="hero-section">
+
+    <!-- Background image -->
+    <div class="hero-background"></div>
+
+    <!-- Overlay -->
+    <div class="hero-overlay"></div>
+
+    <!-- Hero content -->
+    <div class="md-grid md-typeset hero-container">
+
+      <div class="hero-content">
+
+        <p class="hero-eyebrow">
+          Saudi Arabian vACC
+        </p>
+
+        <h1>
+          Managing Skies,<br>
+          Securing Lives
+        </h1>
+
+        <p class="hero-description">
+         Welcome to the Saudi Arabian vACC documentation site. View our documentation and policies by clicking the tabs above.
+        </p>
+
+        <div class="hero-actions">
+
+          {% if page.next_page %}
+          <a href="{{ page.next_page.url | url }}"
+             class="hero-button hero-button--primary">
+            Get started
+          </a>
+          {% endif %}
+
+          <a href="{{ 'docs/' | url }}"
+             class="hero-button hero-button--primary">
+            Documentation
+          </a>
+
         </div>
+
+        <div class="hero-scroll-arrow">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+            <path d="M12 5v14M19 12l-7 7-7-7"
+          stroke="white"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+            </svg>
+        </div>
+
+      </div>
+
     </div>
+
+  </section>
+
+  <!-- MAIN CONTENT -->
+  <div class="md-grid md-typeset">
+
+    <!-- EXPLORE -->
+    <section class="section-block">
+
+      <div class="section-header">
+        <h2>Explore</h2>
+      </div>
+
+      <div class="card-grid">
+
+        <a class="info-card"
+           href="{{ 'docs/' | url }}">
+
+          <span class="card-tag">
+            Documentation
+          </span>
+
+          <h3>
+            Core references and guidance
+          </h3>
+
+          <p>
+            Access manuals, procedures, and operational documentation.
+          </p>
+
+        </a>
+
+        <a class="info-card"
+           href="{{ 'policies/' | url }}">
+
+          <span class="card-tag">
+            Policies
+          </span>
+
+          <h3>
+            Rules and standards
+          </h3>
+
+          <p>
+            Review organizational policies and operational expectations.
+          </p>
+
+        </a>
+
+        <a class="info-card"
+           href="{{ 'sops/' | url }}">
+
+          <span class="card-tag">
+            SOPs
+          </span>
+
+          <h3>
+            Structured procedures
+          </h3>
+
+          <p>
+            Follow standardized operational workflows and practices.
+          </p>
+
+        </a>
+
+      </div>
+
+    </section>
+
+  </div>
+
 </section>
 
-
 {% endblock %}
+
 {% block content %}{% endblock %}
