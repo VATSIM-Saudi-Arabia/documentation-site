@@ -9,7 +9,7 @@ title: VATSIM ATC Communication System
 
 ---
 
-## Why VACS
+## Why VACS?
 
 Traditionally, ground-to-ground communication has relied on fragmented workarounds like Discord, TeamSpeak, or basic radar client plugins. VACS solves this by providing a purpose-built tool that works immediately without the need for external accounts or central servers.
 
