@@ -120,6 +120,7 @@
   border-radius: 999px;
   text-decoration: none;
   font-weight: 600;
+  gap: 4px;
   color: white;
   background: rgba(255, 255, 255, 0.14);
   border: 1px solid rgba(255, 255, 255, 0.18);
@@ -130,20 +131,16 @@
     box-shadow 0.2s ease;
 }
 
-.hero-button:hover {
-  transform: translateY(-2px);
-  background: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
-}
-
 .hero-button--primary {
   background: white;
   color: black;
   border: none;
 }
 
-.hero-button--primary:hover {
-  background: rgba(255, 255, 255, 0.92);
+.hero-button:focus, .hero-button:hover {
+  background: rgba(59, 85, 54, 0.9);
+  --md-accent-fg-color: #ffffff;
+  transition: color 125ms,background-color 125ms,border-color 125ms;
 }
 
 /* Arrow */
