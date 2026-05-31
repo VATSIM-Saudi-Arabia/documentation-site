@@ -22,6 +22,11 @@ toc_max_heading_level: 5
 ### 2.1. Airspace
 **Prince Mohammed bin Abdulaziz International Airport (OEMA)** Control Zone (CTR) is Class D airspace and is centered around the aerodrome. Its ceiling is 5500ft AGL and has a radius of 10NM.
 
+<figure markdown> 
+  ![Loading](imgs/twr.png#center)
+  <figcaption>Figure 2.1 - Medinah Control Zone</figcaption>
+</figure>
+
 ### 2.2. AIR [Medinah Tower]
 **Medinah Tower [OEMA_TWR]** covers all runways in the aerodrome:
 
