@@ -47,6 +47,8 @@ extra_css:
   - stylesheets/theme.css
   - stylesheets/effect.css
   - stylesheets/styling.css
+extra_javascript:
+  - assets/stylesheets/home.js
 markdown_extensions:
   - abbr
   - admonition
