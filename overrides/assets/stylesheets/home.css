@@ -11,12 +11,11 @@
   background: var(--md-default-bg-color);
 }
 
-
+/* Blur Effect */
 .md-header, .md-tabs {
   background-color: transparent !important;
   box-shadow: none !important;
   color: #F2F2F2 !important;
-
   transition:
     background-color 0.3s ease,
     backdrop-filter 0.3s ease,
@@ -25,14 +24,14 @@
 
 .scrolled .md-header,
 .scrolled .md-tabs {
-  backdrop-filter: blur(16px);
+  background: rgba(10, 10, 10, 0.55);
+  backdrop-filter: blur(20px) brightness(0.75);
   -webkit-backdrop-filter: blur(16px);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05) !important;
 }
 
 
 /* HERO */
-
 .hero-section {
   position: relative;
   min-height: 100vh;
@@ -43,7 +42,6 @@
 }
 
 /* BACKGROUND */
-
 .hero-background {
   position: absolute;
   inset: 0;
@@ -51,11 +49,12 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  transform: scale(1.02);
+  will-change: transform;
+  transform: scale(1.05);
+  transform-origin: center center;
 }
 
 /* OVERLAY */
-
 .hero-overlay {
   position: absolute;
   inset: 0;
@@ -68,7 +67,6 @@
 }
 
 /* HERO CONTAINER */
-
 .hero-container {
   position: relative;
   z-index: 2;
@@ -79,7 +77,6 @@
 }
 
 /* HERO CONTENT */
-
 .hero-content {
   max-width: 38rem;
   color: white;
@@ -87,7 +84,6 @@
 }
 
 /* TITLE */
-
 .hero-content h1 {
   margin: 0;
   font-size: clamp(2.9rem, 5vw, 5rem);
@@ -104,7 +100,6 @@
 }
 
 /* DESCRIPTION */
-
 .hero-description {
   margin-top: 1.35rem;
   max-width: 32rem;
@@ -116,7 +111,6 @@
 }
 
 /* BUTTONS */
-
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
@@ -162,7 +156,6 @@
 }
 
 /* Arrow */
-
 .hero-scroll-arrow {
   position: absolute;
   bottom: 2.5rem;
@@ -178,7 +171,6 @@
 }
 
 /*Cover*/
-
 .cover-1 {
   position: relative;
   width: 150%;
@@ -198,7 +190,6 @@
 }
 
 /* CONTENT */
-
 .section-block {
   margin-top: 4rem;
 }
@@ -215,7 +206,6 @@
 }
 
 /* CARD GRID */
-
 .card-grid {
   display: grid;
   grid-template-columns:
@@ -224,7 +214,6 @@
 }
 
 /* CARD */
-
 .info-card {
   display: block;
   padding: 1.5rem;
@@ -267,6 +256,50 @@
   margin: 0;
   line-height: 1.75;
   opacity: 0.82;
+}
+
+/*Cover-2*/
+.cover-3 {
+  width: 150%;
+  height: 170px;
+  background: #11311D;
+  rotate: 2deg;
+  transform: translateX(-30px);
+  transform: translateY(115px);
+}
+
+.cover-4 {
+  margin-top: -70px;
+  width: 150%;
+  height: 170px;
+  background: #14532D;
+  rotate: -2deg;
+  transform: translateX(-30px);
+}
+
+/* FOOTER */
+
+.footer-image-section {
+  position: relative;
+
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+
+  height: 240px;
+  margin-top: 5rem;
+  margin-bottom: -10%;
+
+  overflow: hidden;
+}
+
+.footer-image-container {
+  position: absolute;
+  inset: 0;
+
+  background-image: url("../../assets/hero-footer.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* MOBILE */
