@@ -35,7 +35,7 @@
 .hero-section {
   position: relative;
   min-height: 100svh;
-  margin-top: -106px;
+  margin-top: -115px;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -75,15 +75,15 @@
 
 /* HERO CONTENT */
 .hero-content {
-  max-width: 38rem;
-  color: white;
-  padding: 4rem 0;
+   margin-top: 25%;
+   max-width: 100rem;
+   color: white;
+   padding: 4rem 0;
 }
 
 /* TITLE */
 .hero-content h1 {
-  margin: 0;
-  font-size: clamp(2.4rem, 5vw, 5rem);
+  font-size: 36px;
   font-family: "Mulish", sans-serif;
   line-height: 1.02;
   letter-spacing: -0.045em;
@@ -95,10 +95,10 @@
 
 /* DESCRIPTION */
 .hero-description {
-  margin-top: 1.35rem;
+  margin-top: -1.65rem;
   max-width: 32rem;
   font-family: "Mulish", sans-serif;
-  font-size: 1rem;
+  font-size: 16px;
   line-height: 1.8;
   opacity: 0.92;
   transform: translateY(120px);
@@ -108,9 +108,7 @@
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.9rem;
-  margin-top: 2rem;
-  transform: translateY(120px);
+  transform: translate(160%, 60px);
 }
 
 .hero-button {
@@ -166,9 +164,9 @@
 .cover-1 {
   position: relative;
   width: 150%;
-  height: 150px;
+  height: 170px;
   background: #11311D;
-  rotate: 2deg;
+  rotate: 1deg;
   transform: translateX(-30px);
 }
 
@@ -177,7 +175,7 @@
   width: 150%;
   height: 150px;
   background: #14532D;
-  rotate: -2deg;
+  rotate: -1deg;
   transform: translateX(-30px);
 }
 
