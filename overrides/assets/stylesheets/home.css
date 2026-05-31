@@ -55,12 +55,7 @@
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background:
-    linear-gradient(
-      135deg,
-      rgba(0, 0, 0, 0.68),
-      rgba(0, 0, 0, 0.25)
-    );
+  background: linear-gradient(135deg, rgb(0 20 0 / 68%), rgba(0, 0, 0, 0.25));
 }
 
 /* HERO CONTAINER */
@@ -159,17 +154,17 @@
 
 /* Cover */
 .cover-1 {
-  position: relative;
-  width: 150%;
-  height: 170px;
-  background: #11311D;
-  rotate: 1deg;
-  transform: translateX(-30px);
+   position: relative;
+   width: 102%;
+   height: 170px;
+   background: #11311D;
+   rotate: 1deg;
+   transform: translateX(-30px);
 }
 
 .cover-2 {
   margin-top: -170px;
-  width: 150%;
+  width: 102%;
   height: 150px;
   background: #14532D;
   rotate: -1deg;
