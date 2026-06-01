@@ -59,12 +59,13 @@
 
 /* HERO CONTAINER */
 .hero-container {
-  position: relative;
-  z-index: 2;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  min-height: 92svh;
+   display: flex;
+   position: relative;
+   z-index: 2;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   min-height: 92svh;
 }
 
 /* HERO CONTENT */

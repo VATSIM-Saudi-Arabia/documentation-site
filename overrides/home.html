@@ -8,31 +8,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
 
 <section class="home-page">
-
-  <!-- HERO -->
   <section class="hero-section">
-
-    <!-- Background image -->
     <div class="hero-background"></div>
-
-    <!-- Overlay -->
     <div class="hero-overlay"></div>
-
-    <!-- Hero content -->
     <div class="md-grid md-typeset hero-container">
-
       <div class="hero-content">
-
         <h1>
           Managing Skies, Securing Lives
         </h1>
-
         <p class="hero-description">
          Welcome to the Saudi Arabian vACC documentation site. View our documentation and policies by clicking the tabs above.
         </p>
-
         <div class="hero-actions">
-
           {% if page.next_page %}
           <a href="{{ page.next_page.url | url }}"
              class="hero-button hero-button--primary">
@@ -42,9 +29,7 @@
                             </svg>
           </a>
           {% endif %}
-
         </div>
-
         <div class="hero-scroll-arrow">
             <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
             <path d="M12 5v14M19 12l-7 7-7-7"
@@ -54,11 +39,8 @@
           stroke-linejoin="round"/>
             </svg>
         </div>
-
       </div>
-
     </div>
-
   </section>
 
   </section class="hero-cover">
@@ -66,71 +48,50 @@
     <div class="cover-2"></div>
   </section>
 
-  <!-- MAIN CONTENT -->
+
   <div class="md-grid md-typeset">
-
-    <!-- EXPLORE -->
     <section class="section-block">
-
       <div class="section-header">
         <h2>Featured Sections</h2>
       </div>
-
       <div class="card-grid">
-
         <a class="info-card"
            href="{{ 'docs/' | url }}">
-
           <span class="card-tag">
             Standard Operating Procuderes
           </span>
-
           <h3>
             Core references and guidance
           </h3>
-
           <p>
             Follow standardized operational workflows and practices.
           </p>
-
         </a>
-
         <a class="info-card"
            href="{{ 'policies/' | url }}">
-
           <span class="card-tag">
             Supplementary Guides
           </span>
-
           <h3>
             Rules and standards
           </h3>
-
           <p>
             Access manuals, procedures, and operational documentation.
           </p>
-
         </a>
-
         <a class="info-card"
            href="{{ 'sops/' | url }}">
-
           <span class="card-tag">
             Training vMATS
           </span>
-
           <h3>
             Structured procedures
           </h3>
-
           <p>
             Follow standardized operational workflows and practices.
           </p>
-
         </a>
-
       </div>
-
     </section>
 
     <section class="footer-image-section">
@@ -144,7 +105,6 @@
     </section>
 
   </div>
-
 </section>
 
 {% endblock %}
