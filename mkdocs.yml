@@ -1,5 +1,6 @@
 site_name: Documentation Site - Saudi Arabian vACC
 site_url: https://documentation.vatsimsa.com
+copyright: The content on this site is intended for Flight Simulation use only.
 
 theme:
   name: material

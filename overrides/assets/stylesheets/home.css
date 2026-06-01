@@ -203,14 +203,14 @@
   background: var(--md-default-bg-color);
   border: 1px solid rgba(0, 0, 0, 0.08);
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
 }
 
 .info-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .card-tag {
@@ -239,23 +239,23 @@
 
 /* FOOTER */
 .footer-image-section {
-   position: relative;
-   width: 100vw;
-   margin-left: calc(50% - 50vw);
-   height: 240px;
-   margin-top: 2rem;
-   margin-bottom: -8rem;
-   overflow: hidden;
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  height: 240px;
+  margin-top: 3rem;
+  margin-bottom: -9rem;
+  overflow: hidden;
 }
 
 .footer-image-container {
-  position: absolute;
-  inset: 0;
-  margin-bottom: 2.3rem;
-  background-image: url("../../assets/hero-footer.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+   position: absolute;
+   inset: 0;
+   margin-bottom: -0.7rem;
+   background-image: url("../../assets/hero-footer.png");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
 }
 
 /* TABLET */
