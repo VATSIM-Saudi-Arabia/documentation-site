@@ -154,6 +154,7 @@
 /* Cover */
 .cover-1 {
    position: relative;
+   display: inline-block;
    width: 105%;
    height: 170px;
    background: #11311D;
@@ -163,6 +164,7 @@
 
 .cover-2 {
   margin-top: -170px;
+  display: inline-block;
   width: 105%;
   height: 150px;
   background: #14532D;
@@ -183,7 +185,10 @@
   margin: 0;
   font-size: 1.8rem;
   letter-spacing: -0.03em;
+  line-height: normal;
+  display: inline-block;
   color: var(--md-default-fg-color);
+  border-bottom: 1px solid var(--md-default-fg-color);
 }
 
 /* CARD GRID */
@@ -199,7 +204,7 @@
   padding: 1.5rem;
   border-radius: 1.5rem;
   text-decoration: none;
-  background: var(--md-default-bg-color);
+  background: var(--md-default-bg2-color);
   border: 1px solid rgba(0, 0, 0, 0.08);
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
   color: var(--md-default-fg-color);
@@ -222,7 +227,7 @@
   font-weight: 700;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(0, 0, 0, 0.1);
   color: var(--md-default-fg-color);
 }
 
