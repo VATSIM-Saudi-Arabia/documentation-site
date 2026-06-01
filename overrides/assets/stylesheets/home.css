@@ -1,5 +1,4 @@
 :root > * {
-  --md-default-bg-color: #F2F2F2 !important;
   --md-typeset-a-color: #111 !important;
 }
 
@@ -184,7 +183,7 @@
   margin: 0;
   font-size: 1.8rem;
   letter-spacing: -0.03em;
-  color: #111;
+  color: var(--md-default-fg-color);
 }
 
 /* CARD GRID */
@@ -203,6 +202,7 @@
   background: var(--md-default-bg-color);
   border: 1px solid rgba(0, 0, 0, 0.08);
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+  color: var(--md-default-fg-color);
 }
 
 .info-card:hover {
@@ -223,18 +223,21 @@
   letter-spacing: 0.05em;
   text-transform: uppercase;
   background: rgba(0, 0, 0, 0.05);
+  color: var(--md-default-fg-color);
 }
 
 .info-card h3 {
   margin: 0 0 0.6rem;
   font-size: 1.15rem;
   line-height: 1.35;
+  color: var(--md-default-fg-color);
 }
 
 .info-card p {
   margin: 0;
   line-height: 1.75;
   opacity: 0.82;
+  color: var(--md-default-fg-color);
 }
 
 /* FOOTER */
