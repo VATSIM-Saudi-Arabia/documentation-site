@@ -362,9 +362,9 @@
 
   .cover-1,
   .cover-2 {
-    width: 180%;
+    width: 110%;
     height: 110px;
-    transform: translateX(-45px);
+    transform: translateX(-15px);
   }
 
   .cover-2 {
