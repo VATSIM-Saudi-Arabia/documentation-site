@@ -155,7 +155,7 @@
 /* Cover */
 .cover-1 {
    position: relative;
-   width: 102%;
+   width: 105%;
    height: 170px;
    background: #11311D;
    rotate: 1deg;
@@ -164,7 +164,7 @@
 
 .cover-2 {
   margin-top: -170px;
-  width: 102%;
+  width: 105%;
   height: 150px;
   background: #14532D;
   rotate: -1deg;
