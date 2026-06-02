@@ -174,19 +174,38 @@
 }
 
 .cover-content {
-  position: relative;
-  display: flex;
-  font-family: "Mulish", sans-serif;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.8;
-  opacity: 0.92;
-  color: white !important;
-  transform: translateY(-4.3rem);
-  align-items: center;
-  align-content: center;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+    position: relative;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: -5%;
+    max-width: 47%;
+    font-family: "Mulish", sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 1.4;
+    color: white !important;
+    transform: translateY(-5.5rem);
+    align-items: baseline;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.cover-content h4 {
+    position: relative;
+    display: flex;
+    margin: 0%;
+    font-family: "Mulish", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.8;
+    color: #E1DFD1 !important;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 /* CONTENT */
