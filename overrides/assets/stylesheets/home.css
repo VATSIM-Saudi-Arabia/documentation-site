@@ -63,7 +63,6 @@
    position: relative;
    z-index: 2;
    width: 100%;
-   display: flex;
    align-items: center;
    min-height: 92svh;
 }
@@ -200,7 +199,7 @@
     font-family: "Mulish", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.8;
+    line-height: 1.0;
     color: #E1DFD1 !important;
     align-items: center;
     align-content: center;
