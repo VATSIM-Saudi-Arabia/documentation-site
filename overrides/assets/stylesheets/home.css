@@ -173,6 +173,18 @@
   transform: translateX(-30px);
 }
 
+.cover-content {
+  position: relative;
+  max-width: 40rem;
+  left: 28%;
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.8;
+  opacity: 0.92;
+  transform: translateY(-4.1rem);
+}
+
 /* CONTENT */
 .section-block {
   margin-top: 3rem;
