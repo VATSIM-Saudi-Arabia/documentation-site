@@ -1,5 +1,5 @@
 /* Active tab underline */
 .md-tabs__item--active,
 .md-tabs__item:focus {
-  border-bottom: 2.5px solid #b5b6b3;
+    border-bottom: 2.5px solid #b5b6b3;
 }
