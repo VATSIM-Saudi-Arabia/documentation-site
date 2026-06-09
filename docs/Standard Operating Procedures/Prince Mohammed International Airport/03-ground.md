@@ -153,20 +153,20 @@ SMC should promptly assign a stand to an aircraft as soon as it appears on the a
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow the designated ATR and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 
 ##### 3.2.3.2 35/36 Arrival Taxi Procedures
-|               **Type**             |    **Taxi to**   | **Vacate via** |             **Taxi via**            |   **Initial Taxi By TWR**  |
-|:----------------------------------:|:----------------:|:--------------:|:-----------------------------------:|:--------------------------:|
-|     **International Airlines**     |    East Apron    |    J4/J5 [35]  |                 N/W, L              |            **W**           |
-|       **Domestic & Lowcost**       |    East Apron    |    J4/J5 [35]  |                 N/W, L              |            **W**           |
-|          **Royal Aprons**          |    West Apron    |        H [36]  |                 D, R                |            **D**           |
-|        **General Aviation**        |    West Apron    |        H [36]  |                 D, S                |            **D**           |
+|               **Type**             |    **Taxi to**   | **Vacate via** |             **Taxi via**            |   **Intermediate hold By TWR**  |
+|:----------------------------------:|:----------------:|:--------------:|:-----------------------------------:|:-------------------------------:|
+|     **International Airlines**     |    East Apron    |    J4/J5 [35]  |                 N/W, L              |              **P/N**            |
+|       **Domestic & Lowcost**       |    East Apron    |    J4/J5 [35]  |                 N/W, L              |              **P/N**            |
+|          **Royal Aprons**          |    West Apron    |        H [36]  |                 D, R                |               **D**             |
+|        **General Aviation**        |    West Apron    |        H [36]  |                 D, S                |               **D**             |
 
 ##### 3.2.3.2 17/18 Arrival Taxi Procedures
-|               **Type**             |    **Taxi to**   | **Vacate via** |             **Taxi via**            |   **Initial Taxi By TWR**  |
-|:----------------------------------:|:----------------:|:--------------:|:-----------------------------------:|:--------------------------:|
-|     **International Airlines**     |    East Apron    |    J2/J3 [17]  |                 K/W, L              |            **W**           |
-|       **Domestic & Lowcost**       |    East Apron    |    J2/J3 [17]  |                 K/W, L              |            **W**           |
-|          **Royal Aprons**          |    West Apron    |      A/B [18]  |                 D, R                |            **D**           |
-|        **General Aviation**        |    West Apron    |      A/B [18]  |                 D, S                |            **D**           |
+|               **Type**             |    **Taxi to**   | **Vacate via** |             **Taxi via**            |   **Intermediate hold By TWR**  |
+|:----------------------------------:|:----------------:|:--------------:|:-----------------------------------:|:-------------------------------:|
+|     **International Airlines**     |    East Apron    |    J2/J3 [17]  |                 K/W, L              |               **L**             |
+|       **Domestic & Lowcost**       |    East Apron    |    J2/J3 [17]  |                 K/W, L              |               **L**             |
+|          **Royal Aprons**          |    West Apron    |      A/B [18]  |                 D, R                |               **D**             |
+|        **General Aviation**        |    West Apron    |      A/B [18]  |                 D, S                |               **D**             |
 
 #### 3.2.4 Taxi Diagrams
 ##### 3.2.4.1 Legend
