@@ -19,6 +19,11 @@ toc_max_heading_level: 5
 ##  2. Designated Area of Responsibility
 **Prince Mohammed bin Abdulaziz International Airport (OEMA)** features one primary AIR position. The responsibilities and areas of control for each position are outlined as follows:
 
+![Loading](imgs/gmc.png#center)
+<p style="text-align: center; font-style: italic;">
+Figure 2. - Aerodrome DAOR
+</p>
+
 ### 2.1. Airspace
 **Prince Mohammed bin Abdulaziz International Airport (OEMA)** Control Zone (CTR) is Class D airspace and is centered around the aerodrome. Its ceiling is 5500ft AGL and has a radius of 10NM.
 
@@ -226,7 +231,8 @@ Table 4.3.1 - Medinah VRPs
     The Saudi Arabian vACC is working to release a pilot briefing document for VFR.
 
 ##### 4.3.1.1 Entry/Exit VRPs into the CTR
-According to the eAIP traffic must only enter/exit the Medinah Control Zone via the following VRPs:
+As per **eAIP**, traffic must only enter/exit the Medinah Control Zone via the following VRPs:
+
 - MAD1
 - MAD2
 

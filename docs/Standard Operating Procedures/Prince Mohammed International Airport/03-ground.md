@@ -14,7 +14,10 @@ toc_max_heading_level: 5
 ---
 
 ## 2. Designated Areas of Responsiblity
-**Prince Mohammed bin Abdulaziz International Airport (OEMA)** features one primary Ground Movement Control (SMC) position. The responsibilities and areas of control for each position are outlined as follows:
+**Prince Mohammed bin Abdulaziz International Airport (OEMA)** features one primary Ground Movement Control (SMC) position. The responsibilities and areas of control for each position are outlined as follows: 
+
+
+![Loading](imgs/gmc.png#center)
 
 ---
 
@@ -118,24 +121,24 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 ### 3.2 Taxi Procedures
 #### 3.2.1 Departure Taxi Procedures
 ##### 3.2.1.1 35/36 Departure Taxi Procedures
-|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-|     **Apron 103-120**    |        Runway 35        |         J/J1         |            W/K            |       J      |      Immediate       |
-|     **Apron 121-126**    |        Runway 35        |         J/J1         |             N             |       J      |      Immediate       |
-|     **Apron 127-131**    |        Runway 35        |         J/J1         |             N             |       J      |      Immediate       |
-|     **Apron 132-135**    |        Runway 35        |         J/J1         |             N             |       J      |      Immediate       |
-|       **GA Apron**       |        Runway 36        |           D          |             S             |      S,D     |      Immediate       |
-|      **Royal Apron**     |        Runway 36        |           D          |             R             |      R,D     |      Immediate       |
+|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** |         **Handoff to Tower**        |
+|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:-----------------------------------:|
+|     **Apron 103-120**    |        Runway 35        |         J/J1         |            W/K            |       J      |              Immediate              |
+|     **Apron 121-126**    |        Runway 35        |         J/J1         |             N             |       J      | Passing **K** when clear of traffic |
+|     **Apron 127-131**    |        Runway 35        |         J/J1         |             N             |       J      | Passing **K** when clear of traffic |
+|     **Apron 132-135**    |        Runway 35        |         J/J1         |             N             |       J      | Passing **K** when clear of traffic |
+|       **GA Apron**       |        Runway 36        |           D          |             S             |      S,D     |              Immediate              |
+|      **Royal Apron**     |        Runway 36        |           D          |             R             |      R,D     |              Immediate              |
 
 ##### 3.2.1.2 17/18 Departure Taxi Procedures
-|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
-|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
-|     **Apron 103-120**    |        Runway 17        |         J7/J8        |           K/W/N           |       J      |      Immediate       |
-|     **Apron 121-126**    |        Runway 17        |         J7/J8        |             P             |       J      |      Immediate       |
-|     **Apron 127-131**    |        Runway 17        |         J7/J8        |             P             |       J      |      Immediate       |
-|     **Apron 132-135**    |        Runway 17        |         J7/J8        |             P             |       J      |      Immediate       |
-|       **GA Apron**       |        Runway 18        |         D, D1        |             S             |      S,D     |     Passing by R     |
-|      **Royal Apron**     |        Runway 18        |         D, D1        |             R             |      R,D     |      Immediate       |
+|       **Apron(s)**       |   **Departure Runway**  | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** |         **Handoff to Tower**        |
+|:------------------------:|:-----------------------:|:--------------------:|:-------------------------:|:------------:|:-----------------------------------:|
+|     **Apron 103-120**    |        Runway 17        |         J7/J8        |           K/W/N           |       J      | Passing **P** when clear of traffic |
+|     **Apron 121-126**    |        Runway 17        |         J7/J8        |             P             |       J      |              Immediate              |
+|     **Apron 127-131**    |        Runway 17        |         J7/J8        |             P             |       J      |              Immediate              |
+|     **Apron 132-135**    |        Runway 17        |         J7/J8        |             P             |       J      |              Immediate              |
+|       **GA Apron**       |        Runway 18        |         D, D1        |             S             |      S,D     |             Passing by R            |
+|      **Royal Apron**     |        Runway 18        |         D, D1        |             R             |      R,D     |              Immediate              |
 
 #### 3.2.2 Stand Allocation Procedure
 Stands are assigned by the SAUControllerPack in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
@@ -174,5 +177,8 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 ![Loading](imgs/blue.png)
 ###### Arrivals Flow
 ![Loading](imgs/yellow.png)
-###### Royal Arrivals Flow
-![Loading](imgs/grn.png)
+
+##### 3.2.4.2 35/36 Configuration
+![Loading](imgs/35sro.png)
+##### 3.2.4.2 17/18 Configuration
+![Loading](imgs/17sro.png)
