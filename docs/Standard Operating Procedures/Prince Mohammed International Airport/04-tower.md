@@ -1,9 +1,9 @@
 ---
-title: "Medinah Tower [TWR]"
+title: "Madinah Tower [TWR]"
 toc_min_heading_level: 2
 toc_max_heading_level: 5
 ---
-# Medinah Tower [OEMA_TWR]
+# Madinah Tower [OEMA_TWR]
 
 !!! success "Covering"
     This section details all the necessary Standard Operating Procedures for Tower Operations in **Prince Mohammed bin Abdulaziz International Airport (OEMA)**
@@ -12,7 +12,7 @@ toc_max_heading_level: 5
 
 ##  1. General Provisions
 
-**Medinah Tower (AIR)** is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
+**Madinah Tower (AIR)** is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
 
 ---
 
@@ -25,7 +25,7 @@ Figure 2. - Aerodrome DAOR
 </p>
 
 ### 2.1. Airspace
-**Prince Mohammed bin Abdulaziz International Airport (OEMA)** Control Zone (CTR) is Class D airspace and is centered around the aerodrome. Its ceiling is 5500ft AGL and has a radius of 10NM.
+**Prince Mohammed bin Abdulaziz International Airport (OEMA)** Control Zone (CTR) is Class D airspace and is centered around the aerodrome. Its ceiling is 5500ft MSL and has a radius of 10NM.
 
 <figure markdown> 
   ![Loading](imgs/twr.png#center)
@@ -33,7 +33,7 @@ Figure 2. - Aerodrome DAOR
 </figure>
 
 ### 2.2. AIR [Medinah Tower]
-**Medinah Tower [OEMA_TWR]** covers all runways in the aerodrome:
+**Madinah Tower [AIR]** covers all runways in the aerodrome:
 
 - 35/17
 - 36/18
@@ -56,12 +56,12 @@ The hierarchy of responsibility for determining the runway configuration is outl
     So as long as there is a tower controller, it is his responsibility to set the active runway and ATIS, if not online, follow the hierarchy above
 
 ### 3.2 Preferential Runway System [PRS]
-In Medinah, the Preferential Runway System is in use. In conditions of slack winds, 35 operation is preferred up to a tailwind component of 6kts.
+In Madinah, the Preferential Runway System is in use. In conditions of slack winds, 35/36 operation is preferred up to a tailwind component of 6kts.
 
 This is the more efficent configuration, thus it is used as much as possible.
 
 !!! tip "Crosswind"
-    In the event of a direct crosswind (250 degrees) with a speed exceeding 7 knots, the following guidelines should be followed to determine the runway configuration:
+    In the event of a direct crosswind (260 degrees) with a speed exceeding 7 knots, the following guidelines should be followed to determine the runway configuration:
 
     - Check the Terminal Aerodrome Forecast (TAF) for any indications of a potential change in weather conditions that may necessitate a different runway configuration.
     - If the TAF suggests a possible shift in weather conditions that would favor an alternative configuration, select the runway configuration that aligns with the forecasted conditions.
@@ -72,8 +72,8 @@ At Prince Mohammed bin Abdulaziz International Airport, standard runway configur
 
 The configurations, listed from most preferred to least preferred, are as follows:
 
-- 35
-- 17
+- 35/36 SRO
+- 17/18 SRO
 
 !!! info "Do note."
     Exceptions to runway configurations can be granted per pilot's request after approval from AIR and APP. 
@@ -231,7 +231,7 @@ Table 4.3.1 - Medinah VRPs
     The Saudi Arabian vACC is working to release a pilot briefing document for VFR.
 
 ##### 4.3.1.1 Entry/Exit VRPs into the CTR
-As per **eAIP**, traffic must only enter/exit the Medinah Control Zone via the following VRPs:
+As per **eAIP**, traffic must only enter/exit the Madinah Control Zone via the following VRPs:
 
 - MAD1
 - MAD2
@@ -267,11 +267,11 @@ Once the traffic has entered the control zone, further intructions to direct to 
 
 |     **Runway Configuration**      |  **Direction**  | **Altitude(s)** |
 | :-------------------------------: | :-------------: | :-------------: |
-|               35/36               |    Right Hand   |    1500ft AGL   |
-|               17/18               |    Left Hand    |    1500ft AGL   |
+|                 36                |    Left Hand    |    1500ft AGL   |
+|                 18                |    Right Hand   |    1500ft AGL   |
 
 !!! info "Jet Engine Aircrafts"
-    Jet engine aircraft must conduct circuits on the **eastern side of the aerodrome**, maintaining ***4000 feet***.
+    Jet engine aircraft must conduct circuits on the **western side of the aerodrome**, maintaining ***4000 feet*** MSL.
 
 !!! danger "Do note"
-    Circling in Circuits are not allowed in west of the aerodrome.
+    Orbiting in Circuits are not allowed in west of the aerodrome.

@@ -1,15 +1,15 @@
 ---
-title: "Medinah Ground [GND]"
+title: "Madinah Ground [GND]"
 toc_min_heading_level: 2
 toc_max_heading_level: 5
 ---
-# Medinah Ground [OEMA_GND]
+# Madinah Ground [OEMA_GND]
 
 !!! success "Covering"
     This section details all the necessary Standard Operating Procedures for Ground Operations in **Prince Mohammed bin Abdulaziz International Airport (OEMA)**
 
 ## 1. General Provisions
-**Medinah Ground (OEMA_GND)** manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
+**Madinah Ground (OEMA_GND)** manages aircraft movements on aerodrome areas, excluding runways and their associated taxiways. Departing aircraft receive pushback and taxi instructions to the runway holding point, while arriving aircraft are assigned a stand and given taxi instructions.
 
 ---
 
@@ -33,7 +33,7 @@ Aircraft are issued pushback clearances by the SMC controlling the respective ap
 Pushback direction is based primarily on aircraft location, runway configuration and the apron's flow directiom.
 
 #### 3.1.1 Apron Flow Direction
-The apron's flow direction can be determined by examining the taxiway diagrams outlined in the [TWR] Tower section of this aerodrome's SOP.
+The apron's flow direction can be determined by examining the taxiway diagrams outlined in the [GND] Ground section of this aerodrome's SOP.
 
 By looking at the entry and exit taxiways of the apron, it is very obvious what the direction that all traffic should face.
 
@@ -46,7 +46,7 @@ By looking at the entry and exit taxiways of the apron, it is very obvious what 
 |       **GA Apron**       |        Southbound       |    Southbound   |
 |      **Royal Apron**     |        Southbound       |    Southbound   |
 <p style="text-align: center; font-style: italic;">
-Table 3.1.1 - Medinah Aprons Flow Direction
+Table 3.1.1 - Madinah Aprons Flow Direction
 </p>
 
 #### 3.1.2 Push-Back Types
@@ -97,14 +97,14 @@ An example of such an instruction is as follows:
 
 > **Pilot:** _"SVA123, Stand 112, request pushback"_
 
-> **SMC:** _"SVA123, Behind the Flynas A320 passing from your left to right, push & start approved, face south on L. Behind"_
+> **SMC:** _"SVA123, Behind Flynas A320 passing from your left to right, push & start approved, face south on L. Behind"_
 
 !!! info "Airline"
     When giving the clearance, the "airline" should be mentioned and not "callsign". 
 
     For example:
 
-    > **SMC:** _"SVA123, Behind the **Qatar Airways** (~~Qatari~~) B777 passing from your left to right, push & start approved, face south on L. Behind"_
+    > **SMC:** _"SVA123, Behind **Qatar Airways** (~~Qatari~~) B777 passing from your left to right, push & start approved, face south on L. Behind"_
 
     ---
 
@@ -141,7 +141,7 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 |      **Royal Apron**     |        Runway 18        |         D, D1        |             R             |      R,D     |              Immediate              |
 
 #### 3.2.2 Stand Allocation Procedure
-Stands are assigned by the SAUControllerPack in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
+Stands are assigned by the GRPlugin in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
 
 |       **Aprons**       |                         **Airlines**                        |
 |:----------------------:|:-----------------------------------------------------------:|
@@ -151,7 +151,7 @@ Stands are assigned by the SAUControllerPack in the Euroscope, but controllers s
 
 #### 3.2.3  Arrival Taxi Procedures
 ##### 3.2.3.1 General Arrival Taxi Procedures
-SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile. This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
+SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile. This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below.
 
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow the designated ATR and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 

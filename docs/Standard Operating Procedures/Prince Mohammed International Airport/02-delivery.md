@@ -1,9 +1,9 @@
 ---
-title: "Medinah Delivery [DEL]"
+title: "Madinah Delivery [DEL]"
 toc_min_heading_level: 2
 toc_max_heading_level: 5
 ---
-# Medinah Delivery [OEMA_GND]
+# Madinah Delivery [OEMA_GND]
 
 !!! success "Covering"
     This section details all the necessary Standard Operating Procedures for Delivery Operations in **Prince Mohammed bin Abdulaziz International Airport (OEMA)**
@@ -12,7 +12,7 @@ toc_max_heading_level: 5
     Medinah does not have GMP position, thus it's covered by the Ground controller.
 
 ## 1. General Provisions
-**Medinah Ground (OEMA_GND)** is entrusted with the task of validating routes and providing IFR/VFR clearances to departing aircraft. This involves carefully reviewing the flight plan and cross-verifying the accuracy of the filed route, assigned level, and departure procedure. In situations where any inconsistencies, errors, or invalid information are identified, the controller must rectify the errors and issue a reclearance.
+**Madinah Ground (OEMA_GND)** is entrusted with the task of validating routes and providing IFR/VFR clearances to departing aircraft. This involves carefully reviewing the flight plan and cross-verifying the accuracy of the filed route, assigned level, and departure procedure. In situations where any inconsistencies, errors, or invalid information are identified, the controller must rectify the errors and issue a reclearance.
 
 Additionally, the GMP plays a vital role in minimizing potential delays and congestion on the taxiways for outbound flights. During periods characterized by increased departure activities, the GMP implements proactive measures to optimize the flow of traffic. This includes holding aircraft at their stands.
 
@@ -39,7 +39,7 @@ An IFR clearance shall contain:
 -   Assigned SSR code
 
 #### 2.2.1 Phraseology
-In Medinah, the standard GACA phrasesology is used. For IFR Clearances, the following phrasesolgy must strictly be adhered to.
+In Madinah, the standard GACA phrasesology is used. For IFR Clearances, the following phrasesolgy must strictly be adhered to.
 > **Pilot:** _"SVA123, Stand 117, A320, requesting IFR clearance to Riyadh"_
 
 > **GMP:** _"SVA123, Cleared Riyadh as filed, MEDRO1K Departure, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
@@ -55,7 +55,7 @@ In Medinah, the standard GACA phrasesology is used. For IFR Clearances, the foll
 
 #### 2.2.2 Departure Procedures
 ##### 2.2.2.1 RNAV SIDs
-Medinah Airport predominantly utilizes **RNAV standard instrument departures (SIDs)** as the preferred departure method for aircraft flying under instrument flight rules (IFR). The selection of the appropriate RNAV departure for departing aircraft is based on the exit point specified in the flight plan and the active runways at the airport.
+Madinah Airport predominantly utilizes **RNAV standard instrument departures (SIDs)** as the preferred departure method for aircraft flying under instrument flight rules (IFR). The selection of the appropriate RNAV departure for departing aircraft is based on the exit point specified in the flight plan and the active runways at the airport.
 
 | **Exit Points** | **ALTEP** | **MEDRO** | **MIXUG** | **PEGUR** | **SISUD** | **UKTOM** |
 | :-------------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
@@ -64,14 +64,14 @@ Medinah Airport predominantly utilizes **RNAV standard instrument departures (SI
 |      **18**     |    1C     |    1C     |    1C     |    1C     |    1C     |    1C     |
 |      **36**     |    1L     |    1L     |    1L     |    1L     |    1L     |    1L     |
 <p style="text-align: center; font-weight: bold; font-style: italic;">
-  Table 1.1 - RNAV SIDs of Medinah
+  Table 1.1 - RNAV SIDs of Madinah
 </p>
 
 !!! info "Initial Climb"
-    In Medinah, regardless of the specific SID chosen, all departures should be assigned an initial climb of **8000 feet**.
+    In Madinah, regardless of the specific SID chosen, all departures should be assigned an initial climb of **8000 feet**.
 
 ##### 2.2.2.2 Radar Departures
-Prince Mohammed bin Abdulaziz International Airport (OEMA) offers two radar departures, namely **MADINAH 1Z** for **Runway 17/18**, and **MADINAH 1T** for **Runway 35/36**, respectively. These departure procedures involve the aircraft flying the runway heading until further instructions are provided by APP.
+Prince Mohammed bin Abdulaziz International Airport (OEMA) offers two radar departures, namely **MADINAH 1Z** for **Runway 17/18**, and **MADINAH 1T** for **Runway 35/36**, respectively. These departure procedures, **though not preferred**, involve the aircraft flying the runway heading until further instructions are provided by APP.
 
 It is important to note that these radar departures should only be utilized when necessary, and their usage requires coordination with APP.
 
@@ -87,26 +87,7 @@ It is important to note that these radar departures should only be utilized when
     > **APP -> GMP:** _"GMP, MADINAH 1T approved"_
 
 ##### 2.2.2.3 Phraseology
-> **GMP:** _"SVA123, Cleared Riyadh as filed, After departure, Maintain Runway Heading, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
-
-**_OR_**
-
-> **GMP:** _"SVA123, Cleared Riyadh as filed, After departure, Turn left heading 310, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
-
-!!! Example
-    FAD5MA is requesting Omni-Directional due to technical malfunctions. GMP must call APP via VCCS to coordinate
-
-    > **GMP:** _Calls APP via VCCS_
-
-    > **APP:** _Accepts call from GMP_
-
-    > **GMP -> APP:** _"APP, SVA123 is an A320. Requesting approval for Omni-Directional Departure"_
-
-    > **APP -> GMP:** _"GMP, Omni-Directional approved"_ | **(Use Expect Radar Vectors in Clearance)**
-
-    **_OR_**
-
-    > **APP -> GMP:** _"GMP, Omni-Directional approved, Runway heading/Left Turn heading 310 after departure"_ | **(Use Maintain Runway Heading/Assigned heading in Clearance)*
+> **GMP:** _"SVA123, Cleared Riyadh as filed, MADINAH 1T departure, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
 
 !!! tip
     When giving Radar Departures, type **"RDEP"** in the scratch pad so upper controllers don't forget and you too!
@@ -119,7 +100,7 @@ If a traffic files an invalid route, they shall be informed by GMP of such as so
 ##### 2.2.3.1 Rerouting by voice
 GMP may use the following phrasesolgy to reroute traffic.
 
-> **GMP:** _"SVA123, Cleared Riyadh, MEDRO J852 KIA, Flight plan route, MEDRO1K, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
+> **GMP:** _"SVA123, Cleared Riyadh, MEDRO J852 KSA, Flight plan route, MEDRO1K, Runway 35, Initial Climb 8000ft, SQWK XXXX"_
 
 Altough this is allowed, it consumes time on frequency which maybe needed for other traffic on the frequency. Therefore, Rerouting by Private Message is preferred.
 
@@ -141,14 +122,14 @@ GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
 #### 2.3.1 VFR Circuits
 |     **Runway Configuration**      |  **Direction**  | **Altitude(s)** |
 | :-------------------------------: | :-------------: | :-------------: |
-|               35/36               |    Right Hand   |    3500ft AGL   |
-|               17/18               |    Left Hand    |    3500ft AGL   |
+|                 36                |     Left Hand   |    3500ft AGL   |
+|                 18                |    Right Hand   |    3500ft AGL   |
 
 !!! info "Jet Engine Aircrafts"
     Jet engine aircraft must receive clearance to conduct circuits maintaining ***3500/4000 feet***.
 
 ##### 2.3.1.1 Phrasesolgy
-> **GMP:** _"HAZAZ, Cleared VFR Circuits, Runway 35, Make a right hand circuit, climb to 3500ft, SQWK XXXX"_
+> **GMP:** _"HAZAZ, Cleared VFR Circuits, Runway 36, Make a left hand circuit, climb to 3500ft, SQWK XXXX"_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
   --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
@@ -157,11 +138,11 @@ GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Cl
 > **GMP:** _"HAZAZ, Readback Correct, Information A, Report Ready for Startup"_ **_(Pushback if on a terminal/Jet Aircraft)_**
 
 #### 2.3.2 VFR Crosscountry
-Any VFR aircraft leaving the control zone at Medinah is considered to be engaging in cross-country VFR flight.
+Any VFR aircraft leaving the control zone at Madinah is considered to be engaging in cross-country VFR flight.
 
 Prior to granting clearance for cross-country VFR traffic, coordination with the AIR and APP is required.
 
-There are no specific restrictions, designated VFR routes, or prescribed exit points for VFR departures leaving the control zone at Medinah.
+There are no specific restrictions, designated VFR routes, or prescribed exit points for VFR departures leaving the control zone at Madinah.
 
 !!! info "Do note"
     VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
