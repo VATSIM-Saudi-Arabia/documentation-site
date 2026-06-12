@@ -45,7 +45,8 @@ title: General Information
 |       **Medina ATIS**       |     OEMA_ATIS      |       ATIS       |       126.850       |
 |      **Medina Ground**      |      OEMA_GND      |        SMC       |       121.900       |
 |      **Medina Tower**       |      OERK_TWR      |        AIR       |       118.300       |
-|     **Medina Approach**     |      OEMA_APP      |        APP       |       127.700       |
+|     **Medina Approach**     |      OEMA_APP      |        APP       |       125.100       |
+|     **Medina Approach**     |     OEMA_L_APP     |        APP       |       127.700       |
 
 ## SOPs Ammendment Record
 
