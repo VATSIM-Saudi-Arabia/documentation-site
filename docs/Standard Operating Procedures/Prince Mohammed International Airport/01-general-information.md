@@ -52,7 +52,7 @@ title: General Information
 
 |    **SOP Type**    | **Revision** |   **Changes**   |     **Prepared By**    | **Revised and Approved By** |
 |:------------------:|:------------:|:---------------:|:----------------------:|:---------------------------:|
-| **Delivery [DEL]** |    10/2025   |    Completed    |   Muhammad - ACCSA32   |    Ismail Hassan - ACCSA1   |
-|  **Ground [GND]**  |    10/2025   |    Completed    |   Muhammad - ACCSA32   |    Ismail Hassan - ACCSA1   |
+| **Delivery [DEL]** |    6/2026    |    Completed    |   Muhammad - ACCSA32   |    Ismail Hassan - ACCSA1   |
+|  **Ground [GND]**  |    6/2026    |    Completed    |   Muhammad - ACCSA32   |    Ismail Hassan - ACCSA1   |
 |   **Tower [TWR]**  |      --      |    Completed    |   Muhammad - ACCSA32   |    Ismail Hassan - ACCSA1   |
 | **Approach [APP]** |      --      |        --       |           --           |              --             |
