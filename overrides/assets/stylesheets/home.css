@@ -275,11 +275,23 @@
 .footer-image-container {
     position: absolute;
     inset: 0;
-    margin-bottom: -0.7rem;
+    margin-bottom: 3.3rem;
     background-image: url("../../assets/hero-footer.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+.footer-container {
+    position: relative;
+    display: inline;
+}
+
+.footer-content {
+    position: relative;
+    text-align: center;
+    margin: 3.3rem;
+    height: auto;
 }
 
 /* TABLET */
