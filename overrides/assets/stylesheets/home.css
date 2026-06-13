@@ -173,24 +173,6 @@
     transform: translateX(-30px);
 }
 
-.cover-content {
-    position: relative;
-    display: flex;
-    margin-left: 44.8%;
-    margin-right: 16%;
-    max-width: 47%;
-    font-family: "Mulish", sans-serif;
-    font-size: 13px;
-    font-weight: 300;
-    line-height: 1.4;
-    color: white !important;
-    transform: translate(-424px, -200%);
-    align-items: baseline;
-    align-content: flex-start;
-    flex-wrap: wrap;
-    flex-direction: column;
-}
-
 .cover-content h4 {
     position: relative;
     display: flex;
