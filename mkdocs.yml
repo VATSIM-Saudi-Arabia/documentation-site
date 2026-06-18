@@ -30,6 +30,9 @@ theme:
     - content.footer
     - content.tooltips
     - content.footnote.tooltips
+  icon:
+    admonition:
+      example: fontawesome/solid/headset
 extra:
   social:
     - icon: fontawesome/brands/discord
@@ -52,14 +55,15 @@ extra_javascript:
   - assets/stylesheets/home.js
 markdown_extensions:
   - abbr
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  - attr_list
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
-  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - footnotes
 plugins:
-- mkdocs-pdf
-- search
+  - mkdocs-pdf
+  - search
+  - glightbox
