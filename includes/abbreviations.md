@@ -17,8 +17,8 @@
 *[ICAO]: International Civil Aviation Organization
 *[AOR]: Area of Responsibility
 *[AGL]: Above Ground Level
-*[AMSL] Above Mean Sea Level
-*[MSL] Mean Sea Level
+*[AMSL]: Above Mean Sea Level
+*[MSL]: Mean Sea Level
 <!-- Positions Codes -->
 *[DEL]: Delivery Controller
 *[GMP]: Ground Movement Planner
