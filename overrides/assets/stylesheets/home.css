@@ -275,7 +275,7 @@
 .footer-image-container {
     position: absolute;
     inset: 0;
-    margin-bottom: 3.3rem;
+    margin-bottom: -0.7rem;
     background-image: url("../../assets/hero-footer.png");
     background-size: cover;
     background-position: center;
