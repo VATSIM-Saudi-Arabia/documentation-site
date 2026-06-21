@@ -2,6 +2,8 @@
 title: General Information
 ---
 
+![Loading](imgs/boedf.png#center)
+
 **King Fahd International Airport (OEDF)** is the largest airport in the Eastern Province of Saudi Arabia and serves as a vital transportation hub. Located in **Dammam**, OEDF boasts modern facilities, including multiple terminals for domestic and international flights. It is a major hub for Saudi Arabian Airlines and offers connections to various destinations worldwide.
 
 ---

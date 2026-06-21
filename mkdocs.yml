@@ -1,5 +1,6 @@
 site_name: Documentation Site - Saudi Arabian vACC
-site_url: https://docs.vatsimsa.com
+site_url: https://documentation.vatsimsa.com
+copyright: The content on this site is intended for Flight Simulation use only.
 
 theme:
   name: material
@@ -7,7 +8,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   font: 
-    text: Mulish
+    text: Maven Pro
   palette:
     - scheme: default
       toggle:
@@ -19,17 +20,19 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.footer
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.tabs
     - navigation.path
     - navigation.top
+    - navigation.tabs.sticky
     - search.suggest
     - search.highlight
     - search.share
-    - header.autohide
+    - content.footer
+    - content.tooltips
+    - content.footnote.tooltips
+  icon:
+    admonition:
+      example: fontawesome/solid/headset
 extra:
   social:
     - icon: fontawesome/brands/discord
@@ -45,12 +48,22 @@ repo_url: https://github.com/VATSIM-Saudi-Arabia/documentation-site
 repo_name: VATSIM-Saudi-Arabia/documentation-site
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/theme.css
+  - stylesheets/effect.css
+  - stylesheets/styling.css
+extra_javascript:
+  - assets/stylesheets/home.js
 markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - attr_list
-  - md_in_html
+  - footnotes
 plugins:
-- search
-- mkdocs-pdf
+  - mkdocs-pdf
+  - search
+  - glightbox
