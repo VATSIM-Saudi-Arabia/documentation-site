@@ -66,4 +66,3 @@ markdown_extensions:
 plugins:
   - mkdocs-pdf
   - search
-  - glightbox
