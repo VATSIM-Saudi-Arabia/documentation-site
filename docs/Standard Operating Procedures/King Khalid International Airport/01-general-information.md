@@ -2,6 +2,8 @@
 title: General Information
 ---
 
+![Loading](imgs/boerk.png#center)
+
 **King Khalid International Airport (OERK)** is a prominent airport serving Riyadh, the capital city of Saudi Arabia. Located approximately 35 kilometers north of Riyadh, it covers an area of around 225 square kilometers. Opened in 1983, it replaced the older Riyadh Airport and is named after King Khalid bin Abdulaziz Al Saud.
 
 The airport is one of the busiest in the country and features a modern terminal complex with multiple passenger terminals. It serves as a vital hub for domestic and international flights, connecting Riyadh to various destinations around the world.
