@@ -37,12 +37,9 @@ html, body {
   margin-right: 0.25rem !important;
 }
 
-/* Align nav tabs (top menu links) to far left */
-.md-tabs {
-  justify-content: flex-start !important;
-  margin-left: 0 !important;
-  padding-left: 1rem !important;
-  padding-right: 2rem !important;
+/* ---- Center the nav tabs in the bar ---- */
+.md-tabs__list {
+  justify-content: center;
 }
 
 /* Sidebar untouched */
