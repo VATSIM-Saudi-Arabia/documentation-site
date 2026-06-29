@@ -5,6 +5,7 @@ html, body {
   width: 100%;
 }
 
+/* ---- Content area: fluid 90% width with even margins on both sides ---- */
 .md-grid {
   max-width: 90%;
 }
@@ -36,21 +37,12 @@ html, body {
   margin-right: 0.25rem !important;
 }
 
-/* ---- Top navigation: stretch tabs evenly across the full bar ---- */
-.md-tabs__list {
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
-}
-
-.md-tabs__item {
-  flex: 1 1 auto;
-  text-align: center;
-}
-
-.md-tabs__link {
-  justify-content: center;
-  margin: 0;
+/* Align nav tabs (top menu links) to far left */
+.md-tabs {
+  justify-content: flex-start !important;
+  margin-left: 0 !important;
+  padding-left: 1rem !important;
+  padding-right: 2rem !important;
 }
 
 /* Sidebar untouched */
