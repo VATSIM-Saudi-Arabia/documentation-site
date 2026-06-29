@@ -5,18 +5,14 @@ html, body {
   width: 100%;
 }
 
-/* Full-width layout for main area */
-.md-main {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+.md-grid {
+  max-width: 90%;
 }
 
-/* Page content padding */
+/* Let the content fill its grid column */
 .md-content {
   max-width: 100% !important;
   padding: 1rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 /* Header: space between title and repo */
@@ -40,12 +36,21 @@ html, body {
   margin-right: 0.25rem !important;
 }
 
-/* Align nav tabs (top menu links) to far left */
-.md-tabs {
-  justify-content: flex-start !important;
-  margin-left: 0 !important;
-  padding-left: 1rem !important;
-  padding-right: 2rem !important;
+/* ---- Top navigation: stretch tabs evenly across the full bar ---- */
+.md-tabs__list {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.md-tabs__item {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.md-tabs__link {
+  justify-content: center;
+  margin: 0;
 }
 
 /* Sidebar untouched */
@@ -70,10 +75,10 @@ html, body {
 
 /* Make the first-level items (top-level) bold */
 .md-nav__list > .md-nav__item > .md-nav__link {
-    font-weight: bold;
-  }
+  font-weight: bold;
+}
 
-  /* Make second-level items normal weight */
-  .md-nav__list > .md-nav__item > nav .md-nav__list > .md-nav__item > .md-nav__link {
-    font-weight: normal;
-  }
+/* Make second-level items normal weight */
+.md-nav__list > .md-nav__item > nav .md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: normal;
+}
