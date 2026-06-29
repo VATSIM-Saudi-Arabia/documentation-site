@@ -1,0 +1,84 @@
+/* Reset base layout */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.md-grid {
+  max-width: 90%;
+}
+
+/* Let the content fill its grid column */
+.md-content {
+  max-width: 100% !important;
+  padding: 1rem;
+}
+
+/* Header: space between title and repo */
+.md-header__inner {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Align logo/title to far left */
+.md-header__title {
+  margin-left: 0.5rem !important;
+  padding-left: 0rem !important;
+}
+
+/* Repo link (/documentation-site) to far right */
+.md-header__source {
+  margin-left: auto !important;
+  margin-right: 0.25rem !important;
+}
+
+/* ---- Top navigation: stretch tabs evenly across the full bar ---- */
+.md-tabs__list {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.md-tabs__item {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.md-tabs__link {
+  justify-content: center;
+  margin: 0;
+}
+
+/* Sidebar untouched */
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  margin: initial !important;
+  padding-top: 1rem !important;
+}
+
+/* Round the search bar edges */
+.md-search__input {
+  border-radius: 9999px !important; /* fully pill-shaped */
+  overflow: hidden; /* ensures no corner clipping */
+}
+
+/* Optional: style the search container background */
+.md-search__form {
+  border-radius: 9999px !important;
+  overflow: hidden;
+  backdrop-filter: blur(6px); /* optional glassy look */
+}
+
+/* Make the first-level items (top-level) bold */
+.md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: bold;
+}
+
+/* Make second-level items normal weight */
+.md-nav__list > .md-nav__item > nav .md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: normal;
+}
