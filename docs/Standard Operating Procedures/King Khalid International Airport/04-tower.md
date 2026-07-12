@@ -111,13 +111,13 @@ The configurations, listed from most preferred to least preferred, are as follow
     - Royal Flights [Always departs/arrives on 33L/15R regardless of the active config]
     - VFR Flights [Always departs/arrives on 33R/15L regardless of the active config]
 
-#### 3.3.1. Mixed Runway Operations [MO]
-In the context of runway operations at King Khalid International Airport, **Mixed Runway Operations (MO)** is the primary and most preferred configuration, where both arrivals and departures are conducted on the same runway. This configuration provides optimal flexibility and efficiency in managing traffic flows under normal operating conditions.
+#### 3.3.1. Dual Arrival Runway Operations [DARO]
+In the context of runway operations at King Khalid International Airport, **Dual Arrival Runway Operations (DARO)** is the primary and most preferred configuration, where both arrivals and departures are conducted on the same runway. This configuration provides optimal flexibility and efficiency in managing traffic flows under normal operating conditions.
 
 Mixed Runway Operations shall be used as the standard configuration unless traffic demand, weather conditions, or operational constraints require an alternative runway configuration.
 
-#### 3.3.2. Semi-Mixed Runway Operations [SMO]
-**Semi-Mixed Runway Operations (SMO)** is a runway configuration utilized at King Khalid International Airport in which one runway is primarily dedicated to a single traffic flow, while the secondary runway accommodates a limited mix of arrivals and departures. This configuration is considered the least preferred due to its reduced operational efficiency.
+#### 3.3.2. Single Arrival Runway Operations [SARO]
+**Single Arrival Runway Operations (SARO)** is a runway configuration utilized at King Khalid International Airport in which one runway is primarily dedicated to a single traffic flow, while the secondary runway accommodates a limited mix of arrivals and departures. This configuration is considered the least preferred due to its reduced operational efficiency.
 
 While Semi-Mixed Operations may provide short-term flexibility during specific traffic or infrastructure constraints, they increase controller workload, complicate traffic sequencing, and may result in reduced runway throughput. Additionally, this configuration can lead to increased taxi times and coordination complexity, particularly during periods of elevated traffic demand.
 
