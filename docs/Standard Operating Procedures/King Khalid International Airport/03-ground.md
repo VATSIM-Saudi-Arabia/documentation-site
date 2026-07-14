@@ -145,23 +145,7 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 
 ### 3.2  Taxi Procedures
 ####  3.2.1  Departure Taxi Procedures
-##### 3.2.1.1 33s Dual Arrival Runway Operations Departure Taxi Procedures
-
-|    **Apron**   | **Departure Runway** |                                             **SMC N Instructions**                                            |                                        **SMC S Instructions**                                        |                  **Handoff to AIR**                 |
-|:--------------:|:--------------------:|:-------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
-| **Aprons 1,2** |      Runway 33R      | Taxi E <br>*Hold Short R*<br>Taxi R,F<br>*Hold Short S*<br>Taxi F<br>*Hold Short T*<br>***Handoff to SMC S*** |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
-| **Aprons 1,2** |      Runway 33L      | Taxi E <br>*Hold Short R*<br>Taxi R,F<br>*Hold Short S*<br>Taxi F<br>*Hold Short T*<br>***Handoff to SMC S*** |                                               Taxi T,A                                               |  _While taxing on Taxiway T and clear of conflict_  |
-| **Aprons 3,4** |      Runway 33R      |               Taxi E <br>*Hold Short S*<br>Taxi S,F<br>*Hold Short T*<br>***Handoff to SMC S***               |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
-| **Aprons 3,4** |      Runway 33L      |               Taxi E <br>*Hold Short S*<br>Taxi S,F<br>*Hold Short T*<br>***Handoff to SMC S***               |                                               Taxi T,A                                               |  _While taxing on Taxiway T and clear of conflict_  |
-|   **Apron 5**  |      Runway 33R      |                              Taxi E <br>*Hold Short T*<br>***Handoff to SMC S***                              |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
-|   **Apron 5**  |      Runway 33L      |                              Taxi E <br>*Hold Short T*<br>***Handoff to SMC S***                              |                                               Taxi T,A                                               |  _While taxing on Taxiway T and clear of conflict_  |
-|   **Apron 6**  |      Runway 33R      |                                                       -                                                       |       Taxi F,V<br>***OR***<br>Taxi F/D<br>*Hold Short of T*<br>Taxi T,G<br>***OR***<br>Taxi D,V      | _While taxing on Taxiway G/V and clear of conflict_ |
-|   **Apron 6**  |      Runway 33L      |                                                       -                                                       | Taxi F,V,D<br>*Hold Short of T*<br>Taxi T,A<br>***OR***<br>Taxi F/D<br>*Hold Short of T*<br>Taxi T,A |  _While taxing on Taxiway T and clear of conflict_  |
-<p style="text-align: center; font-style: italic;">
-Table 3.2.1.1 - 33s Dual Arrival Runway Operations Departure Taxi Procedures
-</p>
-
-##### 3.2.1.2 33s Single Arrival Runway Operations Departure Taxi Procedures
+##### 3.2.1.1 33s Dual-Single Arrival Runway Operations Departure Taxi Procedures
 
 |    **Apron**   | **Departure Runway** |                                             **SMC N Instructions**                                            |                                        **SMC S Instructions**                                        |                  **Handoff to AIR**                 |
 |:--------------:|:--------------------:|:-------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
@@ -170,26 +154,10 @@ Table 3.2.1.1 - 33s Dual Arrival Runway Operations Departure Taxi Procedures
 |   **Apron 5**  |      Runway 33R      |                              Taxi E <br>*Hold Short T*<br>***Handoff to SMC S***                              |                                               Taxi T,G                                               |  _While taxing on Taxiway G and clear of conflict_  |
 |   **Apron 6**  |      Runway 33R      |                                                       -                                                       |       Taxi F,V<br>***OR***<br>Taxi F/D<br>*Hold Short of T*<br>Taxi T,G<br>***OR***<br>Taxi D,V      | _While taxing on Taxiway G/V and clear of conflict_ |
 <p style="text-align: center; font-style: italic;">
-Table 3.2.1.2 - 33s Single Arrival Runway Operations Departure Taxi Procedures
+Table 3.2.1.1 - 33s Dual-Single Arrival Runway Operations Departure Taxi Procedures
 </p>
 
-##### 3.2.1.3 15s Dual Arrival Runway Operations Departure Taxi Procedures
-
-|    **Apron**   | **Departure Runway** |                                             **SMC N Instructions**                                            |                                                             **SMC S Instructions**                                                      |                  **Handoff to AIR**                 |
-|:--------------:|:--------------------:|:-------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
-| **Aprons 1,2** |      Runway 15R      |             Taxi E <br>*Hold Short R*<br>Taxi R,G<br>*Hold Short P*<br>Taxi P<br>*Hold Short A*               |                                                                         -                                                               |  _While taxing on Taxiway P and clear of conflict_  |
-| **Aprons 1,2** |      Runway 15L      |                                      Taxi E <br>*Hold Short R*<br>Taxi R,G                                    |                                                                         -                                                               |  _While taxing on Taxiway G and clear of conflict_  |
-| **Aprons 3,4** |      Runway 15R      |             Taxi E <br>*Hold Short R*<br>Taxi R,G<br>*Hold Short P*<br>Taxi P<br>*Hold Short A*               |                                                                         -                                                               |  _While taxing on Taxiway P and clear of conflict_  |
-| **Aprons 3,4** |      Runway 15L      |                                      Taxi E <br>*Hold Short S*<br>Taxi S,G                                    |                                                                         -                                                               |  _While taxing on Taxiway G and clear of conflict_  |
-|   **Apron 5**  |      Runway 15R      |             Taxi E <br>*Hold Short S*<br>Taxi S,G<br>*Hold Short R*<br>Taxi G,A<br>*Hold Short A*             |                                                                         -                                                               |  _While taxing on Taxiway P and clear of conflict_  |
-|   **Apron 5**  |      Runway 15L      |                       Taxi E <br>*Hold Short S*<br>Taxi S,G<br>*Hold Short R*<br>Taxi G                       |                                                                         -                                                               |  _While taxing on Taxiway G and clear of conflict_  |
-|   **Apron 6**  |      Runway 15R      |                                                  Taxi G,P,A                                                   | Taxi D,U<br>***OR***<br>Taxi F/U<br>*Hold Short of U*<br>Taxi U,G<br>***OR***<br>Taxi D,V,G<br>*Hold Short S*<br>***Handoff to SMC N*** |  _While taxing on Taxiway P and clear of conflict_  |
-|   **Apron 6**  |      Runway 15L      |                                                    Taxi G                                                     | Taxi D,U<br>***OR***<br>Taxi F/U<br>*Hold Short of U*<br>Taxi U,G<br>***OR***<br>Taxi D,V,G<br>*Hold Short S*<br>***Handoff to SMC N*** |  _While taxing on Taxiway G and clear of conflict_  |
-<p style="text-align: center; font-style: italic;">
-Table 3.2.1.3 - 15s Dual Arrival Runway Operations Departure Taxi Procedures
-</p>
-
-##### 3.2.1.4 15s Single Arrival Runway Operations Departure Taxi Procedures
+##### 3.2.1.4 15s Dual-Single Arrival Runway Operations Departure Taxi Procedures
 
 |    **Apron**   | **Departure Runway** |                                             **SMC N Instructions**                                            |                                                             **SMC S Instructions**                                                      |                  **Handoff to AIR**                 |
 |:--------------:|:--------------------:|:-------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|
@@ -198,7 +166,7 @@ Table 3.2.1.3 - 15s Dual Arrival Runway Operations Departure Taxi Procedures
 |   **Apron 5**  |      Runway 15L      |                       Taxi E <br>*Hold Short S*<br>Taxi S,G<br>*Hold Short R*<br>Taxi G                       |                                                                         -                                                               |  _While taxing on Taxiway G and clear of conflict_  |
 |   **Apron 6**  |      Runway 15L      |                                                    Taxi G                                                     | Taxi D,U<br>***OR***<br>Taxi F/U<br>*Hold Short of U*<br>Taxi U,G<br>***OR***<br>Taxi D,V,G<br>*Hold Short S*<br>***Handoff to SMC N*** |  _While taxing on Taxiway G and clear of conflict_  |
 <p style="text-align: center; font-style: italic;">
-Table 3.2.1.4 - 15s Single Arrival Runway Operations Departure Taxi Procedures
+Table 3.2.1.4 - 15s Dual-Single Arrival Runway Operations Departure Taxi Procedures
 </p>
 
 ---
@@ -317,20 +285,8 @@ Table 3.2.5.3 - 33s Single Arrival Runway Operations Arrival Taxi Procedures
 
 ##### 3.2.6.2 33 Dual Arrival Runway Operations (33s DARO) Config
 ###### 3.2.6.2.1 Departures/Arrival Flow
-![Loading](imgs/33mo.png)
-
-###### 3.2.6.2.2 Departures Flow
-![Loading](imgs/33mod.png)
-
-###### 3.2.6.2.3 Arrivals Flow
-![Loading](imgs/33moa.png)
+![Loading](imgs/33daro.png)
 
 ##### 3.2.6.3 15 Dual Arrival Runway Operations (15s DARO) Config
 ###### 3.2.6.3.1 Departures/Arrival Flow
-![Loading](imgs/15mo.png)
-
-###### 3.2.6.3.2 Departures Flow
-![Loading](imgs/15mod.png)
-
-###### 3.2.6.3.3 Arrivals Flow
-![Loading](imgs/15moa.png)
+![Loading](imgs/15daro.png)
