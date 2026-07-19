@@ -2,7 +2,7 @@
 title: "Jeddah [OEJN]"
 ---
 
-![Loading](imgs/tem1.png)
+![Loading](imgs/tem1.png#center)
 
 !!! success "covering" 
     This is the pilot briefing of **King Abdulaziz International Airport**. All pilots flying out of Jeddah must familiarize themselves with this document prior to the flight.
@@ -93,7 +93,7 @@ Depending on the nature of the flight, pilots must fly the correct routes whethe
 #### 3.1.1 Normal Route(s)
 For the majority of departures from **Jeddah**, SimBrief can automatically generate ATC-compliant flight plans by selecting the **"Preferred Route"** option. These routes are maintained and revised by our Operations Department with every AIRAC release to reflect the latest Air Traffic Flow Management (ATFM) requirements across the Middle East, while also ensuring successful validation through Eurocontrol's IFPS.
 
-![Loading](imgs/simbrief.png)
+![Loading](imgs/simbrief.png#center)
 <p style="text-align: center; font-style: italic;">
 Figure 3.1.1 - Simbrief Preferred Route
 </p>
@@ -101,7 +101,7 @@ Figure 3.1.1 - Simbrief Preferred Route
 #### 3.1.2 Event Route(s)
 During the initial phase of the flight, it is **mandatory** for pilots to prefile with the correct event route either provided by **"Suggested Event Routes"** in myVATSIM or amended by the Delivery controller. Otherwise, pilots should expect further delays.
 
-![Loading](imgs/myvatsim.png)
+![Loading](imgs/myvatsim.png#center)
 <p style="text-align: center; font-style: italic;">
 Figure 3.1.2 - Suggested Event Routes
 </p>
