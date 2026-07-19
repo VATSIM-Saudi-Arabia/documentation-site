@@ -2,6 +2,8 @@
 title: "Jeddah [OEJN]"
 ---
 
+![Loading](imgs/tem1.png)
+
 !!! success "covering" 
     This is the pilot briefing of **King Abdulaziz International Airport**. All pilots flying out of Jeddah must familiarize themselves with this document prior to the flight.
 
@@ -22,6 +24,9 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 |     16C    |     3800 x 60      |      160.00      |       28      |   +0.33%  |
 |     34R    |     3800 x 60      |      340.00      |       49      |   -0.14%  |
 |     16L    |     3800 x 60      |      160.00      |       30      |   +0.14%  |
+<p style="text-align: center; font-style: italic;">
+Table 1.1.2 Runway Characteristics
+</p>
 
 #### 1.1.3 Air Traffic Services
 ##### 1.1.3.1 ATS Airspace
@@ -33,6 +38,9 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 | **Terminal Maneuvering Area** | Jeddah TMA Part 2 |   C   | 2500ft - FL195  |    APP 1     |
 |       **Control Area**        |  Jeddah CTA East  |   A   |  FL150 - FL600  |    CTR 1     |
 |       **Control Area**        |  Jeddah CTA West  |   A   |  FL150 - FL600  |    CTR 2     |
+<p style="text-align: center; font-style: italic;">
+Table 1.1.3.1 ATS Airspace
+</p>
 
 ##### 1.1.3.2 ATS Positions
 
@@ -54,6 +62,9 @@ The airport is the busiest in the kingdom and the third-largest by land area and
 | **Jeddah Terminal Control** |     OEJN_W_CTR     |      CTR W       |       125.450       |
 | **Jeddah Terminal Control** |     OEJN_E_CTR     |      CTR E       |       119.100       |
 | **Jeddah Terminal Control** |     OEJN_WU_CTR    |      CTR WU      |       124.825       |
+<p style="text-align: center; font-style: italic;">
+Table 1.1.3.2 ATS Positions
+</p>
 
 ## 2. Stands Allocations
 ### 2.1 Stands
@@ -71,6 +82,9 @@ To ensure immersive experience, pilots are recommended to spawn on the following
 |        Apron 12        |                          Military                           |
 |         Apron 8        |                            Royal                            |
 |         Apron G        |                       General Aviation                      |
+<p style="text-align: center; font-style: italic;">
+Table 2.1 Stands Allocations
+</p>
 
 ## 3. Preflight
 ### 3.1 Flight Planning
@@ -106,6 +120,9 @@ For events with individual CTOTs, your TSAT will be generated after you receive 
 | TOBT (Target Off-Block Time)        | This is the time that you target to offblock. Keeping your TOBT up to date will help ATC to reduce delays and ensure a smooth operation. When you set a TOBT, ATC will treat it as a confirmed time and calculate your TSAT based on it.                                                                                                                                                                                                |
 | TSAT (Target Startup Approval Time) | This is the time when ATC is planning to approve your startup. Keep in mind that it is ultimately your responsibility as the pilot to request startup within the TSAT window.<br>In an optimal situation, your TOBT and TSAT will be at the same time. However, if there are more aircraft wanting to depart than the airport can currently accommodate, startups will be delayed and your TSAT will be at a later time than your TOBT. |
 | CTOT (Calculated Take-Off Time)     | This is the actual slot for you to take off from the departure airport.                                                                                                                                                                                                                                                                                                                                                                 |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.1 CDM Time Definitions
+</p>
 
 #### 3.2.2 CDM Procedure and Checklist
 
@@ -160,10 +177,11 @@ Pilots wishing to obtain their clearance via **Hoppie datalink** should send a c
 !!! Warning
     **Clearance Delivery** does not issue pushback or engine start approval. After receiving your departure clearance, remain on the **Clearance Delivery** frequency and do **not** transfer to **Ground** unless instructed. Once your aircraft is fully prepared for pushback—including the jetway disconnected, tug attached, and wheel chocks removed—report **fully ready** on the Clearance Delivery frequency. When appropriate, and depending on the current airport departure flow, you will be instructed to contact the relevant **Ground** frequency for pushback and start.
 
-## 4. Pushback Procedures
+## 4. Ground Movement Operations
+### 4.1 Pushback Procedures
 Pushback and engine start approval may only be requested after **Clearance Delivery** instructs you to contact the designated **Ground** frequency. Depending on traffic conditions and apron operations, the ground controller may assign a specific pushback procedure or direction. Pilots must confirm they are able to comply with the instruction and promptly notify the controller if they are unable to do so.
 
-### 4.1  Apron Flow Direction
+#### 4.1.1 Apron Flow Direction
 
 |       **Apron(s)**       |     _34 Operations_     | _16s Operations_ |
 |:------------------------:|:-----------------------:|:----------------:|
@@ -172,13 +190,16 @@ Pushback and engine start approval may only be requested after **Clearance Deliv
 |        **Apron C**       |        Westbound        |    Westbound     |
 | **Aprons 1, 2, 3, 4, 5** |        Southbound       |    Northbound    |
 |        **Apron 7**       |        Southbound       |    Northbound    |
+<p style="text-align: center; font-style: italic;">
+Table 4.1.1 Apron Flow Direction
+</p>
 
 !!! Example
-    > **Pilot:** ETD901, Stand C3, request pushback.
+    > **Pilot:** _ETD901, Stand C3, request pushback_
 
-    > **Controller:** ETD901, Push & Start Approved, Face West on WA.
+    > **Controller:** _ETD901, Push & Start Approved, Face West on WA_
 
-### 4.2 Colored Taxilines
+#### 4.1.2 Colored Taxilines
 `Code C` aircraft operating within **Aprons A and B** shall use the designated **colour-coded taxilines** to facilitate efficient and quick ground movement taxi/pushback operations in large aprons.
 
 Pilots unable to push on colored lines shall immediately inform apron/ground controller if cleared for push onto them
@@ -187,9 +208,77 @@ Pilots unable to push on colored lines shall immediately inform apron/ground con
 |:----------:|:------------:|:------------------------------------------------:|
 |  **Blue**  |    KB, LB    | Code C (Aircrafts with a wingspan less then 36m) |
 | **Orange** |    KC, LC    | Code C (Aircrafts with a wingspan less then 36m) |
+<p style="text-align: center; font-style: italic;">
+Table 4.1.2 Colored Taxilines
+</p>
 
 !!! Example
-    > **Controller**: SVA1024, Push & Start approved, face south on the blue line.
+    > **Controller**: _SVA1024, Push & Start approved, face south on the blue line_
 
 !!! note "CDM Procedure"
     During **flow management** operations, pushback shall be planned **plus or minus 5 minutes** from the assigned TSAT. Traffic will only be handed off to apron/ground after this is met.
+
+### 4.2 Taxi Procedures
+Controller may assign different taxi routes or holding points depending on traffic and aircraft characteristics. Pilots are expected to follow all assigned taxi instructions without deviation.
+
+!!! Example
+    > **Controller**: _SVA1024, Taxi via LB, L3, ME, Holding point M2 runway 34R_
+
+#### 4.2.1 Taxi Flow
+The diagrams below illustrate the standard taxi routes in use. These routes may be modified by ATC to accommodate operational reasons or traffic conditions. In all cases, pilots shall follow ATC instructions if they differ from the published taxi routing.
+
+#### 4.2.2 Departure Holding points
+
+|       **Runway**       |  **Departure point**   |
+|:----------------------:|:----------------------:|
+|           34L          |        B1 / U          |
+|           34C          |        G1, G2 / H1, H2 |
+|           34R          |        M1, M2 / N1     |
+|           16L          |        M8, M9 / N9     |
+|           16C          |        G6 / H7         |
+|           16R          |        A7 / B7         |
+<p style="text-align: center; font-style: italic;">
+Table 4.2.2 Departure Holding points
+</p>
+
+## 5. Departure Procedures
+### 5.1 Standard Instrument Departures (SIDs)
+
+| **Exit Points** | **EGREP** | **DATAP** | **MIGDA** | **BOMOX** | **KAROX** | **RIBAM** | **EGPOB** | **ISLAM** |
+| :-------------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+|     **34L**     |    2X     |    2X     |    2X     |    2X     |    2X     |    2X     |    2X     |    2X     |
+|     **34R**     |    3V     |    3V     |    3V     |    3V     |    3V     |    3V     |    3V     |    2V     |
+|     **34C**     |    2W     |    2W     |    2W     |    2W     |    2W     |    2W     |    2W     |    2W     |
+|     **16L**     |    3D     |    3D     |    3D     |    3D     |    3D     |    3D     |    3D     |    2D     |
+|     **16R**     |    2F     |    2F     |    2F     |    2F     |    2F     |    2F     |    2F     |    1F     |
+|     **16C**     |    2E     |    2E     |    2E     |    2E     |    2E     |    2E     |    2E     |    1E     |
+<p style="text-align: center; font-style: italic;">
+Table 5.1 Standard Instrument Departures (SIDs)
+</p>
+
+!!! info "Omnidirectional Departures"
+    Omni-Directional Departures may be used if an older AIRAC is in use and the latest SID’s are not available.
+
+### 5.2 Runway Operations
+
+- The preferred runway configuration is 34s when the wind is slacking (less than 6 Kt).
+- Expect hand off at 800 feet and passing the threshold (end of the runway).
+- Independent Parallel Departures in progress between RWY 34C/16C and RWY 34R/16L.
+
+#### 5.2.1 Minimum Runway Occupancy Time
+To maximize runway utilization at King Abdulaziz International Airport, pilots must follow the
+following procedures:
+
+- On receipt of the line-up clearance, pilots shall taxi into position expeditiously.
+- If pilots require more separation than the WTS time-based standard or extra time for any other reason, advise ATC early PRIOR to entering the runway, NOT when on the runway. When informed, ATC may be able to make changes in the departure sequence, if necessary, to minimize delays to other succeeding departures.
+- Cockpit checks shall be completed prior to line-up, any checks requiring completion whilst on the runway should be kept to the minimum required. Pilots should ensure that they are able to commence the take-off roll immediately when take-off clearance is issued.
+- Once ATC issues a take-off clearance, if there is any unreasonable delay in the aircraft commencing the take-off roll, ATC may cancel the take-off clearance and reposition the aircraft in the departure sequence.
+- When cleared for take-off, ATC will expect and will have planned on seeing movement within 8 to 10 seconds of the take-off clearance being issued.
+
+### 5.3 Altitude Restrictions
+All altitude restrictions on the SID are mandatory and must be complied with unless otherwise instructed by ATC.
+
+### 5.4 Speed Restrictions
+- All speed restrictions on the SID are mandatory and must be complied with unless otherwise instructed by ATC. Pilots shall strictly adhere to the speed assigned by ATC and shall request ATC approval before making any changes thereto. If it is essential to make an immediate temporary change in speed, e.g. due to turbulence, ATC shall be notified as soon as possible.
+- Pilots should anticipate the following standard speed restrictions. ATC will confirm speed restriction instructions.
+- If speed control is considered excessive or contrary to safe aircraft operation, ATC must be informed without delay.
