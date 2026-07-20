@@ -1,0 +1,31 @@
+{
+  "name": "documentation-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pilot-Mishari/documentation-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pilot-Mishari/documentation-site/issues"
+  },
+  "homepage": "https://github.com/Pilot-Mishari/documentation-site#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.7",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "node-fetch": "^2.7.0"
+  }
+}

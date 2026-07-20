@@ -441,3 +441,11 @@
         box-shadow: inherit;
     }
 }
+
+.main-animate{
+    transition: 0.4s;
+}
+
+.main-animate:hover{
+    transition: 0.4s;
+}
