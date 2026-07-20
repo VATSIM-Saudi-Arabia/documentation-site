@@ -175,11 +175,11 @@ Stands are assigned by the GRPlugin in the Euroscope, but controllers should pre
 
 |       **Aprons**       |                         **Airlines**                        |
 |:----------------------:|:-----------------------------------------------------------:|
-|         Apron 2        |        International Airlines (Non-SkyTeam carriers)        |
-|         Apron 3        |   International Airlines (Iraqi, Sun air, Ariana Afghan )   |
-|         Apron 4        |                     International Airlines                  |
-|         Apron 5        |               Saudi Airline (International Flights)         |
-|         Apron 6        |         Domestic & Lowcost (Flynas, Flyadeal, Saudi)        |
+|         Apron 2        |     Lowcost International Flights (Flynas, Flyadeal)        |
+|         Apron 3        |     Saudia Airline & Riyadh Air (International Flights)     |
+|         Apron 4        |   Mixed Domestic & International (Flynas, Flyadeal, Saudi)  |
+|         Apron 5        |         Domestic & Lowcost (Flynas, Flyadeal, Saudi)        |
+|         Apron 6        |   International Airlines (Iraqi, Sun air, Ariana Afghan)    |
 |         Apron 7 & 9    |                           Royal Aprons                      |
 |         Apron C        |                           Cargo Flights                     |
 |         Apron G        |                         General Aviation                    |
