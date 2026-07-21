@@ -147,7 +147,7 @@ If you failed to pushback/start up within +5 minutes after TSAT
 ### 3.3 Getting your clearance
 
 #### 3.3.1 Voice Clearance
-**Voice communication** is the preferred method for obtaining departure clearance. Pilots should contact **Dubai Delivery** approximately **10 minutes before start-up** and prepare to provide the following information:
+**Voice communication** is the preferred method for obtaining departure clearance. Pilots should contact **Jeddah Delivery** approximately **10 minutes before start-up** and prepare to provide the following information:
 
 - Aircraft Callsign
 - Aircraft Type
