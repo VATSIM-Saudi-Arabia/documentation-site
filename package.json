@@ -7,8 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "vercel-build": "pip3 install mkdocs-material mkdocs-pdf && mkdocs build"
+    "test": "echo "Error: no test specified" && exit 1",
+    "vercel-build": "pip3 install --break-system-packages mkdocs-material mkdocs-pdf && python3 -m mkdocs build"
   },
   "repository": {
     "type": "git",
