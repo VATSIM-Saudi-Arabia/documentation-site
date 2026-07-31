@@ -98,6 +98,26 @@
     text-align:center;
   }
   .note a{ color:var(--fg); text-decoration:underline; }
+
+  .alert{
+    display:none;
+    margin-bottom:20px;
+    padding:12px 14px;
+    border-radius:6px;
+    font-size:13px;
+    line-height:1.5;
+    border:1px solid;
+  }
+  .alert.warn{
+    background:rgba(200,150,40,0.12);
+    border-color:rgba(200,150,40,0.4);
+    color:#e0b954;
+  }
+  .alert.error{
+    background:rgba(190,60,50,0.12);
+    border-color:rgba(190,60,50,0.4);
+    color:#e07d74;
+  }
 </style>
 </head>
 <body>
@@ -109,6 +129,13 @@
     <h1>Sign in to continue</h1>
     <p class="sub">Access is restricted to authenticated VATSIM members.</p>
 
+    <div class="alert warn" id="alert-restricted">
+      You need to sign in to view the selected document.
+    </div>
+    <div class="alert error" id="alert-unauthorized">
+      Your VATSIM account doesn't have access to this site. Contact an admin if you believe this is a mistake.
+    </div>
+
     <a class="vatsim-btn" href="/auth/vatsim" id="vatsim-login">
       Sign in with VATSIM Connect
     </a>
@@ -117,5 +144,18 @@
       No account? Register at <a href="https://my.vatsim.net" target="_blank" rel="noopener">my.vatsim.net</a>
     </p>
   </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('restricted')) {
+      document.getElementById('alert-restricted').style.display = 'block';
+    }
+    if (params.get('error') === 'unauthorized') {
+      document.getElementById('alert-unauthorized').style.display = 'block';
+    }
+    if (params.get('to') === 'admin') {
+      document.getElementById('vatsim-login').href = '/auth/vatsim?to=admin';
+    }
+  </script>
 </body>
 </html>
