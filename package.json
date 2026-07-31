@@ -2,31 +2,15 @@
   "name": "documentation-site",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "type": "module",
   "scripts": {
-    "test": "echo "Error: no test specified" && exit 1",
+    "test": "echo no-tests-specified",
     "vercel-build": "pip3 install --break-system-packages mkdocs-material mkdocs-pdf && python3 -m mkdocs build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pilot-Mishari/documentation-site.git"
+  "dependencies": {
+    "@vercel/functions": "^1.5.0"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Pilot-Mishari/documentation-site/issues"
-  },
-  "homepage": "https://github.com/Pilot-Mishari/documentation-site#readme",
-  "dependencies": {
-    "@supabase/supabase-js": "^2.110.7",
-    "dotenv": "^17.4.2",
-    "express": "^5.2.1",
-    "express-session": "^1.19.0",
-    "node-fetch": "^2.7.0"
-  }
+  "license": "ISC"
 }

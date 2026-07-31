@@ -1,96 +1,144 @@
+import { next } from '@vercel/functions';
+
 export const config = { runtime: 'edge' };
 
 const COOKIE_NAME = 'vatsim_session';
+const PROFILE_COOKIE_NAME = 'vatsim_profile';
 const SESSION_HOURS = 8;
+
+// Paths accessible to everyone, no sign-in required.
+// Edit these to match your actual site's URL structure exactly
+// (check by hovering the nav links on the live site).
+const PUBLIC_EXACT = ['/', '/index.html'];
+const PUBLIC_PREFIXES = [
+  '/Briefing%28s%29/',
+  '/Published-Documents/',
+  '/search/'
+];
+
+function isPublic(pathname) {
+  return PUBLIC_EXACT.includes(pathname) || PUBLIC_PREFIXES.some(p => pathname.startsWith(p));
+}
 
 export default async function middleware(req) {
   const url = new URL(req.url);
   const { pathname, origin } = url;
 
-  if (pathname === '/auth/vatsim') return startLogin();
+  if (pathname === '/auth/vatsim') return startLogin(url);
   if (pathname === '/auth/vatsim/callback') return handleCallback(req, url);
   if (pathname === '/logout') return logout();
-  if (pathname === '/login' || pathname === '/login.html') return fetch(req);
+  if (pathname === '/login.html') return next();
+  if (pathname.startsWith('/assets/') || pathname.startsWith('/stylesheets/')) return next();
+  if (isPublic(pathname)) return next();
 
   const session = await getSession(req);
 
   if (pathname.startsWith('/admin')) {
-    if (!session || !session.isAdmin) return new Response('Forbidden', { status: 403 });
+    if (!session) {
+      return Response.redirect(`${origin}/login.html?restricted=1&to=admin`, 302);
+    }
+    if (!session.isAdmin) return new Response('Forbidden', { status: 403 });
     if (pathname === '/admin/api/users') return adminUsersApi(req);
     if (pathname.startsWith('/admin/api/users/')) return adminDeleteApi(req, url);
-    return fetch(req);
+    if (pathname === '/admin' || pathname === '/admin/') {
+      return Response.redirect(`${origin}/admin.html`, 302);
+    }
+    return next();
   }
 
   if (!session) {
-    return Response.redirect(`${origin}/login`, 302);
+    return Response.redirect(`${origin}/login.html?restricted=1`, 302);
   }
 
-  return fetch(req);
+  return next();
 }
 
-function startLogin() {
+function startLogin(url) {
+  const to = url.searchParams.get('to') === 'admin' ? 'admin' : '';
   const params = new URLSearchParams({
     client_id: process.env.VATSIM_CLIENT_ID,
     redirect_uri: process.env.REDIRECT_URI,
     response_type: 'code',
-    scope: 'full_name vatsim_details email'
+    scope: 'full_name vatsim_details email',
+    state: to
   });
   return Response.redirect(`${process.env.VATSIM_AUTH_URL}/oauth/authorize?${params}`, 302);
 }
 
 async function handleCallback(req, url) {
-  const code = url.searchParams.get('code');
-  if (!code) return Response.redirect(`${url.origin}/login`, 302);
+  try {
+    const code = url.searchParams.get('code');
+    if (!code) return Response.redirect(`${url.origin}/login.html`, 302);
 
-  const tokenRes = await fetch(`${process.env.VATSIM_AUTH_URL}/oauth/token`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-    body: new URLSearchParams({
-      grant_type: 'authorization_code',
-      client_id: process.env.VATSIM_CLIENT_ID,
-      client_secret: process.env.VATSIM_CLIENT_SECRET,
-      redirect_uri: process.env.REDIRECT_URI,
-      code
-    })
-  });
-  const tokenData = await tokenRes.json();
-  if (!tokenData.access_token) {
-    return Response.redirect(`${url.origin}/login?error=server`, 302);
-  }
-
-  const userRes = await fetch(`${process.env.VATSIM_AUTH_URL}/api/user`, {
-    headers: { Authorization: `Bearer ${tokenData.access_token}` }
-  });
-  const userData = await userRes.json();
-  const cid = userData.data.cid;
-
-  const allowedUser = await supabaseFetch(`allowed_users?cid=eq.${cid}&select=cid,is_admin`);
-  if (!allowedUser || allowedUser.length === 0) {
-    return Response.redirect(`${url.origin}/login?error=unauthorized`, 302);
-  }
-
-  const cookie = await createSessionCookie({
-    cid,
-    isAdmin: !!allowedUser[0].is_admin,
-    exp: Date.now() + SESSION_HOURS * 60 * 60 * 1000
-  });
-
-  return new Response(null, {
-    status: 302,
-    headers: {
-      Location: `${url.origin}/`,
-      'Set-Cookie': `${COOKIE_NAME}=${cookie}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=${SESSION_HOURS * 3600}`
+    const tokenRes = await fetch(`${process.env.VATSIM_AUTH_URL}/oauth/token`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({
+        grant_type: 'authorization_code',
+        client_id: process.env.VATSIM_CLIENT_ID,
+        client_secret: process.env.VATSIM_CLIENT_SECRET,
+        redirect_uri: process.env.REDIRECT_URI,
+        code
+      })
+    });
+    const tokenData = await tokenRes.json();
+    if (!tokenData.access_token) {
+      return Response.redirect(`${url.origin}/login.html?error=server`, 302);
     }
-  });
+
+    const userRes = await fetch(`${process.env.VATSIM_AUTH_URL}/api/user`, {
+      headers: { Authorization: `Bearer ${tokenData.access_token}` }
+    });
+    const userData = await userRes.json();
+    const cid = userData?.data?.cid;
+    if (!cid) {
+      return Response.redirect(`${url.origin}/login.html?error=no_cid`, 302);
+    }
+
+    const allowedUser = await supabaseFetch(`allowed_users?cid=eq.${cid}&select=cid,is_admin`);
+    if (!allowedUser || allowedUser.__error) {
+      return Response.redirect(`${url.origin}/login.html?error=supabase_unreachable&debug_cid=${cid}&debug_status=${allowedUser?.status}`, 302);
+    }
+    if (allowedUser.length === 0) {
+      return Response.redirect(`${url.origin}/login.html?error=unauthorized&debug_cid=${cid}`, 302);
+    }
+
+    const cookie = await createSessionCookie({
+      cid,
+      isAdmin: !!allowedUser[0].is_admin,
+      exp: Date.now() + SESSION_HOURS * 60 * 60 * 1000
+    });
+    const profileCookie = await createProfileCookie({
+      cid,
+      displayName: getDisplayName(userData),
+      exp: Date.now() + SESSION_HOURS * 60 * 60 * 1000
+    });
+
+    const state = url.searchParams.get('state');
+    const destination = (state === 'admin' && allowedUser[0].is_admin) ? '/admin.html' : '/';
+    const headers = new Headers();
+    headers.set('Location', `${url.origin}${destination}`);
+    headers.append('Set-Cookie', `${COOKIE_NAME}=${cookie}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=${SESSION_HOURS * 3600}`);
+    headers.append('Set-Cookie', `${PROFILE_COOKIE_NAME}=${profileCookie}; Path=/; SameSite=Lax; Max-Age=${SESSION_HOURS * 3600}`);
+
+    return new Response(null, {
+      status: 302,
+      headers
+    });
+  } catch (err) {
+    return Response.redirect(`${url.origin}/login.html?error=exception&debug_msg=${encodeURIComponent(err.message).slice(0, 150)}`, 302);
+  }
 }
 
 function logout() {
+  const headers = new Headers();
+  headers.set('Location', '/login.html');
+  headers.append('Set-Cookie', `${COOKIE_NAME}=; Path=/; HttpOnly; Secure; Max-Age=0`);
+  headers.append('Set-Cookie', `${PROFILE_COOKIE_NAME}=; Path=/; SameSite=Lax; Max-Age=0`);
+
   return new Response(null, {
     status: 302,
-    headers: {
-      Location: '/login',
-      'Set-Cookie': `${COOKIE_NAME}=; Path=/; HttpOnly; Secure; Max-Age=0`
-    }
+    headers
   });
 }
 
@@ -98,6 +146,15 @@ async function createSessionCookie(payload) {
   const data = btoa(JSON.stringify(payload));
   const sig = await hmac(process.env.COOKIE_SECRET, data);
   return `${data}.${sig}`;
+}
+
+async function createProfileCookie(payload) {
+  return btoa(JSON.stringify(payload));
+}
+
+function getDisplayName(userData) {
+  const data = userData?.data || {};
+  return data.full_name || data.name || data.personal?.name || data.cid || '';
 }
 
 async function getSession(req) {
@@ -137,7 +194,10 @@ async function supabaseFetch(path, options = {}) {
       ...(options.headers || {})
     }
   });
-  if (!res.ok) return null;
+  if (!res.ok) {
+    const body = await res.text().catch(() => '');
+    return { __error: true, status: res.status, body: body.slice(0, 200) };
+  }
   return res.json();
 }
 
