@@ -149,13 +149,63 @@ Stands are assigned by the GRPlugin in the Euroscope, but controllers should pre
 |        GA Apron        |                       General Aviation                      |
 |      Royal Apron       |                            Royal                            |
 
-#### 3.2.3  Arrival Taxi Procedures
-##### 3.2.3.1 General Arrival Taxi Procedures
+#### 3.2.3 Arrival Taxi Routes [ATRs]
+**Arrival Taxi Routes (ATRs)** are short pre-defined initial taxi paths for traffic that are designed to maintain a smooth flow of traffic after aircraft vacate the runway. These routes are established to prevent traffic congestion around the RETs and to optimize the tower's efficiency by avoiding the need to provide initial taxiway instructions. Instead, the tower instructs the aircraft to follow one of the predetermined ATRs based on the assigned parking stand by the Ground (GND) controller.
+
+This allows for a smooth and immediate transfer of traffic to the appropriate ground controller.
+
+!!! caution "Do Note"
+    The Tower controller is responsible for assigning the Arrival Taxi Route (ATR) to aircraft. However, it is essential for the Ground controller to be familiar with these routes in order to anticipate when transfers from the Tower will occur and to follow the correct handoff procedure. 
+
+    By being familiar with the ATRs, the Ground controller can anticipate the aircraft's movements and facilitate effective communication and coordination during the handoff process between the Tower and Ground controllers.
+
+    It also the ground controller's responsiblity to beware of these ATRs and be cautious when clearing other aircrafts in the path of the ATRs.
+
+#####  3.2.3.1. 35 Arrival Taxi Routes
+| **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
+|:----------------------:|--------|:-----------------------------:|:--------------:|
+|           J4A          |   35   |     J **Hold Short of N**     |   AIR to SMC   |
+|           J5A          |   35   |     J **Hold Short of P**     |   AIR to SMC   |
+|           J7A          |   35   |     J **Hold Short of P**     |   AIR to SMC   |
+|           J8A          |   35   |     J **Hold Short of P**     |   AIR to SMC   |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.3.1 - 35 Arrival Taxi Routes
+</p>
+
+
+!!! caution
+    All Traffic Movements on J must give way to traffic vacating runway 35/17.
+
+#####  3.2.3.2. 17 Arrival Taxi Routes
+| **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
+|:----------------------:|--------|:-----------------------------:|:--------------:|
+|           J1B          |   17   |     J **Hold Short of K**     |   AIR to SMC   |
+|           J2L          |   17   |     J **Hold Short of W**     |   AIR to SMC   |
+|           J2S          |   17   |     K **Hold Short of L**     |   AIR to SMC   |
+|           J3R          |   17   |     J **Hold Short of K**     |   AIR to SMC   |
+|           J3L          |   17   |     J **Hold Short of N**     |   AIR to SMC   |
+|           J3S          |   17   |     W **Hold Short of L**     |   AIR to SMC   |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.3.2 - 17 Arrival Taxi Routes
+</p>
+
+
+!!! caution
+    All Traffic Movements on J must give way to traffic vacating runway 35/17.
+
+#####  3.2.3.3. Diagram of Arrival Taxi Routes
+![Loading](imgs/ATR.png#center)
+<p style="text-align: center; font-style: italic;">
+Figure 4.2.2.3 - Arrival Taxi Routes Diagram
+</p>
+
+#### 3.2.4  Arrival Taxi Procedures
+##### 3.2.4.1 General Arrival Taxi Procedures
 SMC should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile. This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below.
 
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow the designated ATR and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 
-##### 3.2.3.2 35/36 Arrival Taxi Procedures
+##### 3.2.4.2 35/36 Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   | **Vacate via** |             **Taxi via**            |   **Intermediate hold By TWR**  |
 |:----------------------------------:|:----------------:|:--------------:|:-----------------------------------:|:-------------------------------:|
 |     **International Airlines**     |    East Apron    |    J4/J5 [35]  |                 N/W, L              |              **P/N**            |
@@ -163,7 +213,7 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 |          **Royal Aprons**          |    West Apron    |        H [36]  |                 D, R                |               **D**             |
 |        **General Aviation**        |    West Apron    |        H [36]  |                 D, S                |               **D**             |
 
-##### 3.2.3.2 17/18 Arrival Taxi Procedures
+##### 3.2.4.3 17/18 Arrival Taxi Procedures
 |               **Type**             |    **Taxi to**   | **Vacate via** |             **Taxi via**            |   **Intermediate hold By TWR**  |
 |:----------------------------------:|:----------------:|:--------------:|:-----------------------------------:|:-------------------------------:|
 |     **International Airlines**     |    East Apron    |    J2/J3 [17]  |                 K/W, L              |               **L**             |
@@ -171,14 +221,14 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 |          **Royal Aprons**          |    West Apron    |      A/B [18]  |                 D, R                |               **D**             |
 |        **General Aviation**        |    West Apron    |      A/B [18]  |                 D, S                |               **D**             |
 
-#### 3.2.4 Taxi Diagrams
-##### 3.2.4.1 Legend
+#### 3.2.5 Taxi Diagrams
+##### 3.2.5.1 Legend
 ###### Departures Flow
 ![Loading](imgs/blue.png)
 ###### Arrivals Flow
 ![Loading](imgs/yellow.png)
 
-##### 3.2.4.2 35/36 Configuration
+##### 3.2.5.2 35/36 Configuration
 ![Loading](imgs/35sro.png)
-##### 3.2.4.2 17/18 Configuration
+##### 3.2.5.3 17/18 Configuration
 ![Loading](imgs/17sro.png)
