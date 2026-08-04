@@ -177,20 +177,73 @@ On initial contact with AIR, traffic **must** be advised to expect an exit point
 
 > **AIR:** *"SVA123, Plan to vacate J4, winds 340 degrees 10kts, runway 35, cleared to land"*
 
-#### 4.2.2 Separation requirements
+#### 4.2.2. Arrival taxi routes
 
-##### 4.2.2.1 General
+**Arrival Taxi Routes (ATRs)** are short pre-defined initial taxi paths for traffic that are designed to maintain a smooth flow of traffic after aircraft vacate the runway. These routes are established to prevent traffic congestion around the RETs and to optimize the tower's efficiency by avoiding the need to provide initial taxiway instructions. Instead, the tower instructs the aircraft to follow one of the predetermined ATRs based on the assigned parking stand by the Ground (GND) controller.
+
+This allows for a smooth and immediate transfer of traffic to the appropriate ground controller.
+
+!!! caution "Do Note"
+    The Tower controller is responsible for assigning the Arrival Taxi Route (ATR) to aircraft.
+
+    Example: 
+
+    > **Pilot**: *"SVA123, vacating via J4"*
+
+    > **AIR**: *"SVA123, Follow the J4A Arrival Taxi Route, Contact Ground 121.900"*
+
+#####  4.2.2.1. 35 Arrival Taxi Routes
+| **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
+|:----------------------:|--------|:-----------------------------:|:--------------:|
+|           J4A          |   35   |     J **Hold Short of N**     |   AIR to SMC   |
+|           J5A          |   35   |     J **Hold Short of P**     |   AIR to SMC   |
+|           J7A          |   35   |     J **Hold Short of P**     |   AIR to SMC   |
+|           J8A          |   35   |     J **Hold Short of P**     |   AIR to SMC   |
+<p style="text-align: center; font-style: italic;">
+Table 4.2.2.1 - 35 Arrival Taxi Routes
+</p>
+
+
+!!! caution
+    All Traffic Movements on J must give way to traffic vacating runway 35/17.
+
+#####  4.2.2.2. 17 Arrival Taxi Routes
+| **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
+|:----------------------:|--------|:-----------------------------:|:--------------:|
+|           J1B          |   17   |     J **Hold Short of K**     |   AIR to SMC   |
+|           J2L          |   17   |     J **Hold Short of W**     |   AIR to SMC   |
+|           J2S          |   17   |     K **Hold Short of L**     |   AIR to SMC   |
+|           J3R          |   17   |     J **Hold Short of K**     |   AIR to SMC   |
+|           J3L          |   17   |     J **Hold Short of N**     |   AIR to SMC   |
+|           J3S          |   17   |     W **Hold Short of L**     |   AIR to SMC   |
+<p style="text-align: center; font-style: italic;">
+Table 4.2.2.2 - 17 Arrival Taxi Routes
+</p>
+
+
+!!! caution
+    All Traffic Movements on J must give way to traffic vacating runway 35/17.
+
+#####  4.2.2.3. Diagram of Arrival Taxi Routes
+![Loading](imgs/ATR.png#center)
+<p style="text-align: center; font-style: italic;">
+Figure 4.2.2.3 - Arrival Taxi Routes Diagram
+</p>
+
+#### 4.2.3 Separation requirements
+
+##### 4.2.3.1 General
 While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold.
 
-##### 4.2.2.2 Speed control
+##### 4.2.3.2 Speed control
 AIR may use a tactical reduction in aircraft speed in order to ensure minimum separation between aircrafts.
 
 > **AIR:** *SVA123, reduce to final approach speed.*
 
-##### 4.2.2.3 Wake turbulence separation minima
+##### 4.2.3.3 Wake turbulence separation minima
 Standard ICAO Separation is enforce in the Medinah CTR.
 
-#### 4.2.3 Go around procedure
+#### 4.2.4 Go around procedure
 
 At any time should a runway become unsuitable for an aircraft landing, or separation minima  is not met, aircraft shall be instructed to go-around.
 
