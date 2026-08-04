@@ -22,8 +22,7 @@ function isPublic(pathname) {
 
 export default async function middleware(req) {
   const url = new URL(req.url);
-  const origin = url.origin;
-  const pathname = url.pathname.replace(/\/+$/, '') || '/';
+  const { pathname, origin } = url;
 
   if (pathname === '/auth/vatsim') return startLogin(url);
   if (pathname === '/auth/vatsim/callback') return handleCallback(req, url);
