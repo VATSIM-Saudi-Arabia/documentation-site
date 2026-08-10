@@ -266,7 +266,7 @@ This allows for a smooth and immediate transfer of traffic to the appropriate gr
 |           M7X          | 34R    |  M, S, L **Hold Short of MA** | AIR E to SMC E |
 |           M7O          | 34R    |    M, R **Hold Short of J**   | AIR E to SMC C |
 |           B3X          | 34L    |     B **Hold Short of B5**    | AIR W to SMC W |
-|           B5X          | 34L    | D5, D3-W **Hold Short of B5** | AIR W to SMC W |
+|           B5X          | 34L    | D5, C **Hold Short of D3-W** | AIR W to SMC W |
 |           B5O          | 34L    |     B **Hold Short of D6**    | AIR W to SMC W |
 <p style="text-align: center; font-style: italic;">
 Table 4.2.1 - 34 Arrival Taxi Routes
