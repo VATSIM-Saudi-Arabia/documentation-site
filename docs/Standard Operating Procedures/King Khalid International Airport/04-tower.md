@@ -98,10 +98,10 @@ At King Khalid International Airport, standard runway configurations for normal 
 
 The configurations, listed from most preferred to least preferred, are as follows:
 
-- 33s Mixed Operations
-- 33s Semi-mixed Operations
-- 15s Mixed Operations
-- 15s Semi-mixed Operations
+- 33s Dual Arrival Runway Operations
+- 33s Single Arrival Runway Operations
+- 15s Dual Arrival Runway Operations
+- 15s Single Arrival Runway Operations
 
 !!! info "Do note."
     Exceptions to runway configurations can be granted per pilot's request after approval from AIR and APP. 
