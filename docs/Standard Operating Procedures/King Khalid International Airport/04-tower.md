@@ -368,5 +368,5 @@ Once the traffic has entered the control zone, further intructions to direct to 
 
 |     **Runway Configuration**      |  **Direction** | **Altitude(s)** |
 | :-------------------------------: | :------------: | :-------------: |
-|                 33s               |   Right Hand   |      3500ft     |
-|                 15s               |    Left Hand   |      3500ft     |
+|                 33R/15R               |   Right Hand   |      3500ft     |
+|                 33L/15L               |    Left Hand   |      3500ft     |
