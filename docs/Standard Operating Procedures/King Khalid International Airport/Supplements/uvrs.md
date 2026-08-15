@@ -48,3 +48,5 @@ title: "Supplement B - Urban Visual Routes (UVRs)"
 ---
 
 ## 3. Urban Visual Routes (UVRs) Chart
+
+![Alt text](/assets/Ruhuvr1.pdf){ type=application/pdf style="min-height:100vh;width:100%" }
