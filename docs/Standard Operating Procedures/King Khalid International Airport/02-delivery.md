@@ -45,15 +45,15 @@ An IFR clearance shall contain:
 
 In Riyadh, the standard GACA phrasesology is used. For IFR Clearances, the following phrasesolgy must strictly be adhered to.
 
-> **Pilot:** _SVA123, Stand 304, A320, requesting IFR clearance to Dammam_
+> **Pilot:** _SVA1043, Stand 304, A320, requesting IFR clearance to Dammam_
 
-> **GMP:** _SVA123, Cleared Dammam as filed, AMBAG2 D Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _SVA1043, Cleared Dammam as filed, ORNIP1D Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">
 --------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------
 </p>
 
-> **GMP:** _SVA123, Readback Correct, Information A, Report ready for push and start_
+> **GMP:** _SVA1043, Readback Correct, Information A, Report ready for push and start_
 
 !!! tip "Keep in mind"
     GMP shall obtain a full readback of the clearance. If the pilot reports the current information on initial contact, GMP must not repeat it.
@@ -81,7 +81,7 @@ All Standard Instrument Departures used in Riyadh are  **RNAV standard instrumen
 GMP may use the following phrasesolgy to issue Radar Vector departures to traffic.
 
 
-> **GMP:** _SVA123, Cleared Dammam as filed, Radar Vectors after departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
+> **GMP:** _SVA1043, Cleared Dammam as filed, Radar Vectors after departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
 
 !!! tip
     When giving Radar Departures, type **"RAD"** in the scratch pad so upper controllers don't forget and you too!
@@ -98,7 +98,7 @@ If a traffic files an invalid route, they shall be informed by GMP of such as so
 
 GMP may use the following phrasesolgy to reroute traffic.
 
-> **GMP:** SVA123, Cleared Jeddah, RGB M309 VEMEM, Flight plan route, UMASU2D, Runway 33R, Initial Climb 8000ft, SQWK XXXX
+> **GMP:** _SVA1043, Cleared Jeddah, RGB M309 VEMEM, Flight plan route, UMASU2D, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
 
 Altough this is allowed, it consumes time on frequency which maybe needed for other traffic on the frequency. Therefore, Rerouting by Private Message is preferred.
 
