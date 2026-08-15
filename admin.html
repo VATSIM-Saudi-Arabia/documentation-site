@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin · Access Control</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@600;700&family=Mulish:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --primary:#1E3B29;
+    --accent:#2f8f52;
+    --bg:#1B1B1D;
+    --panel:#242526;
+    --fg:#F2F2F2;
+    --muted:#9A9A9C;
+    --line:rgba(242,242,242,0.1);
+    --danger:#c0473f;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    font-family:'Mulish',sans-serif;
+    background:var(--bg);
+    color:var(--fg);
+    padding:40px 24px;
+  }
+  .wrap{ max-width:760px; margin:0 auto; }
+  h1{
+    font-family:'Maven Pro',sans-serif;
+    font-size:22px;
+    margin:0 0 4px;
+  }
+  p.sub{ color:var(--muted); font-size:14px; margin:0 0 28px; }
+
+  .panel{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:20px;
+    margin-bottom:24px;
+  }
+
+  form{ display:flex; gap:8px; flex-wrap:wrap; }
+  input{
+    flex:1; min-width:140px;
+    background:var(--bg);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:10px 12px;
+    color:var(--fg);
+    font-family:'Mulish',sans-serif;
+    font-size:14px;
+  }
+  label.chk{
+    display:flex; align-items:center; gap:6px;
+    font-size:13px; color:var(--muted);
+    padding:0 6px;
+  }
+  button{
+    background:var(--primary);
+    color:#fff;
+    border:none;
+    border-radius:6px;
+    padding:10px 18px;
+    font-family:'Mulish',sans-serif;
+    font-weight:600;
+    font-size:14px;
+    cursor:pointer;
+  }
+  button:hover{ background:var(--accent); }
+
+  table{ width:100%; border-collapse:collapse; font-size:14px; }
+  th,td{ text-align:left; padding:10px 8px; border-bottom:1px solid var(--line); }
+  th{ color:var(--muted); font-weight:600; font-size:12px; text-transform:uppercase; letter-spacing:.04em; }
+  .badge{
+    font-size:11px; padding:2px 8px; border-radius:999px;
+    background:var(--accent); color:#fff;
+  }
+  .remove-btn{
+    background:transparent; border:1px solid var(--danger); color:var(--danger);
+    padding:5px 10px; font-size:12px;
+  }
+  .remove-btn:hover{ background:var(--danger); color:#fff; }
+  #status{ font-size:13px; margin-top:10px; color:var(--muted); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Access Control</h1>
+    <p class="sub">Add or remove VATSIM CIDs allowed to access the documentation.</p>
+
+    <div class="panel">
+      <form id="add-form">
+        <input type="text" id="cid" placeholder="VATSIM CID" required>
+        <input type="text" id="name" placeholder="Name (optional)">
+        <label class="chk"><input type="checkbox" id="is_admin"> Admin</label>
+        <button type="submit">Add</button>
+      </form>
+      <div id="status"></div>
+    </div>
+
+    <div class="panel">
+      <table>
+        <thead>
+          <tr><th>CID</th><th>Name</th><th>Role</th><th></th></tr>
+        </thead>
+        <tbody id="user-rows"></tbody>
+      </table>
+    </div>
+  </div>
+
+<script>
+async function loadUsers(){
+  const res = await fetch('/admin/api/users');
+  const users = await res.json();
+  const rows = document.getElementById('user-rows');
+  rows.innerHTML = '';
+  users.forEach(u => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${u.cid}</td>
+      <td>${u.name || '—'}</td>
+      <td>${u.is_admin ? '<span class="badge">Admin</span>' : ''}</td>
+      <td><button class="remove-btn" data-cid="${u.cid}">Remove</button></td>
+    `;
+    rows.appendChild(tr);
+  });
+
+  document.querySelectorAll('.remove-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      if (!confirm(`Remove CID ${btn.dataset.cid}?`)) return;
+      await fetch('/admin/api/users/' + btn.dataset.cid, { method: 'DELETE' });
+      loadUsers();
+    });
+  });
+}
+
+document.getElementById('add-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const cid = document.getElementById('cid').value.trim();
+  const name = document.getElementById('name').value.trim();
+  const is_admin = document.getElementById('is_admin').checked;
+  const status = document.getElementById('status');
+
+  const res = await fetch('/admin/api/users', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ cid, name, is_admin })
+  });
+  const data = await res.json();
+
+  if (res.ok) {
+    status.textContent = `Added ${cid}`;
+    e.target.reset();
+    loadUsers();
+  } else {
+    status.textContent = 'Error: ' + data.error;
+  }
+});
+
+loadUsers();
+</script>
+</body>
+</html>
