@@ -75,9 +75,9 @@ This is the default type of push-back which will normally have the aircraft stop
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 403, request pushback.
+> **Pilot:** _SVA1043, Stand 403, request pushback._
 
-> **GMP:** SVA123, Push & Start Approved, Face South on E.
+> **GMC:** _SVA1043, Push & Start Approved, Face South on E._
 
 !!! tip "Be helpful!"
     If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
@@ -87,28 +87,28 @@ A short pushback instruction shall require the aircraft to complete the pushback
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 403, requesting pushback.
+> **Pilot:** _SVA1043, Stand 403, requesting pushback._
 
-> **GMP:** SVA123, Short Pushback Approved, Face East.
+> **GMC:** _SVA1043, Short Pushback Approved, Face East._
 
 ##### 3.1.1.3 Long Push-back
 A long pushback instruction shall require aircraft to complete the pushback operation more then two stands away from where the pushback was commenced. This manoeuvre may be used when an aircraft is vacating a stand to be used by another aircraft that is taxing in.
 
 ***Phrasesolgy:*** 
 
-> **Pilot:** SVA123, Stand 403, request pushback.
+> **Pilot:** _SVA1043, Stand 403, request pushback._
 
-> **GMP:** SVA123, Long Pushback Approved, Face South on E.
+> **GMC:** _SVA1043, Long Pushback Approved, Face South on E._
 
 !!! info "Be Specific!"
 
     If you desire to provide precise instructions regarding the end point of the pushback, you can use the following phraseology to instruct the aircraft to halt at a specific position:
 
-    > **GMP:** SVA123, Long Pushback Approved, Face South on E, Finish Abeam stand XX.
+    > **GMC:** _SVA1043, Long Pushback Approved, Face South on E, Finish Abeam stand XX._
 
     *or if you wish the aircraft keeps a taxiway clear*
 
-    > **GMP:** SVA123, Long Pushback Approved, Face South on E, Stay Clear of Taxiway XX.
+    > **GMC:** _SVA1043, Long Pushback Approved, Face South on E, Stay Clear of Taxiway XX._
 
 ##### 3.1.1.4 Conditional Push-back
 
@@ -116,16 +116,16 @@ In certain situations, conditional pushback instructions may be given when there
 
 An example of such an instruction is as follows:
 
-> **Pilot:** SVA123, Stand 403, request pushback.
+> **Pilot:** _SVA1043, Stand 403, request pushback._
 
-> **GMP:** SVA123, Behind the Qatari B777 passing from your right to left, push & start approved, face south on E. Behind.
+> **GMC:** _SVA1043, Behind the Qatari B777 passing from your right to left, push & start approved, face south on E. Behind._
 
 !!! info "Airline"
     When giving the clearance, the "airline" should be mentioned and not "callsign". 
 
     For example:
 
-    > **GMP:** SVA123, Behind the **Britsh Airways** (~~Speedbird~~) B777 passing from your right to left, push & start approved, face south on E. Behind.
+    > **GMC:** _SVA1043, Behind the **Britsh Airways** (~~Speedbird~~) B777 passing from your right to left, push & start approved, face south on E. Behind._
 
     ---
 
@@ -136,7 +136,7 @@ An example of such an instruction is as follows:
 
 Aircraft can also be instructed to stay clear of a specific taxiway, to allow for continous flow of traffic
 
-> **GMP:** SVA123, Push & start approved, face south on E, stay clear of taxiway S.
+> **GMC:** _SVA1043, Push & start approved, face south on E, stay clear of taxiway S._
 
 ##### 3.1.1.5 Simultaneous pushback operations
 Simultaneous pushbacks from neighboring stands may be allowed if aircraft are directed using the pushback types described in section 3.1. The aim is to ensure that once both aircraft have completed their pushback procedures, they will be positioned on the taxiway with one stand between them.
