@@ -269,7 +269,7 @@ AIR may use a tactical reduction in aircraft speed in order to ensure minimum se
 > **AIR:** *SVA1043, reduce to final approach speed.*
 
 ##### 4.2.3.3. Wake turbulence separation minima
-Standard ICAO Separation is enforce in the Jeddah CTR.
+Standard ICAO Separation is enforce in the Riyadh CTR.
 
 #### 4.2.4. Go around procedure
 
@@ -279,7 +279,7 @@ At any time should a runway become unsuitable for an aircraft landing, or separa
 
 Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to departure control.
 
-Example: *“SVA1043, fly standard missed approach procedure, climb 4000 feet, contact Jeddah Approach 124.0”*
+Example: *“SVA1043, fly standard missed approach procedure, climb 6000 feet, contact Riyadh Approach 120.0”*
 
 !!! info "Go around vs cancel approach"
 
@@ -288,7 +288,7 @@ Example: *“SVA1043, fly standard missed approach procedure, climb 4000 feet, c
 ---
 ###  4.3 VFR procedures
 !!! caution "Do note." 
-    VFR is only allowed at daytime. Night VFR is not permitted in the Jeddah Control Zone.
+    VFR is only allowed at daytime. Night VFR is not permitted in the Riyadh Control Zone.
 
 
 #### 4.3.1. Visual Reporting Points (VRPs)
@@ -336,7 +336,7 @@ Table 4.2.3 - Riyadh VRPs
     The Saudi Arabian vACC is working to release a pilot briefing document for VFR.
 
 ##### 4.3.1.1 Entry/Exit VRPs into the CTR
-According to the eAIP traffic must only enter/exit the Jeddah Control Zone via the following VRPs:
+According to the eAIP traffic must only enter/exit the Riyadh Control Zone via the following VRPs:
 - WG
 - L
 
@@ -348,7 +348,7 @@ Clearance to enter the control zone is issued by APP.
 
 #### 4.3.2. VFR departures
 
-Any VFR aircraft leaving the control zone at Jeddah is considered to be engaging in cross-country VFR flight.
+Any VFR aircraft leaving the control zone at Riyadh is considered to be engaging in cross-country VFR flight.
 
 Coordination between the AIR and APP is required.
 
