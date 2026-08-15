@@ -276,14 +276,6 @@ Table 3.2.5.3 - 33s Single Arrival Runway Operations Arrival Taxi Procedures
 ![Loading](imgs/blue.png)
 ###### Arrivals Flow
 ![Loading](imgs/yellow.png)
-###### Bidirectional Flow
-![Loading](imgs/org.png)
-###### One-way Flow
-![Loading](imgs/grn.png)
-###### Hand-off Line
-![Loading](imgs/hof.png)
-###### Intermediate Holding Point
-![Loading](imgs/ihp.png)
 
 ##### 3.2.6.2 33 Dual Arrival Runway Operations (33s DARO) Config
 ###### 3.2.6.2.1 Departures/Arrival Flow
