@@ -54,6 +54,7 @@ extra_css:
   - assets/stylesheets/profile-widget.css
 extra_javascript:
   - assets/stylesheets/home.js
+  - assets/admin-nav.js
 markdown_extensions:
   - abbr
   - attr_list

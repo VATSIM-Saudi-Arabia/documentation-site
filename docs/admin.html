@@ -83,11 +83,32 @@
   }
   .remove-btn:hover{ background:var(--danger); color:#fff; }
   #status{ font-size:13px; margin-top:10px; color:var(--muted); }
+
+  .topbar{
+    display:flex; justify-content:space-between; align-items:center;
+    margin-bottom:20px;
+  }
+  .topbar .links{ display:flex; gap:10px; }
+  .topbar a{
+    font-size:13px;
+    color:var(--muted);
+    text-decoration:none;
+    border:1px solid var(--line);
+    padding:6px 12px;
+    border-radius:6px;
+  }
+  .topbar a:hover{ color:var(--fg); border-color:var(--fg); }
 </style>
 </head>
 <body>
   <div class="wrap">
-    <h1>Access Control</h1>
+    <div class="topbar">
+      <h1 style="margin:0;">Access Control</h1>
+      <div class="links">
+        <a href="/">← Back to site</a>
+        <a href="/logout">Log out</a>
+      </div>
+    </div>
     <p class="sub">Add or remove VATSIM CIDs allowed to access the documentation.</p>
 
     <div class="panel">
@@ -130,7 +151,14 @@ async function loadUsers(){
   document.querySelectorAll('.remove-btn').forEach(btn => {
     btn.addEventListener('click', async () => {
       if (!confirm(`Remove CID ${btn.dataset.cid}?`)) return;
-      await fetch('/admin/api/users/' + btn.dataset.cid, { method: 'DELETE' });
+      const res = await fetch('/admin/api/users/' + btn.dataset.cid, { method: 'DELETE' });
+      const data = await res.json();
+      const status = document.getElementById('status');
+      if (res.ok) {
+        status.textContent = `Removed ${btn.dataset.cid}`;
+      } else {
+        status.textContent = 'Error removing user: ' + data.error;
+      }
       loadUsers();
     });
   });
