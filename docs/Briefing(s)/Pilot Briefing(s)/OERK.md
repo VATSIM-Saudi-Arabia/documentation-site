@@ -210,7 +210,7 @@ Controller may assign different taxi routes or holding points depending on traff
 #### 4.2.1 Taxi Flow
 The diagrams below illustrate the standard taxi routes in use. These routes may be modified by ATC to accommodate operational reasons or traffic conditions. In all cases, pilots shall follow ATC instructions if they differ from the published taxi routing.
 
-![Loading](imgs/32daro.png)
+![Loading](imgs/33daro.png)
 <p style="text-align: center; font-style: italic;">
 Table 4.2.1 Dual Arrival Runway Operations (33s DARO) Config
 </p>
