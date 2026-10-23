@@ -18,7 +18,7 @@ The airport is one of the busiest in the country and features a modern terminal 
 
 | **Airport ICAO** |             Airport Name             | Airport Coordinates  |      Airport Runways      | Airport Elevation |
 | :--------------: | :----------------------------------: | :------------------: | :-----------------------: | :---------------: |
-|       OERK       | King Khalid International Airport    | 24.9606°N, 46.6998°E | 15L/33R, 15R/33L          |   1,773 feet AMSL |
+|       OERK       | King Khalid International Airport    | 24.9606°N, 46.6998°E | 15L/33R, 15R/33L          |   2053 feet AMSL |
 
 ## Runways
 
@@ -28,19 +28,19 @@ The airport is one of the busiest in the country and features a modern terminal 
 
 | Runway  | Dimensions (m) | True Bearing | Elevation | Slope  |
 | :-----: | :------------: | :----------: | :-------: | :----: |
-| **15L** |   4000 x 60    |    150.00    |   1,700   |  0.0%  |
-| **33R** |   4000 x 60    |    330.00    |   1,700   |  0.0%  |
-| **15R** |   3600 x 60    |    150.00    |   1,750   |  0.0%  |
-| **33L** |   3600 x 60    |    330.00    |   1,750   |  0.0%  |
+| **15L** |   4205 x 60    |    150.00    |   2,036   |  0.0%  |
+| **33R** |   4205 x 60    |    330.00    |   2,015   |  0.0%  |
+| **15R** |   4205 x 60    |    150.00    |   2,052   |  0.0%  |
+| **33L** |   4205 x 60    |    330.00    |   2,036   |  0.0%  |
 
 ### Declared Distances
 
 | **Runway** | **TORA (M)** | **TODA (M)** | **ASDA (M)** | **LDA (M)** |
 | :--------: | :----------: | :----------: | :----------: | :---------: |
-|  **15L**   |     4000     |     4000     |     4000     |    4000     |
-|  **33R**   |     4000     |     4000     |     4000     |    4000     |
-|  **15R**   |     3600     |     3600     |     3600     |    3600     |
-|  **33L**   |     3600     |     3600     |     3600     |    3600     |
+|  **15L**   |     4205     |     4205     |     4205     |    4205     |
+|  **33R**   |     4205     |     4205     |     4205     |    4205     |
+|  **15R**   |     4205     |     4205     |     4205     |    4205     |
+|  **33L**   |     4205     |     4205     |     4205     |    4205     |
 
 ## Air Traffic Services
 
@@ -168,7 +168,7 @@ If you failed to pushback/start up within +5 minutes after TSAT
 Departure clearances are issued in an abbreviated format and typically include only the assigned **SID**, departure **runway**, **initial climb altitude**, and **transponder (squawk) code**. Before requesting or accepting your clearance, ensure you have obtained the latest **Departure ATIS** information.
 
 !!! Example
-    > **Pilot:** _SVA1024, Stand A10L, A320, requesting IFR clearance to Dammam_
+    > **Pilot:** _SVA1024, Stand 405, A320, requesting IFR clearance to Dammam_
 
     > **Controller:** _SVA1024, Cleared Dammam as filed, ORNIP1D Departure, Runway 33R, Initial Climb 8000ft, SQWK XXXX_
 
