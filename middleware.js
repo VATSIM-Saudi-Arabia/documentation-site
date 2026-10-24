@@ -112,6 +112,7 @@ async function handleCallback(req, url) {
     const profileCookie = await createProfileCookie({
       cid,
       displayName: getDisplayName(userData),
+      isAdmin: !!allowedUser[0].is_admin,
       exp: Date.now() + SESSION_HOURS * 60 * 60 * 1000
     });
 
@@ -210,10 +211,13 @@ async function adminUsersApi(req) {
   if (req.method === 'POST') {
     const body = await req.json();
     if (!body.cid) return Response.json({ error: 'cid is required' }, { status: 400 });
-    await supabaseFetch('allowed_users', {
+    const result = await supabaseFetch('allowed_users', {
       method: 'POST',
       body: JSON.stringify({ cid: String(body.cid), name: body.name || null, is_admin: !!body.is_admin })
     });
+    if (result && result.__error) {
+      return Response.json({ error: `Supabase error ${result.status}: ${result.body}` }, { status: 500 });
+    }
     return Response.json({ success: true });
   }
   return new Response('Method not allowed', { status: 405 });
@@ -222,6 +226,10 @@ async function adminUsersApi(req) {
 async function adminDeleteApi(req, url) {
   if (req.method !== 'DELETE') return new Response('Method not allowed', { status: 405 });
   const cid = url.pathname.split('/').pop();
-  await supabaseFetch(`allowed_users?cid=eq.${cid}`, { method: 'DELETE' });
+  const result = await supabaseFetch(`allowed_users?cid=eq.${cid}`, { method: 'DELETE' });
+
+  if (result && result.__error) {
+    return Response.json({ error: `Supabase error ${result.status}: ${result.body}. Contact an admin for immediate removal` }, { status: 500 });
+  }
   return Response.json({ success: true });
 }
